@@ -1,0 +1,5 @@
+文件名    = cn_windows_8.1_with_update_x86_dvd_6051523.iso
+SHA1      = ABBF814846C425C88910B011BC9D3D3C77932056
+文件大小  = 3.12GB
+发布时间  = 2014-12-15
+下载链接  = ed2k://|file|cn_windows_8.1_with_update_x86_dvd_6051523.iso|3349960704|C1B8A61BD8F1300825BF03C4D31B35A0|/

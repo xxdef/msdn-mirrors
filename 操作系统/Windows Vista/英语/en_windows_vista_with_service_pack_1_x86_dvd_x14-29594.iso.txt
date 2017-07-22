@@ -1,0 +1,5 @@
+文件名    = en_windows_vista_with_service_pack_1_x86_dvd_x14-29594.iso
+SHA1      = BCD715A02739809E477C726AE4B5CAA914156429
+文件大小  = 2.87GB
+发布时间  = 2008-02-25
+下载链接  = ed2k://|file|en_windows_vista_with_service_pack_1_x86_dvd_x14-29594.iso|3086147584|76DF54A058479AF68B01D00AFC96D76E|/

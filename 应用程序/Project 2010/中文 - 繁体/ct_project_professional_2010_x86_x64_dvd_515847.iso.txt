@@ -1,0 +1,5 @@
+文件名    = ct_project_professional_2010_x86_x64_dvd_515847.iso
+SHA1      = 89E86FD4652D7F22B8173DCB79C0D7C8087A8553
+文件大小  = 877.53MB
+发布时间  = 2010-05-18
+下载链接  = ed2k://|file|ct_project_professional_2010_x86_x64_dvd_515847.iso|920154112|A9A891767D126E13A09139A4F08DD313|/

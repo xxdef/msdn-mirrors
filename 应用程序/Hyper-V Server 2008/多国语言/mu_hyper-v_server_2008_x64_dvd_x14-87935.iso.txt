@@ -1,0 +1,5 @@
+文件名    = mu_hyper-v_server_2008_x64_dvd_x14-87935.iso
+SHA1      = 777FE21B66A636B5D9FB66AE7C0C42FFB638996A
+文件大小  = 1.1GB
+发布时间  = 2008-09-30
+下载链接  = ed2k://|file|mu_hyper-v_server_2008_x64_dvd_x14-87935.iso|1176301568|20BDCC119B12E30D5A6C9D2350D6A339|/

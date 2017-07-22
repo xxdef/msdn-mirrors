@@ -1,0 +1,5 @@
+文件名    = cn_.net_fx_4.6.2_preview_lp_for_win_7sp1_8dot1_10_win_server_2008r2sp1_2012_2012r2_x86_x64_8481503.exe
+SHA1      = BB359FFF35655E44532B3F4241A78A9B0A055C3F
+文件大小  = 5.14MB
+发布时间  = 2016-03-30
+下载链接  = ed2k://|file|cn_.net_fx_4.6.2_preview_lp_for_win_7sp1_8dot1_10_win_server_2008r2sp1_2012_2012r2_x86_x64_8481503.exe|5391184|05F483C8A43F3ADEB0423F6F35FFE0F3|/

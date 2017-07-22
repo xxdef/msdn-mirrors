@@ -1,0 +1,5 @@
+文件名    = ct_visual_studio_2010_professional_x86_dvd_532198.iso
+SHA1      = 8A1A2A9A5CFAC0555571FA2A4555669B4F267B8C
+文件大小  = 2.42GB
+发布时间  = 2010-05-26
+下载链接  = ed2k://|file|ct_visual_studio_2010_professional_x86_dvd_532198.iso|2597666816|B10D2F348BC54DF16CCF17CD8E42B61D|/

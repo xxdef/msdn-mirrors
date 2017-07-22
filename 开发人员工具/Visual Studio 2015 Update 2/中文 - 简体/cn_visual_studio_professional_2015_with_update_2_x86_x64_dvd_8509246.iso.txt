@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_professional_2015_with_update_2_x86_x64_dvd_8509246.iso
+SHA1      = C90A6703F676E3265483F4ED8E7C01F01194E647
+文件大小  = 7.07GB
+发布时间  = 2016-03-30
+下载链接  = ed2k://|file|cn_visual_studio_professional_2015_with_update_2_x86_x64_dvd_8509246.iso|7591639040|AE734B5731B7DD489102A1101BE4595B|/

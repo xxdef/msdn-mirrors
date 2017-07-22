@@ -1,0 +1,5 @@
+文件名    = it_office_professional_plus_2010_x86_516138.exe
+SHA1      = FF5A6ED3712766FEB130BF8187F01C42ACA590CD
+文件大小  = 645.08MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|it_office_professional_plus_2010_x86_516138.exe|676413576|240ED9F685A23E79E83CA3F9187C128E|/

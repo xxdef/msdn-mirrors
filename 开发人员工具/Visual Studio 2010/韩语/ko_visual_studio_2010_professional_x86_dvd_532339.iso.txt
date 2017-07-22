@@ -1,0 +1,5 @@
+文件名    = ko_visual_studio_2010_professional_x86_dvd_532339.iso
+SHA1      = A147116A0C22FD2712E14BB1C29B248D4F6C69D7
+文件大小  = 2.39GB
+发布时间  = 2010-05-26
+下载链接  = ed2k://|file|ko_visual_studio_2010_professional_x86_dvd_532339.iso|2569596928|AFB02627EF85401E871FBC17276DDFC6|/

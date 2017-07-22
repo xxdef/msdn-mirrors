@@ -1,0 +1,5 @@
+文件名    = cn_msdn_library_for_visual_studio_2008_service_pack_1_x86_dvd_x15-30343.iso
+SHA1      = 42C0C0F9C63D2A1ECD699EE8FE52E8BDC8D95B22
+文件大小  = 2.37GB
+发布时间  = 2009-01-14
+下载链接  = ed2k://|file|cn_msdn_library_for_visual_studio_2008_service_pack_1_x86_dvd_x15-30343.iso|2547886080|9139495015368A525A598F372E5FC0C6|/

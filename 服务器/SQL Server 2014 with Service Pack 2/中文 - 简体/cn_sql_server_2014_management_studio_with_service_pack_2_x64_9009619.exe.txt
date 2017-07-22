@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2014_management_studio_with_service_pack_2_x64_9009619.exe
+SHA1      = 2A3CD05A05BF2BF9E766B3826C8A19DDA998AB6A
+文件大小  = 903.1MB
+发布时间  = 2016-07-14
+下载链接  = ed2k://|file|cn_sql_server_2014_management_studio_with_service_pack_2_x64_9009619.exe|946974144|162C7C7D964917E841669705E4DAD703|/

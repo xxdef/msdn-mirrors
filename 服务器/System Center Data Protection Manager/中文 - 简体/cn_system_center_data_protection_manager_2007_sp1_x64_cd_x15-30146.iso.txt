@@ -1,0 +1,5 @@
+文件名    = cn_system_center_data_protection_manager_2007_sp1_x64_cd_x15-30146.iso
+SHA1      = 522C0C093A90FAAFB8318F9FC1FCAFF570FC0F61
+文件大小  = 273.21MB
+发布时间  = 2009-03-25
+下载链接  = ed2k://|file|cn_system_center_data_protection_manager_2007_sp1_x64_cd_x15-30146.iso|286476288|3B738EFC2E2D72D52F9FEDE1A815C4EA|/

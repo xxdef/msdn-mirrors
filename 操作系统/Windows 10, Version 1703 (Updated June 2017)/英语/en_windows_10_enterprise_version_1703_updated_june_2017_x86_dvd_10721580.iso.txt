@@ -1,0 +1,5 @@
+文件名    = en_windows_10_enterprise_version_1703_updated_june_2017_x86_dvd_10721580.iso
+SHA1      = AB02DD0769762F2F452165A556A45741F7858E0B
+文件大小  = 3.25GB
+发布时间  = 2017-06-23
+下载链接  = ed2k://|file|en_windows_10_enterprise_version_1703_updated_june_2017_x86_dvd_10721580.iso|3487541248|F379221E10276F020E0436871571AC03|/

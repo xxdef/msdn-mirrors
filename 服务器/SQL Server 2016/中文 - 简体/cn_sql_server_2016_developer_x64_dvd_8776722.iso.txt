@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2016_developer_x64_dvd_8776722.iso
+SHA1      = 6DF281E15CC18F2D0D257DC02884A12BEB8A92B9
+文件大小  = 2.28GB
+发布时间  = 2016-06-01
+下载链接  = ed2k://|file|cn_sql_server_2016_developer_x64_dvd_8776722.iso|2452795392|EF6BAADFBCC9C647180B0F93FD0186D0|/

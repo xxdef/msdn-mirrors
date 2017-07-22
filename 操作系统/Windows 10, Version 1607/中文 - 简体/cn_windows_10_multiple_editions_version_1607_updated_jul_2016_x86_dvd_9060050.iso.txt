@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_multiple_editions_version_1607_updated_jul_2016_x86_dvd_9060050.iso
+SHA1      = EAF7394A25A69E94AD2D3D1D9FBC0007D1DFF720
+文件大小  = 3.05GB
+发布时间  = 2016-08-02
+下载链接  = ed2k://|file|cn_windows_10_multiple_editions_version_1607_updated_jul_2016_x86_dvd_9060050.iso|3275581440|006F76229DB61ADA1D8E49DD4A6A0A5D|/

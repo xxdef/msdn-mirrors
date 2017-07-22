@@ -1,0 +1,5 @@
+文件名    = tw_windows_8_1_enterprise_x64_dvd_2791029.iso
+SHA1      = 5F47A23D4B34D4E127B837545A36BF9FE9B66A9D
+文件大小  = 3.68GB
+发布时间  = 2013-09-18
+下载链接  = ed2k://|file|tw_windows_8_1_enterprise_x64_dvd_2791029.iso|3951333376|17F04B4B47D3D896E5B3EA37C588303D|/

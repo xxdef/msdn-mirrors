@@ -1,0 +1,5 @@
+文件名    = en_rre_for_windows_x64_8183330.zip
+SHA1      = 7316D45871DE0EA45BB51DFD1CC209607801A48A
+文件大小  = 656.19MB
+发布时间  = 2016-01-04
+下载链接  = ed2k://|file|en_rre_for_windows_x64_8183330.zip|688067662|28B4EB5F564907DEF403CE44B7E3A477|/

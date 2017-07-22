@@ -1,0 +1,5 @@
+文件名    = cn_repair_disc_windows_small_business_server_2011_standard_x64_dvd_612292.iso
+SHA1      = 74ACA54F028289A98DE3A4C640F8AD17B3C72520
+文件大小  = 2.54GB
+发布时间  = 2011-07-29
+下载链接  = ed2k://|file|cn_repair_disc_windows_small_business_server_2011_standard_x64_dvd_612292.iso|2727114752|761B703B285972A4562430D4C6FC830F|/

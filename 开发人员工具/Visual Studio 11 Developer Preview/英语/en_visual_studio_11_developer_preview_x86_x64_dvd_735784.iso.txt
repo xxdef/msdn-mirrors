@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_11_developer_preview_x86_x64_dvd_735784.iso
+SHA1      = A178053EE81F05ED02F4B8B5856B7219F55EB47E
+文件大小  = 1.95GB
+发布时间  = 2011-09-14
+下载链接  = ed2k://|file|en_visual_studio_11_developer_preview_x86_x64_dvd_735784.iso|2094348288|B250CFE0049722F08C08C8E697D33D37|/

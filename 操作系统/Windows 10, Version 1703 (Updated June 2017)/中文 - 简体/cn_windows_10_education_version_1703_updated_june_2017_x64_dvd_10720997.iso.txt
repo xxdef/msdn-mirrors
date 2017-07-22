@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_education_version_1703_updated_june_2017_x64_dvd_10720997.iso
+SHA1      = 92A5991581C3759B5F1751FCA96E028927C84AAC
+文件大小  = 4.6GB
+发布时间  = 2017-06-23
+下载链接  = ed2k://|file|cn_windows_10_education_version_1703_updated_june_2017_x64_dvd_10720997.iso|4943917056|EC41C7986E39B42C028B680A0F139278|/

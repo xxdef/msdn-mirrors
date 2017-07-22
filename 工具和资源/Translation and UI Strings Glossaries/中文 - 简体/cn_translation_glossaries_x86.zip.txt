@@ -1,0 +1,5 @@
+文件名    = cn_translation_glossaries_x86.zip
+SHA1      = D65D6666102C9D669EB10BBA4C7DE6E29C7A706E
+文件大小  = 68.06MB
+发布时间  = 2008-09-29
+下载链接  = ed2k://|file|cn_translation_glossaries_x86.zip|71362754|CEEF4FFFC53724D3102DF388E0F953DA|/

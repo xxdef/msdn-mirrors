@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_professional_x64_dvd_x15-65793.iso
+SHA1      = B46E4DB2830488F8FCC762EE2DFD997C9FDB08F1
+文件大小  = 3.09GB
+发布时间  = 2009-08-21
+下载链接  = ed2k://|file|tw_windows_7_professional_x64_dvd_x15-65793.iso|3317223424|3F32F82D50BE93B60E51E195E89E44C9|/

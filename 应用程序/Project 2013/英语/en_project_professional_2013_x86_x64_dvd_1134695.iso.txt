@@ -1,0 +1,5 @@
+文件名    = en_project_professional_2013_x86_x64_dvd_1134695.iso
+SHA1      = 17E848B8D1F3246E2FBD86A2F3EEC4537D67B9C5
+文件大小  = 662.32MB
+发布时间  = 2012-10-25
+下载链接  = ed2k://|file|en_project_professional_2013_x86_x64_dvd_1134695.iso|694493184|09EEC8F5FE41ABDC5B784EE3BD260CC8|/

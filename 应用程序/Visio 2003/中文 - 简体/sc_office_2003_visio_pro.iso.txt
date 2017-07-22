@@ -1,0 +1,5 @@
+文件名    = sc_office_2003_visio_pro.iso
+SHA1      = F0237A098B024F429B40499B4304E20D81968919
+文件大小  = 348.76MB
+发布时间  = 2003-10-23
+下载链接  = ed2k://|file|sc_office_2003_visio_pro.iso|365697024|1DFA2EBA79C35BD4AE6BA82838352406|/

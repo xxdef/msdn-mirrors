@@ -1,0 +1,5 @@
+文件名    = en_windows_vista_business_sp2_x86_dvd_342321.iso
+SHA1      = 98C2FE41181C140F4CC8ED6245F5C788D4E21350
+文件大小  = 2.26GB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|en_windows_vista_business_sp2_x86_dvd_342321.iso|2424670208|EB5146383B9DA922FA849773077D8677|/

@@ -1,0 +1,5 @@
+文件名    = en_office_communications_server_2007_r2_standard_enterprise_editions_x64_dvd_302459.iso
+SHA1      = E4C5ED3C5E4C5BA34D4261D95456DBD59BE6DD5E
+文件大小  = 904.99MB
+发布时间  = 2009-02-03
+下载链接  = ed2k://|file|en_office_communications_server_2007_r2_standard_enterprise_editions_x64_dvd_302459.iso|948951040|82926AEE1BACE123E4151C20FFCCE4F2|/

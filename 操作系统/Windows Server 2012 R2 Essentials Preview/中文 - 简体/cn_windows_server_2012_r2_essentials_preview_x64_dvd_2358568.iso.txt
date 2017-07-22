@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2012_r2_essentials_preview_x64_dvd_2358568.iso
+SHA1      = C6BBD777F78619C79399A0BBDAF759DAEDA37038
+文件大小  = 3.77GB
+发布时间  = 2013-06-25
+下载链接  = ed2k://|file|cn_windows_server_2012_r2_essentials_preview_x64_dvd_2358568.iso|4052500480|C4DC42B9166195EE8F7E693B7A12FE3A|/

@@ -1,0 +1,5 @@
+文件名    = ct_office_professional_plus_2010_x86_x64_dvd_515514.iso
+SHA1      = 3518A91D96BF601EC8869B4066DBD4478305D8F0
+文件大小  = 1.7GB
+发布时间  = 2010-05-18
+下载链接  = ed2k://|file|ct_office_professional_plus_2010_x86_x64_dvd_515514.iso|1825425408|874E96414C29B50D8A54A51EDC66F2BF|/

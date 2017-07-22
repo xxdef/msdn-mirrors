@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_2010_professional_x86_dvd_532145.iso
+SHA1      = 33D323446131AB9565082D65C9C380BBD7FF228F
+文件大小  = 2.41GB
+发布时间  = 2010-05-26
+下载链接  = ed2k://|file|cn_visual_studio_2010_professional_x86_dvd_532145.iso|2591844352|6001253431AFE573E4344F5A0B1D9CAC|/

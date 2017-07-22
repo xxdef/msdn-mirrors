@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2016_rc_0_x64_dvd_8407872.iso
+SHA1      = EE6C4B8E0A026F65EA1EE3BB48EF4435394794E9
+文件大小  = 3.04GB
+发布时间  = 2016-03-08
+下载链接  = ed2k://|file|cn_sql_server_2016_rc_0_x64_dvd_8407872.iso|3265734656|ABDD80B0ECCD522A717F72B7C7608D4E|/

@@ -1,0 +1,5 @@
+文件名    = cn_remote_tools_for_visual_studio_2015_with_update_1_arm_7288168.exe
+SHA1      = 59D2020808EE49380B45117270169EFCD96AEC3B
+文件大小  = 21.66MB
+发布时间  = 2015-11-30
+下载链接  = ed2k://|file|cn_remote_tools_for_visual_studio_2015_with_update_1_arm_7288168.exe|22716264|97E66943779A3DB4F9647BFFB6E411F0|/

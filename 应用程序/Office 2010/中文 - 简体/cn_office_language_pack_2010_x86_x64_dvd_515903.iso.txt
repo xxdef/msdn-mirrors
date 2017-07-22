@@ -1,0 +1,5 @@
+文件名    = cn_office_language_pack_2010_x86_x64_dvd_515903.iso
+SHA1      = AD1FB3821FE4FCBF1C43246A52B5AF1FA3CAB9F9
+文件大小  = 1.18GB
+发布时间  = 2011-07-19
+下载链接  = ed2k://|file|cn_office_language_pack_2010_x86_x64_dvd_515903.iso|1271638016|61EAE729EFC3AC4A9A4EDE588564A7CE|/

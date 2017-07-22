@@ -1,0 +1,5 @@
+文件名    = ko_windows_10_enterprise_2016_ltsb_x86_dvd_9058162.iso
+SHA1      = CF78038329850D24E5643547E9C07A235B5154D5
+文件大小  = 2.42GB
+发布时间  = 2016-08-11
+下载链接  = ed2k://|file|ko_windows_10_enterprise_2016_ltsb_x86_dvd_9058162.iso|2601588736|AC6A5FA4BA97D4AC240A645878334E00|/

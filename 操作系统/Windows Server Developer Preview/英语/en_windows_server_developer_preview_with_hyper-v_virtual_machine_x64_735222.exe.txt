@@ -1,0 +1,5 @@
+文件名    = en_windows_server_developer_preview_with_hyper-v_virtual_machine_x64_735222.exe
+SHA1      = 1D32FB3087CA5480731E32A63362498FD9B39431
+文件大小  = 2.07GB
+发布时间  = 2011-09-13
+下载链接  = ed2k://|file|en_windows_server_developer_preview_with_hyper-v_virtual_machine_x64_735222.exe|2225172556|51A3F8FF10D3F591861268C4A992DAB3|/

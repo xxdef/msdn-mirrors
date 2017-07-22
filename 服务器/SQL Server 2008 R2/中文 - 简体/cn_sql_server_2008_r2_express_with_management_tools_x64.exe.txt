@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2008_r2_express_with_management_tools_x64.exe
+SHA1      = 2120A6A60F9DBB94AEBD68F9269375DF57C4E6B9
+文件大小  = 278.87MB
+发布时间  = 2010-06-29
+下载链接  = ed2k://|file|cn_sql_server_2008_r2_express_with_management_tools_x64.exe|292417376|42201B4213BADA9843A50B66DFFE57BA|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_8.1_preview_symbols_debug_checked_x86_2358423.msi
+SHA1      = 2EB96FE4D14A3277E679BD41C5EACC07BC06B70C
+文件大小  = 571MB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|en_windows_8.1_preview_symbols_debug_checked_x86_2358423.msi|598736896|35B9FC644CD6A2BA0D432B8AA2530108|/

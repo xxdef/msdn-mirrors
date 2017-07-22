@@ -1,0 +1,5 @@
+文件名    = de_en_fr_ja_windows_server_2008_multilingual_user_interface_language_pack_ia64_cd_72152.iso
+SHA1      = D288C117EF3E63407C5B993BCE7BDCF4B9909BF8
+文件大小  = 283.76MB
+发布时间  = 2008-02-18
+下载链接  = ed2k://|file|de_en_fr_ja_windows_server_2008_multilingual_user_interface_language_pack_ia64_cd_72152.iso|297547776|C0601E5713E3ED1678D511F06872AD89|/

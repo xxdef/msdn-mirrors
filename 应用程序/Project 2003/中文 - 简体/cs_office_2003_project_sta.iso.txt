@@ -1,0 +1,5 @@
+文件名    = cs_office_2003_project_sta.iso
+SHA1      = F278ADAFDF3364CBC8C290DF94AD079C5E97629E
+文件大小  = 403.43MB
+发布时间  = 2005-10-13
+下载链接  = ed2k://|file|cs_office_2003_project_sta.iso|423024640|B608748C49DF92D5533C0B79A969DD0F|/

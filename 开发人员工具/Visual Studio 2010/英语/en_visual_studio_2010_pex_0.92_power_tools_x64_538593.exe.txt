@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_2010_pex_0.92_power_tools_x64_538593.exe
+SHA1      = 5C05F128548E5FAEEA38E40D53F31D11FBBE0C9A
+文件大小  = 16.4MB
+发布时间  = 2010-06-07
+下载链接  = ed2k://|file|en_visual_studio_2010_pex_0.92_power_tools_x64_538593.exe|17193272|5BEFDF2C6F51C5D53F3E8EAA0944F6AE|/

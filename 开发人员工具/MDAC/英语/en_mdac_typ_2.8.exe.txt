@@ -1,0 +1,5 @@
+文件名    = en_mdac_typ_2.8.exe
+SHA1      = 91BD59F0B02B67F3845105B15A0F3502B9A2216A
+文件大小  = 5.3MB
+发布时间  = 2003-09-09
+下载链接  = ed2k://|file|en_mdac_typ_2.8.exe|5556616|DF746318DCDF50862DA4CA24024138A5|/

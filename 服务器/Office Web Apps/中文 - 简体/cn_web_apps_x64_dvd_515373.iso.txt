@@ -1,0 +1,5 @@
+文件名    = cn_web_apps_x64_dvd_515373.iso
+SHA1      = 9294F8A112BEED5EE3DF41B7844E3B760A4153F3
+文件大小  = 286.06MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|cn_web_apps_x64_dvd_515373.iso|299960320|37A985F3C514DE501C2EE971B4C7F9AD|/

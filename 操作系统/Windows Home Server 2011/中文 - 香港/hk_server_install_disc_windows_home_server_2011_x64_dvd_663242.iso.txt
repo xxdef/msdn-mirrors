@@ -1,0 +1,5 @@
+文件名    = hk_server_install_disc_windows_home_server_2011_x64_dvd_663242.iso
+SHA1      = FED8391310C1F0EF46FE152ADE1AAD99B104180B
+文件大小  = 4.07GB
+发布时间  = 2011-04-05
+下载链接  = ed2k://|file|hk_server_install_disc_windows_home_server_2011_x64_dvd_663242.iso|4375058432|05C5FCC9C2157DC57E6B977C0D77C089|/

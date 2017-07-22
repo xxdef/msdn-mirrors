@@ -1,0 +1,5 @@
+文件名    = en_xna_game_studio_3.1_xnags31_s.exe
+SHA1      = 2AD0064B0F504B51682991042F4C3D12DE3F85F5
+文件大小  = 73.18MB
+发布时间  = 2009-08-25
+下载链接  = ed2k://|file|en_xna_game_studio_3.1_xnags31_s.exe|76729704|612E168D5522A3D6124EB0DE85ED4E8E|/

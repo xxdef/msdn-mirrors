@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_express_2013_preview_for_windows_desktop_x86_dvd_2360553.iso
+SHA1      = 13C19FAA84B21CBCEA852CDDDE55198D83DFC0B9
+文件大小  = 985.33MB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|cn_visual_studio_express_2013_preview_for_windows_desktop_x86_dvd_2360553.iso|1033191424|57F82C092928BB80838BF8CD0A447DC6|/

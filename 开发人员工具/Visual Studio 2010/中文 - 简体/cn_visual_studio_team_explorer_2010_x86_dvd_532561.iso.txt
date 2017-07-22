@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_team_explorer_2010_x86_dvd_532561.iso
+SHA1      = D00F5A88F0249879E7FCCF88E5C993525E93F5DF
+文件大小  = 344.71MB
+发布时间  = 2010-05-26
+下载链接  = ed2k://|file|cn_visual_studio_team_explorer_2010_x86_dvd_532561.iso|361449472|5D77F0D917D1C1E4414ECFE1F8C2B206|/

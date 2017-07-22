@@ -1,0 +1,5 @@
+文件名    = zh-hans_visual_studio_team_system_2008_team_foundation_server_service_pack_1_x86_x64wow.exe
+SHA1      = B4A1C7B66E16C6A2DEB732142FD44EC314421897
+文件大小  = 132.4MB
+发布时间  = 2008-08-10
+下载链接  = ed2k://|file|zh-hans_visual_studio_team_system_2008_team_foundation_server_service_pack_1_x86_x64wow.exe|138829336|1D87119458FCADEA960EBE032212A06C|/

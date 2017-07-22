@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_professional_2015_rc_x86_dvd_6649993.iso
+SHA1      = 75D08AA82F36C856B22DEE2D9EF2A7DCE8F5E709
+文件大小  = 3.74GB
+发布时间  = 2015-04-29
+下载链接  = ed2k://|file|cn_visual_studio_professional_2015_rc_x86_dvd_6649993.iso|4015476736|92141E89AE28E92AD6C8C547DA4FBFA0|/

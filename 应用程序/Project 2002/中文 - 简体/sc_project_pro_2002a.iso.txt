@@ -1,0 +1,5 @@
+文件名    = sc_project_pro_2002a.iso
+SHA1      = 30FA5DD2DC7D98D7E67C73021E8801EECE989F5A
+文件大小  = 396.66MB
+发布时间  = 2003-05-15
+下载链接  = ed2k://|file|sc_project_pro_2002a.iso|415926272|66DB3C5BB0F622601291FBF124CA2237|/

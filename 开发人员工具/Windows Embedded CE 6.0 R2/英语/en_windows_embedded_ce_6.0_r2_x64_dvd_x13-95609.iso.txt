@@ -1,0 +1,5 @@
+文件名    = en_windows_embedded_ce_6.0_r2_x64_dvd_x13-95609.iso
+SHA1      = 73B4A9A99BCF33B716ECCF425048CFCA7F20B762
+文件大小  = 1.91GB
+发布时间  = 2007-12-11
+下载链接  = ed2k://|file|en_windows_embedded_ce_6.0_r2_x64_dvd_x13-95609.iso|2048088064|B6D48B6F6DAB04D5376E4FCF07F2C3D3|/

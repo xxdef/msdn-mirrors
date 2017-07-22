@@ -1,0 +1,5 @@
+文件名    = en_windows_7_enterprise_x64_dvd_X15-70749.iso
+SHA1      = A89DCE706D527206CB464EF86ACD3A3D13A332DB
+文件大小  = 2.91GB
+发布时间  = 2009-08-06
+下载链接  = ed2k://|file|en_windows_7_enterprise_x64_dvd_X15-70749.iso|3121215488|CB90BE6D74E6E661F8663BD7E17AD2FF|/

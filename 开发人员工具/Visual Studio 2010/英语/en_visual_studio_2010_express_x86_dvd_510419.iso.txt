@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_2010_express_x86_dvd_510419.iso
+SHA1      = ADEF5E361A1F64374F520B9A2D03C54EE43721C6
+文件大小  = 693.66MB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_visual_studio_2010_express_x86_dvd_510419.iso|727351296|1D2EE178370FBD55E925045F3A435DCC|/

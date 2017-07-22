@@ -1,0 +1,5 @@
+文件名    = en_windows_driver_kit_version_7.1.0_x86_x64_ia64_dvd_496758.iso
+SHA1      = DE6ABDB8EB4E08942ADD4AA270C763ED4E3D8242
+文件大小  = 619.77MB
+发布时间  = 2010-02-28
+下载链接  = ed2k://|file|en_windows_driver_kit_version_7.1.0_x86_x64_ia64_dvd_496758.iso|649877504|513E9943B862FA42A3AF464F4EF75FF7|/

@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_premium_2013_with_update_5_x86_dvd_6815741.iso
+SHA1      = 9A2B64D73AAC916EA606B42B164A9C6E88D062D6
+文件大小  = 5.17GB
+发布时间  = 2015-07-20
+下载链接  = ed2k://|file|cn_visual_studio_premium_2013_with_update_5_x86_dvd_6815741.iso|5549494272|561EF218E48FECBBC04781A86860D00C|/

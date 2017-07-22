@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_education_version_1511_updated_feb_2016_x64_dvd_8380187.iso
+SHA1      = EB139F08B6AF5F258A5BDBBF13C0304304363B0D
+文件大小  = 4.09GB
+发布时间  = 2016-03-04
+下载链接  = ed2k://|file|cn_windows_10_education_version_1511_updated_feb_2016_x64_dvd_8380187.iso|4396691456|3EF106C4B1F86DFA25350272AC1A52BD|/

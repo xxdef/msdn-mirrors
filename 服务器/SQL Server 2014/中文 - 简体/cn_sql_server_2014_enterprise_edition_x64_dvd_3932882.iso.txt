@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2014_enterprise_edition_x64_dvd_3932882.iso
+SHA1      = E300F4C208DC262732FACAFD3211652CA9DCF82D
+文件大小  = 2.7GB
+发布时间  = 2014-04-01
+下载链接  = ed2k://|file|cn_sql_server_2014_enterprise_edition_x64_dvd_3932882.iso|2898847744|A33CE10CD989083D1AD882DF0D56CFBE|/

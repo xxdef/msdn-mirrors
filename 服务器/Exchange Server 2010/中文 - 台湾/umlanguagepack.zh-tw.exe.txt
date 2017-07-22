@@ -1,0 +1,5 @@
+文件名    = umlanguagepack.zh-tw.exe
+SHA1      = 771ADA7DDF11BDF331FA5B8B4F214A877D9E31CF
+文件大小  = 116.88MB
+发布时间  = 2010-09-14
+下载链接  = ed2k://|file|umlanguagepack.zh-tw.exe|122558360|8CA86E4CF854C4CA0B388E5AAA1CCAAE|/

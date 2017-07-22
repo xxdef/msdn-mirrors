@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_professional_vl_build_x86_dvd_x15-71256.iso
+SHA1      = F41A0CB2FB9D50B7207009C506E090A3DB93BFD3
+文件大小  = 2.27GB
+发布时间  = 2009-11-12
+下载链接  = ed2k://|file|tw_windows_7_professional_vl_build_x86_dvd_x15-71256.iso|2440128512|FCA4B94BBFE5CFE0714E7EFC3826BF61|/

@@ -1,0 +1,5 @@
+文件名    = ru_windows_vista_with_sp2_global_language_pack_x64_dvd_x15-40603.iso
+SHA1      = 27AC2B9573D3D620020DF9B788A5B6DD53194681
+文件大小  = 171.72MB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|ru_windows_vista_with_sp2_global_language_pack_x64_dvd_x15-40603.iso|180066304|2F179A9F34D8CBBCC77D1229E946D4E7|/

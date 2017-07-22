@@ -1,0 +1,5 @@
+文件名    = ja_office_professional_plus_2010_x64_515508.exe
+SHA1      = 187510DB36387A6E8D76E155D531F39BA01D5B2A
+文件大小  = 825.58MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|ja_office_professional_plus_2010_x64_515508.exe|865680224|CB93574853E450F3A78A7251256B5948|/

@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_2015_preview_sdk_x86_5957778.exe
+SHA1      = D716B350C3BB8064433900D2BF8D228A91973CF9
+文件大小  = 15.68MB
+发布时间  = 2014-11-14
+下载链接  = ed2k://|file|en_visual_studio_2015_preview_sdk_x86_5957778.exe|16444192|6F6DEEF61B43A7301C730D9B9C425FC2|/

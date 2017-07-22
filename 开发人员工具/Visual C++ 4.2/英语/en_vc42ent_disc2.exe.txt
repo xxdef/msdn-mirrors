@@ -1,0 +1,5 @@
+文件名    = en_vc42ent_disc2.exe
+SHA1      = 3AFEF63F3CFEC6BF874D00C5F16D9D676B0F147A
+文件大小  = 27.47MB
+发布时间  = 1999-10-21
+下载链接  = ed2k://|file|en_vc42ent_disc2.exe|28805808|E51366BA6BEEFB294E68865F7BBCFF1E|/

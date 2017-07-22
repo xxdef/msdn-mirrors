@@ -1,0 +1,5 @@
+文件名    = pl_windows_7_ultimate_x64_dvd_x15-65946.iso
+SHA1      = B8888801B3EE236C1DD5D63CF71FB1E2491008E5
+文件大小  = 2.91GB
+发布时间  = 2009-08-28
+下载链接  = ed2k://|file|pl_windows_7_ultimate_x64_dvd_x15-65946.iso|3124578304|ECE8FE536FFE61690B548A834B4652E0|/

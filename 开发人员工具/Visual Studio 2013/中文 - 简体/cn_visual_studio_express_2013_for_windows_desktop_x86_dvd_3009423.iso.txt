@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_express_2013_for_windows_desktop_x86_dvd_3009423.iso
+SHA1      = AF1ECD1D9EF8962C0CD9322C9ED10C41E555F62F
+文件大小  = 805.42MB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|cn_visual_studio_express_2013_for_windows_desktop_x86_dvd_3009423.iso|844546048|F0FDED4D683FB4109EDFB4CF4B7A33B6|/

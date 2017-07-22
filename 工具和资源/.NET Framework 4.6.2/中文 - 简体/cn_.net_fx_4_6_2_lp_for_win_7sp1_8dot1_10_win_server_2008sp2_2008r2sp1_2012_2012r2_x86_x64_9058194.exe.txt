@@ -1,0 +1,5 @@
+文件名    = cn_.net_fx_4_6_2_lp_for_win_7sp1_8dot1_10_win_server_2008sp2_2008r2sp1_2012_2012r2_x86_x64_9058194.exe
+SHA1      = C3BA0BFF6B4A47BF13E30A833BCF8288232516E3
+文件大小  = 5.13MB
+发布时间  = 2016-08-02
+下载链接  = ed2k://|file|cn_.net_fx_4_6_2_lp_for_win_7sp1_8dot1_10_win_server_2008sp2_2008r2sp1_2012_2012r2_x86_x64_9058194.exe|5379504|23AD6D9A974CDD3F448A9D8E22BAB285|/

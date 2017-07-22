@@ -1,0 +1,5 @@
+文件名    = en_win_srv_2003_r2_standard_with_sp2_cd2_X13-68583.iso
+SHA1      = 676B184C13A344DE0B28F6841AD01D8F13696F93
+文件大小  = 121.8MB
+发布时间  = 2007-04-26
+下载链接  = ed2k://|file|en_win_srv_2003_r2_standard_with_sp2_cd2_X13-68583.iso|127713280|C1FE8479378E83627708910EE478E29D|/

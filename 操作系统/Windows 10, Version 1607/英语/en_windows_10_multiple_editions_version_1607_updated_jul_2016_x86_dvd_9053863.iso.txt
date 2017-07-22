@@ -1,0 +1,5 @@
+文件名    = en_windows_10_multiple_editions_version_1607_updated_jul_2016_x86_dvd_9053863.iso
+SHA1      = 5A4D2C953D884578A6ADB448BEE5753B80EC1CFA
+文件大小  = 3.15GB
+发布时间  = 2016-08-02
+下载链接  = ed2k://|file|en_windows_10_multiple_editions_version_1607_updated_jul_2016_x86_dvd_9053863.iso|3382538240|D2FA87816894D2C5207735AB81BD1363|/

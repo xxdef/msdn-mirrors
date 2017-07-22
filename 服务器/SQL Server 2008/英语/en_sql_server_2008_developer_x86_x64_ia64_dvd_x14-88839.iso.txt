@@ -1,0 +1,5 @@
+文件名    = en_sql_server_2008_developer_x86_x64_ia64_dvd_x14-88839.iso
+SHA1      = E8071A413ADF966E0095FEA14DB5669344BCB7E4
+文件大小  = 3.03GB
+发布时间  = 2008-08-05
+下载链接  = ed2k://|file|en_sql_server_2008_developer_x86_x64_ia64_dvd_x14-88839.iso|3256915968|C2707B90142A067BC0DB197B8E4914DF|/

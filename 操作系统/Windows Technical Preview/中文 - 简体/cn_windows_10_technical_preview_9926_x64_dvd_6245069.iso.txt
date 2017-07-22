@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_technical_preview_9926_x64_dvd_6245069.iso
+SHA1      = 39F660C94C54B07B416B47F5E8BA2AB9A8CEB593
+文件大小  = 4.06GB
+发布时间  = 2015-01-23
+下载链接  = ed2k://|file|cn_windows_10_technical_preview_9926_x64_dvd_6245069.iso|4362192896|D9EE2F5C76EFAEDF59EDDB86F135BC4F|/

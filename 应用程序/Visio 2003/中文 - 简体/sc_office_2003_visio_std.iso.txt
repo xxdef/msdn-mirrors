@@ -1,0 +1,5 @@
+文件名    = sc_office_2003_visio_std.iso
+SHA1      = 52DA09DBA1543FF09AC0847303BE02FF9C1DCB2E
+文件大小  = 330.34MB
+发布时间  = 2005-10-13
+下载链接  = ed2k://|file|sc_office_2003_visio_std.iso|346390528|0DA3D16461BD59665EB88D6009596729|/

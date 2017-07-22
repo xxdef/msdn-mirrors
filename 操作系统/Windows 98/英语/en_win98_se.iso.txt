@@ -1,0 +1,5 @@
+文件名    = en_win98_se.iso
+SHA1      = F56E6FBC58C24F140B9E3A09930A0643A2BEF4DC
+文件大小  = 622.5MB
+发布时间  = 2003-12-11
+下载链接  = ed2k://|file|en_win98_se.iso|652738560|9FAE6A31402499EEE72CB9CED4C7ABA5|/

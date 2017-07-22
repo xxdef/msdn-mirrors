@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_11_ultimate_beta_x86_dvd_808056.iso
+SHA1      = 97AE6F60E512780346D222D0C90DE92C45E65DC1
+文件大小  = 1.68GB
+发布时间  = 2012-02-29
+下载链接  = ed2k://|file|en_visual_studio_11_ultimate_beta_x86_dvd_808056.iso|1798592512|6363A16BFB8D07174D27353F40289FAF|/

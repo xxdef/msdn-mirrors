@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_enterprise_x64_dvd_6846957.iso
+SHA1      = 071A2B6CB634D46E12DC2B287DCFDB737A615281
+文件大小  = 3.88GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|cn_windows_10_enterprise_x64_dvd_6846957.iso|4162242560|3F657E387CD65FE7BA69DACAAE0E3510|/

@@ -1,0 +1,5 @@
+文件名    = tw_windows_server_2008_r2_language_pack_x64_dvd_x16-01921.iso
+SHA1      = 25A5687634BACF9A11E2C95304EA6958EC808623
+文件大小  = 72.59MB
+发布时间  = 2009-08-14
+下载链接  = ed2k://|file|tw_windows_server_2008_r2_language_pack_x64_dvd_x16-01921.iso|76113920|7D72E6D384C1CC96ABFC2AB8A4C07898|/

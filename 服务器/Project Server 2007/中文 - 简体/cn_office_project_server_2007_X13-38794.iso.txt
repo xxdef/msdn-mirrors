@@ -1,0 +1,5 @@
+文件名    = cn_office_project_server_2007_X13-38794.iso
+SHA1      = F0D625668107AF3EE40AF7512A4BDCC41554010E
+文件大小  = 353.01MB
+发布时间  = 2007-01-09
+下载链接  = ed2k://|file|cn_office_project_server_2007_X13-38794.iso|370161664|ED9723B0E1F6CA00716FB34911A30859|/

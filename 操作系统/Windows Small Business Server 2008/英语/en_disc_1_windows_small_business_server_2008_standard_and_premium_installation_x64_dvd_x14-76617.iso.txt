@@ -1,0 +1,5 @@
+文件名    = en_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-76617.iso
+SHA1      = B63964500C0E1D7D0D7A80DD032AD2819FF0EC8B
+文件大小  = 3.82GB
+发布时间  = 2008-09-10
+下载链接  = ed2k://|file|en_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-76617.iso|4098934784|D123C52F23841D15E9EDCA763491D43C|/

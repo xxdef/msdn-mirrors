@@ -1,0 +1,5 @@
+文件名    = cn_search_server_2010_express_beta_x64_x16-19296.exe
+SHA1      = 2B344DC06CC9E7DFE03F7796F027BEE90576E654
+文件大小  = 381.82MB
+发布时间  = 2009-11-16
+下载链接  = ed2k://|file|cn_search_server_2010_express_beta_x64_x16-19296.exe|400372528|F5F70F78A4F306212A98036BA4D627BF|/

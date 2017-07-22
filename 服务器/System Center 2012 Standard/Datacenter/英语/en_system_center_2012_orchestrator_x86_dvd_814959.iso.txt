@@ -1,0 +1,5 @@
+文件名    = en_system_center_2012_orchestrator_x86_dvd_814959.iso
+SHA1      = 93B17AEE47E74A03E049C1DB1AC5275C8361E12E
+文件大小  = 73.47MB
+发布时间  = 2012-04-02
+下载链接  = ed2k://|file|en_system_center_2012_orchestrator_x86_dvd_814959.iso|77035520|726CDA5DBE93718026FB600D798C6AC4|/

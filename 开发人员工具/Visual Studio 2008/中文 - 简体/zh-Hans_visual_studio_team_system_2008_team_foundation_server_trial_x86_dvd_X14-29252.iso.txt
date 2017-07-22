@@ -1,0 +1,5 @@
+文件名    = zh-Hans_visual_studio_team_system_2008_team_foundation_server_trial_x86_dvd_X14-29252.iso
+SHA1      = 3A4C835687402FAD94F3D560D48DF6693FB72F71
+文件大小  = 1.56GB
+发布时间  = 2008-05-22
+下载链接  = ed2k://|file|zh-Hans_visual_studio_team_system_2008_team_foundation_server_trial_x86_dvd_X14-29252.iso|1673187328|46C99AEF95383049C5FD33D716B58D4C|/

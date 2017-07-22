@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2014_localdb_x86_msi_3949524.msi
+SHA1      = E691C9E0C2C432DAFAAE3199C8B2521757373AE6
+文件大小  = 36.71MB
+发布时间  = 2014-04-01
+下载链接  = ed2k://|file|cn_sql_server_2014_localdb_x86_msi_3949524.msi|38494208|92C85E31B2915BCE0848CE1FE061EF46|/

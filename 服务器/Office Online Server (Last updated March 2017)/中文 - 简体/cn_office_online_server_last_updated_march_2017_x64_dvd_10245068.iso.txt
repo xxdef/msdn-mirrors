@@ -1,0 +1,5 @@
+文件名    = cn_office_online_server_last_updated_march_2017_x64_dvd_10245068.iso
+SHA1      = E76F376C96C4BE327AA403DA49946D40555C9476
+文件大小  = 696.91MB
+发布时间  = 2017-04-17
+下载链接  = ed2k://|file|cn_office_online_server_last_updated_march_2017_x64_dvd_10245068.iso|730759168|DA70F58CB8FFAF37C02302F2501CE635|/

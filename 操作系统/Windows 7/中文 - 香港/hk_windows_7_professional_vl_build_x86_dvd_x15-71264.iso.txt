@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_professional_vl_build_x86_dvd_x15-71264.iso
+SHA1      = 20178095631F658B6390BE3753E0265821309758
+文件大小  = 2.27GB
+发布时间  = 2009-11-12
+下载链接  = ed2k://|file|hk_windows_7_professional_vl_build_x86_dvd_x15-71264.iso|2435989504|E04E807BB6BA85DD3439C9FA1A8D1589|/

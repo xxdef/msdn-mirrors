@@ -1,0 +1,5 @@
+文件名    = sc_office_2003_onenote.iso
+SHA1      = 359932C92600C3F84F761C21F08678C5100AD801
+文件大小  = 238.79MB
+发布时间  = 2003-09-30
+下载链接  = ed2k://|file|sc_office_2003_onenote.iso|250384384|61EF6EFA62F55C939BE0CFE5D1877B2B|/

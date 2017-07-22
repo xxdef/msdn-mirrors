@@ -1,0 +1,5 @@
+文件名    = ko_office_professional_plus_2010_x86_515512.exe
+SHA1      = 7BCCDEB1EC4002196E2C22A6A1A09FDE411EE588
+文件大小  = 696.55MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|ko_office_professional_plus_2010_x86_515512.exe|730388624|7AAE4F1A14B045FD581D072D5B05211F|/

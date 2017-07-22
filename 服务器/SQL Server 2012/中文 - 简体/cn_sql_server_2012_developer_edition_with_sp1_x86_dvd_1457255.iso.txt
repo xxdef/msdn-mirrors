@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_developer_edition_with_sp1_x86_dvd_1457255.iso
+SHA1      = 30876ED424200FD198E418CDD90B646AFDA80E85
+文件大小  = 3.42GB
+发布时间  = 2013-01-10
+下载链接  = ed2k://|file|cn_sql_server_2012_developer_edition_with_sp1_x86_dvd_1457255.iso|3672942592|CCDF77E75E63387EA11E94E7118C34CD|/

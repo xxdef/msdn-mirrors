@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2008_r2_standard_x86_x64_ia64_dvd_522239.iso
+SHA1      = B5A534094780CD915458344BD097F8203FD7C7CC
+文件大小  = 4.34GB
+发布时间  = 2010-05-03
+下载链接  = ed2k://|file|cn_sql_server_2008_r2_standard_x86_x64_ia64_dvd_522239.iso|4662884352|18EB3AE3828811617488F2CE8E5B8420|/

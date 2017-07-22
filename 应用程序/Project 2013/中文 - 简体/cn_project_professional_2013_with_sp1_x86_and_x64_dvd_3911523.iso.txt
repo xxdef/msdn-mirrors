@@ -1,0 +1,5 @@
+文件名    = cn_project_professional_2013_with_sp1_x86_and_x64_dvd_3911523.iso
+SHA1      = 7CDC9C1AC4C95E022A6CD8F61E0B78017C1ECC93
+文件大小  = 955.39MB
+发布时间  = 2014-03-18
+下载链接  = ed2k://|file|cn_project_professional_2013_with_sp1_x86_and_x64_dvd_3911523.iso|1001801728|7106C35EB6B7EF6AA26DB23560B21393|/

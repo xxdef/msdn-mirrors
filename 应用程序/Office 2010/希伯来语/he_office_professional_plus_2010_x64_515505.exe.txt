@@ -1,0 +1,5 @@
+文件名    = he_office_professional_plus_2010_x64_515505.exe
+SHA1      = 8E37669F7912596F139486A5DFCCB148882ADA7F
+文件大小  = 717.21MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|he_office_professional_plus_2010_x64_515505.exe|752051712|8A1664C2B501C9C141049E044D9DACF6|/

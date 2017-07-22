@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_enterprise_x64_dvd_x15-70741.iso
+SHA1      = EE20DAF2CDEDD71C374E241340DEB651728A69C4
+文件大小  = 2.98GB
+发布时间  = 2009-08-23
+下载链接  = ed2k://|file|cn_windows_7_enterprise_x64_dvd_x15-70741.iso|3203516416|876DCF115C2EE28D74B178BE1A84AB3B|/

@@ -1,0 +1,5 @@
+文件名    = hu_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73991.iso
+SHA1      = E54EFA1F033498436B76DA9588BB6D31083EC0F8
+文件大小  = 589.31MB
+发布时间  = 2008-05-14
+下载链接  = ed2k://|file|hu_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73991.iso|617934848|9E4BC2DFACAA712FD888C194CC568A50|/

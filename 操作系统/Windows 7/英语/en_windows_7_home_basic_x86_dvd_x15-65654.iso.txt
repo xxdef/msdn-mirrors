@@ -1,0 +1,5 @@
+文件名    = en_windows_7_home_basic_x86_dvd_x15-65654.iso
+SHA1      = 101574FAA17FDB430BB027271EF0A58F0E18AD47
+文件大小  = 2.33GB
+发布时间  = 2009-08-06
+下载链接  = ed2k://|file|en_windows_7_home_basic_x86_dvd_x15-65654.iso|2501894144|7E4414CAD21CE37FBF360B732095F05C|/

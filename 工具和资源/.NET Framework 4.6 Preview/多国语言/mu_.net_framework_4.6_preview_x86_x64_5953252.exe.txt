@@ -1,0 +1,5 @@
+文件名    = mu_.net_framework_4.6_preview_x86_x64_5953252.exe
+SHA1      = E8259A7F70FA55B051AB89D21543CBB422F60092
+文件大小  = 62.14MB
+发布时间  = 2014-11-12
+下载链接  = ed2k://|file|mu_.net_framework_4.6_preview_x86_x64_5953252.exe|65161208|70CC2E66C3AADB309D169E9DE0BC1A21|/

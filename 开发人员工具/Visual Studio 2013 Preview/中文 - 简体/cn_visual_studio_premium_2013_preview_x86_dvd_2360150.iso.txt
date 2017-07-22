@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_premium_2013_preview_x86_dvd_2360150.iso
+SHA1      = 866F210460A54C09277D8020A0537310CA1C220B
+文件大小  = 2.96GB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|cn_visual_studio_premium_2013_preview_x86_dvd_2360150.iso|3179128832|CB3F2A9E7CF71BC2345A1691FA57EFEF|/

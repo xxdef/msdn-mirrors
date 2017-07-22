@@ -1,0 +1,5 @@
+文件名    = cn_system_center_2012_r2_operations_manager_x86_and_x64_dvd_2920213.iso
+SHA1      = 3A56D3D9D605DAA153FDBDD2A991BC0ABDA874FF
+文件大小  = 700.61MB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|cn_system_center_2012_r2_operations_manager_x86_and_x64_dvd_2920213.iso|734644224|D20CC57F1FF8A116CA5E69D340BC720C|/

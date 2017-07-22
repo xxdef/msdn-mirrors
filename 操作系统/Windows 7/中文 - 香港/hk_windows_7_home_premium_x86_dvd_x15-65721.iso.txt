@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_home_premium_x86_dvd_x15-65721.iso
+SHA1      = 9A22859DD52E7E7C30BA2DBFAC1D286FF08AD77A
+文件大小  = 2.4GB
+发布时间  = 2009-08-21
+下载链接  = ed2k://|file|hk_windows_7_home_premium_x86_dvd_x15-65721.iso|2574176256|755F421B4E7A9BD6483E86096D0E6216|/

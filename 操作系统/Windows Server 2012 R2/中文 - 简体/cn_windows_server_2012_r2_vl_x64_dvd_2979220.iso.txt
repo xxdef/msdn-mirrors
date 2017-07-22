@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2012_r2_vl_x64_dvd_2979220.iso
+SHA1      = E7D0944E7F7FB1977AEECA3C5DE65E01BC07DF3D
+文件大小  = 4.15GB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|cn_windows_server_2012_r2_vl_x64_dvd_2979220.iso|4453249024|1F71685C7E33ED30FDC439C7FE0E4E5A|/

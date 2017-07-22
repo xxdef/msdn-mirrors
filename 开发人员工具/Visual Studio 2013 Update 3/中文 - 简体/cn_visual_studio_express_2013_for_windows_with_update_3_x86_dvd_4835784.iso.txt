@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_express_2013_for_windows_with_update_3_x86_dvd_4835784.iso
+SHA1      = 05EB4B06DA198173D601C44E7FA5D53E01917540
+文件大小  = 4.33GB
+发布时间  = 2014-08-04
+下载链接  = ed2k://|file|cn_visual_studio_express_2013_for_windows_with_update_3_x86_dvd_4835784.iso|4645425152|626BDA2E50D179F9324CF95100E580D3|/

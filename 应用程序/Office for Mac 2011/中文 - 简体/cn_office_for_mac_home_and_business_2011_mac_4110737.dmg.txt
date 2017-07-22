@@ -1,0 +1,5 @@
+文件名    = cn_office_for_mac_home_and_business_2011_mac_4110737.dmg
+SHA1      = 56a53a0f2150e331bface20a59de00a1c4d64caf
+文件大小  = 1.12GB
+发布时间  = 2014-04-14
+下载链接  = ed2k://|file|cn_office_for_mac_home_and_business_2011_mac_4110737.dmg|1201430285|0DCD8347BF09A8E828F73161793CF1A1|/

@@ -1,0 +1,5 @@
+文件名    = en_office_accounting_2009_sp1_x86_323156.exe
+SHA1      = C59B948D3032E35C5AF7DFD049D5E25A512B2313
+文件大小  = 59.29MB
+发布时间  = 2009-03-11
+下载链接  = ed2k://|file|en_office_accounting_2009_sp1_x86_323156.exe|62171032|9E9334E891594123C2FE866D862C7FBC|/

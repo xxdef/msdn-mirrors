@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2008_datacenter_enterprise_standard_x86_dvd_X14-26710.iso
+SHA1      = 6CA018FF96F1E9B2B310A36546B6FDED99A421E6
+文件大小  = 1.75GB
+发布时间  = 2008-02-06
+下载链接  = ed2k://|file|en_windows_server_2008_datacenter_enterprise_standard_x86_dvd_X14-26710.iso|1881141248|E954F32ED2791EA314EA64F0D20C2443|/

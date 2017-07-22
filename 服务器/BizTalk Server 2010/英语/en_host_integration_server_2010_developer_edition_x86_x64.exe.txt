@@ -1,0 +1,5 @@
+文件名    = en_host_integration_server_2010_developer_edition_x86_x64.exe
+SHA1      = C2D1C78556AB30A18AB97A4D071F869089105269
+文件大小  = 151.51MB
+发布时间  = 2010-10-01
+下载链接  = ed2k://|file|en_host_integration_server_2010_developer_edition_x86_x64.exe|158865248|1AD7C21D066FDA31D0364E9D9713572D|/

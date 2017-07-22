@@ -1,0 +1,5 @@
+文件名    = en_sharepoint_services_3.0_with_service_pack_1_x64.exe
+SHA1      = FBF5B3AC63177BC6D0F442A17FED7CC99F2B1469
+文件大小  = 115.36MB
+发布时间  = 2008-03-22
+下载链接  = ed2k://|file|en_sharepoint_services_3.0_with_service_pack_1_x64.exe|120962688|74913A4193552AD683A8FAE31AC70B89|/

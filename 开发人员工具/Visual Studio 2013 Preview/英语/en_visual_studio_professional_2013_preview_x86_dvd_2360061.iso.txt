@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_professional_2013_preview_x86_dvd_2360061.iso
+SHA1      = 3D791A889B497E4514654DA502CF404C6E9B2B06
+文件大小  = 2.88GB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|en_visual_studio_professional_2013_preview_x86_dvd_2360061.iso|3093872640|E3E6E296026D085A580281C379FB4D08|/

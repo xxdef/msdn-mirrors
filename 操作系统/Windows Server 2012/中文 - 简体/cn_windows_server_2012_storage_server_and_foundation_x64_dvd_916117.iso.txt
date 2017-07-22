@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2012_storage_server_and_foundation_x64_dvd_916117.iso
+SHA1      = FE4C5D2A85BC370002D737B2DE066702DD49E52B
+文件大小  = 3.44GB
+发布时间  = 2012-09-04
+下载链接  = ed2k://|file|cn_windows_server_2012_storage_server_and_foundation_x64_dvd_916117.iso|3694643200|2F727F6199870ED1A3865EF864FBF0C8|/

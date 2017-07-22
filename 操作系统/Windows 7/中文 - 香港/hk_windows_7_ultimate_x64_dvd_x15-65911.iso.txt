@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_ultimate_x64_dvd_x15-65911.iso
+SHA1      = 8029CCD9D37807C0E5B15FECD53BB7E02014ED0A
+文件大小  = 3.09GB
+发布时间  = 2009-08-21
+下载链接  = ed2k://|file|hk_windows_7_ultimate_x64_dvd_x15-65911.iso|3313936384|917F16D04FBBFDE763A35E2A32595AD9|/

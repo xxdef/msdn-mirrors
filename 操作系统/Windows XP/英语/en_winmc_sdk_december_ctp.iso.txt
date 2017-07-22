@@ -1,0 +1,5 @@
+文件名    = en_winmc_sdk_december_ctp.iso
+SHA1      = DD74BA18ED6CD50748514C484DD45B75CA37DA9B
+文件大小  = 3.58MB
+发布时间  = 2005-12-29
+下载链接  = ed2k://|file|en_winmc_sdk_december_ctp.iso|3753984|AACDBE0FC6B3B775651048472E8E8535|/

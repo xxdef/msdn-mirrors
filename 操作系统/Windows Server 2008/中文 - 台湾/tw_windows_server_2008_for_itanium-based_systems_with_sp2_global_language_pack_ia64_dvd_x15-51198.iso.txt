@@ -1,0 +1,5 @@
+文件名    = tw_windows_server_2008_for_itanium-based_systems_with_sp2_global_language_pack_ia64_dvd_x15-51198.iso
+SHA1      = ABA7D9F90159EE6D3C92BC7706E06B7FE0309826
+文件大小  = 74.15MB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|tw_windows_server_2008_for_itanium-based_systems_with_sp2_global_language_pack_ia64_dvd_x15-51198.iso|77748224|1D7DB9F6064D5FC626C1D005C0AA5C1A|/

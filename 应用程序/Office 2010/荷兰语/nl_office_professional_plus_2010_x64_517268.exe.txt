@@ -1,0 +1,5 @@
+文件名    = nl_office_professional_plus_2010_x64_517268.exe
+SHA1      = CF91FF41ED0855D7F126C64083444EA3201498F2
+文件大小  = 697.08MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|nl_office_professional_plus_2010_x64_517268.exe|730937096|FEB6EB1B82F7F475E8521D95D3122F52|/

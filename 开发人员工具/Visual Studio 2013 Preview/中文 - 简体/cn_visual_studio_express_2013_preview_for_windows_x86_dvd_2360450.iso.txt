@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_express_2013_preview_for_windows_x86_dvd_2360450.iso
+SHA1      = EBEF094C2F91B0F1104A25A147D34D96EA739CC3
+文件大小  = 398.66MB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|cn_visual_studio_express_2013_preview_for_windows_x86_dvd_2360450.iso|418025472|7FF3BCFD89B1D7EE3E0AD3B7C656A983|/

@@ -1,0 +1,5 @@
+文件名    = hk_windows_8.1_enterprise_with_update_x64_dvd_6050380.iso
+SHA1      = 271608E787A64D6DFF9E839E961289744B4AE53A
+文件大小  = 4.01GB
+发布时间  = 2014-12-15
+下载链接  = ed2k://|file|hk_windows_8.1_enterprise_with_update_x64_dvd_6050380.iso|4300589056|15D93EDB4DED8E1CC0E2D1E5C437E1C7|/

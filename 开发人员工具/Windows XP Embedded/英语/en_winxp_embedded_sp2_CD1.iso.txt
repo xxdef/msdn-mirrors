@@ -1,0 +1,5 @@
+文件名    = en_winxp_embedded_sp2_CD1.iso
+SHA1      = 3FBA1A66F14FC5B925FE9741F74E950D7A124B08
+文件大小  = 259.63MB
+发布时间  = 2004-12-15
+下载链接  = ed2k://|file|en_winxp_embedded_sp2_CD1.iso|272242688|6151F94FF055C45BF3EBC294C19631CB|/

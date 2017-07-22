@@ -1,0 +1,5 @@
+文件名    = en_sql_server_vnext_ctp1.3_x64_dvd_9973931.iso
+SHA1      = 5E2C5CCF90745CEC3ED5313D4269B5D98495D36C
+文件大小  = 1.93GB
+发布时间  = 2017-02-21
+下载链接  = ed2k://|file|en_sql_server_vnext_ctp1.3_x64_dvd_9973931.iso|2074091520|3C5A56346164586A79CDFC7D4B58C5CA|/

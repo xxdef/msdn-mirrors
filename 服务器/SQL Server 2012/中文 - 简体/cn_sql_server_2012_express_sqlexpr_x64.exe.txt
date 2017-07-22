@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_express_sqlexpr_x64.exe
+SHA1      = 2F765483C256A3B8E9F32EA43C41CB34D3C67623
+文件大小  = 145.69MB
+发布时间  = 2012-03-08
+下载链接  = ed2k://|file|cn_sql_server_2012_express_sqlexpr_x64.exe|152770136|8EDDA977D902509E95B65B5B70AAB892|/

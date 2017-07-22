@@ -1,0 +1,5 @@
+文件名    = sc_mdac_typ_2_8_sp1.exe
+SHA1      = 8728816D4FB4E6FF24F28ABF1400DCB2F58CCDBB
+文件大小  = 5.8MB
+发布时间  = 2005-07-13
+下载链接  = ed2k://|file|sc_mdac_typ_2_8_sp1.exe|6086216|536F29938013C700C344923DBAC0F45A|/

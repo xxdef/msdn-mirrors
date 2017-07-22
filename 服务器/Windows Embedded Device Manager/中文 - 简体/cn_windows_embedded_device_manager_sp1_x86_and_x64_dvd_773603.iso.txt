@@ -1,0 +1,5 @@
+文件名    = cn_windows_embedded_device_manager_sp1_x86_and_x64_dvd_773603.iso
+SHA1      = 962BE1D231B6420F8F004B728976A9A51E59C19A
+文件大小  = 4.19MB
+发布时间  = 2011-12-15
+下载链接  = ed2k://|file|cn_windows_embedded_device_manager_sp1_x86_and_x64_dvd_773603.iso|4392960|E2E4CADFF0737B4295D73AE05E636988|/

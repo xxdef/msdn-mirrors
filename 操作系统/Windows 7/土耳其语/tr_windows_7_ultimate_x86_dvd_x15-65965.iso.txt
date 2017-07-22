@@ -1,0 +1,5 @@
+文件名    = tr_windows_7_ultimate_x86_dvd_x15-65965.iso
+SHA1      = 1B9DD4D398549B430D8B757B2EC2586E6A18E290
+文件大小  = 2.22GB
+发布时间  = 2009-08-29
+下载链接  = ed2k://|file|tr_windows_7_ultimate_x86_dvd_x15-65965.iso|2382473216|DEC31C7787820EF98BD41E62BEFEA944|/

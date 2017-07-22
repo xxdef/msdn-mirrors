@@ -1,0 +1,5 @@
+文件名    = en_windows_software_development_kit_for_windows_7_and_windows_server_2008_r2_x64_dvd_400021.iso
+SHA1      = 3393C98B8468CB3505557854922707510F8B65E1
+文件大小  = 1.45GB
+发布时间  = 2009-08-06
+下载链接  = ed2k://|file|en_windows_software_development_kit_for_windows_7_and_windows_server_2008_r2_x64_dvd_400021.iso|1554010112|BA7C3124B6FA9727962CEFF8BB61A2B7|/

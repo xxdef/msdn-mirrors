@@ -1,0 +1,5 @@
+文件名    = ct_office_language_pack_2010_x64_dvd_515898.iso
+SHA1      = 7281863E48BBA8E5E327762BB3ACA20FADCFD902
+文件大小  = 603.49MB
+发布时间  = 2010-07-09
+下载链接  = ed2k://|file|ct_office_language_pack_2010_x64_dvd_515898.iso|632805376|838D1D5AEA7D8D7223B149932A31D4E8|/

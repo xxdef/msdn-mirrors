@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_2010_premium_x86_dvd_532097.iso
+SHA1      = 9419996E2D4A433BD9682CF5E4CD377BE4DF31CD
+文件大小  = 2.5GB
+发布时间  = 2010-05-26
+下载链接  = ed2k://|file|cn_visual_studio_2010_premium_x86_dvd_532097.iso|2681538560|FFD699F0DC932EA4D471820CFC076210|/

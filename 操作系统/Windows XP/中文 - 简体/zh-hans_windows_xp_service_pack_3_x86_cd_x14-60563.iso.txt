@@ -1,0 +1,5 @@
+文件名    = zh-hans_windows_xp_service_pack_3_x86_cd_x14-60563.iso
+SHA1      = 5566D7949E45C453964708831E16BCD73547F73B
+文件大小  = 398.33MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|zh-hans_windows_xp_service_pack_3_x86_cd_x14-60563.iso|417675264|2AAB7F0CD4BE378D9113557B1D24D8D0|/

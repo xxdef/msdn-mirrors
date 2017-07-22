@@ -1,0 +1,5 @@
+文件名    = en_project_professional_2010_x86_515560.exe
+SHA1      = 220DF5AABC309F3F6A0338D8FE97539E08B4D6E6
+文件大小  = 235.08MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|en_project_professional_2010_x86_515560.exe|246501136|3217A3654BBC0683E6EF9912F7AD7BB2|/

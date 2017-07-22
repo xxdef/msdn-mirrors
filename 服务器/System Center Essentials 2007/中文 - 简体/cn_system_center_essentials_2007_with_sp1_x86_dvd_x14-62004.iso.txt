@@ -1,0 +1,5 @@
+文件名    = cn_system_center_essentials_2007_with_sp1_x86_dvd_x14-62004.iso
+SHA1      = 9A83A951E35B6FE5BA2261A486838412F5FD2862
+文件大小  = 715.6MB
+发布时间  = 2009-03-25
+下载链接  = ed2k://|file|cn_system_center_essentials_2007_with_sp1_x86_dvd_x14-62004.iso|750358528|ED732BBF83DA108463C5DCB5F80F25F1|/

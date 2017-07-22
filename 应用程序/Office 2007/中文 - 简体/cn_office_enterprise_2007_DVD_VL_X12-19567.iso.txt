@@ -1,0 +1,5 @@
+文件名    = cn_office_enterprise_2007_DVD_VL_X12-19567.iso
+SHA1      = 975C76A28183AC827F62160739FE0F7F4E600645
+文件大小  = 755.52MB
+发布时间  = 2006-12-14
+下载链接  = ed2k://|file|cn_office_enterprise_2007_DVD_VL_X12-19567.iso|792221696|CDFFBCB61F4DD3C75E9DFCE89F41C6CB|/

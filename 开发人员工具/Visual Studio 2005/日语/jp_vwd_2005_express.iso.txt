@@ -1,0 +1,5 @@
+文件名    = jp_vwd_2005_express.iso
+SHA1      = A223CC8D20256643F776079F5C14294C84BA0790
+文件大小  = 572.54MB
+发布时间  = 2005-12-14
+下载链接  = ed2k://|file|jp_vwd_2005_express.iso|600354816|0C4EDC3E41EB149FFEFCBBB04B5C9785|/

@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_14_professional_ctp_2_version_14.0.21901.01.dp_x86_dvd_4563823.iso
+SHA1      = 49B068267F0EA532028B9644797789757B53EC29
+文件大小  = 3.99GB
+发布时间  = 2014-07-08
+下载链接  = ed2k://|file|en_visual_studio_14_professional_ctp_2_version_14.0.21901.01.dp_x86_dvd_4563823.iso|4284657664|9E4447FEE699EE8151A367DBA3B46B82|/

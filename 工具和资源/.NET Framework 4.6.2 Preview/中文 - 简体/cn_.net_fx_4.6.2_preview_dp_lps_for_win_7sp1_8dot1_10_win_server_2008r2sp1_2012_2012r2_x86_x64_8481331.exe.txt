@@ -1,0 +1,5 @@
+文件名    = cn_.net_fx_4.6.2_preview_dp_lps_for_win_7sp1_8dot1_10_win_server_2008r2sp1_2012_2012r2_x86_x64_8481331.exe
+SHA1      = 4B580059C584A9F2DC2590F03AD3711549C59FE9
+文件大小  = 12.82MB
+发布时间  = 2016-03-30
+下载链接  = ed2k://|file|cn_.net_fx_4.6.2_preview_dp_lps_for_win_7sp1_8dot1_10_win_server_2008r2sp1_2012_2012r2_x86_x64_8481331.exe|13441056|D349F2A625F8F254131B2526059612EA|/

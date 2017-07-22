@@ -1,0 +1,5 @@
+文件名    = en_win_srv_2003_r2_enterprise_x64_with_sp2_cd2_X13-68588.iso
+SHA1      = 54B845F1E4C27C9C96AACEF59B9AB19CEFE1C8BC
+文件大小  = 167.04MB
+发布时间  = 2007-04-26
+下载链接  = ed2k://|file|en_win_srv_2003_r2_enterprise_x64_with_sp2_cd2_X13-68588.iso|175149056|65D1F0E7A282B31F145F8D1724671399|/

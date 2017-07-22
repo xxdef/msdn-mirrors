@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_14_professional_ctp_3_version_14.0.22013.01.dp_x86_dvd_5054157.iso
+SHA1      = 6D655974C38ED0DA3EC01792B389C06B4D7DD791
+文件大小  = 4.05GB
+发布时间  = 2014-08-18
+下载链接  = ed2k://|file|en_visual_studio_14_professional_ctp_3_version_14.0.22013.01.dp_x86_dvd_5054157.iso|4347871232|22E7890A33F5A24325B39FABC5B504B7|/

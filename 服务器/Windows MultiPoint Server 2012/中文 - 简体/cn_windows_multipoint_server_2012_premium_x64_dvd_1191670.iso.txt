@@ -1,0 +1,5 @@
+文件名    = cn_windows_multipoint_server_2012_premium_x64_dvd_1191670.iso
+SHA1      = 8C3FC250749741683DCB51DDC194857926FC5E3F
+文件大小  = 3.59GB
+发布时间  = 2012-11-15
+下载链接  = ed2k://|file|cn_windows_multipoint_server_2012_premium_x64_dvd_1191670.iso|3854188544|966ED4B0956E517FD0F14D98BE6B12A0|/

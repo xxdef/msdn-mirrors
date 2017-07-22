@@ -1,0 +1,5 @@
+文件名    = pt-br_windows_xp_service_pack_3_x86_cd_x14-60493.iso
+SHA1      = D2054A679E825C916DE5A8CD5E55C0EB8F0675D6
+文件大小  = 365.41MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|pt-br_windows_xp_service_pack_3_x86_cd_x14-60493.iso|383156224|F811E6459EE7B81345398E46435BE839|/

@@ -1,0 +1,5 @@
+文件名    = hk_office_enterprise_2007_DVD_VL_X12-19569.iso
+SHA1      = 6ACD1B5B732BF0B5920B9A23139975DB1A4B1E53
+文件大小  = 769.15MB
+发布时间  = 2006-12-14
+下载链接  = ed2k://|file|hk_office_enterprise_2007_DVD_VL_X12-19569.iso|806512640|F8EA849A802E849315A7219B2C479A88|/

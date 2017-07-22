@@ -1,0 +1,5 @@
+文件名    = en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_X13-47808.iso
+SHA1      = 0EB35C93F2A0F02081E8B77E981D9EB90B59DB54
+文件大小  = 622.02MB
+发布时间  = 2007-04-27
+下载链接  = ed2k://|file|en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_X13-47808.iso|652234752|943101EC8B9495C1EC7611844AF5BFA0|/

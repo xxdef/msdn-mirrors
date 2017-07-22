@@ -1,0 +1,5 @@
+文件名    = zh-hans_msdn_library_express_for_visual_studio_2008_service_pack_1_x86_252621.exe
+SHA1      = 4F5F78DBC7BBF6A0CC16B2A44121DA9FD66060E9
+文件大小  = 433.18MB
+发布时间  = 2008-10-07
+下载链接  = ed2k://|file|zh-hans_msdn_library_express_for_visual_studio_2008_service_pack_1_x86_252621.exe|454226944|4FE087AD72005E6A9F3B70CB248513EE|/

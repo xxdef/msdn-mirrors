@@ -1,0 +1,5 @@
+文件名    = cn_windows_phone_sdk_7.1_x64.exe
+SHA1      = 42D919786186EC7918C9288E35F17BF26E9E6B98
+文件大小  = 3.4MB
+发布时间  = 2013-01-29
+下载链接  = ed2k://|file|cn_windows_phone_sdk_7.1_x64.exe|3562320|765878DDEADD37925332AABF1B545785|/

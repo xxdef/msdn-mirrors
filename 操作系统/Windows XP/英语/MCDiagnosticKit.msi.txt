@@ -1,0 +1,5 @@
+文件名    = MCDiagnosticKit.msi
+SHA1      = 51EB1301DD379660FE40D2DDB6E3D85E03E91BBD
+文件大小  = 7.54MB
+发布时间  = 2005-11-03
+下载链接  = ed2k://|file|MCDiagnosticKit.msi|7905280|94DBD4335C3F6958BFE66474ACD374AB|/

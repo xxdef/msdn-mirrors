@@ -1,0 +1,5 @@
+文件名    = en_expression_studio_4_ultimate_x86_msdnaa_dvd_537046.iso
+SHA1      = DE63CE2D7C795D0013C4121BB62352AD77AD3B33
+文件大小  = 284.14MB
+发布时间  = 2010-11-02
+下载链接  = ed2k://|file|en_expression_studio_4_ultimate_x86_msdnaa_dvd_537046.iso|297947136|A3261BF9DE24CA77E7C185B6256F0636|/

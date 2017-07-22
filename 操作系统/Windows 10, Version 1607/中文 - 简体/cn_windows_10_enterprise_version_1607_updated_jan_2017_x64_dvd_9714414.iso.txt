@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_enterprise_version_1607_updated_jan_2017_x64_dvd_9714414.iso
+SHA1      = 570A5347A2318C533891967120CC21451BD8A6BA
+文件大小  = 4.17GB
+发布时间  = 2017-01-19
+下载链接  = ed2k://|file|cn_windows_10_enterprise_version_1607_updated_jan_2017_x64_dvd_9714414.iso|4474976256|21E442B2D57E3F1C15C13DBE9F4A09AD|/

@@ -1,0 +1,5 @@
+文件名    = en_office_2003_pro.iso
+SHA1      = 0D90F58105DCBC74A8972802340B3226679E7119
+文件大小  = 400.55MB
+发布时间  = 2003-09-03
+下载链接  = ed2k://|file|en_office_2003_pro.iso|420005888|2828bdb2400cf75af224c3e4a919bd9b|/

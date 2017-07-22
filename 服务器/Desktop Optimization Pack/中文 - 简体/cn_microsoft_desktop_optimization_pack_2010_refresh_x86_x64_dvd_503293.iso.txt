@@ -1,0 +1,5 @@
+文件名    = cn_microsoft_desktop_optimization_pack_2010_refresh_x86_x64_dvd_503293.iso
+SHA1      = 6B5766B695F57706BF0F9ACCFB50D8BABB058A66
+文件大小  = 2.12GB
+发布时间  = 2010-03-31
+下载链接  = ed2k://|file|cn_microsoft_desktop_optimization_pack_2010_refresh_x86_x64_dvd_503293.iso|2273529856|800F06C19A6B52E70353291E96B800E4|/

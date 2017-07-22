@@ -1,0 +1,5 @@
+文件名    = mu_forefront_protection_2010_for_exchange_server_x64_cd_x16-11061.iso
+SHA1      = 418DAF9D41A628AC3CF38C73CEC0877F1088FDD3
+文件大小  = 184.78MB
+发布时间  = 2009-11-17
+下载链接  = ed2k://|file|mu_forefront_protection_2010_for_exchange_server_x64_cd_x16-11061.iso|193757184|80D666CA188F3F3097DA5A24F3337634|/

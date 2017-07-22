@@ -1,0 +1,5 @@
+文件名    = cn_office_server_language_pack_2010_x64_517502.exe
+SHA1      = 7475C50579A802D41413E28AE0BD00129C97693F
+文件大小  = 331.19MB
+发布时间  = 2011-08-09
+下载链接  = ed2k://|file|cn_office_server_language_pack_2010_x64_517502.exe|347277048|9A0186215CACBAFB9FE6337E7F548A6C|/

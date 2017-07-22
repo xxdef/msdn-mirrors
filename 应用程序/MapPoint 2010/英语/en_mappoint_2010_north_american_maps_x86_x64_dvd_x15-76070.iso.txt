@@ -1,0 +1,5 @@
+文件名    = en_mappoint_2010_north_american_maps_x86_x64_dvd_x15-76070.iso
+SHA1      = E8AEB28188213CBB59AFC601F721EB83CD513A9F
+文件大小  = 1.78GB
+发布时间  = 2009-09-10
+下载链接  = ed2k://|file|en_mappoint_2010_north_american_maps_x86_x64_dvd_x15-76070.iso|1912006656|F0657A48920686E26AFB1DB4E47F400D|/

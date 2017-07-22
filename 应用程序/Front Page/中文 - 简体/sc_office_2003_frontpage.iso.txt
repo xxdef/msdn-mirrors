@@ -1,0 +1,5 @@
+文件名    = sc_office_2003_frontpage.iso
+SHA1      = F42177FAE6E64AB83FEB9D07D01A74B79FB3B612
+文件大小  = 371.65MB
+发布时间  = 2003-09-30
+下载链接  = ed2k://|file|sc_office_2003_frontpage.iso|389703680|099032DC36F9E4D4619888DB6FE7136F|/

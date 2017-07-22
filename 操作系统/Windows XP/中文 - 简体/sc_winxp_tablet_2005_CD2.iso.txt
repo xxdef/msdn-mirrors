@@ -1,0 +1,5 @@
+文件名    = sc_winxp_tablet_2005_CD2.iso
+SHA1      = 31DA9C6D716AF4DC788496077709E274F8DE6820
+文件大小  = 222.27MB
+发布时间  = 2004-08-31
+下载链接  = ed2k://|file|sc_winxp_tablet_2005_CD2.iso|233066496|F691BBA9A376B281CDE19FD2E6EF36F9|/

@@ -1,0 +1,5 @@
+文件名    = en_office_2003_proofing_tools.iso
+SHA1      = 9A1C1E1E6BB28FD796CBBF3BE0E90C1398F1BF2D
+文件大小  = 627MB
+发布时间  = 2003-10-23
+下载链接  = ed2k://|file|en_office_2003_proofing_tools.iso|657455104|9FD56AD5795C8C7E0A08E00696A93A56|/

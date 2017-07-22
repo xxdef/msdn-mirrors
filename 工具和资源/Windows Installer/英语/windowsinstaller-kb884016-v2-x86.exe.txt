@@ -1,0 +1,5 @@
+文件名    = windowsinstaller-kb884016-v2-x86.exe
+SHA1      = 24E9E9A1B1391A71A3D174A2068BEF4A91C5F6B9
+文件大小  = 1.91MB
+发布时间  = 2005-05-18
+下载链接  = ed2k://|file|windowsinstaller-kb884016-v2-x86.exe|2003176|045DB9B3B058688EFAD421512AFED36E|/

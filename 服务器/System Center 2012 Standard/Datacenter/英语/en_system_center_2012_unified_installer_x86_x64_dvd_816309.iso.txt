@@ -1,0 +1,5 @@
+文件名    = en_system_center_2012_unified_installer_x86_x64_dvd_816309.iso
+SHA1      = F9A7CEB584424A6A9F8174E7B42C40EBEE57BF8D
+文件大小  = 19.32MB
+发布时间  = 2012-04-02
+下载链接  = ed2k://|file|en_system_center_2012_unified_installer_x86_x64_dvd_816309.iso|20260864|85C33A450DD692805D4C24407F426BB3|/

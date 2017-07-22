@@ -1,0 +1,5 @@
+文件名    = zh-Hans_visual_studio_team_system_2008_team_suite_x86_dvd_X14-26452.iso
+SHA1      = 12D905FB0C6FD02B33CCEAAD1E5905929F413C0A
+文件大小  = 4.34GB
+发布时间  = 2008-05-23
+下载链接  = ed2k://|file|zh-Hans_visual_studio_team_system_2008_team_suite_x86_dvd_X14-26452.iso|4663904256|8E2D6430D819328940B9BF83568589FA|/

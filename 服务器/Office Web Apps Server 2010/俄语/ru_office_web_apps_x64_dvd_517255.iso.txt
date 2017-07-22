@@ -1,0 +1,5 @@
+文件名    = ru_office_web_apps_x64_dvd_517255.iso
+SHA1      = 039576C46DFB4CCAEA4CF8C2C99BB91F737FDF13
+文件大小  = 202.5MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|ru_office_web_apps_x64_dvd_517255.iso|212332544|7CF8ADDB4A57AE05892BD5394F5159C7|/

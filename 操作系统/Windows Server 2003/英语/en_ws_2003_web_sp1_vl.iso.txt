@@ -1,0 +1,5 @@
+文件名    = en_ws_2003_web_sp1_vl.iso
+SHA1      = 9B3FD37A7878D21281D6AAAAF63D76386F1A8E4C
+文件大小  = 512.45MB
+发布时间  = 2005-04-07
+下载链接  = ed2k://|file|en_ws_2003_web_sp1_vl.iso|537337856|22F274E1803CCDC417B42BA9136292DF|/

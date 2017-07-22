@@ -1,0 +1,5 @@
+文件名    = cn_windows_home_server_connector_disc_x86_cd_x14-67779.iso
+SHA1      = DEE58D6010C51A40168E446B1D318291ADD7C2B2
+文件大小  = 1.11MB
+发布时间  = 2008-12-17
+下载链接  = ed2k://|file|cn_windows_home_server_connector_disc_x86_cd_x14-67779.iso|1161216|435BDABA6D2F64EFD3253E6BB3417337|/

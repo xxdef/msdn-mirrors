@@ -1,0 +1,5 @@
+文件名    = en_windows_10_education_version_1607_updated_jul_2016_x86_dvd_9055803.iso
+SHA1      = 816153EE450FF07600EBC4266D60687FD0939AEA
+文件大小  = 2.72GB
+发布时间  = 2016-08-02
+下载链接  = ed2k://|file|en_windows_10_education_version_1607_updated_jul_2016_x86_dvd_9055803.iso|2917298176|B5241D6300576510BF8E8010814DA637|/

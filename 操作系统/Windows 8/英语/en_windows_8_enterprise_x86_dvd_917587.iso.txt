@@ -1,0 +1,5 @@
+文件名    = en_windows_8_enterprise_x86_dvd_917587.iso
+SHA1      = FEFCE3E64FB9EC1CC7977165328890CCC9A10656
+文件大小  = 2.38GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|en_windows_8_enterprise_x86_dvd_917587.iso|2551154688|3E6349B65AF73C12C73A08B9BB9AA0F3|/

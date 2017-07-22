@@ -1,0 +1,5 @@
+文件名    = cn_office_language_pack_2010_x86_516851.exe
+SHA1      = 35ED394F2121C6A6C9DCFCF98FBEC696897B8F4E
+文件大小  = 559.97MB
+发布时间  = 2011-07-19
+下载链接  = ed2k://|file|cn_office_language_pack_2010_x86_516851.exe|587166520|FB507B4BE6A2DB21E35015C12A340CFE|/

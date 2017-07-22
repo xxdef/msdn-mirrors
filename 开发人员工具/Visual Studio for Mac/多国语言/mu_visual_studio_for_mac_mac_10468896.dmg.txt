@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_for_mac_mac_10468896.dmg
+SHA1      = B705C141BBFE706801453DB43DE891A204096A31
+文件大小  = 25.7MB
+发布时间  = 2017-05-10
+下载链接  = ed2k://|file|mu_visual_studio_for_mac_mac_10468896.dmg|26944731|FBE947BC68002556294CB0A433EB8444|/

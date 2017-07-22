@@ -1,0 +1,5 @@
+文件名    = en_.net_framework_4_client_profile_x86_x64_508946.exe
+SHA1      = 4CD67F609F89D617D2B206341B8C211E1B88B287
+文件大小  = 41.01MB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_.net_framework_4_client_profile_x86_x64_508946.exe|43000680|99505C3FB07D7F87E07D58078EF9D3F7|/

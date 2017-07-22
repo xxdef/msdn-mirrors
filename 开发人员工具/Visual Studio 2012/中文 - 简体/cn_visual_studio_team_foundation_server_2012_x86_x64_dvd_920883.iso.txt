@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_team_foundation_server_2012_x86_x64_dvd_920883.iso
+SHA1      = 575846AD072107B7D940468EE47D902CE1A44567
+文件大小  = 1.14GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|cn_visual_studio_team_foundation_server_2012_x86_x64_dvd_920883.iso|1228537856|1DEE06340A5A86DDD73BE252B6B4E7CC|/

@@ -1,0 +1,5 @@
+文件名    = cs_vb6_codeadvisor.msi
+SHA1      = ED9AFABC14C19781890773EAF81305A3EB240BED
+文件大小  = 1.4MB
+发布时间  = 2006-02-15
+下载链接  = ed2k://|file|cs_vb6_codeadvisor.msi|1462784|7E1A030A50EEE3265D40A6CE0B2B943F|/

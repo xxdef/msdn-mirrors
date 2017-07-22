@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_2008_service_pack_1_x86_dvd_x15-12962.iso
+SHA1      = 2459232F67B38594DE192778020145DCD0B0DF9F
+文件大小  = 831.32MB
+发布时间  = 2008-08-10
+下载链接  = ed2k://|file|en_visual_studio_2008_service_pack_1_x86_dvd_x15-12962.iso|871700480|6A69B8A27EBC4E359C18247E2E594329|/

@@ -1,0 +1,5 @@
+文件名    = en_office_professional_plus_2016_x86_x64_dvd_6962141.iso
+SHA1      = 213A8A0F8849516704101CB6C49F6A027B0D6D5F
+文件大小  = 2.26GB
+发布时间  = 2015-09-22
+下载链接  = ed2k://|file|en_office_professional_plus_2016_x86_x64_dvd_6962141.iso|2421989376|1B32860B8D8BF3EF2B1C30F79A766879|/

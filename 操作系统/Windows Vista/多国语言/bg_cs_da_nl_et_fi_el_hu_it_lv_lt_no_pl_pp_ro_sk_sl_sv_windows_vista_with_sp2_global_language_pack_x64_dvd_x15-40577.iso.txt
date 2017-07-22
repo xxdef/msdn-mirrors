@@ -1,0 +1,5 @@
+文件名    = bg_cs_da_nl_et_fi_el_hu_it_lv_lt_no_pl_pp_ro_sk_sl_sv_windows_vista_with_sp2_global_language_pack_x64_dvd_x15-40577.iso
+SHA1      = 76012E8888AB6B53B4B68D7950971936741CD697
+文件大小  = 2.85GB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|bg_cs_da_nl_et_fi_el_hu_it_lv_lt_no_pl_pp_ro_sk_sl_sv_windows_vista_with_sp2_global_language_pack_x64_dvd_x15-40577.iso|3065178112|EFF266BCA8A3235555C411FEA2EA6A70|/

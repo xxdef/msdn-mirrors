@@ -1,0 +1,5 @@
+文件名    = sc_vs.net_2003_enar_cd2.iso
+SHA1      = 9CEC6FA76690F695C9B1CC89C10D8871DBD9BD0A
+文件大小  = 501.64MB
+发布时间  = 2003-05-07
+下载链接  = ed2k://|file|sc_vs.net_2003_enar_cd2.iso|526010368|6354E8317AE1128FB54CD3682CEF2EE9|/

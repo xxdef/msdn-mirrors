@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_professional_vl_build_x86_dvd_x15-71025.iso
+SHA1      = C91EBE17156604336CAB054A9A5186B5162D42A0
+文件大小  = 2.3GB
+发布时间  = 2009-11-12
+下载链接  = ed2k://|file|cn_windows_7_professional_vl_build_x86_dvd_x15-71025.iso|2466107392|9EA7E0C2594B5A236FD09D572CA39770|/

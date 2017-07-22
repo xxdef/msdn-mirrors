@@ -1,0 +1,5 @@
+文件名    = zh-tw_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74140.iso
+SHA1      = 591B197429DA2614ABB6CB3915C20A5938A03321
+文件大小  = 604.56MB
+发布时间  = 2008-05-09
+下载链接  = ed2k://|file|zh-tw_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74140.iso|633923584|211E3CAF470B0E246B46035D77DB0F67|/

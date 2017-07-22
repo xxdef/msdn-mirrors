@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_express_edition_with_advanced_services_x64.exe
+SHA1      = FC68323380343B4DEF92DE5F71799332857B5E0F
+文件大小  = 1.39GB
+发布时间  = 2012-03-08
+下载链接  = ed2k://|file|cn_sql_server_2012_express_edition_with_advanced_services_x64.exe|1488860248|4AF3ED6FA3C53A84571B04107B630F02|/

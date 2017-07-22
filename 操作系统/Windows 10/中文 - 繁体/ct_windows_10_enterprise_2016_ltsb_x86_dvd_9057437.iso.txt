@@ -1,0 +1,5 @@
+文件名    = ct_windows_10_enterprise_2016_ltsb_x86_dvd_9057437.iso
+SHA1      = 4801545465C9C8206C804CB8FD540EBB5F64586D
+文件大小  = 2.55GB
+发布时间  = 2016-08-11
+下载链接  = ed2k://|file|ct_windows_10_enterprise_2016_ltsb_x86_dvd_9057437.iso|2741078016|BE559B78BE3BA1A6422DA5652494AB3A|/

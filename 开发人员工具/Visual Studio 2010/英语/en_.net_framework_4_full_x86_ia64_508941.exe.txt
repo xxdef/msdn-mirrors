@@ -1,0 +1,5 @@
+文件名    = en_.net_framework_4_full_x86_ia64_508941.exe
+SHA1      = ECE65DD6FBE69A02103EC54AF105F6A7103B33F9
+文件大小  = 51.73MB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_.net_framework_4_full_x86_ia64_508941.exe|54240328|9B1AF6AF8DA6EA7F61F59AD9AF9DB86F|/

@@ -1,0 +1,5 @@
+文件名    = en_project_professional_2010_x64_515566.exe
+SHA1      = 28105DCD8ECB0CF6FE55DB0A047C8F0CCCDD7971
+文件大小  = 271.9MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|en_project_professional_2010_x64_515566.exe|285105464|B79298BF35F9800B7544DB3D64CC5C41|/

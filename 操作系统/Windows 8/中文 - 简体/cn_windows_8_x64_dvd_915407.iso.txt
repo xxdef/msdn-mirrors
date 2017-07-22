@@ -1,0 +1,5 @@
+文件名    = cn_windows_8_x64_dvd_915407.iso
+SHA1      = A87C4AA85D55CD83BAE9160560D1CB3319DD675C
+文件大小  = 3.4GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|cn_windows_8_x64_dvd_915407.iso|3652950016|5C7F8C212BD3A1827866563773A431C2|/

@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_sp1_language_pack_x86_dvd_619609.iso
+SHA1      = 133E0509422BF5AE116264126E42FE72C1A605C9
+文件大小  = 116.79MB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|tw_windows_7_sp1_language_pack_x86_dvd_619609.iso|122464256|D5AB20F03A5A93933B67B24331C2773A|/

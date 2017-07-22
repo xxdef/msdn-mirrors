@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2016_rc_3_x64_dvd_8566578.iso
+SHA1      = FAA0781448BAA56702BCE7A379306C48457A95CE
+文件大小  = 2.3GB
+发布时间  = 2016-04-15
+下载链接  = ed2k://|file|cn_sql_server_2016_rc_3_x64_dvd_8566578.iso|2464823296|D648877A38C788E257C4F16AF62029CD|/

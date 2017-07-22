@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2014_management_studio_with_service_pack_1_x86_6673845.exe
+SHA1      = C2F5A102E201CE4528B5B9F89D71B310E6E0EFED
+文件大小  = 865.77MB
+发布时间  = 2015-05-21
+下载链接  = ed2k://|file|cn_sql_server_2014_management_studio_with_service_pack_1_x86_6673845.exe|907826552|16B7ECDB89C8D4597766BBB621DECE7E|/

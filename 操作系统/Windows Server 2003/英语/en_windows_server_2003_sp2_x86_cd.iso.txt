@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2003_sp2_x86_cd.iso
+SHA1      = AEAE93DEF8B8F5885BCEA9A24F4979E51637254B
+文件大小  = 523.21MB
+发布时间  = 2011-10-11
+下载链接  = ed2k://|file|en_windows_server_2003_sp2_x86_cd.iso|548630528|FBE60D3534E031E2569E6F77D9598700|/

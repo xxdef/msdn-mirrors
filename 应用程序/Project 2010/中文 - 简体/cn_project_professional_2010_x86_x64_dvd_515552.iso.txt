@@ -1,0 +1,5 @@
+文件名    = cn_project_professional_2010_x86_x64_dvd_515552.iso
+SHA1      = 6E051282A390B32A00A24C3DFB3836CE9545ADD3
+文件大小  = 878.16MB
+发布时间  = 2010-05-18
+下载链接  = ed2k://|file|cn_project_professional_2010_x86_x64_dvd_515552.iso|920821760|D2ED4783FBE6D302F1CBE57638D93232|/

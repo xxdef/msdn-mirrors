@@ -1,0 +1,5 @@
+文件名    = en_forefront_identity_manager_2010_x86_x64_498735.exe
+SHA1      = 363834111BB66F548E5D2598C44EFB9E4F51CDDD
+文件大小  = 124.99MB
+发布时间  = 2010-03-03
+下载链接  = ed2k://|file|en_forefront_identity_manager_2010_x86_x64_498735.exe|131060096|C96F4460A2C5D4CC817E27FB9CB1165D|/

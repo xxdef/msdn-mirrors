@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_ultimate_2015_preview_x86_dvd_5957669.iso
+SHA1      = CC162DB3BFB9BA973CB60F92597CF00451FF0F83
+文件大小  = 4.47GB
+发布时间  = 2014-11-14
+下载链接  = ed2k://|file|cn_visual_studio_ultimate_2015_preview_x86_dvd_5957669.iso|4795791360|4674C115869FF5C0CC01040405364BD6|/

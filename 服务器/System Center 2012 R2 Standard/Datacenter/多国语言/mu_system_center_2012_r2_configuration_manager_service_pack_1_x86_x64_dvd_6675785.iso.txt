@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2012_r2_configuration_manager_service_pack_1_x86_x64_dvd_6675785.iso
+SHA1      = FCFDB99D163DCC48E025D368F6FCF597D2041E31
+文件大小  = 5.75MB
+发布时间  = 2015-05-19
+下载链接  = ed2k://|file|mu_system_center_2012_r2_configuration_manager_service_pack_1_x86_x64_dvd_6675785.iso|6027264|E1B0C2540442548FA0658BD49B7440AD|/

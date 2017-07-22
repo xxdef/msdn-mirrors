@@ -1,0 +1,5 @@
+文件名    = en_sbs_2003_r2_prem_tech_cd1.iso
+SHA1      = B3C5479C5257D3B8168B6D7A821DB6DC5CAD27B7
+文件大小  = 448.13MB
+发布时间  = 2006-07-11
+下载链接  = ed2k://|file|en_sbs_2003_r2_prem_tech_cd1.iso|469899264|50590B04C894577ADC9C5547365C7525|/

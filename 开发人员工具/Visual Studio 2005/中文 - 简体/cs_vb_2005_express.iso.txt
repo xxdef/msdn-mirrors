@@ -1,0 +1,5 @@
+文件名    = cs_vb_2005_express.iso
+SHA1      = C1F79886C8DA2C46EC06413E916318870E6FA35D
+文件大小  = 511.28MB
+发布时间  = 2006-01-17
+下载链接  = ed2k://|file|cs_vb_2005_express.iso|536113152|9C42DC8DECF4AC791F4FFA1976579A00|/

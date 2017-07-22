@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_ultimate_2012_x86_dvd_920947.iso
+SHA1      = 6A2B87BCD336A96AC39CF85348E93E5AF45588EB
+文件大小  = 1.49GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|en_visual_studio_ultimate_2012_x86_dvd_920947.iso|1594998784|1BBECB1C7A892DA7D97EC4C840953915|/

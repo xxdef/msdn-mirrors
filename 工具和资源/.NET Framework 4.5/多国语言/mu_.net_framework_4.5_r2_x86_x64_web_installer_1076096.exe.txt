@@ -1,0 +1,5 @@
+文件名    = mu_.net_framework_4.5_r2_x86_x64_web_installer_1076096.exe
+SHA1      = F6BA6F03C65C3996A258F58324A917463B2D6FF4
+文件大小  = 982KB
+发布时间  = 2012-10-09
+下载链接  = ed2k://|file|mu_.net_framework_4.5_r2_x86_x64_web_installer_1076096.exe|1005568|CAE232B83D0FA6D483F0882306AE258D|/

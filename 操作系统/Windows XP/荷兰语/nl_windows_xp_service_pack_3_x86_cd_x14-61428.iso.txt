@@ -1,0 +1,5 @@
+文件名    = nl_windows_xp_service_pack_3_x86_cd_x14-61428.iso
+SHA1      = 94BC9E05ED8BEE8E78D0336C55A7CBC4D2B5DBCF
+文件大小  = 369.01MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|nl_windows_xp_service_pack_3_x86_cd_x14-61428.iso|386938880|92347D4F3CFFDAA93CCC615F9F672564|/

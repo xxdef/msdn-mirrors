@@ -1,0 +1,5 @@
+文件名    = cn_office_standard_2010_x86_x64_dvd_515788.iso
+SHA1      = 59E90578AEBD137D7777D8529EBEFF3513ECB21E
+文件大小  = 1.43GB
+发布时间  = 2010-05-10
+下载链接  = ed2k://|file|cn_office_standard_2010_x86_x64_dvd_515788.iso|1539518464|A79965D702B53414DFA98DA074A30035|/

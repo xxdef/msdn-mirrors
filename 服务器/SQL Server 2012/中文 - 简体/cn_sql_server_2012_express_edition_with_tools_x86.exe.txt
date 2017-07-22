@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_express_edition_with_tools_x86.exe
+SHA1      = 13492906711143B60CEC5B3004C2848D567AAB18
+文件大小  = 757.93MB
+发布时间  = 2012-03-08
+下载链接  = ed2k://|file|cn_sql_server_2012_express_edition_with_tools_x86.exe|794750040|68FBB151065741848C6FA484AE196797|/

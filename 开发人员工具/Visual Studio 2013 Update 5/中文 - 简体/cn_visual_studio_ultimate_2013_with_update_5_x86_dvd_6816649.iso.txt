@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_ultimate_2013_with_update_5_x86_dvd_6816649.iso
+SHA1      = 87269A0C8AE4ACBF515532F0759F6029167A318B
+文件大小  = 5.18GB
+发布时间  = 2015-07-20
+下载链接  = ed2k://|file|cn_visual_studio_ultimate_2013_with_update_5_x86_dvd_6816649.iso|5567336448|641555AD6472A98923B29CC5E371461E|/

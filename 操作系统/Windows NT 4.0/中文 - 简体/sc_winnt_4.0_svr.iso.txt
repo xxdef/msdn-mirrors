@@ -1,0 +1,5 @@
+文件名    = sc_winnt_4.0_svr.iso
+SHA1      = BAA6612A833BC364077048497A95B8456CD9CC81
+文件大小  = 645.21MB
+发布时间  = 2003-12-19
+下载链接  = ed2k://|file|sc_winnt_4.0_svr.iso|676548608|3BCB905EB3A6ED9AB685B5701BF94A29|/

@@ -1,0 +1,5 @@
+文件名    = ru_windows_7_ultimate_x86_dvd_x15-65951.iso
+SHA1      = 65F13D79C4C6260B83F74C764DFDCE14C2AC2634
+文件大小  = 2.26GB
+发布时间  = 2009-08-29
+下载链接  = ed2k://|file|ru_windows_7_ultimate_x86_dvd_x15-65951.iso|2426210304|CEA24347613026671A2FE18A3F5F6660|/

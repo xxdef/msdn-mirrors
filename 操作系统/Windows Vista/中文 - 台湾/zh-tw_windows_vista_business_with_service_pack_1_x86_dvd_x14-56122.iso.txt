@@ -1,0 +1,5 @@
+文件名    = zh-tw_windows_vista_business_with_service_pack_1_x86_dvd_x14-56122.iso
+SHA1      = 3497E4D0321C2AFF2BE630F66F569B9A5E7EA797
+文件大小  = 2.07GB
+发布时间  = 2008-04-14
+下载链接  = ed2k://|file|zh-tw_windows_vista_business_with_service_pack_1_x86_dvd_x14-56122.iso|2218766336|4FAAEA3EAF51ED46E9DB9CAC9BDA584B|/

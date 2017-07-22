@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2008_r2_developer_x86_x64_ia64_dvd_522724.iso
+SHA1      = AAE0E2D4E41AB7591634D53C7BC76A112F31B617
+文件大小  = 4.34GB
+发布时间  = 2010-05-03
+下载链接  = ed2k://|file|cn_sql_server_2008_r2_developer_x86_x64_ia64_dvd_522724.iso|4662884352|E436F05BCB0165FDF7E5E61862AB6BE1|/

@@ -1,0 +1,5 @@
+文件名    = ct_.net_framework_4.5_language_pack_x86_x64_921027.exe
+SHA1      = A596EA0A9BBFA3C2E387AADEB68C32B62EDD4889
+文件大小  = 3.93MB
+发布时间  = 2012-10-09
+下载链接  = ed2k://|file|ct_.net_framework_4.5_language_pack_x86_x64_921027.exe|4118272|827C4BD93EF6E93E9D2636BEB4504D97|/

@@ -1,0 +1,5 @@
+文件名    = tw_windows_server_2008_r2_standard_enterprise_datacenter_and_web_with_sp1_x64_dvd_617595.iso
+SHA1      = 39B0C55C9CD3EBDF545CA7B940B5F20957D0986D
+文件大小  = 3.1GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|tw_windows_server_2008_r2_standard_enterprise_datacenter_and_web_with_sp1_x64_dvd_617595.iso|3326828544|E97AB3A9E6456D98F72B0CD2D066A416|/

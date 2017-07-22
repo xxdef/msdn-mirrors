@@ -1,0 +1,5 @@
+文件名    = mu_user_experience_virtualization_2.1_x86_x64_dvd_6110939.iso
+SHA1      = 02FAA5F457E78D1694D64E00C36FD02009C5A8D5
+文件大小  = 71.69MB
+发布时间  = 2014-12-18
+下载链接  = ed2k://|file|mu_user_experience_virtualization_2.1_x86_x64_dvd_6110939.iso|75175936|AE8BD2599FEA8899229F18A83C01BD88|/

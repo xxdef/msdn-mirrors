@@ -1,0 +1,5 @@
+文件名    = en_xna_framework_redistributable_4.0_refresh_x86.msi
+SHA1      = 7A7B99A71D4ACA7BF91B8824D34C9E35096CAA97
+文件大小  = 6.73MB
+发布时间  = 2012-01-13
+下载链接  = ed2k://|file|en_xna_framework_redistributable_4.0_refresh_x86.msi|7060992|BC24C98CA04DAD1EC6B60500B00B3863|/

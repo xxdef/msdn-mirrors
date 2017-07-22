@@ -1,0 +1,5 @@
+文件名    = cn_biztalk_server_2010_developer_edition_x86_x64.exe
+SHA1      = E9CE85597875B605F5AD76B75C30FEBE56C67E27
+文件大小  = 563.57MB
+发布时间  = 2010-10-01
+下载链接  = ed2k://|file|cn_biztalk_server_2010_developer_edition_x86_x64.exe|590942040|4D0CC04A0AD7373BAEC1AA25A3AF7432|/

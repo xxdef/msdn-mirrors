@@ -1,0 +1,5 @@
+文件名    = en_win_xp_home_ed_n.iso
+SHA1      = 896545390B82C26DDEE61059AAF31D66AAD8FB88
+文件大小  = 583.75MB
+发布时间  = 2005-06-29
+下载链接  = ed2k://|file|en_win_xp_home_ed_n.iso|612108288|6395AF911007B4025B40D23DCA37A52E|/

@@ -1,0 +1,5 @@
+文件名    = fr_windows_7_ultimate_x86_dvd_x15-65927.iso
+SHA1      = D3AA150417507F38F8369DC2A010B37AA1C58A7B
+文件大小  = 2.28GB
+发布时间  = 2009-08-14
+下载链接  = ed2k://|file|fr_windows_7_ultimate_x86_dvd_x15-65927.iso|2448254976|4F8948E33F22DC97BFC7AB0A9E2063BD|/

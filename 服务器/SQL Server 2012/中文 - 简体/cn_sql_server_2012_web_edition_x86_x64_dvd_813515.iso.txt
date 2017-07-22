@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_web_edition_x86_x64_dvd_813515.iso
+SHA1      = 02D3B0BE205235599E47B1441985BACB1EBC0C5E
+文件大小  = 4.71GB
+发布时间  = 2012-03-07
+下载链接  = ed2k://|file|cn_sql_server_2012_web_edition_x86_x64_dvd_813515.iso|5054384128|54CD216C2203F05D071AD57BCE425E11|/

@@ -1,0 +1,5 @@
+文件名    = ja_windows_8_x64_dvd_915411.iso
+SHA1      = E8260751B66008C94D3ABD48557BBEC8338A8693
+文件大小  = 3.34GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|ja_windows_8_x64_dvd_915411.iso|3590193152|F95D554DC8CEA3453259A0AE07D9817D|/

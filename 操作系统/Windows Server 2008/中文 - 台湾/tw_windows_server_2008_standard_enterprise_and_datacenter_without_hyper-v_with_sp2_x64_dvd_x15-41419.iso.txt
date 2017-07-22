@@ -1,0 +1,5 @@
+文件名    = tw_windows_server_2008_standard_enterprise_and_datacenter_without_hyper-v_with_sp2_x64_dvd_x15-41419.iso
+SHA1      = 9A306A77E59265C4A265ACFEE0B0F05865089B62
+文件大小  = 2.68GB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|tw_windows_server_2008_standard_enterprise_and_datacenter_without_hyper-v_with_sp2_x64_dvd_x15-41419.iso|2877140992|91B7EA22D8DA096C6F61AD9F92A9839A|/

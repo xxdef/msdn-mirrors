@@ -1,0 +1,5 @@
+文件名    = zh_expression_web_1_cd_X13-09212.iso
+SHA1      = 83C1A0DB15FE162CC2F6C3FA032B3FBDA691DE19
+文件大小  = 396.16MB
+发布时间  = 2007-04-13
+下载链接  = ed2k://|file|zh_expression_web_1_cd_X13-09212.iso|415404032|43C781C496B044960D57C08E483D8B48|/

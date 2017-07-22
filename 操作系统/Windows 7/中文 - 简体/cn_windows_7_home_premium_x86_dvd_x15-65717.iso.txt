@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_home_premium_x86_dvd_x15-65717.iso
+SHA1      = CBA410DB30FA1561F874E1CC155E575F4A836B37
+文件大小  = 2.43GB
+发布时间  = 2009-08-26
+下载链接  = ed2k://|file|cn_windows_7_home_premium_x86_dvd_x15-65717.iso|2604238848|98E1EB474F92343B06737F227665DF1C|/

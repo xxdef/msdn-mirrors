@@ -1,0 +1,5 @@
+文件名    = cn_office_project_standard_2007_cd_X12-18939.iso
+SHA1      = 492F091E5B59CC1D3EE43A88B12B76D7D02EAB7E
+文件大小  = 371.91MB
+发布时间  = 2007-03-29
+下载链接  = ed2k://|file|cn_office_project_standard_2007_cd_X12-18939.iso|389980160|0E54EFD2D4A0E50DE6815BA787C52CFB|/

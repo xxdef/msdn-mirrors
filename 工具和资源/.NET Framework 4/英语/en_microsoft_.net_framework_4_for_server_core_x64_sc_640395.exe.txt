@@ -1,0 +1,5 @@
+文件名    = en_microsoft_.net_framework_4_for_server_core_x64_sc_640395.exe
+SHA1      = A7DFE5080029BCEDBC2882CB1E2708F13E317C03
+文件大小  = 48.12MB
+发布时间  = 2011-02-21
+下载链接  = ed2k://|file|en_microsoft_.net_framework_4_for_server_core_x64_sc_640395.exe|50452584|A0590F39D7615E0BB397BFE59BFE9671|/

@@ -1,0 +1,5 @@
+文件名    = en_visio_professional_2013_x86_1123796.exe
+SHA1      = cc91588734c11afa15703e29169919fd476e4e60
+文件大小  = 341.05MB
+发布时间  = 2012-10-24
+下载链接  = ed2k://|file|en_visio_professional_2013_x86_1123796.exe|357615384|194061357BEFC924A4E0D278F9BD22B7|/

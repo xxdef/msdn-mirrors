@@ -1,0 +1,5 @@
+文件名    = en_office_standard_2010_x64_515548.exe
+SHA1      = FE21915C54C552A4D1A7D394A1CA5E7E6BD769BA
+文件大小  = 578.3MB
+发布时间  = 2010-05-10
+下载链接  = ed2k://|file|en_office_standard_2010_x64_515548.exe|606395984|CBC9FDB6B3297F59BA0ECBFE60FFA33D|/

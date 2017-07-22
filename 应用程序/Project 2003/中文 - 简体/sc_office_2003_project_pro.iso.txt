@@ -1,0 +1,5 @@
+文件名    = sc_office_2003_project_pro.iso
+SHA1      = 363EC0C76A0BBC69487A35020415D03F7AE7E64D
+文件大小  = 403.68MB
+发布时间  = 2003-10-23
+下载链接  = ed2k://|file|sc_office_2003_project_pro.iso|423288832|0EA1E18020963B76604D6F8607DB18A6|/

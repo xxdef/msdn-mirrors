@@ -1,0 +1,5 @@
+文件名    = hk_client_restore_disc_windows_home_server_2011_x86_x64_cd_661281.iso
+SHA1      = 5F4C96AEE499843340E2E2A27E0B559BBD35E1C1
+文件大小  = 461.06MB
+发布时间  = 2011-04-05
+下载链接  = ed2k://|file|hk_client_restore_disc_windows_home_server_2011_x86_x64_cd_661281.iso|483457024|A328C685E57422DD879D7B5FF60B201D|/

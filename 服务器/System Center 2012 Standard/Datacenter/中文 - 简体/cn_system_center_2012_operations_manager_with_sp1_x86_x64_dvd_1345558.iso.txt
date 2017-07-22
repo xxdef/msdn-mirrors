@@ -1,0 +1,5 @@
+文件名    = cn_system_center_2012_operations_manager_with_sp1_x86_x64_dvd_1345558.iso
+SHA1      = 6EE22CD010830C3CE0D707F87A8FE6FCA4584C01
+文件大小  = 1.04GB
+发布时间  = 2012-12-11
+下载链接  = ed2k://|file|cn_system_center_2012_operations_manager_with_sp1_x86_x64_dvd_1345558.iso|1121304576|54B4E9FCAADBF82EEE5268BE9FCBC707|/

@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_2010_premium_x86_dvd_509357.iso
+SHA1      = A4E69966496AD0F704FE9D97FAC2A723EF75A99B
+文件大小  = 2.27GB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_visual_studio_2010_premium_x86_dvd_509357.iso|2439485440|C72F6195CAC0932AA5B6861AE863FDBC|/

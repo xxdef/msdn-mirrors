@@ -1,0 +1,5 @@
+文件名    = fr_office_professional_plus_2010_x64_517162.exe
+SHA1      = 8E758B278D4B8EAE6F0E0473F8D552C1611B661A
+文件大小  = 742.04MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|fr_office_professional_plus_2010_x64_517162.exe|778088896|C5143FF5089FDFBCD7D31AB8185A8DA0|/

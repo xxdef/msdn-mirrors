@@ -1,0 +1,5 @@
+文件名    = en_windows_10_iot_core_for_minnowboard_max_version_1607_updated_jul_2016_x86_dvd_9055342.iso
+SHA1      = DEE908F674E7679B01939311BD6CC9878B976DB8
+文件大小  = 657.4MB
+发布时间  = 2016-08-02
+下载链接  = ed2k://|file|en_windows_10_iot_core_for_minnowboard_max_version_1607_updated_jul_2016_x86_dvd_9055342.iso|689330176|45D3370B241C6C24F64808C053AC5032|/

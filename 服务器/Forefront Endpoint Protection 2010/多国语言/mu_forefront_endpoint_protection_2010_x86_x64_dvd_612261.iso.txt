@@ -1,0 +1,5 @@
+文件名    = mu_forefront_endpoint_protection_2010_x86_x64_dvd_612261.iso
+SHA1      = 0A43C9920220508C46BAAF520C174E6FA25108FA
+文件大小  = 327.05MB
+发布时间  = 2010-12-16
+下载链接  = ed2k://|file|mu_forefront_endpoint_protection_2010_x86_x64_dvd_612261.iso|342941696|A5418211748A7EECCA6DB372DE28E6AB|/

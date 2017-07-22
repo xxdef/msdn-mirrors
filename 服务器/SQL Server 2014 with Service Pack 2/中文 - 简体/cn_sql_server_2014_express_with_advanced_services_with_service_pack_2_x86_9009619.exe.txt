@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2014_express_with_advanced_services_with_service_pack_2_x86_9009619.exe
+SHA1      = 809417FDD27D5DAC24A2069F1BC8CB56F97B14ED
+文件大小  = 1.48GB
+发布时间  = 2016-07-14
+下载链接  = ed2k://|file|cn_sql_server_2014_express_with_advanced_services_with_service_pack_2_x86_9009619.exe|1589381968|C282393D5C5230BF2895193EE7575F6E|/

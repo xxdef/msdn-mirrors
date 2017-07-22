@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_premium_2013_with_update_4_x86_dvd_5935091.iso
+SHA1      = B0DF0C91023A9EEBE126D13F81002FB20D27811B
+文件大小  = 7.07GB
+发布时间  = 2014-11-12
+下载链接  = ed2k://|file|cn_visual_studio_premium_2013_with_update_4_x86_dvd_5935091.iso|7589296128|C0230989B1CF80645DEA561468A59A85|/

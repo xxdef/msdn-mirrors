@@ -1,0 +1,5 @@
+文件名    = tr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74085.iso
+SHA1      = FFE7B82B32EC55F0EFAE0EEFD5F081B4E921119B
+文件大小  = 591.4MB
+发布时间  = 2008-05-14
+下载链接  = ed2k://|file|tr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74085.iso|620128256|F2E33D45D00055F2E2A41A6EFA1C81B4|/

@@ -1,0 +1,5 @@
+文件名    = cn_exchange_server_2007_service_pack_2_x86.exe
+SHA1      = 6ACC437CE78E9F81424F43731106AE87206579A0
+文件大小  = 1.06GB
+发布时间  = 2009-10-05
+下载链接  = ed2k://|file|cn_exchange_server_2007_service_pack_2_x86.exe|1137742592|8ED86102A8A78E06BEBA0D1B895B5717|/

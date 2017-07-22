@@ -1,0 +1,5 @@
+文件名    = zh-hans_windows_vista_with_service_pack_1_x86_dvd_x14-30732.iso
+SHA1      = E2898C28A31D38D064C999CE5C92156C6A4DAE05
+文件大小  = 2.75GB
+发布时间  = 2008-04-14
+下载链接  = ed2k://|file|zh-hans_windows_vista_with_service_pack_1_x86_dvd_x14-30732.iso|2948851712|78927112D52EA2B1D4357583F041A20E|/

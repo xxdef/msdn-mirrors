@@ -1,0 +1,5 @@
+文件名    = ko_msdos62.exe
+SHA1      = 38FC1AC768FEF6DBC9EDB1BBE5FFEC9624D8641A
+文件大小  = 5.6MB
+发布时间  = 2000-03-02
+下载链接  = ed2k://|file|ko_msdos62.exe|5874064|F706222F71ADD2850D7F1DA8B37C4BBD|/

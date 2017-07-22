@@ -1,0 +1,5 @@
+文件名    = ct_windows_10_enterprise_version_1607_updated_jul_2016_x86_dvd_9059878.iso
+SHA1      = DB50352C098284CF9B1E46ABCE4A58A9DA3ED057
+文件大小  = 2.8GB
+发布时间  = 2016-08-02
+下载链接  = ed2k://|file|ct_windows_10_enterprise_version_1607_updated_jul_2016_x86_dvd_9059878.iso|3003564032|14F50AF96E87894D731E1DBF20D70B7F|/

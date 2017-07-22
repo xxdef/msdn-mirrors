@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_home_premium_with_sp1_x86_dvd_u_676770.iso
+SHA1      = 1B3B55C00CA60CE00D7745BF477D523B192E78DE
+文件大小  = 2.47GB
+发布时间  = 2011-05-12
+下载链接  = ed2k://|file|cn_windows_7_home_premium_with_sp1_x86_dvd_u_676770.iso|2653276160|A8E8BD4421174DF34BD14D60750B3CDB|/

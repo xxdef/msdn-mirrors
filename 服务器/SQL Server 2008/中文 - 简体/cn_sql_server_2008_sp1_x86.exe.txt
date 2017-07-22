@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2008_sp1_x86.exe
+SHA1      = 24F0BB0BC6710546F9BB23A8C43E1FB11DE8DE4B
+文件大小  = 268.5MB
+发布时间  = 2009-04-12
+下载链接  = ed2k://|file|cn_sql_server_2008_sp1_x86.exe|281546576|A8DDA768996EC0BA4B0DC598C32D5752|/

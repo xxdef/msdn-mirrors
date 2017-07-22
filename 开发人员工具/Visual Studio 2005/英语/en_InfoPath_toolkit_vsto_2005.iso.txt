@@ -1,0 +1,5 @@
+文件名    = en_InfoPath_toolkit_vsto_2005.iso
+SHA1      = E0E84F52E31CD546C177353FFBAB06E6C67A1E52
+文件大小  = 6.67MB
+发布时间  = 2005-10-27
+下载链接  = ed2k://|file|en_InfoPath_toolkit_vsto_2005.iso|6995968|088058A0E719A2752E02A95495730041|/

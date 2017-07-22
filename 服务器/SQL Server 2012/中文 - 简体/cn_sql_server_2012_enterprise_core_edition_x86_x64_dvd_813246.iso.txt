@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_enterprise_core_edition_x86_x64_dvd_813246.iso
+SHA1      = EDF04E22CB0C7ABE856392C949DF8EC124752565
+文件大小  = 4.71GB
+发布时间  = 2012-03-07
+下载链接  = ed2k://|file|cn_sql_server_2012_enterprise_core_edition_x86_x64_dvd_813246.iso|5054384128|B083221857294085F437113BEDDC6B2A|/

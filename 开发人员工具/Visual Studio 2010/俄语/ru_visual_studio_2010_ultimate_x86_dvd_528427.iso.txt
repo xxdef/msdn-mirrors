@@ -1,0 +1,5 @@
+文件名    = ru_visual_studio_2010_ultimate_x86_dvd_528427.iso
+SHA1      = EB2F8E6C6633C42102176618DAAF8D75DB4D04D6
+文件大小  = 2.55GB
+发布时间  = 2010-05-20
+下载链接  = ed2k://|file|ru_visual_studio_2010_ultimate_x86_dvd_528427.iso|2739044352|B09CCE68E964980D4649AD56F163C155|/

@@ -1,0 +1,5 @@
+文件名    = ct_project_server_2010_with_service_pack_1_x64_dvd_759846.iso
+SHA1      = 262E17B83F7BA229026FADCD039534CBE70DD54A
+文件大小  = 89.05MB
+发布时间  = 2011-11-11
+下载链接  = ed2k://|file|ct_project_server_2010_with_service_pack_1_x64_dvd_759846.iso|93374464|4006520FB0601529D12E6A985E94DAF2|/

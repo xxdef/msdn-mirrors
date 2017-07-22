@@ -1,0 +1,5 @@
+文件名    = ja_office_language_pack_2010_x86_dvd_515928.iso
+SHA1      = 746E8FC5FFD94FB724D017D1E9FAB3CE4DB219A7
+文件大小  = 558.49MB
+发布时间  = 2010-07-09
+下载链接  = ed2k://|file|ja_office_language_pack_2010_x86_dvd_515928.iso|585617408|21E348E4F580D893D06BA115B87A183F|/

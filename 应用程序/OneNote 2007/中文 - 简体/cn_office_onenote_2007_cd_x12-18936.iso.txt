@@ -1,0 +1,5 @@
+文件名    = cn_office_onenote_2007_cd_x12-18936.iso
+SHA1      = A5F5AAC43C1AC6ADE855D54527A778145CA2BEED
+文件大小  = 390.97MB
+发布时间  = 2007-03-29
+下载链接  = ed2k://|file|cn_office_onenote_2007_cd_x12-18936.iso|409966592|A1F8317C5F35CBBD6F967379E303259D|/

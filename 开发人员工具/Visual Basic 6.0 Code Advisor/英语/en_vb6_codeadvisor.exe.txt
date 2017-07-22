@@ -1,0 +1,5 @@
+文件名    = en_vb6_codeadvisor.exe
+SHA1      = 9235C8973D047AD56D7971E32FDABED15E001C93
+文件大小  = 4.8MB
+发布时间  = 2006-02-15
+下载链接  = ed2k://|file|en_vb6_codeadvisor.exe|5028080|F1E10931D559226A37D7BF1B894C15ED|/

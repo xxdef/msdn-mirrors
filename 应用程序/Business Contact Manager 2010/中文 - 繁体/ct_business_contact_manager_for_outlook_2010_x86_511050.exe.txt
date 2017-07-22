@@ -1,0 +1,5 @@
+文件名    = ct_business_contact_manager_for_outlook_2010_x86_511050.exe
+SHA1      = A906A355C163751A52900F8CE47E06ADC84FF9DE
+文件大小  = 434.79MB
+发布时间  = 2010-06-01
+下载链接  = ed2k://|file|ct_business_contact_manager_for_outlook_2010_x86_511050.exe|455915296|A2B7F5E64264CDF5128D9B53109FB5E9|/

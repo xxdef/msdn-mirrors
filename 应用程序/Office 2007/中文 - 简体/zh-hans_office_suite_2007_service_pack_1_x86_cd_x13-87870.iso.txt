@@ -1,0 +1,5 @@
+文件名    = zh-hans_office_suite_2007_service_pack_1_x86_cd_x13-87870.iso
+SHA1      = 3AF941C62072A9FE95436C2FF20C4B87184E9B81
+文件大小  = 549.46MB
+发布时间  = 2008-05-09
+下载链接  = ed2k://|file|zh-hans_office_suite_2007_service_pack_1_x86_cd_x13-87870.iso|576151552|03E502286FE1AA2C4B954EE81328EF8D|/

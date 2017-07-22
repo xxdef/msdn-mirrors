@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_2008_professional_x86_dvd_X14-26326.iso
+SHA1      = 69702515F0D7E085CBEC39BFF3A3B7AE5050CA3C
+文件大小  = 3.31GB
+发布时间  = 2007-11-21
+下载链接  = ed2k://|file|en_visual_studio_2008_professional_x86_dvd_X14-26326.iso|3554287616|46C8C3EF0FB4E67A50971E41B4B1FF0A|/

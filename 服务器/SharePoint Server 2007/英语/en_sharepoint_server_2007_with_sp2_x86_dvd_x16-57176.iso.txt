@@ -1,0 +1,5 @@
+文件名    = en_sharepoint_server_2007_with_sp2_x86_dvd_x16-57176.iso
+SHA1      = F03CAB8A7F3B08FB21C4742792BE03FE175C536E
+文件大小  = 507.55MB
+发布时间  = 2010-01-20
+下载链接  = ed2k://|file|en_sharepoint_server_2007_with_sp2_x86_dvd_x16-57176.iso|532201472|9CC3F41E6039358903E0576A5EEC58C3|/

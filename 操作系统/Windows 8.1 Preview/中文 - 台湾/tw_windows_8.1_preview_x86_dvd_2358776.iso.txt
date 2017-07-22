@@ -1,0 +1,5 @@
+文件名    = tw_windows_8.1_preview_x86_dvd_2358776.iso
+SHA1      = 3FEB4BB7A515DB8DCF8130B0852B42E64E8D79BF
+文件大小  = 2.71GB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|tw_windows_8.1_preview_x86_dvd_2358776.iso|2910945280|5575F1626C6F9989D413EC5F55772914|/

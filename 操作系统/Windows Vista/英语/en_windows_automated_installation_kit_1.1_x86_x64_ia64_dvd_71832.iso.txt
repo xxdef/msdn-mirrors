@@ -1,0 +1,5 @@
+文件名    = en_windows_automated_installation_kit_1.1_x86_x64_ia64_dvd_71832.iso
+SHA1      = CBCAA2BC0A42DBA4FAFFD0FCB9B460916210136F
+文件大小  = 1.17GB
+发布时间  = 2008-02-15
+下载链接  = ed2k://|file|en_windows_automated_installation_kit_1.1_x86_x64_ia64_dvd_71832.iso|1254205440|F5A99A8DE8E0148C833F6FD79D1B6A42|/

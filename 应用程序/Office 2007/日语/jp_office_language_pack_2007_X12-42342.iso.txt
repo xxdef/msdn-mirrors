@@ -1,0 +1,5 @@
+文件名    = jp_office_language_pack_2007_X12-42342.iso
+SHA1      = 6604917D50AA3F88FE4B4E41CD48168763155F82
+文件大小  = 464.34MB
+发布时间  = 2006-11-28
+下载链接  = ed2k://|file|jp_office_language_pack_2007_X12-42342.iso|486891520|FA86AD5DD93025010FF34FAAEFE6B4A4|/

@@ -1,0 +1,5 @@
+文件名    = el_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73988.iso
+SHA1      = 3A108A5E542A9A4A75E69122FFB5933B5573DB69
+文件大小  = 595.58MB
+发布时间  = 2008-05-14
+下载链接  = ed2k://|file|el_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73988.iso|624510976|5D1D21DB0184C96F6E5B3456823C20CE|/

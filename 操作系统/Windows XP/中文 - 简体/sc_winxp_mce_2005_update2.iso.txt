@@ -1,0 +1,5 @@
+文件名    = sc_winxp_mce_2005_update2.iso
+SHA1      = 1C52FF0C7A672F6BEB2B043EA5269945C15507F9
+文件大小  = 29.04MB
+发布时间  = 2005-10-13
+下载链接  = ed2k://|file|sc_winxp_mce_2005_update2.iso|30445568|68D5D8762761D17B22154B6E35CAD892|/

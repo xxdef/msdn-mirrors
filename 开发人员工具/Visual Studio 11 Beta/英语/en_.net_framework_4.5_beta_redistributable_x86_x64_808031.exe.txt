@@ -1,0 +1,5 @@
+文件名    = en_.net_framework_4.5_beta_redistributable_x86_x64_808031.exe
+SHA1      = 69CAA2978683ED30038F86F2C94CE53AC3BBC0E2
+文件大小  = 49.66MB
+发布时间  = 2012-02-29
+下载链接  = ed2k://|file|en_.net_framework_4.5_beta_redistributable_x86_x64_808031.exe|52070032|7E24A1CBBA9C9FDE77316A1C3BB0FF3F|/

@@ -1,0 +1,5 @@
+文件名    = mu_microsoft_desktop_optimization_pack_2015_x86_x64_dvd_5975282.iso
+SHA1      = ACD095C74A23FA67C9787A9C4014CB278B5B520C
+文件大小  = 2.8GB
+发布时间  = 2015-08-17
+下载链接  = ed2k://|file|mu_microsoft_desktop_optimization_pack_2015_x86_x64_dvd_5975282.iso|3003398144|9CDF964D590C76D3C8E5B948A10F94F0|/

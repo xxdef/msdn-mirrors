@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2014_express_with_advanced_services_x64_exe_3949524.exe
+SHA1      = C8CFAE2629EE1A03833BF8C453BC6A435A3E3C82
+文件大小  = 1.18GB
+发布时间  = 2014-04-01
+下载链接  = ed2k://|file|cn_sql_server_2014_express_with_advanced_services_x64_exe_3949524.exe|1265331856|507F2CE5F577BD6AD6E0ED140F28CF41|/

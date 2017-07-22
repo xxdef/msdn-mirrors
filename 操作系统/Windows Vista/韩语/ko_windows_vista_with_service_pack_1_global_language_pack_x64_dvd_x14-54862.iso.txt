@@ -1,0 +1,5 @@
+文件名    = ko_windows_vista_with_service_pack_1_global_language_pack_x64_dvd_x14-54862.iso
+SHA1      = A0A736E1E06B2159BD22BF8E899BAF2A9C46995D
+文件大小  = 158.45MB
+发布时间  = 2008-06-10
+下载链接  = ed2k://|file|ko_windows_vista_with_service_pack_1_global_language_pack_x64_dvd_x14-54862.iso|166144000|A0CEE8EA767ED579429ECCBC0F486D86|/

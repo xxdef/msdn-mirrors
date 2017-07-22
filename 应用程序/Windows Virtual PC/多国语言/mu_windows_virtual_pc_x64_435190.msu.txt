@@ -1,0 +1,5 @@
+文件名    = mu_windows_virtual_pc_x64_435190.msu
+SHA1      = F86E6E84B2CF9CCA6D0061BC59905BB8ABF21F0B
+文件大小  = 9.87MB
+发布时间  = 2009-10-07
+下载链接  = ed2k://|file|mu_windows_virtual_pc_x64_435190.msu|10352728|120ABC4561C72D5D463B00D1FC649BA7|/

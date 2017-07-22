@@ -1,0 +1,5 @@
+文件名    = tw_windows_storage_server_2008_embedded_language_pack_dvd_x86_x14-21035.iso
+SHA1      = 30AA67A89700568CB8E0977F26402C902C14AF09
+文件大小  = 62.72MB
+发布时间  = 2009-05-06
+下载链接  = ed2k://|file|tw_windows_storage_server_2008_embedded_language_pack_dvd_x86_x14-21035.iso|65771520|C2E892C193736F55DF68E8266EF93F45|/

@@ -1,0 +1,5 @@
+文件名    = hk_windows_8_enterprise_x86_dvd_917684.iso
+SHA1      = 9F7A04F0B62CBED2803CE1023B0EAD85E6A93248
+文件大小  = 2.43GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|hk_windows_8_enterprise_x86_dvd_917684.iso|2604664832|0660D486B7A0B4D28C2D5433BCCA12CB|/

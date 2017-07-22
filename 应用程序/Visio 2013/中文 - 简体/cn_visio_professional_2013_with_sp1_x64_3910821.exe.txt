@@ -1,0 +1,5 @@
+文件名    = cn_visio_professional_2013_with_sp1_x64_3910821.exe
+SHA1      = 1002A9531A740DAFF5239078492D0AB0D69C2C93
+文件大小  = 539.85MB
+发布时间  = 2014-03-18
+下载链接  = ed2k://|file|cn_visio_professional_2013_with_sp1_x64_3910821.exe|566078120|238DBAB9F597E05EB93C06229AF3A57B|/

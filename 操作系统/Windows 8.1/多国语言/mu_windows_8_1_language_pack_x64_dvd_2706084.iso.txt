@@ -1,0 +1,5 @@
+文件名    = mu_windows_8_1_language_pack_x64_dvd_2706084.iso
+SHA1      = 4D567D72CBFF463F5C2C64B0B221E7A408240183
+文件大小  = 1.83GB
+发布时间  = 2013-09-09
+下载链接  = ed2k://|file|mu_windows_8_1_language_pack_x64_dvd_2706084.iso|1963837440|9674DB2E8AA613C0E3D81A5522C2E348|/

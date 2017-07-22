@@ -1,0 +1,5 @@
+文件名    = en_windows_embedded_standard_7_toolkit_x86_dvd_521705.iso
+SHA1      = 2EE47F0B1CD2D28529F496E195914BD12F50A00D
+文件大小  = 4.23GB
+发布时间  = 2010-05-13
+下载链接  = ed2k://|file|en_windows_embedded_standard_7_toolkit_x86_dvd_521705.iso|4541947904|6D2DC536DA4442F3BDC086A229B5B707|/

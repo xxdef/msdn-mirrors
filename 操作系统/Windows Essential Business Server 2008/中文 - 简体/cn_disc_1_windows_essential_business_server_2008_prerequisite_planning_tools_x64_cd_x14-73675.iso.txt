@@ -1,0 +1,5 @@
+文件名    = cn_disc_1_windows_essential_business_server_2008_prerequisite_planning_tools_x64_cd_x14-73675.iso
+SHA1      = 255FAA96DC8A94F8B339D96EA565878B78171659
+文件大小  = 54.14MB
+发布时间  = 2008-12-10
+下载链接  = ed2k://|file|cn_disc_1_windows_essential_business_server_2008_prerequisite_planning_tools_x64_cd_x14-73675.iso|56772608|DD46DF18E5CF1938D25C35DF7AD4BFD9|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_thin_pc_x86_697681.iso
+SHA1      = CC181653C1BAAF85337CDA069E35D0D94F99CCA9
+文件大小  = 1.47GB
+发布时间  = 2011-07-01
+下载链接  = ed2k://|file|en_windows_thin_pc_x86_697681.iso|1576980480|2D0E6A048EB3F314F556B4F0834A95E2|/

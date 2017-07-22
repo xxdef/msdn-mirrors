@@ -1,0 +1,5 @@
+文件名    = en_sql_server_2014_standard_edition_with_service_pack_1_x86_dvd_6669994.iso
+SHA1      = 8C133A95F0214A2E3E94B85D24E31B19BA522E1F
+文件大小  = 2.4GB
+发布时间  = 2015-05-21
+下载链接  = ed2k://|file|en_sql_server_2014_standard_edition_with_service_pack_1_x86_dvd_6669994.iso|2582112256|88C5B9F0B1D8033542D82982DF156BF8|/

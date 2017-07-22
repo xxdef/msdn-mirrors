@@ -1,0 +1,5 @@
+文件名    = en_mappoint_2009_european_maps_dvd_x86_x15-07078.iso
+SHA1      = CDE105275C0EC0ACE6B56A2F69EE4E058B4081F9
+文件大小  = 1.81GB
+发布时间  = 2008-11-20
+下载链接  = ed2k://|file|en_mappoint_2009_european_maps_dvd_x86_x15-07078.iso|1940772864|804AF42DC46B8D84C1DC4665EA3A1D0D|/

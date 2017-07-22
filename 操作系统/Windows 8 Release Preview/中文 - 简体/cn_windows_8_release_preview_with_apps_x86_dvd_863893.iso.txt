@@ -1,0 +1,5 @@
+文件名    = cn_windows_8_release_preview_with_apps_x86_dvd_863893.iso
+SHA1      = F9FAF5910275832EA03F630CD5803565C03C8F31
+文件大小  = 2.48GB
+发布时间  = 2012-05-31
+下载链接  = ed2k://|file|cn_windows_8_release_preview_with_apps_x86_dvd_863893.iso|2662119424|111EE6C6F83CC93A0D7F13178A9D6F03|/

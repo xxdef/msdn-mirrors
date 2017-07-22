@@ -1,0 +1,5 @@
+文件名    = cs_sql_2005_ent_x86_cd1.iso
+SHA1      = 38709ADB9CA5744C4A46015A73C91AD2995AAB77
+文件大小  = 421.42MB
+发布时间  = 2006-01-19
+下载链接  = ed2k://|file|cs_sql_2005_ent_x86_cd1.iso|441892864|694580DCB5E41530F3AEBB38456FC554|/

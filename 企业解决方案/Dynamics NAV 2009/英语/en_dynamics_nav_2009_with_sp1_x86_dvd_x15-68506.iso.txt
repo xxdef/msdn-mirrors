@@ -1,0 +1,5 @@
+文件名    = en_dynamics_nav_2009_with_sp1_x86_dvd_x15-68506.iso
+SHA1      = 2712BA269D04A3DA0F5F4A4D7ECA2AFB3E60DFDA
+文件大小  = 1.51GB
+发布时间  = 2009-09-13
+下载链接  = ed2k://|file|en_dynamics_nav_2009_with_sp1_x86_dvd_x15-68506.iso|1616723968|9B1D3D21C53681529CB4E2C65A97F2C4|/

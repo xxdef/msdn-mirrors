@@ -1,0 +1,5 @@
+文件名    = en_mappoint_2006_standard_europe_cd1_X11-44216.iso
+SHA1      = 2B34A8BDE5E8042FB12B85BF037D031C561738FA
+文件大小  = 1.38GB
+发布时间  = 2006-09-05
+下载链接  = ed2k://|file|en_mappoint_2006_standard_europe_cd1_X11-44216.iso|1476722688|09A62BE3AA06573CB03C1BD25F2C7583|/

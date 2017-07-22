@@ -1,0 +1,5 @@
+文件名    = uk_windows_7_ultimate_x64_dvd_x15-65967.iso
+SHA1      = 52DB06892F86DB2FC811FEB9270615C6B0DD2048
+文件大小  = 2.91GB
+发布时间  = 2009-08-29
+下载链接  = ed2k://|file|uk_windows_7_ultimate_x64_dvd_x15-65967.iso|3127914496|8CBADBFFEE2FBF49F53BD9FE6D1A5855|/

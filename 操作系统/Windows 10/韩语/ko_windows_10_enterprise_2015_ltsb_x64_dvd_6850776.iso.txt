@@ -1,0 +1,5 @@
+文件名    = ko_windows_10_enterprise_2015_ltsb_x64_dvd_6850776.iso
+SHA1      = AA1A2DB1541CE292B558580DECC27F7C96E7A8FE
+文件大小  = 3.43GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|ko_windows_10_enterprise_2015_ltsb_x64_dvd_6850776.iso|3681466368|A61258984BA8622AF173FAEA50F6504E|/

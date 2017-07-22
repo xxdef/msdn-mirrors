@@ -1,0 +1,5 @@
+文件名    = tw_windows_server_2008_standard_enterprise_and_datacenter_with_sp2_x86_dvd_x15-41049.iso
+SHA1      = F2A47154456507CCE21BB244890C61CE209E2BE6
+文件大小  = 2GB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|tw_windows_server_2008_standard_enterprise_and_datacenter_with_sp2_x86_dvd_x15-41049.iso|2145347584|F6CD4570502089972B1CBB028EE30206|/

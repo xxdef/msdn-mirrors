@@ -1,0 +1,5 @@
+文件名    = hk_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619620.iso
+SHA1      = 8F963DAF2DED821B2AC5A03FED1C1ED8B42F36B6
+文件大小  = 978.62MB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|hk_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619620.iso|1026158592|3A5579C7BA646425E3E8BCCDE9ED24C6|/

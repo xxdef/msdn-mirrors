@@ -1,0 +1,5 @@
+文件名    = ru_windows_7_professional_x86_dvd_x15-65834.iso
+SHA1      = A536412DD31A65396880677B72343AAD2650C625
+文件大小  = 2.26GB
+发布时间  = 2009-08-29
+下载链接  = ed2k://|file|ru_windows_7_professional_x86_dvd_x15-65834.iso|2426210304|8390113312835FDA9D10921C9C973F19|/

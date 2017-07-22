@@ -1,0 +1,5 @@
+文件名    = cn_sharepoint_designer_2010_beta_x86_x64_x16-19248.exe
+SHA1      = 07524692458B3C644064632E61D5FFEC42C62CD2
+文件大小  = 436.61MB
+发布时间  = 2009-11-16
+下载链接  = ed2k://|file|cn_sharepoint_designer_2010_beta_x86_x64_x16-19248.exe|457815672|2B2DB150C2991262D1124ED96C7EF13A|/

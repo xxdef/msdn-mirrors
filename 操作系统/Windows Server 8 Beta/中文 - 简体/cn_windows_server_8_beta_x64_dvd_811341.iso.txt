@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_8_beta_x64_dvd_811341.iso
+SHA1      = BD3EC4CF435B749B0CAB698933667B2C60A93B43
+文件大小  = 3.47GB
+发布时间  = 2012-02-29
+下载链接  = ed2k://|file|cn_windows_server_8_beta_x64_dvd_811341.iso|3727964160|108E6447E01A6F1EFA4B0EB9493F0A0E|/

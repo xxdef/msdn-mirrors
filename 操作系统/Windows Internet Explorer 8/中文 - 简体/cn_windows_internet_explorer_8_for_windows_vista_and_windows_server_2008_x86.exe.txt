@@ -1,0 +1,5 @@
+文件名    = cn_windows_internet_explorer_8_for_windows_vista_and_windows_server_2008_x86.exe
+SHA1      = 002A5F8B905FFC9E3207B7CA5D7249576C1B936E
+文件大小  = 14.19MB
+发布时间  = 2009-03-25
+下载链接  = ed2k://|file|cn_windows_internet_explorer_8_for_windows_vista_and_windows_server_2008_x86.exe|14879600|37C2D76738EEA1A3186FD31E7E2B7A4A|/

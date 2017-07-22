@@ -1,0 +1,5 @@
+文件名    = en_vs_2005_vstd_dvd.iso
+SHA1      = 3F7697230A18FB501907954D47A34F878C8802AB
+文件大小  = 3.54GB
+发布时间  = 2005-10-27
+下载链接  = ed2k://|file|en_vs_2005_vstd_dvd.iso|3798009856|F4EE492FE9AFDF49EA2B33171366EF10|/

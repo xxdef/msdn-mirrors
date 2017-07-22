@@ -1,0 +1,5 @@
+文件名    = zh-hans_exchange_server_2007_with_service_pack_1_enterprise_and_standard_x64_dvd_x13-93827.iso
+SHA1      = CA2C4F397ACA2DB72EBD37B7E9AF6A67D05A3471
+文件大小  = 5.64GB
+发布时间  = 2008-03-26
+下载链接  = ed2k://|file|zh-hans_exchange_server_2007_with_service_pack_1_enterprise_and_standard_x64_dvd_x13-93827.iso|6053025792|F5FF45C4C7F6B3CD7E39036404DCEA54|/

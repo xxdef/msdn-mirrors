@@ -1,0 +1,5 @@
+文件名    = cn_windows_embedded_8_1_industry_pro_x86_dvd_2707455.iso
+SHA1      = A7C454BFE6D2A1E5F15EA47D0D248187B1D1C014
+文件大小  = 2.66GB
+发布时间  = 2013-09-10
+下载链接  = ed2k://|file|cn_windows_embedded_8_1_industry_pro_x86_dvd_2707455.iso|2856384512|7A513EE9ABB2E6E463B25AA519597748|/

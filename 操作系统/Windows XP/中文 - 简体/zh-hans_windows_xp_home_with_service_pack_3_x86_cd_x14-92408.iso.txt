@@ -1,0 +1,5 @@
+文件名    = zh-hans_windows_xp_home_with_service_pack_3_x86_cd_x14-92408.iso
+SHA1      = F15EF466B1D87B1FFDADC246B8CE82287BD15ED5
+文件大小  = 583.45MB
+发布时间  = 2008-05-01
+下载链接  = ed2k://|file|zh-hans_windows_xp_home_with_service_pack_3_x86_cd_x14-92408.iso|611794944|81DC0766DFB4082E18F1985D535C14D6|/

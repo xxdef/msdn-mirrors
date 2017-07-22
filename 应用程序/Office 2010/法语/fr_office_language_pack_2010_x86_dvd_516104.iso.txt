@@ -1,0 +1,5 @@
+文件名    = fr_office_language_pack_2010_x86_dvd_516104.iso
+SHA1      = 58C8CF23DC23C8694E775701EC7389119C7D5DE5
+文件大小  = 467.14MB
+发布时间  = 2010-07-09
+下载链接  = ed2k://|file|fr_office_language_pack_2010_x86_dvd_516104.iso|489832448|746F12E9AB90790886E22BFDF2A515E7|/

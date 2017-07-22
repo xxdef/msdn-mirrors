@@ -1,0 +1,5 @@
+文件名    = cn_disc_2_windows_essential_business_server_2008_standard_and_premium_management_server_x64_dvd_x14-73663.iso
+SHA1      = 536219D1369094C855920AEA6761BC36DE21E80F
+文件大小  = 3.99GB
+发布时间  = 2008-12-10
+下载链接  = ed2k://|file|cn_disc_2_windows_essential_business_server_2008_standard_and_premium_management_server_x64_dvd_x14-73663.iso|4283883520|2511166CE26E76F6DA07354DB6C491F7|/

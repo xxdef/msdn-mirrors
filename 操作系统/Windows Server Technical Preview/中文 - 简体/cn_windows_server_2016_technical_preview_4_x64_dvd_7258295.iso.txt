@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2016_technical_preview_4_x64_dvd_7258295.iso
+SHA1      = 4DEC487F0DD7F69549A7FDEF785CAD96B60BC588
+文件大小  = 5.1GB
+发布时间  = 2015-11-19
+下载链接  = ed2k://|file|cn_windows_server_2016_technical_preview_4_x64_dvd_7258295.iso|5477349376|6B7EE20D6ED4CB43F68357D078BC9B72|/

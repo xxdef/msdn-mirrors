@@ -1,0 +1,5 @@
+文件名    = en_windows_8.1_enterprise_with_update_x86_dvd_6050710.iso
+SHA1      = 584A9AD7E2BB3D7E189ADCFBA44A497CC9155937
+文件大小  = 2.85GB
+发布时间  = 2014-12-15
+下载链接  = ed2k://|file|en_windows_8.1_enterprise_with_update_x86_dvd_6050710.iso|3059595264|51BD12FBC451A7DA9292C32D1F842822|/

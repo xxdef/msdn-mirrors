@@ -1,0 +1,5 @@
+文件名    = en_windows_8.1_professional_vl_with_update_x86_dvd_4065201.iso
+SHA1      = C2D6F5D06362B7CB17DFDAADFB848C760963B254
+文件大小  = 2.75GB
+发布时间  = 2014-04-02
+下载链接  = ed2k://|file|en_windows_8.1_professional_vl_with_update_x86_dvd_4065201.iso|2947921920|CDE8DF1B85B6C5D8369D7116DDEFE726|/

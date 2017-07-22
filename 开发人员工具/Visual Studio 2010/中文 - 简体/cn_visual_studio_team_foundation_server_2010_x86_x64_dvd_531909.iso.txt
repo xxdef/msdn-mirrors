@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_team_foundation_server_2010_x86_x64_dvd_531909.iso
+SHA1      = A7C2F73270439EE40E07729B2E91E6889A488591
+文件大小  = 1.83GB
+发布时间  = 2010-05-26
+下载链接  = ed2k://|file|cn_visual_studio_team_foundation_server_2010_x86_x64_dvd_531909.iso|1963589632|C9C77B2707DF100621B3FB653C285524|/

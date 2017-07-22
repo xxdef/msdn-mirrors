@@ -1,0 +1,5 @@
+文件名    = cn_windows_multipoint_server_2011_standard_x64_dvd_645389.iso
+SHA1      = 341F919D145ED134DBC933E287BBB614936E246A
+文件大小  = 3.34GB
+发布时间  = 2011-08-12
+下载链接  = ed2k://|file|cn_windows_multipoint_server_2011_standard_x64_dvd_645389.iso|3591047168|31FDEA0E058FE5603E0676B2B38213FF|/

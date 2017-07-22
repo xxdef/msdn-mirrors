@@ -1,0 +1,5 @@
+文件名    = cn_office_professional_2007_cd_X12-42319.iso
+SHA1      = A2C010329F0EDD839065374E31BDEFAB01D6B6EF
+文件大小  = 603.03MB
+发布时间  = 2007-03-30
+下载链接  = ed2k://|file|cn_office_professional_2007_cd_X12-42319.iso|632324096|74DE8A6B2FDF7932809AB8A6B997EF63|/

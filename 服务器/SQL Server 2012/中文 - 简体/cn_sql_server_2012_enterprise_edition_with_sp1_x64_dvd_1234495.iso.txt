@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_enterprise_edition_with_sp1_x64_dvd_1234495.iso
+SHA1      = AEB1D69E9AEC87AF74B1B7D89C80993102FD4679
+文件大小  = 3.94GB
+发布时间  = 2012-12-10
+下载链接  = ed2k://|file|cn_sql_server_2012_enterprise_edition_with_sp1_x64_dvd_1234495.iso|4231520256|EB9F35CAC10578613A6E9D56090BAF06|/

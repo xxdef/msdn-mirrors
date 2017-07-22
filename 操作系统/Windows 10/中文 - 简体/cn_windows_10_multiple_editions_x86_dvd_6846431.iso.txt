@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_multiple_editions_x86_dvd_6846431.iso
+SHA1      = 21B824F402927E76C65160B62EB8A4EBBABE9C6E
+文件大小  = 3.01GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|cn_windows_10_multiple_editions_x86_dvd_6846431.iso|3233482752|B5C706594F5DC697B2A098420C801112|/

@@ -1,0 +1,5 @@
+文件名    = ko_windows_10_enterprise_kn_version_1511_updated_apr_2016_x86_dvd_8714423.iso
+SHA1      = 98390A86F849B592BA6CEEED7559F58D50F949EE
+文件大小  = 2.81GB
+发布时间  = 2016-05-23
+下载链接  = ed2k://|file|ko_windows_10_enterprise_kn_version_1511_updated_apr_2016_x86_dvd_8714423.iso|3016570880|BE1909DE5A48346E6A9B881343F8A8E3|/

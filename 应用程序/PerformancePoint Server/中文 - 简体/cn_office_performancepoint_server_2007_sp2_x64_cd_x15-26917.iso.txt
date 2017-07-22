@@ -1,0 +1,5 @@
+文件名    = cn_office_performancepoint_server_2007_sp2_x64_cd_x15-26917.iso
+SHA1      = 0F0AD405F2F7E407C06C93166CFB43DFFFF8AEC4
+文件大小  = 3.78MB
+发布时间  = 2009-03-06
+下载链接  = ed2k://|file|cn_office_performancepoint_server_2007_sp2_x64_cd_x15-26917.iso|3960832|3E4FD0B4C7B87407E3FAE5ABB3192CEF|/

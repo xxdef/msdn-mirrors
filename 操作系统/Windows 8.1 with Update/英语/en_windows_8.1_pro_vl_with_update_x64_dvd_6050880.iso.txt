@@ -1,0 +1,5 @@
+文件名    = en_windows_8.1_pro_vl_with_update_x64_dvd_6050880.iso
+SHA1      = 962A1D890987B5877469433928B8C8B8A3E945CD
+文件大小  = 3.86GB
+发布时间  = 2014-12-15
+下载链接  = ed2k://|file|en_windows_8.1_pro_vl_with_update_x64_dvd_6050880.iso|4140347392|5C0D4AE86A9849CBCD5F390D27B68A6E|/

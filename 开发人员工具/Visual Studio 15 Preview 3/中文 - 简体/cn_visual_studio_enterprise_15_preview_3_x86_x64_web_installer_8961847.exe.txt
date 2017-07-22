@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_enterprise_15_preview_3_x86_x64_web_installer_8961847.exe
+SHA1      = 838F6BD4DF7BC98B87B4143D3D529EF6A4AF62ED
+文件大小  = 3.06MB
+发布时间  = 2016-07-07
+下载链接  = ed2k://|file|cn_visual_studio_enterprise_15_preview_3_x86_x64_web_installer_8961847.exe|3209088|3E75CCE8644A7B30FF12CA5AB40F037F|/

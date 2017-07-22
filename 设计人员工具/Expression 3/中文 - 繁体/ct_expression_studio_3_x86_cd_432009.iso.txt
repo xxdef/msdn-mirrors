@@ -1,0 +1,5 @@
+文件名    = ct_expression_studio_3_x86_cd_432009.iso
+SHA1      = ACD56237703DDEE6751C35B0B2131EB1639E4D58
+文件大小  = 372.5MB
+发布时间  = 2009-09-16
+下载链接  = ed2k://|file|ct_expression_studio_3_x86_cd_432009.iso|390598656|F726FC143EC1E0755EBB5F174DB06D91|/

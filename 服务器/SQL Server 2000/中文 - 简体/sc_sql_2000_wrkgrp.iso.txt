@@ -1,0 +1,5 @@
+文件名    = sc_sql_2000_wrkgrp.iso
+SHA1      = 625B8C6FCECF14E5F6A112D06523D25ED73FF79A
+文件大小  = 249.99MB
+发布时间  = 2005-03-03
+下载链接  = ed2k://|file|sc_sql_2000_wrkgrp.iso|262135808|28ABBDCFF941E4FFCAE0691B916D3DB5|/

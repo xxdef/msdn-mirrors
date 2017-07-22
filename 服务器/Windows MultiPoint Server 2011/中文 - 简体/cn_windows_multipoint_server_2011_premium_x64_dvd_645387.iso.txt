@@ -1,0 +1,5 @@
+文件名    = cn_windows_multipoint_server_2011_premium_x64_dvd_645387.iso
+SHA1      = 7146D107FB08DE2FB516B6CB2979441DA5CA8E8C
+文件大小  = 3.37GB
+发布时间  = 2011-08-12
+下载链接  = ed2k://|file|cn_windows_multipoint_server_2011_premium_x64_dvd_645387.iso|3619735552|75AD70F041F1A40FDAC73533E4BC8A4A|/

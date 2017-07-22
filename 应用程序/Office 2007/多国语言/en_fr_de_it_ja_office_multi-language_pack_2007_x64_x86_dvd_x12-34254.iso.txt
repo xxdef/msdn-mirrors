@@ -1,0 +1,5 @@
+文件名    = en_fr_de_it_ja_office_multi-language_pack_2007_x64_x86_dvd_x12-34254.iso
+SHA1      = 1B1A8558AEE40EAF0D9C3364AF0339A90801C00E
+文件大小  = 6.75GB
+发布时间  = 2009-04-15
+下载链接  = ed2k://|file|en_fr_de_it_ja_office_multi-language_pack_2007_x64_x86_dvd_x12-34254.iso|7246702592|23ECA5E034671256306B4AC9B2E334AE|/

@@ -1,0 +1,5 @@
+文件名    = tw_windows_8_1_pro_vl_x86_dvd_2972625.iso
+SHA1      = 88D0B37EADAB266285FB895E7B123453D11D2647
+文件大小  = 2.83GB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|tw_windows_8_1_pro_vl_x86_dvd_2972625.iso|3038695424|7DE25C0D24730AFCE31D10168521D897|/

@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_sp1_language_pack_x64_dvd_646888.iso
+SHA1      = A20A46BB710559853EDA4409B59D91F7E2727DCD
+文件大小  = 140.96MB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|tw_windows_7_sp1_language_pack_x64_dvd_646888.iso|147802112|9592B2B28E245B653470BB120C84156D|/

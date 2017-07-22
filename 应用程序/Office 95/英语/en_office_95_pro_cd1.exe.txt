@@ -1,0 +1,5 @@
+文件名    = en_office_95_pro_cd1.exe
+SHA1      = 966ECE89DA6170D0B5BA8136B6A2664D2835C1E0
+文件大小  = 246.96MB
+发布时间  = 2004-06-11
+下载链接  = ed2k://|file|en_office_95_pro_cd1.exe|258955762|C5D8D788298F5C2A707B4F7409568B5B|/

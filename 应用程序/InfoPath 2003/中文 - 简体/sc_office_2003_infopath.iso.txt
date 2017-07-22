@@ -1,0 +1,5 @@
+文件名    = sc_office_2003_infopath.iso
+SHA1      = 80F482C36AA59041F9FF535B2707166D4D447436
+文件大小  = 299.31MB
+发布时间  = 2003-10-23
+下载链接  = ed2k://|file|sc_office_2003_infopath.iso|313851904|BEE8BB89C29E10C8D8F805F3A1175292|/

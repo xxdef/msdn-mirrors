@@ -1,0 +1,5 @@
+文件名    = es_windows_7_enterprise_x86_dvd_x15-70801.iso
+SHA1      = 595A8B27FB9EB5CE241C6A1EABECA2130BB3B23B
+文件大小  = 2.17GB
+发布时间  = 2009-08-14
+下载链接  = ed2k://|file|es_windows_7_enterprise_x86_dvd_x15-70801.iso|2325080064|4B0AE9D4BDB951EB6A287EB12634E54E|/

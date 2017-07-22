@@ -1,0 +1,5 @@
+文件名    = en_desktop_optimization_pack_2012_x86_x64_1100291.iso
+SHA1      = 8D770F48EBA861EA272DC65B96EB969BF418CE82
+文件大小  = 1.3GB
+发布时间  = 2012-10-31
+下载链接  = ed2k://|file|en_desktop_optimization_pack_2012_x86_x64_1100291.iso|1395247104|9216BF9A7B8967DF99079032F6D47C71|/

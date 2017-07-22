@@ -1,0 +1,5 @@
+文件名    = cs_virtual_server_2005_r2_enterprise_x86.iso
+SHA1      = 325A10E05CF6E902F0C72EBAB515B9BBD6FDC266
+文件大小  = 28.7MB
+发布时间  = 2006-02-02
+下载链接  = ed2k://|file|cs_virtual_server_2005_r2_enterprise_x86.iso|30095360|DF258F1B036FDDCC51673FB5474EE88B|/

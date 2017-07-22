@@ -1,0 +1,5 @@
+文件名    = cn_office_server_language_pack_2010_x64_dvd_517564.iso
+SHA1      = E18D3A596E53F838CADC632FD21EAB62CE14FA53
+文件大小  = 363.35MB
+发布时间  = 2011-08-09
+下载链接  = ed2k://|file|cn_office_server_language_pack_2010_x64_dvd_517564.iso|380999680|8215CACF8A2C00ED0FBF7E7D5362C083|/

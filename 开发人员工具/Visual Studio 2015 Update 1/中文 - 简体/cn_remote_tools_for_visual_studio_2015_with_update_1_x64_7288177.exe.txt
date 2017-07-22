@@ -1,0 +1,5 @@
+文件名    = cn_remote_tools_for_visual_studio_2015_with_update_1_x64_7288177.exe
+SHA1      = 6E28553BC261CD56EB32C7D8A3783ADD5DB8A623
+文件大小  = 63.01MB
+发布时间  = 2015-11-30
+下载链接  = ed2k://|file|cn_remote_tools_for_visual_studio_2015_with_update_1_x64_7288177.exe|66069016|A0C6C9DB90218F0F052B2E17F375C062|/

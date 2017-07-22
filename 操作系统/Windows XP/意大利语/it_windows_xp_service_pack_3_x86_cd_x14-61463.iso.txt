@@ -1,0 +1,5 @@
+文件名    = it_windows_xp_service_pack_3_x86_cd_x14-61463.iso
+SHA1      = F189E2372FBA3335650A76205E152EC2F54FAA6C
+文件大小  = 371.45MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|it_windows_xp_service_pack_3_x86_cd_x14-61463.iso|389490688|C15861085B7D6CEE5C7825C957DD7839|/

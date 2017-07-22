@@ -1,0 +1,5 @@
+文件名    = sc_office_2003_std.iso
+SHA1      = 32CDFD1CB4816AF4DC829D991EC6E775AB013CD9
+文件大小  = 409.16MB
+发布时间  = 2004-01-20
+下载链接  = ed2k://|file|sc_office_2003_std.iso|429031424|DB59D0F8CC31EF72CC15D675FC9B7C34|/

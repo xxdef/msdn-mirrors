@@ -1,0 +1,5 @@
+文件名    = en_windows_mobile_6_0_standard_sdk.msi
+SHA1      = F35E5C9AF6D22E894DEEBDE95C30FA1C60C97D31
+文件大小  = 150.56MB
+发布时间  = 2007-04-09
+下载链接  = ed2k://|file|en_windows_mobile_6_0_standard_sdk.msi|157869568|7753132B46130736CC24FCF33CE49FE4|/

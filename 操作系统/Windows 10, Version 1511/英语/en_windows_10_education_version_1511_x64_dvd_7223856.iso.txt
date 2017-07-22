@@ -1,0 +1,5 @@
+文件名    = en_windows_10_education_version_1511_x64_dvd_7223856.iso
+SHA1      = C7805F2D272CE447009F5D5B17128ED2705B5AE0
+文件大小  = 3.58GB
+发布时间  = 2015-11-12
+下载链接  = ed2k://|file|en_windows_10_education_version_1511_x64_dvd_7223856.iso|3839586304|C972289A669531BD72A2F2F945E871D1|/

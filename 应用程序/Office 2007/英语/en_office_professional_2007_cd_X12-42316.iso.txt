@@ -1,0 +1,5 @@
+文件名    = en_office_professional_2007_cd_X12-42316.iso
+SHA1      = D91A9671D09F20EA397DEC7D29864548E8C808F8
+文件大小  = 437.51MB
+发布时间  = 2007-03-30
+下载链接  = ed2k://|file|en_office_professional_2007_cd_X12-42316.iso|458766336|D2DA91160A98717D3BA6487A02C57880|/

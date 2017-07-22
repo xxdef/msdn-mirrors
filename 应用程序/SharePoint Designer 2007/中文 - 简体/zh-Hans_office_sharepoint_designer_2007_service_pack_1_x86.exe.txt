@@ -1,0 +1,5 @@
+文件名    = zh-Hans_office_sharepoint_designer_2007_service_pack_1_x86.exe
+SHA1      = B1C8AF424CEFD5A38E01F809E00F444D81F771D2
+文件大小  = 102.39MB
+发布时间  = 2007-12-22
+下载链接  = ed2k://|file|zh-Hans_office_sharepoint_designer_2007_service_pack_1_x86.exe|107361272|ACBF57A204F149FC4FD49791CF22EC2A|/

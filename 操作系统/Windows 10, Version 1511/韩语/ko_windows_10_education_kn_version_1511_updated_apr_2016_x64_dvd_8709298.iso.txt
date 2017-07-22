@@ -1,0 +1,5 @@
+文件名    = ko_windows_10_education_kn_version_1511_updated_apr_2016_x64_dvd_8709298.iso
+SHA1      = 33953AB3BD94CB6A73C5617950958F2DA318B283
+文件大小  = 3.77GB
+发布时间  = 2016-05-23
+下载链接  = ed2k://|file|ko_windows_10_education_kn_version_1511_updated_apr_2016_x64_dvd_8709298.iso|4047978496|42B5F30EDDFC29903DF3AF0AEA20B03D|/

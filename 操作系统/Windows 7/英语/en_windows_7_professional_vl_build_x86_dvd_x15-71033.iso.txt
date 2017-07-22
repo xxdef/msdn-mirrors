@@ -1,0 +1,5 @@
+文件名    = en_windows_7_professional_vl_build_x86_dvd_x15-71033.iso
+SHA1      = 304817E859A5B27E828F46AAC54CB46A576A34CC
+文件大小  = 2.24GB
+发布时间  = 2009-11-12
+下载链接  = ed2k://|file|en_windows_7_professional_vl_build_x86_dvd_x15-71033.iso|2400239616|A9A9F338CE1040FCFB8D22DBD7269765|/

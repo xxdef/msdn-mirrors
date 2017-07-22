@@ -1,0 +1,5 @@
+文件名    = hk_cn_ko_pt_windows_storage_server_2008_embedded_language_pack_dvd_x64_x14-18608.iso
+SHA1      = 2638BB430C530F0AD521841E85FFCC3A23760C5B
+文件大小  = 310.78MB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|hk_cn_ko_pt_windows_storage_server_2008_embedded_language_pack_dvd_x64_x14-18608.iso|325873664|0E4866333C87C994A995AAAF8999095B|/

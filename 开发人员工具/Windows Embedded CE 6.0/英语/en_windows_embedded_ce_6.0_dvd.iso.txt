@@ -1,0 +1,5 @@
+文件名    = en_windows_embedded_ce_6.0_dvd.iso
+SHA1      = e87741c75019bc4d22baebff40ae2eb2afb61796
+文件大小  = 3.8GB
+发布时间  = 2006-12-08
+下载链接  = ed2k://|file|en_windows_embedded_ce_6.0_dvd.iso|4080269312|CA522D369210AFE01266B3E4732E85E5|/

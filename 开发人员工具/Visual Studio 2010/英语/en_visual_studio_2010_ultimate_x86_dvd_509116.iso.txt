@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_2010_ultimate_x86_dvd_509116.iso
+SHA1      = 84C90BB02AF92347010FF9058E0A2BA28F19CC53
+文件大小  = 2.28GB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_visual_studio_2010_ultimate_x86_dvd_509116.iso|2446950400|0694CFA0756D8C11499DE5B42E205410|/

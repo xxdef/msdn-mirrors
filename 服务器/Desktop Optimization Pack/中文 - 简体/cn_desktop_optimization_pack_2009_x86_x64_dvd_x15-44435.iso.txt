@@ -1,0 +1,5 @@
+文件名    = cn_desktop_optimization_pack_2009_x86_x64_dvd_x15-44435.iso
+SHA1      = AA9E2F7533E88D33E0101B825A88DD4E59C95ED7
+文件大小  = 751.61MB
+发布时间  = 2009-04-07
+下载链接  = ed2k://|file|cn_desktop_optimization_pack_2009_x86_x64_dvd_x15-44435.iso|788123648|605FFECEC68741E634D4C27BA631845D|/

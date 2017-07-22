@@ -1,0 +1,5 @@
+文件名    = hk_windows_10_multiple_editions_x64_dvd_6846860.iso
+SHA1      = AE7728C1ABD78BAB04C06A9F4418DDD27C284811
+文件大小  = 3.93GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|hk_windows_10_multiple_editions_x64_dvd_6846860.iso|4215201792|DEE36755A081F197EE386AA1C1B2851D|/

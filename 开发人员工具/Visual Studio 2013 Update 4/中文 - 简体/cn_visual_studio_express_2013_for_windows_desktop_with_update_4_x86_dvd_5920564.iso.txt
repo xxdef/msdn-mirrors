@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_express_2013_for_windows_desktop_with_update_4_x86_dvd_5920564.iso
+SHA1      = 1143A7C77F9B848A2D344B2B734674AED840D52D
+文件大小  = 6.53GB
+发布时间  = 2014-11-12
+下载链接  = ed2k://|file|cn_visual_studio_express_2013_for_windows_desktop_with_update_4_x86_dvd_5920564.iso|7015086080|07A14ED5EAF1A53D59670FE10654006B|/

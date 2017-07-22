@@ -1,0 +1,5 @@
+文件名    = en_system_center_2012_orchestrator_with_sp1_x86_dvd_1345499.iso
+SHA1      = AA5C461CFD627761D944DBE6299C538149845AE2
+文件大小  = 157.05MB
+发布时间  = 2012-12-10
+下载链接  = ed2k://|file|en_system_center_2012_orchestrator_with_sp1_x86_dvd_1345499.iso|164681728|8C4BDF7AF81621E394719486A4BA2D77|/

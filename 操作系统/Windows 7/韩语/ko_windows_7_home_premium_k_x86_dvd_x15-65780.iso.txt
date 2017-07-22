@@ -1,0 +1,5 @@
+文件名    = ko_windows_7_home_premium_k_x86_dvd_x15-65780.iso
+SHA1      = 7AB010D84A320D339A9CD7A082F8960B2DF3A7C9
+文件大小  = 2.28GB
+发布时间  = 2009-08-28
+下载链接  = ed2k://|file|ko_windows_7_home_premium_k_x86_dvd_x15-65780.iso|2443837440|B11AD642BD3DB45CB2614E5F15264485|/

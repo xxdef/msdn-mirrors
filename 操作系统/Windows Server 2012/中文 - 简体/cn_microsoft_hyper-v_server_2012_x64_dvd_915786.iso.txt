@@ -1,0 +1,5 @@
+文件名    = cn_microsoft_hyper-v_server_2012_x64_dvd_915786.iso
+SHA1      = 43D42D1C1D9C782D64815D9814C3653C66E733F7
+文件大小  = 1.78GB
+发布时间  = 2012-09-04
+下载链接  = ed2k://|file|cn_microsoft_hyper-v_server_2012_x64_dvd_915786.iso|1906923520|E6F271BBB320C43362C4FAB653AA9599|/

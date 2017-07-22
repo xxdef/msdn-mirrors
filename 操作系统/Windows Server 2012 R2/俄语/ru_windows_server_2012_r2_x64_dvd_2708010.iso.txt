@@ -1,0 +1,5 @@
+文件名    = ru_windows_server_2012_r2_x64_dvd_2708010.iso
+SHA1      = 167FC7903B38946EFE457129A97FC17457FB8B7D
+文件大小  = 4.03GB
+发布时间  = 2013-09-09
+下载链接  = ed2k://|file|ru_windows_server_2012_r2_x64_dvd_2708010.iso|4324317184|045773282CDB75DFFDE45A653DF96D1D|/

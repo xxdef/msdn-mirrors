@@ -1,0 +1,5 @@
+文件名    = cn_agents_for_visual_studio_2013_update_3_x86_dvd_4834758.iso
+SHA1      = B583696B01DF21E35734A8FA161096C506C87B67
+文件大小  = 311.08MB
+发布时间  = 2014-08-04
+下载链接  = ed2k://|file|cn_agents_for_visual_studio_2013_update_3_x86_dvd_4834758.iso|326193152|24A1B3A160F0EEAC5D40795D30326C80|/

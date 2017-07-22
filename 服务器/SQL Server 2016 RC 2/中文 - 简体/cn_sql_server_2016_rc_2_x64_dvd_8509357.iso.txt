@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2016_rc_2_x64_dvd_8509357.iso
+SHA1      = 7E5DBD0D4ED5BA56C52932BA36D47EC6CBC97A70
+文件大小  = 2.28GB
+发布时间  = 2016-04-01
+下载链接  = ed2k://|file|cn_sql_server_2016_rc_2_x64_dvd_8509357.iso|2451259392|EEB4FE1087DC2D904CF1A07D53801D02|/

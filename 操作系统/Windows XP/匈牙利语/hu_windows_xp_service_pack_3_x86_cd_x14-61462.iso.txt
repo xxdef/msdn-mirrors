@@ -1,0 +1,5 @@
+文件名    = hu_windows_xp_service_pack_3_x86_cd_x14-61462.iso
+SHA1      = CBC403AB7EB334A19997CBEA32DE026921CB8671
+文件大小  = 370.51MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|hu_windows_xp_service_pack_3_x86_cd_x14-61462.iso|388509696|1D3613EBCCE2B7EF46A2159F215F6203|/

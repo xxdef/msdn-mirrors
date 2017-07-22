@@ -1,0 +1,5 @@
+文件名    = cn_project_professional_2013_with_sp1_x86_3911365.exe
+SHA1      = 0D0EC87BFF68D6FB5989F11D1373DD4E2E5296C9
+文件大小  = 414.43MB
+发布时间  = 2014-03-18
+下载链接  = ed2k://|file|cn_project_professional_2013_with_sp1_x86_3911365.exe|434565240|70767974258CE8F3E5D30C1E43A3710C|/

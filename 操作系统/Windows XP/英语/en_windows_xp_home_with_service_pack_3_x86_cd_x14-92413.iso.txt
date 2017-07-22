@@ -1,0 +1,5 @@
+文件名    = en_windows_xp_home_with_service_pack_3_x86_cd_x14-92413.iso
+SHA1      = 5A6B959AD24D15DC7EBD85E501B83D105D1B37C6
+文件大小  = 564.72MB
+发布时间  = 2008-05-01
+下载链接  = ed2k://|file|en_windows_xp_home_with_service_pack_3_x86_cd_x14-92413.iso|592154624|E31A555C0AB581B8610583D2D25E93BD|/

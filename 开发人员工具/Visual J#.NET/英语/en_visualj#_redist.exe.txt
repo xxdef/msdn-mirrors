@@ -1,0 +1,5 @@
+文件名    = en_visualj#_redist.exe
+SHA1      = D2D18E64F1A4EA2D1E13378AF953D13454C77D03
+文件大小  = 6.28MB
+发布时间  = 2002-07-09
+下载链接  = ed2k://|file|en_visualj#_redist.exe|6587456|90786D2D806BA276F48BED63E520FD56|/

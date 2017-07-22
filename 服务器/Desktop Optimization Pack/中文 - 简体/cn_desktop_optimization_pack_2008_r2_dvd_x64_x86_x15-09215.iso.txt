@@ -1,0 +1,5 @@
+文件名    = cn_desktop_optimization_pack_2008_r2_dvd_x64_x86_x15-09215.iso
+SHA1      = EA4EEAF50FCA31813D6504B8569D4DFE27BDA566
+文件大小  = 645.98MB
+发布时间  = 2008-10-06
+下载链接  = ed2k://|file|cn_desktop_optimization_pack_2008_r2_dvd_x64_x86_x15-09215.iso|677361664|B544D372DB1E1562389B6637F9E3A7AC|/

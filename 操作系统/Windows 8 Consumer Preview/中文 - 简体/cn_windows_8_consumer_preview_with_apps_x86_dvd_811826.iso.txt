@@ -1,0 +1,5 @@
+文件名    = cn_windows_8_consumer_preview_with_apps_x86_dvd_811826.iso
+SHA1      = E29A2072745A48C14A1C2E5A61F5230841BEDB45
+文件大小  = 2.57GB
+发布时间  = 2012-02-29
+下载链接  = ed2k://|file|cn_windows_8_consumer_preview_with_apps_x86_dvd_811826.iso|2757345280|00E735026E9375BF4A51F220BDA6BD27|/

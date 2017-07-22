@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_ultimate_x86_dvd_x15-65907.iso
+SHA1      = B589336602E3B7E134E222ED47FC94938B04354F
+文件大小  = 2.43GB
+发布时间  = 2009-08-23
+下载链接  = ed2k://|file|cn_windows_7_ultimate_x86_dvd_x15-65907.iso|2604238848|D6F139D7A45E81B76199DDCCDDC4B509|/

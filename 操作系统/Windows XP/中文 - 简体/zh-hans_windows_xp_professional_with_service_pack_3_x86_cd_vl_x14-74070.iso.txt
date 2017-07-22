@@ -1,0 +1,5 @@
+文件名    = zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso
+SHA1      = D142469D0C3953D8E4A6A490A58052EF52837F0F
+文件大小  = 601.04MB
+发布时间  = 2008-05-02
+下载链接  = ed2k://|file|zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso|630237184|EC51916C9D9B8B931195EE0D6EE9B40E|/

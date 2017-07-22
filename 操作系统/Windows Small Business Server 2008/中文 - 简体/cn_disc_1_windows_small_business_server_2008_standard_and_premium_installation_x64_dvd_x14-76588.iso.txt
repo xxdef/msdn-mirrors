@@ -1,0 +1,5 @@
+文件名    = cn_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-76588.iso
+SHA1      = 7A2721B7499CB7D8BA82A03D91F2B64745A449F0
+文件大小  = 3.66GB
+发布时间  = 2008-11-24
+下载链接  = ed2k://|file|cn_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-76588.iso|3926978560|91A07264117D4E4C24EF4A209E496FD2|/

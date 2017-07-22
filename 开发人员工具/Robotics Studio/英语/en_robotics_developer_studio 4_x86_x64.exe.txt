@@ -1,0 +1,5 @@
+文件名    = en_robotics_developer_studio 4_x86_x64.exe
+SHA1      = 68DB5E34F930A57D5710301FB6F0FA8F65B13A0D
+文件大小  = 289.63MB
+发布时间  = 2012-03-21
+下载链接  = ed2k://|file|en_robotics_developer_studio 4_x86_x64.exe|303699376|3E58E6CA1693FC27D29BDD1608B39348|/

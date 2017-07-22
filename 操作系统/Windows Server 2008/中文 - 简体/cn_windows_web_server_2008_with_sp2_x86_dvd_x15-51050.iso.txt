@@ -1,0 +1,5 @@
+文件名    = cn_windows_web_server_2008_with_sp2_x86_dvd_x15-51050.iso
+SHA1      = AC64FAFB37E5B0B2B85E0B99C59C81233E6B3DAD
+文件大小  = 1.73GB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|cn_windows_web_server_2008_with_sp2_x86_dvd_x15-51050.iso|1860190208|EBEA302ED2A76C4B435697F321E65804|/

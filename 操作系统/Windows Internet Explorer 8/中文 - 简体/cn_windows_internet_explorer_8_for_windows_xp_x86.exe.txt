@@ -1,0 +1,5 @@
+文件名    = cn_windows_internet_explorer_8_for_windows_xp_x86.exe
+SHA1      = 02EC9908DD8C8ABC8AD2AC792F0548D729E43E95
+文件大小  = 16.12MB
+发布时间  = 2009-03-25
+下载链接  = ed2k://|file|cn_windows_internet_explorer_8_for_windows_xp_x86.exe|16901472|22A386A900AD11E034839A18F40D2709|/

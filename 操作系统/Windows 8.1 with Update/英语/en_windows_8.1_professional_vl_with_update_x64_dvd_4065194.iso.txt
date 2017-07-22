@@ -1,0 +1,5 @@
+文件名    = en_windows_8.1_professional_vl_with_update_x64_dvd_4065194.iso
+SHA1      = E50A6F0F08E933F25A71FBC843827FE752ED0365
+文件大小  = 3.69GB
+发布时间  = 2014-04-02
+下载链接  = ed2k://|file|en_windows_8.1_professional_vl_with_update_x64_dvd_4065194.iso|3958071296|4C411A0A71D9F82FD1949552137D9E3C|/

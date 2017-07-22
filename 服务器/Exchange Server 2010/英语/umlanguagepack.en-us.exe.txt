@@ -1,0 +1,5 @@
+文件名    = umlanguagepack.en-us.exe
+SHA1      = CB78E60928A6BC81678CF744D631E68258EC8D56
+文件大小  = 244.31MB
+发布时间  = 2010-09-14
+下载链接  = ed2k://|file|umlanguagepack.en-us.exe|256182384|CC837412E312ABF029939F6B282E2DAE|/

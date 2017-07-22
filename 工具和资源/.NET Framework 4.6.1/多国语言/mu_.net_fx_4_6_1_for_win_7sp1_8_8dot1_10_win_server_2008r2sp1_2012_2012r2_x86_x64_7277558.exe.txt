@@ -1,0 +1,5 @@
+文件名    = mu_.net_fx_4_6_1_for_win_7sp1_8_8dot1_10_win_server_2008r2sp1_2012_2012r2_x86_x64_7277558.exe
+SHA1      = 83D048D171FF44A3CAD9B422137656F585295866
+文件大小  = 64.55MB
+发布时间  = 2015-11-30
+下载链接  = ed2k://|file|mu_.net_fx_4_6_1_for_win_7sp1_8_8dot1_10_win_server_2008r2sp1_2012_2012r2_x86_x64_7277558.exe|67681000|3DC89AA6CDA818591DE7048ADC3B2CCB|/

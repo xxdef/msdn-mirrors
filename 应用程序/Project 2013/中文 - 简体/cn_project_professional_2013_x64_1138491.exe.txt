@@ -1,0 +1,5 @@
+文件名    = cn_project_professional_2013_x64_1138491.exe
+SHA1      = 23c961f1690502d2b02733827c90e18649027a82
+文件大小  = 439.75MB
+发布时间  = 2012-10-29
+下载链接  = ed2k://|file|cn_project_professional_2013_x64_1138491.exe|461107000|52DDD26875081B7619DDF76B11937B59|/

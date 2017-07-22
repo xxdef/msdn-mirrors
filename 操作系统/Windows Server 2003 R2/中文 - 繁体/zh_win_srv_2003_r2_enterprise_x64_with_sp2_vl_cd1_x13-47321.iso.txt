@@ -1,0 +1,5 @@
+文件名    = zh_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-47321.iso
+SHA1      = 85D96A79D634CF4940BFA85F4ECC5D9FED328DBE
+文件大小  = 615.49MB
+发布时间  = 2007-04-27
+下载链接  = ed2k://|file|zh_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-47321.iso|645384192|06F1ED3CAF94786CECE828095B8FAC25|/

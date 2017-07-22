@@ -1,0 +1,5 @@
+文件名    = en_sql_server_2008_enterprise_x86_x64_ia64_dvd_x14-89207.iso
+SHA1      = 0865159D87C9D734E50B0299500F648F14A4A3DF
+文件大小  = 3.03GB
+发布时间  = 2008-08-05
+下载链接  = ed2k://|file|en_sql_server_2008_enterprise_x86_x64_ia64_dvd_x14-89207.iso|3256915968|00E3C4025DB29C15E9B7FC9DC78EDB1A|/

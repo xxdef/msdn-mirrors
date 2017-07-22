@@ -1,0 +1,5 @@
+文件名    = nl_windows_7_ultimate_x86_dvd_x15-65919.iso
+SHA1      = 21EB29BDF09069E33F02BCC733AAECDF2ADAF402
+文件大小  = 2.23GB
+发布时间  = 2009-08-25
+下载链接  = ed2k://|file|nl_windows_7_ultimate_x86_dvd_x15-65919.iso|2390310912|5E4BB589BCBAE01620167CA41FB39F94|/

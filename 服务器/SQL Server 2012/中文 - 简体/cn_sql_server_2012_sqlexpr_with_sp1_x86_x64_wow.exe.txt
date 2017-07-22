@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_sqlexpr_with_sp1_x86_x64_wow.exe
+SHA1      = EBCE036CE37FBE7015FF88E88EFD12FDEA855F44
+文件大小  = 136.01MB
+发布时间  = 2012-11-15
+下载链接  = ed2k://|file|cn_sql_server_2012_sqlexpr_with_sp1_x86_x64_wow.exe|142617088|731D87E76AC2ACE033EAD18B4E96F6C7|/

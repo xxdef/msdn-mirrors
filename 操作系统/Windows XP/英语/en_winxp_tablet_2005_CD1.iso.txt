@@ -1,0 +1,5 @@
+文件名    = en_winxp_tablet_2005_CD1.iso
+SHA1      = 7CD7058DBBFAB108316B20FE4CEF989ABEBF211F
+文件大小  = 586.62MB
+发布时间  = 2004-08-26
+下载链接  = ed2k://|file|en_winxp_tablet_2005_CD1.iso|615112704|B09E3519717F3968EAF16285569EA965|/

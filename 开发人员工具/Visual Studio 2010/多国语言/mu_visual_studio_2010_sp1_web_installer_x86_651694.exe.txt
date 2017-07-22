@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_2010_sp1_web_installer_x86_651694.exe
+SHA1      = DE33C308A5F9E6EB2CDD23C56EE069191350A792
+文件大小  = 794.84KB
+发布时间  = 2011-03-08
+下载链接  = ed2k://|file|mu_visual_studio_2010_sp1_web_installer_x86_651694.exe|813920|DF43C975F47C035861536DE8C20AE8EB|/

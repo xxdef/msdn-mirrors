@@ -1,0 +1,5 @@
+文件名    = en_exchange_server_2003_sp2.exe
+SHA1      = 2C985F3FF1FDCCECF89DF61918FB55EB4B12EDD8
+文件大小  = 109.69MB
+发布时间  = 2005-10-25
+下载链接  = ed2k://|file|en_exchange_server_2003_sp2.exe|115020016|DEB74FD3BCD1D00F04A55787DAD644A0|/

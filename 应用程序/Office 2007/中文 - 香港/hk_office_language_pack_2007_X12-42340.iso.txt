@@ -1,0 +1,5 @@
+文件名    = hk_office_language_pack_2007_X12-42340.iso
+SHA1      = 02D2FC2038222C90D3753A352DEE63E947DC5B32
+文件大小  = 484.47MB
+发布时间  = 2006-12-09
+下载链接  = ed2k://|file|hk_office_language_pack_2007_X12-42340.iso|508004352|FD11AEBCF023B7C0CC05D0CA6DB30E01|/

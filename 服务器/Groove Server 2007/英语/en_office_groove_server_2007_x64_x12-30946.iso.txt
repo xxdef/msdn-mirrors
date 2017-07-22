@@ -1,0 +1,5 @@
+文件名    = en_office_groove_server_2007_x64_x12-30946.iso
+SHA1      = F79EE83E4222DD8EA84D08C22854E9119CAE46F5
+文件大小  = 146.41MB
+发布时间  = 2006-11-28
+下载链接  = ed2k://|file|en_office_groove_server_2007_x64_x12-30946.iso|153520128|44A8C4642F4A6E346DB662C84E06547E|/

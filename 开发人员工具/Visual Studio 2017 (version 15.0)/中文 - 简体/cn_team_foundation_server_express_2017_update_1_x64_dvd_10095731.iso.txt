@@ -1,0 +1,5 @@
+文件名    = cn_team_foundation_server_express_2017_update_1_x64_dvd_10095731.iso
+SHA1      = 0E37D27D97D1B2DA919C4EF57BB07DED43B392A3
+文件大小  = 426.92MB
+发布时间  = 2017-03-09
+下载链接  = ed2k://|file|cn_team_foundation_server_express_2017_update_1_x64_dvd_10095731.iso|447660032|EFD3591BDFDB5879F7985792DB4211CF|/

@@ -1,0 +1,5 @@
+文件名    = ct_office_professional_plus_2010_x86_516579.exe
+SHA1      = 16FE19D864F6604EA7CFECD59DC70CCCAC094600
+文件大小  = 790.66MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|ct_office_professional_plus_2010_x86_516579.exe|829068952|47931507F45CE59767303451995198FB|/

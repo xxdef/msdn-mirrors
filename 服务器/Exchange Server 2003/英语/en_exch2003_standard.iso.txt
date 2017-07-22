@@ -1,0 +1,5 @@
+文件名    = en_exch2003_standard.iso
+SHA1      = 451916A847AFC851E5DF1E893C7A8919A0ED792A
+文件大小  = 373MB
+发布时间  = 2003-07-16
+下载链接  = ed2k://|file|en_exch2003_standard.iso|391118848|55261E10167164339BE229D077C985E2|/

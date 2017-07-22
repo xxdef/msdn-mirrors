@@ -1,0 +1,5 @@
+文件名    = ko_msxml_4.0_service_pack_3_x86.msi
+SHA1      = D8CFF27D12B0FAC578188652F9364958AD7D95E1
+文件大小  = 2.5MB
+发布时间  = 2011-06-23
+下载链接  = ed2k://|file|ko_msxml_4.0_service_pack_3_x86.msi|2620416|1879ADDCF76C132836D9C2CE1205981B|/

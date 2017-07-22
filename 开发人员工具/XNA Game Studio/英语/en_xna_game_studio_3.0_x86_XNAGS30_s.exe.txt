@@ -1,0 +1,5 @@
+文件名    = en_xna_game_studio_3.0_x86_XNAGS30_s.exe
+SHA1      = 069B869726464561B7B463A156A9FCC435B47BD3
+文件大小  = 62.49MB
+发布时间  = 2009-01-24
+下载链接  = ed2k://|file|en_xna_game_studio_3.0_x86_XNAGS30_s.exe|65521504|CBFACC8F6BADCB59FF7E1A3D4EDA4BFB|/

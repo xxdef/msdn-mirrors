@@ -1,0 +1,5 @@
+文件名    = cn_business_contact_manager_for_outlook_2010_x86_510917.exe
+SHA1      = 388C0F4A85445CDB2F7DDD23837C9790A57955B0
+文件大小  = 434.77MB
+发布时间  = 2010-06-01
+下载链接  = ed2k://|file|cn_business_contact_manager_for_outlook_2010_x86_510917.exe|455888824|61CFA9F54A0EE41F59A04396E7CFF1CE|/

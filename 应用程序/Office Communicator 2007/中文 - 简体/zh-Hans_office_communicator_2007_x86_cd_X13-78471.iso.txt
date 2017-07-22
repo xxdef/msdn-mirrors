@@ -1,0 +1,5 @@
+文件名    = zh-Hans_office_communicator_2007_x86_cd_X13-78471.iso
+SHA1      = A6A1C4AF1F86FE73D81B8B720F20222433450C9E
+文件大小  = 9.86MB
+发布时间  = 2007-10-31
+下载链接  = ed2k://|file|zh-Hans_office_communicator_2007_x86_cd_X13-78471.iso|10340352|1C67E244FCAD627CB119D2B4FB4309EC|/

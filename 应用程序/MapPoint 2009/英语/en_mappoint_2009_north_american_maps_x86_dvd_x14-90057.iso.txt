@@ -1,0 +1,5 @@
+文件名    = en_mappoint_2009_north_american_maps_x86_dvd_x14-90057.iso
+SHA1      = E425A64D320CDC1519F5754907EE71C83DDFD558
+文件大小  = 1.57GB
+发布时间  = 2009-02-05
+下载链接  = ed2k://|file|en_mappoint_2009_north_american_maps_x86_dvd_x14-90057.iso|1689806848|203B75663F8E5A4A33919FAD6DFC566D|/

@@ -1,0 +1,5 @@
+文件名    = ct_visual_studio_lightswitch_2011_web_installer_x86_682001.exe
+SHA1      = 3B869681EC26F1CAAC5300BEB72518D145370823
+文件大小  = 3.72MB
+发布时间  = 2011-07-26
+下载链接  = ed2k://|file|ct_visual_studio_lightswitch_2011_web_installer_x86_682001.exe|3903824|5004EA004E7F44F807B38B60D7E5356E|/

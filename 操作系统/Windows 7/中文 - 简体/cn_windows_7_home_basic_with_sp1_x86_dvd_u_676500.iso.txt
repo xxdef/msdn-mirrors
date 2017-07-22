@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_home_basic_with_sp1_x86_dvd_u_676500.iso
+SHA1      = 2E53EC6E0CD78C23FC51528CC0FED3F6191DDCE6
+文件大小  = 2.47GB
+发布时间  = 2011-05-12
+下载链接  = ed2k://|file|cn_windows_7_home_basic_with_sp1_x86_dvd_u_676500.iso|2653276160|843E7A78F2126FAC726CF5342710082D|/

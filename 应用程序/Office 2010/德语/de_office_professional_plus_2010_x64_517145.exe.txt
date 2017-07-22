@@ -1,0 +1,5 @@
+文件名    = de_office_professional_plus_2010_x64_517145.exe
+SHA1      = 86DA413E893A360B91389BBE9935DE42BB75A21A
+文件大小  = 748.3MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|de_office_professional_plus_2010_x64_517145.exe|784649824|6E986CE0C7586EC929986FBC8A870E40|/

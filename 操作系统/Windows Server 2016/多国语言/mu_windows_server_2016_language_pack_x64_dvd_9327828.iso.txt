@@ -1,0 +1,5 @@
+文件名    = mu_windows_server_2016_language_pack_x64_dvd_9327828.iso
+SHA1      = 27EE1DD2A655401E46313CCDFDD288CABAE2DF19
+文件大小  = 2.56GB
+发布时间  = 2016-10-12
+下载链接  = ed2k://|file|mu_windows_server_2016_language_pack_x64_dvd_9327828.iso|2751272960|DF97A8F2F27EDA7BAF9DF895D1A43FCA|/

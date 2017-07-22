@@ -1,0 +1,5 @@
+文件名    = cn_win_srv_2003_r2_standard_with_sp2_cd1_X13-13927.iso
+SHA1      = 2B26F48A5AECF5E70074FCCC700ED3AAEA6E4558
+文件大小  = 606.96MB
+发布时间  = 2007-04-26
+下载链接  = ed2k://|file|cn_win_srv_2003_r2_standard_with_sp2_cd1_X13-13927.iso|636440576|E4657FA463E5BAF6367AC9B888731E95|/

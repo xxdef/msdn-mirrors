@@ -1,0 +1,5 @@
+文件名    = cn_windows_home_server_restore_disc_x86_cd_x14-67770.iso
+SHA1      = 62380FCDA5BB18F7D83ACA33BC51E1CE7D9120D3
+文件大小  = 458.16MB
+发布时间  = 2008-12-17
+下载链接  = ed2k://|file|cn_windows_home_server_restore_disc_x86_cd_x14-67770.iso|480417792|9363F1E6F2FB0CDC55EA8C9D8ADD9023|/

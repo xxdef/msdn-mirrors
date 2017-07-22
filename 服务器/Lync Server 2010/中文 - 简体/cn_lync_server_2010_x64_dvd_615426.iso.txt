@@ -1,0 +1,5 @@
+文件名    = cn_lync_server_2010_x64_dvd_615426.iso
+SHA1      = BD52EB9DCF2D348FE41166C01008BE2568C0F3DC
+文件大小  = 1.5GB
+发布时间  = 2010-12-15
+下载链接  = ed2k://|file|cn_lync_server_2010_x64_dvd_615426.iso|1608908800|9F9E5F458605B405EDB7363C9421DBA2|/

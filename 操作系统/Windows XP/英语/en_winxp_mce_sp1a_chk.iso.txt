@@ -1,0 +1,5 @@
+文件名    = en_winxp_mce_sp1a_chk.iso
+SHA1      = 54E9B818575156F7E5939207CA67632DE2BB9F46
+文件大小  = 568.1MB
+发布时间  = 2003-11-04
+下载链接  = ed2k://|file|en_winxp_mce_sp1a_chk.iso|595695616|3CF02AC0936F0C8ED5CB3170207F664B|/

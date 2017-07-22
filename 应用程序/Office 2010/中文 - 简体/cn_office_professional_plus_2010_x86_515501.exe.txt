@@ -1,0 +1,5 @@
+文件名    = cn_office_professional_plus_2010_x86_515501.exe
+SHA1      = AD9F7E48EBAF648169E34833E2E218D62B69FB84
+文件大小  = 802.55MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|cn_office_professional_plus_2010_x86_515501.exe|841530616|8DC55422EB5AE6B24BFF1BDE43C7F555|/

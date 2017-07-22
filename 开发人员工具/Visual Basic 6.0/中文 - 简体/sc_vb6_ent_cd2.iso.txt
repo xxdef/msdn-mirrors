@@ -1,0 +1,5 @@
+文件名    = sc_vb6_ent_cd2.iso
+SHA1      = BF882919C8BC12A263477D9623068832500DDA51
+文件大小  = 498.24MB
+发布时间  = 1999-04-09
+下载链接  = ed2k://|file|sc_vb6_ent_cd2.iso|522444800|FB78AFC8CC543A33E18CD08C31C8DADD|/

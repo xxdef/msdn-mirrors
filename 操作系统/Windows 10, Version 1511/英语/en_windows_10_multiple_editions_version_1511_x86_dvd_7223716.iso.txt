@@ -1,0 +1,5 @@
+文件名    = en_windows_10_multiple_editions_version_1511_x86_dvd_7223716.iso
+SHA1      = 5D406D89656F8548FD0F410BD66DE59BE05B081B
+文件大小  = 2.83GB
+发布时间  = 2015-11-12
+下载链接  = ed2k://|file|en_windows_10_multiple_editions_version_1511_x86_dvd_7223716.iso|3033683968|BCD4FA59DD9333478718C637458ED4E4|/

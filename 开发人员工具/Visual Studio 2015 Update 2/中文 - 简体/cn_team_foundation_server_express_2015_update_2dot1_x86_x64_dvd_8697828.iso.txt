@@ -1,0 +1,5 @@
+文件名    = cn_team_foundation_server_express_2015_update_2dot1_x86_x64_dvd_8697828.iso
+SHA1      = A2D1E93A4DB4956C75A53CB2F4D7BB8A173FBB13
+文件大小  = 477.85MB
+发布时间  = 2016-05-10
+下载链接  = ed2k://|file|cn_team_foundation_server_express_2015_update_2dot1_x86_x64_dvd_8697828.iso|501065728|1E308514581025C51A0C9BA5F539487C|/

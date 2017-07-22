@@ -1,0 +1,5 @@
+文件名    = de_office_professional_plus_2010_x86_515088.exe
+SHA1      = C2684D10B32204A2D1A70C54E6C2197EB9C63EDB
+文件大小  = 679.65MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|de_office_professional_plus_2010_x86_515088.exe|712660056|3EA7DAB503909211C000BE589EBA647A|/

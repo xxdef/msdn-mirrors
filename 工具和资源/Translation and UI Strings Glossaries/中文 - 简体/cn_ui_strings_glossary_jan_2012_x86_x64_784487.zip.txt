@@ -1,0 +1,5 @@
+文件名    = cn_ui_strings_glossary_jan_2012_x86_x64_784487.zip
+SHA1      = 22C77E4E06EB25C38EC7C2B2B71F0F91467644C8
+文件大小  = 96.36MB
+发布时间  = 2012-01-13
+下载链接  = ed2k://|file|cn_ui_strings_glossary_jan_2012_x86_x64_784487.zip|101043082|ABBDEB734604126CF7590CDEDAFFB24B|/

@@ -1,0 +1,5 @@
+文件名    = fr_visual_studio_2010_professional_x86_dvd_519327.iso
+SHA1      = 83DB196CAA1C640C55BBE0C3073254A10C6AB6FA
+文件大小  = 2.37GB
+发布时间  = 2010-04-20
+下载链接  = ed2k://|file|fr_visual_studio_2010_professional_x86_dvd_519327.iso|2540828672|66A6C277A6214CA847C3B75E3B10676A|/

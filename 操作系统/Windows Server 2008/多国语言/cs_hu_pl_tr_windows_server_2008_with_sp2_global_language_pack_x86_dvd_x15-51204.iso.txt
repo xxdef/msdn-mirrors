@@ -1,0 +1,5 @@
+文件名    = cs_hu_pl_tr_windows_server_2008_with_sp2_global_language_pack_x86_dvd_x15-51204.iso
+SHA1      = 9A09ABDA0DF3F3B08B1B638369A5B5D93B30FC2C
+文件大小  = 259.68MB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|cs_hu_pl_tr_windows_server_2008_with_sp2_global_language_pack_x86_dvd_x15-51204.iso|272291840|A68BCA955293CE79BEFC5F704D5102AC|/

@@ -1,0 +1,5 @@
+文件名    = et_el_he_hi_lv_lt_ru_uk_disc_5_office_professional_2003_MUI_x86_cd.iso
+SHA1      = 111E5B49EDFBCF40126FD68B0C53DFDCCE0E52CA
+文件大小  = 478.92MB
+发布时间  = 2004-02-10
+下载链接  = ed2k://|file|et_el_he_hi_lv_lt_ru_uk_disc_5_office_professional_2003_MUI_x86_cd.iso|502188032|49BDA2B3717CB71FF2E9F820955697D3|/

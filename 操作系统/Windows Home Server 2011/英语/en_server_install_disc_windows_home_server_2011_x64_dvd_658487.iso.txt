@@ -1,0 +1,5 @@
+文件名    = en_server_install_disc_windows_home_server_2011_x64_dvd_658487.iso
+SHA1      = A01A33EB26DE2A3E91C9C0371B549977173725F3
+文件大小  = 4.01GB
+发布时间  = 2011-04-05
+下载链接  = ed2k://|file|en_server_install_disc_windows_home_server_2011_x64_dvd_658487.iso|4305752064|E6FE46CC66A19A92D8BD4DCBB77108EB|/

@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_express_management_studio_x64.exe
+SHA1      = 31166A13D87D8498AAA6020D2C89C06199808277
+文件大小  = 645.56MB
+发布时间  = 2012-03-08
+下载链接  = ed2k://|file|cn_sql_server_2012_express_management_studio_x64.exe|676916824|6DB126B7DD6DA1A993C7A9E4F7ED91D1|/

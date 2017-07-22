@@ -1,0 +1,5 @@
+文件名    = en_sharepoint_designer_2013_with_sp1_x64_3948135.exe
+SHA1      = 934CD9265293AA4F6F549266CCCDC6EFB87B5196
+文件大小  = 373.13MB
+发布时间  = 2014-03-18
+下载链接  = ed2k://|file|en_sharepoint_designer_2013_with_sp1_x64_3948135.exe|391254888|1E306A4405FFD2BEEB6A4F61A3B28600|/

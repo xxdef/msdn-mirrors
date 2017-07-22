@@ -1,0 +1,5 @@
+文件名    = ru_msdos5.exe
+SHA1      = 4DF6DA9EE3FCBABDA7AC2714705DED129BC9D644
+文件大小  = 2.68MB
+发布时间  = 2000-03-02
+下载链接  = ed2k://|file|ru_msdos5.exe|2811024|C916BB7775A9FC1C5A33E36555116676|/

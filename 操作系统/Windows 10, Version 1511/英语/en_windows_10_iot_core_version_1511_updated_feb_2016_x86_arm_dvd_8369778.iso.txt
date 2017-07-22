@@ -1,0 +1,5 @@
+文件名    = en_windows_10_iot_core_version_1511_updated_feb_2016_x86_arm_dvd_8369778.iso
+SHA1      = 685345196FBC9FC3D103A3D4C290411C3A1988D6
+文件大小  = 1.24GB
+发布时间  = 2016-03-04
+下载链接  = ed2k://|file|en_windows_10_iot_core_version_1511_updated_feb_2016_x86_arm_dvd_8369778.iso|1326196736|32994D226F4BC40ED40E3EEB8DB9F76A|/

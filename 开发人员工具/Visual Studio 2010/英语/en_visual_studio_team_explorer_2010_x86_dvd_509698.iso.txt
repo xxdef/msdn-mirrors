@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_team_explorer_2010_x86_dvd_509698.iso
+SHA1      = 9C74C95A38A23D5168488094A5E752A9A5BC0CEF
+文件大小  = 303.85MB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_visual_studio_team_explorer_2010_x86_dvd_509698.iso|318605312|44E10252675F62648076DD6BEFAC4F00|/

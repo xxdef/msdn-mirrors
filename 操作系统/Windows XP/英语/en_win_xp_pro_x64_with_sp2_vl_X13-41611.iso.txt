@@ -1,0 +1,5 @@
+文件名    = en_win_xp_pro_x64_with_sp2_vl_X13-41611.iso
+SHA1      = CD9479E1DBAD7F26B8BDCF97E4AA71CBB8DE932B
+文件大小  = 599.07MB
+发布时间  = 2007-05-04
+下载链接  = ed2k://|file|en_win_xp_pro_x64_with_sp2_vl_X13-41611.iso|628168704|5573EEA1F40FE32E46F4615B6A4E71D8|/

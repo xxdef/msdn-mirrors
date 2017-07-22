@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_home_premium_with_sp1_x86_dvd_620848.iso
+SHA1      = D7CD5CD07DE11FE5C74F3787E250D9ABADEACF45
+文件大小  = 2.44GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|hk_windows_7_home_premium_with_sp1_x86_dvd_620848.iso|2621298688|33CB0040A929656DC1BE176E3FF8F00E|/

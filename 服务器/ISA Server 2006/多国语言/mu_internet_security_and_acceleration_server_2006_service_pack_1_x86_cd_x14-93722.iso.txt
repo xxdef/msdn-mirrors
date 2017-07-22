@@ -1,0 +1,5 @@
+文件名    = mu_internet_security_and_acceleration_server_2006_service_pack_1_x86_cd_x14-93722.iso
+SHA1      = 8F23B0B72F9EDD666149507D5C9D33F11628B44B
+文件大小  = 134.38MB
+发布时间  = 2008-09-13
+下载链接  = ed2k://|file|mu_internet_security_and_acceleration_server_2006_service_pack_1_x86_cd_x14-93722.iso|140910592|CA14CAC5182423F003F4DF1EF43143E1|/

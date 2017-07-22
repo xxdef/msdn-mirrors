@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_enterprise_insider_preview_14295_x64_dvd_8475169.iso
+SHA1      = AE0220A9447708B0771C680F5DA48A3258C8ECFC
+文件大小  = 3.86GB
+发布时间  = 2016-03-30
+下载链接  = ed2k://|file|cn_windows_10_enterprise_insider_preview_14295_x64_dvd_8475169.iso|4147539968|329A6AE12D3E458AD22F9826E396D5B9|/

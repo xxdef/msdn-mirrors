@@ -1,0 +1,5 @@
+文件名    = hk_windows_10_enterprise_x86_dvd_6846970.iso
+SHA1      = 7EAADFD45CFD0450AC0CA7441D3A3FD3CB540408
+文件大小  = 2.83GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|hk_windows_10_enterprise_x86_dvd_6846970.iso|3038197760|E8B930A641DB004D3EB7265933CE6E8A|/

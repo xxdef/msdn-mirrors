@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_language_pack_x64_dvd_x15-73458.iso
+SHA1      = E0B7FEB2812D6B8B240D6E7BBBC385BB283FF1FB
+文件大小  = 127.6MB
+发布时间  = 2009-08-06
+下载链接  = ed2k://|file|tw_windows_7_language_pack_x64_dvd_x15-73458.iso|133793792|F976A62B766322181C26CEEA832AC8CE|/

@@ -1,0 +1,5 @@
+文件名    = it_windows_7_enterprise_x64_dvd_x15-70846.iso
+SHA1      = 8A731FC97A30B5D93B59B8F6F5DBFFFBA4DDC281
+文件大小  = 2.79GB
+发布时间  = 2009-08-14
+下载链接  = ed2k://|file|it_windows_7_enterprise_x64_dvd_x15-70846.iso|2990690304|8262E21BDB2D0FD77812588CA4752BAD|/

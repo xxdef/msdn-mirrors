@@ -1,0 +1,5 @@
+文件名    = ct_windows_10_education_version_1607_updated_jul_2016_x86_dvd_9054304.iso
+SHA1      = 53EF0832B2E7D635C03918F6A651B52D245E2808
+文件大小  = 2.8GB
+发布时间  = 2016-08-02
+下载链接  = ed2k://|file|ct_windows_10_education_version_1607_updated_jul_2016_x86_dvd_9054304.iso|3008155648|5DF612630AFB32572373185B7325C27E|/

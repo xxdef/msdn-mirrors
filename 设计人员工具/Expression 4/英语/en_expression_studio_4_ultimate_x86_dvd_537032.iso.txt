@@ -1,0 +1,5 @@
+文件名    = en_expression_studio_4_ultimate_x86_dvd_537032.iso
+SHA1      = F34BD17566854B61ADFF9C551681493A21EAE831
+文件大小  = 284.15MB
+发布时间  = 2010-06-07
+下载链接  = ed2k://|file|en_expression_studio_4_ultimate_x86_dvd_537032.iso|297951232|CBFA32F7EDDD1FF8A6E43ABCF8710DC9|/

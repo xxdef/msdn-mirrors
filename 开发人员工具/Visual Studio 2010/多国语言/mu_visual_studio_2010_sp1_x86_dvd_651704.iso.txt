@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_2010_sp1_x86_dvd_651704.iso
+SHA1      = 61C2088850185EDE8E18001D1EF3E6D12DAA5692
+文件大小  = 1.48GB
+发布时间  = 2011-03-08
+下载链接  = ed2k://|file|mu_visual_studio_2010_sp1_x86_dvd_651704.iso|1592336384|C703F08639BBBE0F6F53C694C956F484|/

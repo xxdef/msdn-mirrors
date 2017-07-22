@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2016_essentials_technical_preview_4_x64_dvd_7258293.iso
+SHA1      = F2773BD9A691932B3B5F542BCD5E03167D9A0F3B
+文件大小  = 4.14GB
+发布时间  = 2015-11-19
+下载链接  = ed2k://|file|en_windows_server_2016_essentials_technical_preview_4_x64_dvd_7258293.iso|4447614976|AD5FFD75800BFD38A29DB278EE6BB11A|/

@@ -1,0 +1,5 @@
+文件名    = windowsinstaller-kb893803-v2-x86.exe
+SHA1      = 608678149FDDBBCE29C7C706BD5E765B9BF524FF
+文件大小  = 2.47MB
+发布时间  = 2005-05-18
+下载链接  = ed2k://|file|windowsinstaller-kb893803-v2-x86.exe|2584848|BDE0E5A1374AA707FFD04449271D742E|/

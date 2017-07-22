@@ -1,0 +1,5 @@
+文件名    = en_windows_home_server_restore_disc_x86_cd_x14-24266.iso
+SHA1      = B98EA88812FB026AC9DEECF35A41EA700D2092B2
+文件大小  = 397.31MB
+发布时间  = 2008-12-17
+下载链接  = ed2k://|file|en_windows_home_server_restore_disc_x86_cd_x14-24266.iso|416608256|09E597C47E0503C42E3796ECF0334639|/

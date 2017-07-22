@@ -1,0 +1,5 @@
+文件名    = en_windows_8_1_pro_vl_x86_dvd_2972633.iso
+SHA1      = 9F1FCEC3B267EDB6F3BD02566BC889BB4A372BFD
+文件大小  = 2.7GB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|en_windows_8_1_pro_vl_x86_dvd_2972633.iso|2900871168|3DC72F9673EAFA40AD9C62A5F96EE8CC|/

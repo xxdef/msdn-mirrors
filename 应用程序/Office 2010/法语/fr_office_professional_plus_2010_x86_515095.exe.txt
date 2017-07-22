@@ -1,0 +1,5 @@
+文件名    = fr_office_professional_plus_2010_x86_515095.exe
+SHA1      = C2B2083788BBE6C98FDCD79BD2B90CCE4784C3F1
+文件大小  = 672.7MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|fr_office_professional_plus_2010_x86_515095.exe|705375912|39F62A2FB0089685E3D8131D1D6A6D6F|/

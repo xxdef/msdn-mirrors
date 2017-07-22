@@ -1,0 +1,5 @@
+文件名    = zh-Hans_windows_web_server_2008_x86_dvd_x14-25992.iso
+SHA1      = DE7EF919EDAED54C1479B45FE98374CE1D67BFCF
+文件大小  = 1.64GB
+发布时间  = 2008-03-20
+下载链接  = ed2k://|file|zh-Hans_windows_web_server_2008_x86_dvd_x14-25992.iso|1760372736|A22ACC9D0BAB06B9ED895637DB437E37|/

@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2012_r2_essentials_with_update_x64_dvd_6052796.iso
+SHA1      = 52F90E67E78D57E044CE0C1F1B15AEA43E1209D1
+文件大小  = 4.84GB
+发布时间  = 2014-12-15
+下载链接  = ed2k://|file|cn_windows_server_2012_r2_essentials_with_update_x64_dvd_6052796.iso|5201313792|C6E9486A9364E9A918830940EF5A1946|/

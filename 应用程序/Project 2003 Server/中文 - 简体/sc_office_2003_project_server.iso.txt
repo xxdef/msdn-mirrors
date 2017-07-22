@@ -1,0 +1,5 @@
+文件名    = sc_office_2003_project_server.iso
+SHA1      = 012E65C88A17909D3C4E94C0F8A3F68E82065BBA
+文件大小  = 304.16MB
+发布时间  = 2003-10-23
+下载链接  = ed2k://|file|sc_office_2003_project_server.iso|318930944|B8E0E1F1AECA915F4BC8C2B10999E5A0|/

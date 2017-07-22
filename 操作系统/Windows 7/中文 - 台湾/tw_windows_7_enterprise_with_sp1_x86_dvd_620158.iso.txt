@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_enterprise_with_sp1_x86_dvd_620158.iso
+SHA1      = 0C3429CDC9E11FD288B2CC37D536957EF347C507
+文件大小  = 2.3GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|tw_windows_7_enterprise_with_sp1_x86_dvd_620158.iso|2474461184|D0B331A581BCA6161F030CFE09AFE264|/

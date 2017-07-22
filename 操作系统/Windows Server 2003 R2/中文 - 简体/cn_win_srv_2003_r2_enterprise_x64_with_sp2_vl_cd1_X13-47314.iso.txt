@@ -1,0 +1,5 @@
+文件名    = cn_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_X13-47314.iso
+SHA1      = FDA1A0401CA610F6E3A7780D6DB004DA2F944138
+文件大小  = 617.68MB
+发布时间  = 2007-04-27
+下载链接  = ed2k://|file|cn_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_X13-47314.iso|647686144|107F10D2A7FF12FFF0602FF60602BB37|/

@@ -1,0 +1,5 @@
+文件名    = en_xna_game_studio_4.0_refresh_x86.exe
+SHA1      = 36BAE2876132F16827313D925AEDAED8083A65C7
+文件大小  = 40.82MB
+发布时间  = 2012-01-13
+下载链接  = ed2k://|file|en_xna_game_studio_4.0_refresh_x86.exe|42807560|7439919FDAB0AE3D4D94DD28FDC26C6A|/

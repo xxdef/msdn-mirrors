@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2012_r2_virtual_machine_manager_x86_and_x64_dvd_2913737.iso
+SHA1      = 6BE8BEF3CE1305B41F924AA16EC603B75A6A4363
+文件大小  = 1.24GB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|mu_system_center_2012_r2_virtual_machine_manager_x86_and_x64_dvd_2913737.iso|1333972992|F096CAD9DF3930F9DD5D397A717E409C|/

@@ -1,0 +1,5 @@
+文件名    = en_project_portfolio_server_2007_sp2_x86.exe
+SHA1      = 81E8FA0730613573DF387A4B60BDAB1A9AAB3949
+文件大小  = 11.93MB
+发布时间  = 2010-02-23
+下载链接  = ed2k://|file|en_project_portfolio_server_2007_sp2_x86.exe|12514168|0DF9CC776018660779BDDAD158A785B9|/

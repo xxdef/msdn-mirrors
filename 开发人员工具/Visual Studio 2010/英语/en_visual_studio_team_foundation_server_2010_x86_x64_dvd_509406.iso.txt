@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_team_foundation_server_2010_x86_x64_dvd_509406.iso
+SHA1      = E125031EB83545C52310AAA091111BBF68D7BA9C
+文件大小  = 1.61GB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_visual_studio_team_foundation_server_2010_x86_x64_dvd_509406.iso|1723766784|70DC63F8B39D09C2B0BAE63DFB0673C9|/

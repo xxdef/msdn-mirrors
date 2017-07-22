@@ -1,0 +1,5 @@
+文件名    = cn_team_foundation_server_2015_update_3_x86_x64_dvd_8945912.iso
+SHA1      = 915D42663A81591BA5AEAD1B5D69C00D99D076C9
+文件大小  = 465.55MB
+发布时间  = 2016-06-27
+下载链接  = ed2k://|file|cn_team_foundation_server_2015_update_3_x86_x64_dvd_8945912.iso|488167424|25CE992C5B4DD0C19D48D5DE55804086|/

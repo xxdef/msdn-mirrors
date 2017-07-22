@@ -1,0 +1,5 @@
+文件名    = en_windows_8_1_enterprise_x64_dvd_2971902.iso
+SHA1      = AE792B2EF982DAC7391224B624EAB8D6340D78AB
+文件大小  = 3.59GB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|en_windows_8_1_enterprise_x64_dvd_2971902.iso|3853993984|D98D0FC118C2A4471850970A779B4212|/

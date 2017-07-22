@@ -1,0 +1,5 @@
+文件名    = cs_vs_2005_pro_dvd.iso
+SHA1      = 8283F9B337201FF983FCC5BEEFD797BBB7BE4F76
+文件大小  = 2.55GB
+发布时间  = 2006-01-17
+下载链接  = ed2k://|file|cs_vs_2005_pro_dvd.iso|2733268992|9DA1C378BAC22E66A73C9E20EC78CCFB|/

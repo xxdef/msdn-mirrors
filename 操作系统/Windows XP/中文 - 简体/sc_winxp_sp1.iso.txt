@@ -1,0 +1,5 @@
+文件名    = sc_winxp_sp1.iso
+SHA1      = E8127BA8975CAA34384E4D573F73B2EFD20CD572
+文件大小  = 298.49MB
+发布时间  = 2006-07-07
+下载链接  = ed2k://|file|sc_winxp_sp1.iso|312993792|2711C1C07563C6F4782271ECA771FC90|/

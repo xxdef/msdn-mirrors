@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2005_sp3_x86.exe
+SHA1      = EDBE4CA011A96C4CB3F69A6D3E96C351D580A0E5
+文件大小  = 341.98MB
+发布时间  = 2010-06-09
+下载链接  = ed2k://|file|cn_sql_server_2005_sp3_x86.exe|358596448|49AF3285D7BB811AB7D99D746DD10B12|/

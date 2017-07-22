@@ -1,0 +1,5 @@
+文件名    = cn_office_professional_plus_2010_with_sp1_x86_x64_732114.iso
+SHA1      = 8ED9525CF0271990C9637C2090562D6DC4CBB485
+文件大小  = 2.74GB
+发布时间  = 2011-10-25
+下载链接  = ed2k://|file|cn_office_professional_plus_2010_with_sp1_x86_x64_732114.iso|2939512832|7A118C7E70D022C54D27E6C3B9C72C36|/

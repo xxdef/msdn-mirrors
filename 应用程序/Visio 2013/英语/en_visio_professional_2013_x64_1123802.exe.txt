@@ -1,0 +1,5 @@
+文件名    = en_visio_professional_2013_x64_1123802.exe
+SHA1      = 6812cb3a4967824fefe29e302968f13b98fa85c6
+文件大小  = 414.59MB
+发布时间  = 2012-10-24
+下载链接  = ed2k://|file|en_visio_professional_2013_x64_1123802.exe|434727248|2BF2128E93675FE5AE0417FA2B045D05|/

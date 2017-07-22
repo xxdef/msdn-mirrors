@@ -1,0 +1,5 @@
+文件名    = en_office_2013_single_language_pack_with_sp1_x86_and_x64_dvd_3857950.iso
+SHA1      = 8B98BBCB1181B2E385A7577F593BEFBD170283CC
+文件大小  = 608.01MB
+发布时间  = 2014-03-18
+下载链接  = ed2k://|file|en_office_2013_single_language_pack_with_sp1_x86_and_x64_dvd_3857950.iso|637540352|372E22FF43B519496A886D5515BA2EEB|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_storage_server_2008_embedded_tools_cd_x64_x86_x15-62577.iso
+SHA1      = EEC2C4EF6B4E7FA156E91A7D4A09CB16E49529F4
+文件大小  = 5.89MB
+发布时间  = 2009-05-06
+下载链接  = ed2k://|file|en_windows_storage_server_2008_embedded_tools_cd_x64_x86_x15-62577.iso|6180864|358B99626EE909863B7497851DFF69C6|/

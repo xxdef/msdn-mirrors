@@ -1,0 +1,5 @@
+文件名    = en_windows_10_multiple_editions_version_1607_updated_jan_2017_x64_dvd_9714399.iso
+SHA1      = 44064680647EE4C877A6F54739AD82759147C828
+文件大小  = 4.49GB
+发布时间  = 2017-01-19
+下载链接  = ed2k://|file|en_windows_10_multiple_editions_version_1607_updated_jan_2017_x64_dvd_9714399.iso|4823797760|CD6DB15B96A23F95CD4594B7F5061AB3|/

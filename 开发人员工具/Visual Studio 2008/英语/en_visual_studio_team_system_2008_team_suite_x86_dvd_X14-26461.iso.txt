@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_team_system_2008_team_suite_x86_dvd_X14-26461.iso
+SHA1      = 573DB823AB8B031F7CC5F859B627708EE03B2E78
+文件大小  = 3.83GB
+发布时间  = 2007-11-19
+下载链接  = ed2k://|file|en_visual_studio_team_system_2008_team_suite_x86_dvd_X14-26461.iso|4111650816|C5A226DD3EB56ECADA202DD0139D93A1|/

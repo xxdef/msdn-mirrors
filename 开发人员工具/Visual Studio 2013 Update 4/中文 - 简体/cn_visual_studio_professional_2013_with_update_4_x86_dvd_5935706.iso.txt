@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_professional_2013_with_update_4_x86_dvd_5935706.iso
+SHA1      = 58547BCB218A3231FCC0F6DB6C30739E0EB2D58E
+文件大小  = 7.04GB
+发布时间  = 2014-11-12
+下载链接  = ed2k://|file|cn_visual_studio_professional_2013_with_update_4_x86_dvd_5935706.iso|7557046272|4B201FA2D6B219ADE84E2398535D7389|/

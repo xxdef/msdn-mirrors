@@ -1,0 +1,5 @@
+文件名    = en_windows_storage_server_2008_embedded_basic_standard_enterprise_workgroup_dvd_x64_x15-49574.iso
+SHA1      = EEB06FB9D9B84946ECC5B8624FAD703184147191
+文件大小  = 3.23GB
+发布时间  = 2009-05-06
+下载链接  = ed2k://|file|en_windows_storage_server_2008_embedded_basic_standard_enterprise_workgroup_dvd_x64_x15-49574.iso|3466795008|049F4E5442C00BB3E3CDD9861F8320D5|/

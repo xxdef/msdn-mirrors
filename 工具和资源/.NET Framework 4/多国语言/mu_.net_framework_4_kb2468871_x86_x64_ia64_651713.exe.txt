@@ -1,0 +1,5 @@
+文件名    = mu_.net_framework_4_kb2468871_x86_x64_ia64_651713.exe
+SHA1      = 4125DF3B3B141B9626F2EA9C18380A62551CBD36
+文件大小  = 26.67MB
+发布时间  = 2011-03-08
+下载链接  = ed2k://|file|mu_.net_framework_4_kb2468871_x86_x64_ia64_651713.exe|27969504|C1584B7405B1BD7F3383D8451744C541|/

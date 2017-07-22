@@ -1,0 +1,5 @@
+文件名    = en_sql_server_2008_r2_management_studio_express_x64.exe
+SHA1      = 223261D57A5B147532529C4DAE516E8653198D76
+文件大小  = 163.45MB
+发布时间  = 2010-06-29
+下载链接  = ed2k://|file|en_sql_server_2008_r2_management_studio_express_x64.exe|171391328|4F9E3349B6EEDCE3D8E3702EE3D4D5DB|/

@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_multiple_editions_insider_preview_14295_x86_dvd_8475151.iso
+SHA1      = 986D6CFBDA0DF2B68C5B6F3F24586478A66F2197
+文件大小  = 3.03GB
+发布时间  = 2016-03-30
+下载链接  = ed2k://|file|cn_windows_10_multiple_editions_insider_preview_14295_x86_dvd_8475151.iso|3249692672|26CE75EFDC0AD43ECF8D01A721B44525|/

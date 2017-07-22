@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_15_preview_3_with_new_installer_x86_x64_web_installer_8976205.exe
+SHA1      = E6DDAD0705B578D554CAE7C1C5FAB08CBC9BA0D8
+文件大小  = 953.83KB
+发布时间  = 2016-07-07
+下载链接  = ed2k://|file|en_visual_studio_15_preview_3_with_new_installer_x86_x64_web_installer_8976205.exe|976720|4EC5E2ED0D057862F990595B7535DA5B|/

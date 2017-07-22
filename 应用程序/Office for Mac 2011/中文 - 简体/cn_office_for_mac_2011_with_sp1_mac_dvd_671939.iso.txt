@@ -1,0 +1,5 @@
+文件名    = cn_office_for_mac_2011_with_sp1_mac_dvd_671939.iso
+SHA1      = 5AEBB3240E113A1CFDBE95AC4C5EED384D88DBC7
+文件大小  = 1.14GB
+发布时间  = 2011-04-22
+下载链接  = ed2k://|file|cn_office_for_mac_2011_with_sp1_mac_dvd_671939.iso|1229187072|4F13E440C6243FB9C1877222B1C38745|/

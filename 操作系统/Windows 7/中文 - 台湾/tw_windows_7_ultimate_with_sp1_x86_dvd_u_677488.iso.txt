@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_ultimate_with_sp1_x86_dvd_u_677488.iso
+SHA1      = C281631B915AA24B93C37F6D5D586AA7B51211D8
+文件大小  = 2.45GB
+发布时间  = 2011-05-12
+下载链接  = ed2k://|file|tw_windows_7_ultimate_with_sp1_x86_dvd_u_677488.iso|2626453504|24952BE0F5844062465BD5DCDAC1986F|/

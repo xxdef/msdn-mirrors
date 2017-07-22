@@ -1,0 +1,5 @@
+文件名    = en_net_framework_sdk_20_ia64.exe
+SHA1      = 4F13784139401CD3577D15E5330EC1D6BE891909
+文件大小  = 347.47MB
+发布时间  = 2005-11-08
+下载链接  = ed2k://|file|en_net_framework_sdk_20_ia64.exe|364345528|09DD45390117A16C17F30AD4185BE8BE|/

@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_multiple_editions_version_1703_updated_march_2017_x86_dvd_10189569.iso
+SHA1      = 08D8F230E516523AD80B9A8F69ADEA6F77F2836A
+文件大小  = 3.22GB
+发布时间  = 2017-04-05
+下载链接  = ed2k://|file|cn_windows_10_multiple_editions_version_1703_updated_march_2017_x86_dvd_10189569.iso|3456649216|945C69ABEE0EFE9B07CF5B4C6E141262|/

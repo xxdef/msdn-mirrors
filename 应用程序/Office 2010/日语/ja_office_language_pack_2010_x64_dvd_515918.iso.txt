@@ -1,0 +1,5 @@
+文件名    = ja_office_language_pack_2010_x64_dvd_515918.iso
+SHA1      = 060F24B4049C748502949228C1E9F1C9D38330B6
+文件大小  = 575.85MB
+发布时间  = 2010-07-09
+下载链接  = ed2k://|file|ja_office_language_pack_2010_x64_dvd_515918.iso|603817984|41B276118F7A78FF442F6312A151A16E|/

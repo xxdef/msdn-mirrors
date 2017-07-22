@@ -1,0 +1,5 @@
+文件名    = nl_windows_7_ultimate_x64_dvd_x15-65920.iso
+SHA1      = 57DBADBDE273CD8D3E3CA384FCA0550A36447DC5
+文件大小  = 2.91GB
+发布时间  = 2009-08-25
+下载链接  = ed2k://|file|nl_windows_7_ultimate_x64_dvd_x15-65920.iso|3119224832|1C8EC24A61024A8C926B3017D865DDF5|/

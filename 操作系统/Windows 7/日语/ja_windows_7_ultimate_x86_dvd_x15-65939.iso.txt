@@ -1,0 +1,5 @@
+文件名    = ja_windows_7_ultimate_x86_dvd_x15-65939.iso
+SHA1      = 31E8C0182DCB6F9F060195A7F1EF0F2AE2722DE5
+文件大小  = 2.33GB
+发布时间  = 2009-08-11
+下载链接  = ed2k://|file|ja_windows_7_ultimate_x86_dvd_x15-65939.iso|2503079936|B02221E9B203CD065155D395B8C56E7F|/

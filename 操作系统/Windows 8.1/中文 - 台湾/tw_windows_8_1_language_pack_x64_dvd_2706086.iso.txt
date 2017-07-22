@@ -1,0 +1,5 @@
+文件名    = tw_windows_8_1_language_pack_x64_dvd_2706086.iso
+SHA1      = 21F44710934A939FE584EFB4E41C8A343DD9F352
+文件大小  = 121.59MB
+发布时间  = 2013-09-09
+下载链接  = ed2k://|file|tw_windows_8_1_language_pack_x64_dvd_2706086.iso|127492096|E4481E6F63D2CEF90EC59A5F17DF6CFD|/

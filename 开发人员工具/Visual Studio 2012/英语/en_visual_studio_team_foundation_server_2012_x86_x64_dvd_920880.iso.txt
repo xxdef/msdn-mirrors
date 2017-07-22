@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_team_foundation_server_2012_x86_x64_dvd_920880.iso
+SHA1      = 8BA1B3558A6468434CEB878C09D301DC946D8D80
+文件大小  = 1.08GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|en_visual_studio_team_foundation_server_2012_x86_x64_dvd_920880.iso|1157632000|1FC5C7878669ECC20154E174B65D19AB|/

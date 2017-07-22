@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2014_enterprise_edition_with_service_pack_1_x64_dvd_6669544.iso
+SHA1      = 1926F6ACA4B8F165329BF080FB0C5C8E5D856A34
+文件大小  = 3.23GB
+发布时间  = 2015-05-21
+下载链接  = ed2k://|file|cn_sql_server_2014_enterprise_edition_with_service_pack_1_x64_dvd_6669544.iso|3472263168|DCED0446B48EFD9D4FB689087187BBB6|/

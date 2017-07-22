@@ -1,0 +1,5 @@
+文件名    = cn_office_language_pack_2010_x64_515519.exe
+SHA1      = 37291912DED10781F2D63ABF852A4BA370DF3AD3
+文件大小  = 564.39MB
+发布时间  = 2011-07-19
+下载链接  = ed2k://|file|cn_office_language_pack_2010_x64_515519.exe|591806000|08EEE113EEDF6296ACB93BD40CF57BE9|/

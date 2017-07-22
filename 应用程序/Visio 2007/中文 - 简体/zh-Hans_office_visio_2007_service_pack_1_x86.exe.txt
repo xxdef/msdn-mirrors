@@ -1,0 +1,5 @@
+文件名    = zh-Hans_office_visio_2007_service_pack_1_x86.exe
+SHA1      = 65F81BB26A708AB147B719F57B2337CD2EEC2F32
+文件大小  = 114.34MB
+发布时间  = 2007-12-22
+下载链接  = ed2k://|file|zh-Hans_office_visio_2007_service_pack_1_x86.exe|119896968|F87752C57A163E96D4C9821096A59BBE|/

@@ -1,0 +1,5 @@
+文件名    = ru_office_professional_plus_2010_x86_516161.exe
+SHA1      = B8DF50AC35D2D57A8202E54E19562700D480D474
+文件大小  = 610.99MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|ru_office_professional_plus_2010_x86_516161.exe|640670888|0DF22984814D94E0E3407155EC15FFB2|/

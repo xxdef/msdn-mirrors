@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2008_for_itanium_based_systems_sp2_ia64_dvd_342339.iso
+SHA1      = 690A50FC19F89C19598F8D4E777C263673A2C842
+文件大小  = 2.42GB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|en_windows_server_2008_for_itanium_based_systems_sp2_ia64_dvd_342339.iso|2597382144|4E4D63011989CB0E9884CCBC5161A121|/

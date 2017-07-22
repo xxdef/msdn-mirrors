@@ -1,0 +1,5 @@
+文件名    = en_windows_multipoint_mouse_sdk_1.5.1.msi
+SHA1      = CA20F2C6836F98BE3EAEB0FAE601ABBD0AAFC662
+文件大小  = 1.83MB
+发布时间  = 2010-06-22
+下载链接  = ed2k://|file|en_windows_multipoint_mouse_sdk_1.5.1.msi|1922560|24B3D88D5B9A6B38B493E588A04B0EBA|/

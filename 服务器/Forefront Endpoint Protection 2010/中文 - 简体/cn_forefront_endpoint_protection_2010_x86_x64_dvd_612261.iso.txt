@@ -1,0 +1,5 @@
+文件名    = cn_forefront_endpoint_protection_2010_x86_x64_dvd_612261.iso
+SHA1      = F03C1320A490F148D86F8CBAED1B183980B8BD05
+文件大小  = 74.61MB
+发布时间  = 2010-12-16
+下载链接  = ed2k://|file|cn_forefront_endpoint_protection_2010_x86_x64_dvd_612261.iso|78233600|F4C4F3E9197660DD76CFCEFCB33DA6F9|/

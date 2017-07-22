@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_15_preview_3_language_pack_x86_x64_web_installer_8961858.exe
+SHA1      = A735C83DF8927D264851AA912FCA9BCDE3C77C5E
+文件大小  = 3.06MB
+发布时间  = 2016-07-07
+下载链接  = ed2k://|file|cn_visual_studio_15_preview_3_language_pack_x86_x64_web_installer_8961858.exe|3203904|D37AA4C570E767A98DB310B185ED0F86|/

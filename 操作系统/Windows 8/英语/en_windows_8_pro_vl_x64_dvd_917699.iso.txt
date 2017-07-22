@@ -1,0 +1,5 @@
+文件名    = en_windows_8_pro_vl_x64_dvd_917699.iso
+SHA1      = 6DDEDEBE40AB59CB11823F62F475C43C4053FE60
+文件大小  = 3.25GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|en_windows_8_pro_vl_x64_dvd_917699.iso|3488145408|9318D485E9F565BE55B9218BB02A8A07|/

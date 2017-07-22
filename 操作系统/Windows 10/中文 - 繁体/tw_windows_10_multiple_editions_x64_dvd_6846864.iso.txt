@@ -1,0 +1,5 @@
+文件名    = tw_windows_10_multiple_editions_x64_dvd_6846864.iso
+SHA1      = E76B1C0462F23819D53DE39B57339B839916CA95
+文件大小  = 3.93GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|tw_windows_10_multiple_editions_x64_dvd_6846864.iso|4222957568|1BD713DF6600508EE9A4DBC24C263087|/

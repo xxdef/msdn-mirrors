@@ -1,0 +1,5 @@
+文件名    = ru_windows_vista_with_service_pack_1_global_language_pack_x86_dvd_x14-54874.iso
+SHA1      = 573CEB499AA084FDC8018D03F8722AE9A7A1B5EC
+文件大小  = 153.9MB
+发布时间  = 2008-04-14
+下载链接  = ed2k://|file|ru_windows_vista_with_service_pack_1_global_language_pack_x86_dvd_x14-54874.iso|161372160|8160B139C14B012E498E9772EF8EB731|/

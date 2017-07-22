@@ -1,0 +1,5 @@
+文件名    = cs_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73965.iso
+SHA1      = 0FD3FBFA46D32F0D64A08D58F38C0C5E0AD2FC83
+文件大小  = 592.19MB
+发布时间  = 2008-05-09
+下载链接  = ed2k://|file|cs_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73965.iso|620951552|44B18DF25F5712F573315C93EC8F0FF9|/

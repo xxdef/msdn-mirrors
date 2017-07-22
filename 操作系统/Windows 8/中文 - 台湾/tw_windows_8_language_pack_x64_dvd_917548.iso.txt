@@ -1,0 +1,5 @@
+文件名    = tw_windows_8_language_pack_x64_dvd_917548.iso
+SHA1      = 6C1B34BA691FB901D3C0AA6F4959D584F2298277
+文件大小  = 137.91MB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|tw_windows_8_language_pack_x64_dvd_917548.iso|144607232|06E48BD4CE354EE7474BE4525974654C|/

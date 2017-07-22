@@ -1,0 +1,5 @@
+文件名    = en_windows_7_enterprise_with_sp1_x86_dvd_u_677710.iso
+SHA1      = 4E0450AC73AB6F9F755EB422990CD9C7A1F3509C
+文件大小  = 2.27GB
+发布时间  = 2011-05-12
+下载链接  = ed2k://|file|en_windows_7_enterprise_with_sp1_x86_dvd_u_677710.iso|2434502656|9B710D7876B754D5F96F72B4A7C9B9A8|/

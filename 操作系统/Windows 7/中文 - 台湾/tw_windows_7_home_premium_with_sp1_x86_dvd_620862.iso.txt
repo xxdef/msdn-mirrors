@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_home_premium_with_sp1_x86_dvd_620862.iso
+SHA1      = 845289281B1044C037A81378F32268C456A7960B
+文件大小  = 2.44GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|tw_windows_7_home_premium_with_sp1_x86_dvd_620862.iso|2624999424|D41FC7E50BF544C4713C32169D782377|/

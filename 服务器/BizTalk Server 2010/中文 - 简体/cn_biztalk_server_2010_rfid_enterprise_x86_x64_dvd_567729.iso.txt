@@ -1,0 +1,5 @@
+文件名    = cn_biztalk_server_2010_rfid_enterprise_x86_x64_dvd_567729.iso
+SHA1      = 718AD1F1C829593F2AD6B0CB86004109A9231FBC
+文件大小  = 92.33MB
+发布时间  = 2010-10-01
+下载链接  = ed2k://|file|cn_biztalk_server_2010_rfid_enterprise_x86_x64_dvd_567729.iso|96815104|620D10DF18F8B60A6E2580AB35E18D7A|/

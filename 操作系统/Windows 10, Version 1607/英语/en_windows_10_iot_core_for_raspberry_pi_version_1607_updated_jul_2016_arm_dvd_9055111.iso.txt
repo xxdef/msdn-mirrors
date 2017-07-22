@@ -1,0 +1,5 @@
+文件名    = en_windows_10_iot_core_for_raspberry_pi_version_1607_updated_jul_2016_arm_dvd_9055111.iso
+SHA1      = 5340715E8DFC11241AAB0ACAFAD7F98489402760
+文件大小  = 651.84MB
+发布时间  = 2016-08-02
+下载链接  = ed2k://|file|en_windows_10_iot_core_for_raspberry_pi_version_1607_updated_jul_2016_arm_dvd_9055111.iso|683501568|DBC721ED49C7C30169015D4ACA5D3EE6|/

@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2016_ctp3.2_x64_dvd_8169191.iso
+SHA1      = F4CC3BB51D9D22078C7F8ED5F3E90F290171422C
+文件大小  = 2.87GB
+发布时间  = 2015-12-17
+下载链接  = ed2k://|file|cn_sql_server_2016_ctp3.2_x64_dvd_8169191.iso|3084263424|0D5A287BC21D119EC337E7791EC339BB|/

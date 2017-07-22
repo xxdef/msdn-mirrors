@@ -1,0 +1,5 @@
+文件名    = cn_da_nl_fi_disc_2_office_professional_2003_MUI_x86_cd.iso
+SHA1      = B29D467791556473CA39FE5C8EF516FEB1E9798A
+文件大小  = 569.94MB
+发布时间  = 2003-10-14
+下载链接  = ed2k://|file|cn_da_nl_fi_disc_2_office_professional_2003_MUI_x86_cd.iso|597624832|54480067F6F84FD45F0DEC359EDFB215|/

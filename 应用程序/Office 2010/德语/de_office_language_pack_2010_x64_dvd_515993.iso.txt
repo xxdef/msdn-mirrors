@@ -1,0 +1,5 @@
+文件名    = de_office_language_pack_2010_x64_dvd_515993.iso
+SHA1      = 18C9C6ECC04995206CD59473682CA156FF2F0F40
+文件大小  = 501.72MB
+发布时间  = 2010-07-09
+下载链接  = ed2k://|file|de_office_language_pack_2010_x64_dvd_515993.iso|526094336|F7FC4699F5E117B384A55F2EA177118E|/

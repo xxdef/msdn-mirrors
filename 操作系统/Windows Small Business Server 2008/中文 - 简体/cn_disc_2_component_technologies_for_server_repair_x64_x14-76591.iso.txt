@@ -1,0 +1,5 @@
+文件名    = cn_disc_2_component_technologies_for_server_repair_x64_x14-76591.iso
+SHA1      = 7E7BCDC22CA30044014CB5B4D8D81FD564F4BBB6
+文件大小  = 2.03GB
+发布时间  = 2009-01-12
+下载链接  = ed2k://|file|cn_disc_2_component_technologies_for_server_repair_x64_x14-76591.iso|2184601600|6A9DF8733401F16DB2B95C02CE5BD8C2|/

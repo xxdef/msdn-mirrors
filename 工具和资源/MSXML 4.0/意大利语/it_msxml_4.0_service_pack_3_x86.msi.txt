@@ -1,0 +1,5 @@
+文件名    = it_msxml_4.0_service_pack_3_x86.msi
+SHA1      = 7D732CD2BE173A41D771C3B9571B621EAA1BE6EC
+文件大小  = 2.31MB
+发布时间  = 2011-06-23
+下载链接  = ed2k://|file|it_msxml_4.0_service_pack_3_x86.msi|2425856|5D76C5E5E8ECE1E17D42A7F923B1B7BF|/

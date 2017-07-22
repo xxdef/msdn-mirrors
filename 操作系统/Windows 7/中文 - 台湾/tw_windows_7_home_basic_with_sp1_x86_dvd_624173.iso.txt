@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_home_basic_with_sp1_x86_dvd_624173.iso
+SHA1      = B71BE46275AB5CAF24F212AC22F1E9CB0AD931AF
+文件大小  = 2.44GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|tw_windows_7_home_basic_with_sp1_x86_dvd_624173.iso|2624999424|F1F39E08D76CF8A8DF88958EA5367A54|/

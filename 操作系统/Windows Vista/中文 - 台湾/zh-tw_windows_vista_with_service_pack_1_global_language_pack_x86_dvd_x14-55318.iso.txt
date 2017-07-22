@@ -1,0 +1,5 @@
+文件名    = zh-tw_windows_vista_with_service_pack_1_global_language_pack_x86_dvd_x14-55318.iso
+SHA1      = 3479BC256FFAF7F80C85347AF0C01112E328558E
+文件大小  = 197.27MB
+发布时间  = 2008-04-14
+下载链接  = ed2k://|file|zh-tw_windows_vista_with_service_pack_1_global_language_pack_x86_dvd_x14-55318.iso|206850048|DD6F8E57F8E6E9DA0D1A71E545EAE794|/

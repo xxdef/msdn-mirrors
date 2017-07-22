@@ -1,0 +1,5 @@
+文件名    = en_office_for_mac_2011_with_sp1_mac_dvd_670905.iso
+SHA1      = A4BDC647F094C50C6B32A207FD48D80139395469
+文件大小  = 992.28MB
+发布时间  = 2011-04-29
+下载链接  = ed2k://|file|en_office_for_mac_2011_with_sp1_mac_dvd_670905.iso|1040480256|CAA59D84E1E79AECCE019054807D9664|/

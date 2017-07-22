@@ -1,0 +1,5 @@
+文件名    = en_fr_de_ja_es_windows_storage_server_2008_embedded_language_pack_dvd_x64_x14-18606.iso
+SHA1      = CF1C2A6712CEB4981E00D6F1C831EC9E2171B859
+文件大小  = 362.07MB
+发布时间  = 2009-05-06
+下载链接  = ed2k://|file|en_fr_de_ja_es_windows_storage_server_2008_embedded_language_pack_dvd_x64_x14-18606.iso|379662336|CC1529731224B3CB50C6B2D445399C80|/

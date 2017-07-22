@@ -1,0 +1,5 @@
+文件名    = cn_.net_fx_4_5_1_lp_windows_vistasp2_windows_7sp1_windows_8_windows_server_2008sp2_windows_server_2008r2sp1_windows_server_2012_x86_x64_3009853.exe
+SHA1      = 16EC6463FFA348BD2079CD56CEAC45CD849D4346
+文件大小  = 5.61MB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|cn_.net_fx_4_5_1_lp_windows_vistasp2_windows_7sp1_windows_8_windows_server_2008sp2_windows_server_2008r2sp1_windows_server_2012_x86_x64_3009853.exe|5883944|365D833D969AF7ECC5416D0D77EC28A7|/

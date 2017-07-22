@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_starter_with_sp1_x86_dvd_624053.iso
+SHA1      = 01D060F6968E0E5DC03FBABF4479312D76075C74
+文件大小  = 2.44GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|tw_windows_7_starter_with_sp1_x86_dvd_624053.iso|2624999424|4E3734D07D5E7CE9C6A3544925819363|/

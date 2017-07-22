@@ -1,0 +1,5 @@
+文件名    = sc_sql_2000a_personal.iso
+SHA1      = 8FA9A3C346B2C068407702BB1EC01A275D593B8F
+文件大小  = 453.92MB
+发布时间  = 2003-04-21
+下载链接  = ed2k://|file|sc_sql_2000a_personal.iso|475969536|86A373A87147015C9D5124122319E3EC|/

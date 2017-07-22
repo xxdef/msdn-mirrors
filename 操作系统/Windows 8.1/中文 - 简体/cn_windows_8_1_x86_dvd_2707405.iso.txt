@@ -1,0 +1,5 @@
+文件名    = cn_windows_8_1_x86_dvd_2707405.iso
+SHA1      = D07E7CA99B455FFC0B58BE96333D1F554FE83D8A
+文件大小  = 2.85GB
+发布时间  = 2013-09-09
+下载链接  = ed2k://|file|cn_windows_8_1_x86_dvd_2707405.iso|3055904768|B296A943F16FADFC5FFA2F1D583DCC49|/

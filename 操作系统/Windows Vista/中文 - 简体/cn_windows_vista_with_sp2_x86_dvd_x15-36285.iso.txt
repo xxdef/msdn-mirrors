@@ -1,0 +1,5 @@
+文件名    = cn_windows_vista_with_sp2_x86_dvd_x15-36285.iso
+SHA1      = DA7F7BDC841DDFFABFF7DDAB6B1158873BF1246D
+文件大小  = 2.87GB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|cn_windows_vista_with_sp2_x86_dvd_x15-36285.iso|3078893568|F50709974F03C63BB41B5CA0D406160D|/

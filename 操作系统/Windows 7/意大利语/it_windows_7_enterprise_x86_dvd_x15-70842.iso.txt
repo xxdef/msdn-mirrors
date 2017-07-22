@@ -1,0 +1,5 @@
+文件名    = it_windows_7_enterprise_x86_dvd_x15-70842.iso
+SHA1      = 4A57CA63C6302EB98B9CB15809B402B06CC1385A
+文件大小  = 2.11GB
+发布时间  = 2009-08-14
+下载链接  = ed2k://|file|it_windows_7_enterprise_x86_dvd_x15-70842.iso|2264743936|9C4DC0E4C2F4F33B55581B89105589E3|/

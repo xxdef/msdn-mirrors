@@ -1,0 +1,5 @@
+文件名    = en_microsoft_streets_and_trips_2011_x86_x64_dvd_644763.iso
+SHA1      = 57A9027333E4C793239C31AD045A2EC6BE30537C
+文件大小  = 1.62GB
+发布时间  = 2011-03-17
+下载链接  = ed2k://|file|en_microsoft_streets_and_trips_2011_x86_x64_dvd_644763.iso|1741453312|C503B0E455BC7032F7F72D3604C61803|/

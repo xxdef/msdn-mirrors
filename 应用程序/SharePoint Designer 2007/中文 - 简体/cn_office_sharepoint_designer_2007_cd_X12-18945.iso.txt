@@ -1,0 +1,5 @@
+文件名    = cn_office_sharepoint_designer_2007_cd_X12-18945.iso
+SHA1      = 74195D8CCDCE4BBE9C14B6F5D9D919C8A1238FAB
+文件大小  = 398.63MB
+发布时间  = 2007-03-29
+下载链接  = ed2k://|file|cn_office_sharepoint_designer_2007_cd_X12-18945.iso|417990656|BC2F8E688CB5BE1E30B9928BCDAC4455|/

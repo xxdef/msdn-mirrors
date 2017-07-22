@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2008_express_sp1_x64.exe
+SHA1      = E12E6F846207735A1633DA1E02CAEA2939C86C6D
+文件大小  = 113.03MB
+发布时间  = 2009-04-12
+下载链接  = ed2k://|file|cn_sql_server_2008_express_sp1_x64.exe|118523232|6DE4E4ACC66A53C4C6022906EEC087DF|/

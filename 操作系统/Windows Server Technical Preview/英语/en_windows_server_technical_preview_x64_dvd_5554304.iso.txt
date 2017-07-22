@@ -1,0 +1,5 @@
+文件名    = en_windows_server_technical_preview_x64_dvd_5554304.iso
+SHA1      = D9300B00F8140439FFF22E98FA7B4C82C1366040
+文件大小  = 4.11GB
+发布时间  = 2014-10-01
+下载链接  = ed2k://|file|en_windows_server_technical_preview_x64_dvd_5554304.iso|4414445568|96CB10D7921BA777F53247BC3750FBE2|/

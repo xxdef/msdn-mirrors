@@ -1,0 +1,5 @@
+文件名    = en_msdn_library_for_visual_studio_2008_sp1_x86_dvd.iso
+SHA1      = 34D312A24F40EA6DE588F209802C7F1316CFEDE5
+文件大小  = 2.15GB
+发布时间  = 2010-05-21
+下载链接  = ed2k://|file|en_msdn_library_for_visual_studio_2008_sp1_x86_dvd.iso|2313050112|0EC915C81BDE9C4947E7FE19F5B9A3FC|/

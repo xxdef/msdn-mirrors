@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_team_foundation_server_2013_preview_x86_x64_dvd_2359808.iso
+SHA1      = 2B7721E37612639B2683841848358AA6D2680AC7
+文件大小  = 2.89GB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|cn_visual_studio_team_foundation_server_2013_preview_x86_x64_dvd_2359808.iso|3103696896|4D0FC05D00A8635E1F217E648E7E0891|/

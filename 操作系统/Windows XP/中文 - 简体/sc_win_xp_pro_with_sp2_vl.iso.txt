@@ -1,0 +1,5 @@
+文件名    = sc_win_xp_pro_with_sp2_vl.iso
+SHA1      = C0ADDD927B5D1F93DCE9C455FD6B26EAC7391BE9
+文件大小  = 592.56MB
+发布时间  = 2005-05-18
+下载链接  = ed2k://|file|sc_win_xp_pro_with_sp2_vl.iso|621346816|6F27DB53806D79FE37A0EDEC04AA9B05|/

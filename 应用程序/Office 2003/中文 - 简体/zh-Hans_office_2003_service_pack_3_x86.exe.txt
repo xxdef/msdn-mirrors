@@ -1,0 +1,5 @@
+文件名    = zh-Hans_office_2003_service_pack_3_x86.exe
+SHA1      = 005C498567FDF2CA4466C7B70EF604FE2A8A0EF9
+文件大小  = 135.45MB
+发布时间  = 2007-10-31
+下载链接  = ed2k://|file|zh-Hans_office_2003_service_pack_3_x86.exe|142028200|93157828F4CDA043AD266EC492599111|/

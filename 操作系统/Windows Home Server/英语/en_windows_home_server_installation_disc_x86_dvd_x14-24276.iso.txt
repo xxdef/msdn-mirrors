@@ -1,0 +1,5 @@
+文件名    = en_windows_home_server_installation_disc_x86_dvd_x14-24276.iso
+SHA1      = 1A40F0B56A38168E6186C1715FCBC0F250908311
+文件大小  = 828.13MB
+发布时间  = 2008-12-17
+下载链接  = ed2k://|file|en_windows_home_server_installation_disc_x86_dvd_x14-24276.iso|868352000|EB436EFA6942257B3EA3E19A415ED99B|/

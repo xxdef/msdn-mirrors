@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_express_2013_for_web_x86_dvd_3009398.iso
+SHA1      = 86E99C75F0D1C7B8FA942A82F0A40257C805073E
+文件大小  = 630.22MB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|cn_visual_studio_express_2013_for_web_x86_dvd_3009398.iso|660836352|3BE6211DE465768D483DD5A2418B1B07|/

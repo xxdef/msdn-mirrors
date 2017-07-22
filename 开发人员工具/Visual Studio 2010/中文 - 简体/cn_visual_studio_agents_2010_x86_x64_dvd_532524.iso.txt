@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_agents_2010_x86_x64_dvd_532524.iso
+SHA1      = FFBFCDF16A931063BB4B0F48E902FD9036003292
+文件大小  = 541.9MB
+发布时间  = 2010-05-26
+下载链接  = ed2k://|file|cn_visual_studio_agents_2010_x86_x64_dvd_532524.iso|568227840|8553ED11AFBCAA06F66680D193A36022|/

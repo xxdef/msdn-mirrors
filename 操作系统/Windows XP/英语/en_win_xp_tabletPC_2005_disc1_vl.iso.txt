@@ -1,0 +1,5 @@
+文件名    = en_win_xp_tabletPC_2005_disc1_vl.iso
+SHA1      = F85ACA2FF6807647D5DA6E0F6A3DCFD3CBBC617B
+文件大小  = 586.62MB
+发布时间  = 2005-05-18
+下载链接  = ed2k://|file|en_win_xp_tabletPC_2005_disc1_vl.iso|615112704|E26C87045D1F2B79B708817AB4F4FB13|/

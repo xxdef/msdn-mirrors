@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2012_x64_dvd_915588.iso
+SHA1      = BA658A9875DA5F02869B6B205B3D8EE26160FE0F
+文件大小  = 3.56GB
+发布时间  = 2012-09-04
+下载链接  = ed2k://|file|cn_windows_server_2012_x64_dvd_915588.iso|3826081792|6A56281311F9FE6973F66CF36E2F50BE|/

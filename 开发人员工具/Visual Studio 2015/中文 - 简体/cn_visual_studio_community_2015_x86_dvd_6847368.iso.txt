@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_community_2015_x86_dvd_6847368.iso
+SHA1      = 1044F9F4E0EA1304AFECF6780BF599F1DA248DF8
+文件大小  = 3.74GB
+发布时间  = 2015-11-13
+下载链接  = ed2k://|file|cn_visual_studio_community_2015_x86_dvd_6847368.iso|4013920256|EB7F6605EDE67509E218E29173AC6574|/

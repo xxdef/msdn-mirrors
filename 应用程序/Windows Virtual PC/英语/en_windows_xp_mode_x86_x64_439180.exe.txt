@@ -1,0 +1,5 @@
+文件名    = en_windows_xp_mode_x86_x64_439180.exe
+SHA1      = BF9AE7899A332C083676D7D973A4AB68EA4143B1
+文件大小  = 469.78MB
+发布时间  = 2009-10-07
+下载链接  = ed2k://|file|en_windows_xp_mode_x86_x64_439180.exe|492597008|0CBB256DF3F877374D425A1D820DF3B4|/

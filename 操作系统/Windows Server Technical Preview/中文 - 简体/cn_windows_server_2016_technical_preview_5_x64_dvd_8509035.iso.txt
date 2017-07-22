@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2016_technical_preview_5_x64_dvd_8509035.iso
+SHA1      = B6226E521F5D9505785ABFDA1CA9D99486FFBD60
+文件大小  = 5.05GB
+发布时间  = 2016-04-27
+下载链接  = ed2k://|file|cn_windows_server_2016_technical_preview_5_x64_dvd_8509035.iso|5417973760|F0DD7DF658390ECB26F4DAC347C56E8A|/

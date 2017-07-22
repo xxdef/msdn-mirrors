@@ -1,0 +1,5 @@
+文件名    = cn_project_professional_2010_x64_515551.exe
+SHA1      = 0FF72B51A150779DF7FF42F7DA9696E6C660B8D4
+文件大小  = 432.43MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|cn_project_professional_2010_x64_515551.exe|453437272|84D14496F889767D46C9DE576154B279|/

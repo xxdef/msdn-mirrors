@@ -1,0 +1,5 @@
+文件名    = cn_team_foundation_server_2017_x64_dvd_9579582.iso
+SHA1      = 65B7AA04C0CD90C96E2DF3AF13F3A34FDE960ADD
+文件大小  = 362.42MB
+发布时间  = 2016-11-16
+下载链接  = ed2k://|file|cn_team_foundation_server_2017_x64_dvd_9579582.iso|380022784|EA60BA22CC1F6581D11D4547BDF2F0B8|/

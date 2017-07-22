@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_2010_fsharp_2.0_runtime_x86_508952.exe
+SHA1      = 686BB76C73D517C5525BD83FDF9026F7ADE365AE
+文件大小  = 1.15MB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_visual_studio_2010_fsharp_2.0_runtime_x86_508952.exe|1209688|40112A71DA9D707D9E4FEDEB2D452AE7|/

@@ -1,0 +1,5 @@
+文件名    = ja_windows_vista_sp2_language_pack_x86_dvd_342429.iso
+SHA1      = 7865863DC3BEAD9D37DAC820CA21BBF49B6C980E
+文件大小  = 217.91MB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|ja_windows_vista_sp2_language_pack_x86_dvd_342429.iso|228499456|B6E3656515964BCD4FA8FA89599B095A|/

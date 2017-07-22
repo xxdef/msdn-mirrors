@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_enterprise_with_sp1_x86_dvd_620147.iso
+SHA1      = 1523C9532BD7DACDDB0D884B84C07C8BBDCEDE0B
+文件大小  = 2.3GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|hk_windows_7_enterprise_with_sp1_x86_dvd_620147.iso|2470856704|3FC5481DE8101784600A5274090A0113|/

@@ -1,0 +1,5 @@
+文件名    = tw_windows_10_education_x64_dvd_6847904.iso
+SHA1      = B69DC4A5FD8B438E4F487E0A3AB3AD106F25FC69
+文件大小  = 3.79GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|tw_windows_10_education_x64_dvd_6847904.iso|4073508864|F2174FE7856205C9776526C94E61AAE2|/

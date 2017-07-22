@@ -1,0 +1,5 @@
+文件名    = cn_windows_8_pro_vl_x86_dvd_917720.iso
+SHA1      = EEEF3C3F6F05115C7F7C9C1D19D6A6A6418B5059
+文件大小  = 2.42GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|cn_windows_8_pro_vl_x86_dvd_917720.iso|2595137536|E87CEF7B8B4EFB12B0A7397795209301|/

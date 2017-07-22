@@ -1,0 +1,5 @@
+文件名    = cn_.net_fx_4_6_2_dp_lps_win_7sp1_8dot1_10_win_server_2008sp2_2008r2sp1_2012_2012r2_x86_x64_9058141.exe
+SHA1      = 1F8A84410524D85979D8211E9237EA93D5132FDA
+文件大小  = 12.62MB
+发布时间  = 2016-08-02
+下载链接  = ed2k://|file|cn_.net_fx_4_6_2_dp_lps_win_7sp1_8dot1_10_win_server_2008sp2_2008r2sp1_2012_2012r2_x86_x64_9058141.exe|13237608|D4E1F9DA83CAD505E89B43FF194FBFDB|/

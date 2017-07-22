@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2008_r2_hpc_x64_dvd_552764.iso
+SHA1      = A3B0EA961B3A297F3390E7DA17CCF2E530802F31
+文件大小  = 2.76GB
+发布时间  = 2010-07-30
+下载链接  = ed2k://|file|cn_windows_server_2008_r2_hpc_x64_dvd_552764.iso|2959194112|1941C1937261AB4F6F9A28F86FE3DAC0|/

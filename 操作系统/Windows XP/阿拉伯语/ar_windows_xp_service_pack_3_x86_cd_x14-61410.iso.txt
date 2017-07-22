@@ -1,0 +1,5 @@
+文件名    = ar_windows_xp_service_pack_3_x86_cd_x14-61410.iso
+SHA1      = BF0DDF4E47705010956B8D399EE09FE7346FE34D
+文件大小  = 364.98MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|ar_windows_xp_service_pack_3_x86_cd_x14-61410.iso|382713856|F6D43D39A80A7615CBF7C0A39A03D8DF|/

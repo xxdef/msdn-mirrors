@@ -1,0 +1,5 @@
+文件名    = cs_sql_2005_dev_all_dvd.iso
+SHA1      = C3F8670D61BF3CF017209E5E719C3391D19A5D0D
+文件大小  = 1.74GB
+发布时间  = 2006-01-20
+下载链接  = ed2k://|file|cs_sql_2005_dev_all_dvd.iso|1870581760|25D3E5CEFB407E7CA1036BE303AC4643|/

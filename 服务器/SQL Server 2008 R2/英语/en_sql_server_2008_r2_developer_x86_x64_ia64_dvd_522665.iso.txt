@@ -1,0 +1,5 @@
+文件名    = en_sql_server_2008_r2_developer_x86_x64_ia64_dvd_522665.iso
+SHA1      = 10B990A86961D84C4D7D5E8C3A4C67F0D0456E63
+文件大小  = 4.08GB
+发布时间  = 2010-05-03
+下载链接  = ed2k://|file|en_sql_server_2008_r2_developer_x86_x64_ia64_dvd_522665.iso|4380329984|D50121522B34BBE91564F51D167BAAB5|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_8_x86_dvd_915417.iso
+SHA1      = 22D680EC53336BEE8A5B276A972CEBA104787F62
+文件大小  = 2.45GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|en_windows_8_x86_dvd_915417.iso|2632460288|C357F5451EB803897CAA93437E0A7535|/

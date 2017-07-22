@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_dvd_2339274.iso
+SHA1      = 66EC1E3E33F469B3DFAAED23F309B84BDE1C345D
+文件大小  = 520.9MB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|cn_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_dvd_2339274.iso|546205696|5B994B43F8FF78D220D8E16CCFD8977B|/

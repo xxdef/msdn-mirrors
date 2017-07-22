@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_home_premium_x64_dvd_x15-65720.iso
+SHA1      = B80D26668E673E08A309036D2AFB700CB20F3A1E
+文件大小  = 3.09GB
+发布时间  = 2009-08-21
+下载链接  = ed2k://|file|tw_windows_7_home_premium_x64_dvd_x15-65720.iso|3317223424|99D4299119F1C603315F4FEEEC3869AA|/

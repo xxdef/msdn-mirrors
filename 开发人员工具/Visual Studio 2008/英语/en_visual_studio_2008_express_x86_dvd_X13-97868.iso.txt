@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_2008_express_x86_dvd_X13-97868.iso
+SHA1      = 76C6D28274A67741DA720744026EA991A70867D1
+文件大小  = 894.65MB
+发布时间  = 2007-11-28
+下载链接  = ed2k://|file|en_visual_studio_2008_express_x86_dvd_X13-97868.iso|938108928|28A41DE15E0B39347FCA611E8E52DA7B|/

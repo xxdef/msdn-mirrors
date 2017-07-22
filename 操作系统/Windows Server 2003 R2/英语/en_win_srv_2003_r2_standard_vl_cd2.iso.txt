@@ -1,0 +1,5 @@
+文件名    = en_win_srv_2003_r2_standard_vl_cd2.iso
+SHA1      = 4415AD23603B5689C652144BD21C17CF2E7B7D1E
+文件大小  = 120.95MB
+发布时间  = 2006-02-09
+下载链接  = ed2k://|file|en_win_srv_2003_r2_standard_vl_cd2.iso|126824448|C4522FEB13A94FD4C9AF439BCA3361E5|/

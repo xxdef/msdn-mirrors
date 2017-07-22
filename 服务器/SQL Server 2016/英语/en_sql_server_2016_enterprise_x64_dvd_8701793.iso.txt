@@ -1,0 +1,5 @@
+文件名    = en_sql_server_2016_enterprise_x64_dvd_8701793.iso
+SHA1      = 2A0CA91876772274F3604F629785954C632EB76E
+文件大小  = 2.05GB
+发布时间  = 2016-06-01
+下载链接  = ed2k://|file|en_sql_server_2016_enterprise_x64_dvd_8701793.iso|2206040064|27794AA7BAE8C5F6436EC41CAE628F00|/

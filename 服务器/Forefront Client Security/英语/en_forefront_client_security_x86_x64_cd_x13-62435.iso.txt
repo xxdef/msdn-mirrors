@@ -1,0 +1,5 @@
+文件名    = en_forefront_client_security_x86_x64_cd_x13-62435.iso
+SHA1      = 54355EFFC1CB8B2AE2803276E2E6B17F5EC75272
+文件大小  = 153.54MB
+发布时间  = 2008-03-22
+下载链接  = ed2k://|file|en_forefront_client_security_x86_x64_cd_x13-62435.iso|161001472|115CA6DF7A01D066DB5E4FABF544043A|/

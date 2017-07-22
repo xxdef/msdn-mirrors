@@ -1,0 +1,5 @@
+文件名    = cn_office_professional_plus_2010_x64_515528.exe
+SHA1      = E8AB0CA8C1BC44B62445E0B9E37A0DFD13933DDB
+文件大小  = 870.54MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|cn_office_professional_plus_2010_x64_515528.exe|912825496|B4F9B4635A6D440DD619592330D246B6|/

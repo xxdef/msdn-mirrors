@@ -1,0 +1,5 @@
+文件名    = en_windows_vista_enterprise_with_service_pack_1_x64_dvd_x14-55934.iso
+SHA1      = 149D6E02DE20FA80A7A8ABBC7432C8006E8C1F7E
+文件大小  = 2.82GB
+发布时间  = 2008-03-04
+下载链接  = ed2k://|file|en_windows_vista_enterprise_with_service_pack_1_x64_dvd_x14-55934.iso|3027951616|B909E719C1FE4EB9BC83BF2B39EF4134|/

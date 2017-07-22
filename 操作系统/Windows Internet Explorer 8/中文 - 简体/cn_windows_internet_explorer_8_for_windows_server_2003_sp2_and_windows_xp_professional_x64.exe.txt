@@ -1,0 +1,5 @@
+文件名    = cn_windows_internet_explorer_8_for_windows_server_2003_sp2_and_windows_xp_professional_x64.exe
+SHA1      = 43D872DF4600615941A478C0191C0919DD460C9C
+文件大小  = 32.42MB
+发布时间  = 2009-03-25
+下载链接  = ed2k://|file|cn_windows_internet_explorer_8_for_windows_server_2003_sp2_and_windows_xp_professional_x64.exe|33998704|AB640C8A80FA215FAB47F6CC7E9F73E5|/

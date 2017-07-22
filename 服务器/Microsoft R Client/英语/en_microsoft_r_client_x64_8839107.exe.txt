@@ -1,0 +1,5 @@
+文件名    = en_microsoft_r_client_x64_8839107.exe
+SHA1      = B5A7053C7CBC1079091DD1420D04E0489F43AD00
+文件大小  = 9.75MB
+发布时间  = 2016-06-06
+下载链接  = ed2k://|file|en_microsoft_r_client_x64_8839107.exe|10228208|3565ECC0FAD2C9761725FC1F293B987D|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2012_r2_essentials_x64_dvd_2707177.iso
+SHA1      = 8A4CB96563DDA4F1BF637E57A992F3255D56B6F8
+文件大小  = 3.77GB
+发布时间  = 2013-09-10
+下载链接  = ed2k://|file|en_windows_server_2012_r2_essentials_x64_dvd_2707177.iso|4048719872|7CC851ADAE00934FDDC099ADD90978CF|/

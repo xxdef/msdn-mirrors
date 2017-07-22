@@ -1,0 +1,5 @@
+文件名    = sc_sbs_2003_r2_tech_a.iso
+SHA1      = 03E137C2BF70887F0C42FF365FFE212F6DC0A23A
+文件大小  = 554.9MB
+发布时间  = 2006-07-11
+下载链接  = ed2k://|file|sc_sbs_2003_r2_tech_a.iso|581855232|0E9BC8A1415DB431B3E6F5A8740C3583|/

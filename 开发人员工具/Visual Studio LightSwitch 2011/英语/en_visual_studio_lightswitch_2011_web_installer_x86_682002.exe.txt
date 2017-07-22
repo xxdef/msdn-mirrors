@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_lightswitch_2011_web_installer_x86_682002.exe
+SHA1      = E43E2E33B684561C7874B373FB68C075F0396EC8
+文件大小  = 3.71MB
+发布时间  = 2011-07-26
+下载链接  = ed2k://|file|en_visual_studio_lightswitch_2011_web_installer_x86_682002.exe|3895120|FDC32475E1D2B4D3890FEB9B369D3AF3|/

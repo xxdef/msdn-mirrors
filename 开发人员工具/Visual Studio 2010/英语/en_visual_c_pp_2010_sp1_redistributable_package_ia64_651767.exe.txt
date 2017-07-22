@@ -1,0 +1,5 @@
+文件名    = en_visual_c_pp_2010_sp1_redistributable_package_ia64_651767.exe
+SHA1      = 1CF3CC010C9B010CBBFA610992E83DD6F1172A90
+文件大小  = 2.16MB
+发布时间  = 2011-03-08
+下载链接  = ed2k://|file|en_visual_c_pp_2010_sp1_redistributable_package_ia64_651767.exe|2264408|113292A1B633DD5CB948FC1491E1E3DE|/

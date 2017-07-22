@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_standard_enterprise_and_datacenter_with_sp2_x86_dvd_x15-41045.iso
+SHA1      = 80F1E47364AD05C28763EA29D7A11527C8067A3F
+文件大小  = 2.04GB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|cn_windows_server_standard_enterprise_and_datacenter_with_sp2_x86_dvd_x15-41045.iso|2190057472|E93B029C442F19024AA9EF8FB02AC90B|/

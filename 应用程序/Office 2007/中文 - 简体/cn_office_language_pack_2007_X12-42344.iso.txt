@@ -1,0 +1,5 @@
+文件名    = cn_office_language_pack_2007_X12-42344.iso
+SHA1      = 664138DFBD303FE8AEEA5AA5B58D5136426FA234
+文件大小  = 538.47MB
+发布时间  = 2006-12-09
+下载链接  = ed2k://|file|cn_office_language_pack_2007_X12-42344.iso|564631552|38CCC2E475BEE272167635444CC40D9B|/

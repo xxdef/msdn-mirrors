@@ -1,0 +1,5 @@
+文件名    = sc_vs.net_2003_prereq.iso
+SHA1      = 1C7072262CEE4586806FC78DF82DEE9BDE7769A1
+文件大小  = 165.4MB
+发布时间  = 2003-05-07
+下载链接  = ed2k://|file|sc_vs.net_2003_prereq.iso|173432832|3636876F1ACE339E77E9484C2BA9267E|/

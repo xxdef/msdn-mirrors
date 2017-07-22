@@ -1,0 +1,5 @@
+文件名    = tw_windows_8_enterprise_x86_dvd_917686.iso
+SHA1      = C21C510190B82131E526F5EAA5220E28DD4AD46F
+文件大小  = 2.43GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|tw_windows_8_enterprise_x86_dvd_917686.iso|2604693504|932241486FCED3C442C4B152645DEEB3|/

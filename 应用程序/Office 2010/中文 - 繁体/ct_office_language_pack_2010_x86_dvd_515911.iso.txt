@@ -1,0 +1,5 @@
+文件名    = ct_office_language_pack_2010_x86_dvd_515911.iso
+SHA1      = 9527040D3E41F7EBB79AB340607F40F2091A18F9
+文件大小  = 585.74MB
+发布时间  = 2010-07-09
+下载链接  = ed2k://|file|ct_office_language_pack_2010_x86_dvd_515911.iso|614197248|8862D08356C86C534BBA2CBC9CFE8E36|/

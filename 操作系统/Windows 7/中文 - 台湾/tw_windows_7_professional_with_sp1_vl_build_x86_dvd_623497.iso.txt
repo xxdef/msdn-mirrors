@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_professional_with_sp1_vl_build_x86_dvd_623497.iso
+SHA1      = A35204BEAAB01000C990944BFCC3DE5DD0DE0810
+文件大小  = 2.3GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|tw_windows_7_professional_with_sp1_vl_build_x86_dvd_623497.iso|2474504192|C6544FA1F645D28DC682C216C054482A|/

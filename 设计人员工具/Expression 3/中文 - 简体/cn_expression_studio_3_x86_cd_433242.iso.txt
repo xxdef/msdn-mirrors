@@ -1,0 +1,5 @@
+文件名    = cn_expression_studio_3_x86_cd_433242.iso
+SHA1      = 6B54E556E9999591B7F9D88BC82E4642F57B18A5
+文件大小  = 370.87MB
+发布时间  = 2009-09-16
+下载链接  = ed2k://|file|cn_expression_studio_3_x86_cd_433242.iso|388884480|5439E51A3862070634163F9D051DF69E|/

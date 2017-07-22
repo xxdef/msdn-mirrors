@@ -1,0 +1,5 @@
+文件名    = sc_sql_2000a_dev.iso
+SHA1      = 2A2E57AA233024BEBCC9AD86D24F51D82AEF48FF
+文件大小  = 454.58MB
+发布时间  = 2003-04-21
+下载链接  = ed2k://|file|sc_sql_2000a_dev.iso|476665856|FC321271C84BD389F862C0D580B4ECC7|/

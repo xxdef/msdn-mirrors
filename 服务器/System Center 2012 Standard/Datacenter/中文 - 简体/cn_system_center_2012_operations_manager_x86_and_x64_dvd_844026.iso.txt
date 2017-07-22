@@ -1,0 +1,5 @@
+文件名    = cn_system_center_2012_operations_manager_x86_and_x64_dvd_844026.iso
+SHA1      = B69AE4D323733EF374048F2D3EC82E5DEA5033BF
+文件大小  = 1.18GB
+发布时间  = 2012-06-29
+下载链接  = ed2k://|file|cn_system_center_2012_operations_manager_x86_and_x64_dvd_844026.iso|1265629184|AF330B642815E28C47B3C30204319F03|/

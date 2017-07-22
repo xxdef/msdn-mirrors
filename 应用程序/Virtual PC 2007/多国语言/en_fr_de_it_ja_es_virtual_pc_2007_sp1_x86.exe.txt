@@ -1,0 +1,5 @@
+文件名    = en_fr_de_it_ja_es_virtual_pc_2007_sp1_x86.exe
+SHA1      = 6E80EFE6B38A2F1025AD11AD3DA92F74F2BC0088
+文件大小  = 31.72MB
+发布时间  = 2009-05-22
+下载链接  = ed2k://|file|en_fr_de_it_ja_es_virtual_pc_2007_sp1_x86.exe|33260072|B58B9D5666C6F4810B146B2F41836386|/

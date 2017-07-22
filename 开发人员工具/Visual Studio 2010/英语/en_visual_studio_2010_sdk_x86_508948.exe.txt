@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_2010_sdk_x86_508948.exe
+SHA1      = 008EC9B6D526F4F793471C82855381595EB36F35
+文件大小  = 11.51MB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_visual_studio_2010_sdk_x86_508948.exe|12068176|69B5A372C40E672D0F858B528657457D|/

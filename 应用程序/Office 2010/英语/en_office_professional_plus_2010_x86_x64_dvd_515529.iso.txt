@@ -1,0 +1,5 @@
+文件名    = en_office_professional_plus_2010_x86_x64_dvd_515529.iso
+SHA1      = C9A8C94328168041E09B3F4A9A529F6A1945C270
+文件大小  = 1.43GB
+发布时间  = 2010-05-18
+下载链接  = ed2k://|file|en_office_professional_plus_2010_x86_x64_dvd_515529.iso|1532469248|EDFC6282FC2F34E0AE66D3FC8B7ED1A2|/

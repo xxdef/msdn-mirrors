@@ -1,0 +1,5 @@
+文件名    = zh-hans_expression_studio_2_x86_dvd_x14-84137.iso
+SHA1      = 06DEA891AA5051A61F75B1F35D0DAA40F5618158
+文件大小  = 864.48MB
+发布时间  = 2008-06-20
+下载链接  = ed2k://|file|zh-hans_expression_studio_2_x86_dvd_x14-84137.iso|906471424|FC4C42733BC909B3204DAF7A5C917784|/

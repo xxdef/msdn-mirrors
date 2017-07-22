@@ -1,0 +1,5 @@
+文件名    = sc_mdac_typ_2.8.exe
+SHA1      = 19570BD765782B79CE56F073EE8C1D005B2C2F57
+文件大小  = 5.29MB
+发布时间  = 2003-09-09
+下载链接  = ed2k://|file|sc_mdac_typ_2.8.exe|5541816|7BFAD8CB6FCBBF16D070E461C11C42C4|/

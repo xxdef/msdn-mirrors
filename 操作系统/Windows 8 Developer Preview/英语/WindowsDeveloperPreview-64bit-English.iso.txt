@@ -1,0 +1,5 @@
+文件名    = WindowsDeveloperPreview-64bit-English.iso
+SHA1      = 79DBF235FD49F5C1C8F8C04E24BDE6E1D04DA1E9
+文件大小  = 3.64GB
+发布时间  = 2011-09-14
+下载链接  = ed2k://|file|WindowsDeveloperPreview-64bit-English.iso|3905548288|38FD7C4A3E0675ABD8836C213B984700|/

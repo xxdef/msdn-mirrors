@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_business_intelligence_x86_x64_dvd_813384.iso
+SHA1      = 45DC3180E193F156AD4B21ADF6D829851B8AE3BB
+文件大小  = 4.71GB
+发布时间  = 2012-03-07
+下载链接  = ed2k://|file|cn_sql_server_2012_business_intelligence_x86_x64_dvd_813384.iso|5054384128|3A46060F56276DE947278265EE18F355|/

@@ -1,0 +1,5 @@
+文件名    = en_sql_server_2014_business_intelligence_with_service_pack_1_x64_dvd_6668451.iso
+SHA1      = 987A72BEC1EDC20F444CC6A3E88C0EC78B9A54CA
+文件大小  = 2.96GB
+发布时间  = 2015-05-21
+下载链接  = ed2k://|file|en_sql_server_2014_business_intelligence_with_service_pack_1_x64_dvd_6668451.iso|3183425536|C2F387F797A1E8D84FD33869A0FF0245|/

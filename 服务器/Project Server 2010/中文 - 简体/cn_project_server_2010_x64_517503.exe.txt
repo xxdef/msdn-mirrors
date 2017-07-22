@@ -1,0 +1,5 @@
+文件名    = cn_project_server_2010_x64_517503.exe
+SHA1      = 844D7B3A3462F6628B3C2B3DDC1D8A328A114E2E
+文件大小  = 23.29MB
+发布时间  = 2010-05-03
+下载链接  = ed2k://|file|cn_project_server_2010_x64_517503.exe|24425360|8991BF982FB1C64D2A6BDE006114EADB|/

@@ -1,0 +1,5 @@
+文件名    = zh-hk_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74075.iso
+SHA1      = 71A02D0B14DA7AD12EAA0EC17187B80D114DFEC1
+文件大小  = 604.53MB
+发布时间  = 2008-05-09
+下载链接  = ed2k://|file|zh-hk_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74075.iso|633896960|338748B7839B12B763B5ACF190B130D1|/

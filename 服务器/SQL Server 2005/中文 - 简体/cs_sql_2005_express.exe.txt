@@ -1,0 +1,5 @@
+文件名    = cs_sql_2005_express.exe
+SHA1      = 4B2064A3E6F8D148D25FA40D5B466741A1174AE1
+文件大小  = 57.26MB
+发布时间  = 2006-03-23
+下载链接  = ed2k://|file|cs_sql_2005_express.exe|60036312|B22A88BE257E39FF3C52CC8EF1CF49A2|/

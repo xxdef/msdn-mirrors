@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_2010_express_x86_dvd_532024.iso
+SHA1      = 6B5B23532EC351976E9F6589219AF20959B50FB3
+文件大小  = 1.76GB
+发布时间  = 2010-05-26
+下载链接  = ed2k://|file|cn_visual_studio_2010_express_x86_dvd_532024.iso|1884567552|3BB6EFEECD4966BE6DFAAB5D579A80CF|/

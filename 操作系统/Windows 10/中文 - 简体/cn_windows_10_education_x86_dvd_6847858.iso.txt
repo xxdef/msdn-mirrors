@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_education_x86_dvd_6847858.iso
+SHA1      = F5E5B26C03180D492E32872B5D0E16DCFC134DA8
+文件大小  = 2.88GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|cn_windows_10_education_x86_dvd_6847858.iso|3097344000|E65D0B95FC75EC17FA6E72DC7433B46F|/

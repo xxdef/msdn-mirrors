@@ -1,0 +1,5 @@
+文件名    = umlanguagepack.ja-jp.exe
+SHA1      = B208ABC3F98842B4B512A702299F473F68A8CBC3
+文件大小  = 102.63MB
+发布时间  = 2010-09-14
+下载链接  = ed2k://|file|umlanguagepack.ja-jp.exe|107616104|AB45E4BB1534DE6FFF544D98BC999027|/

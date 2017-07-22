@@ -1,0 +1,5 @@
+文件名    = cn_windows_8_1_pro_vl_x64_dvd_2971907.iso
+SHA1      = 62711AD210B7872A30C1CE188A60724CEB4D606B
+文件大小  = 3.76GB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|cn_windows_8_1_pro_vl_x64_dvd_2971907.iso|4032598016|1FDA520B3E8880E2FB00B20439E0826E|/

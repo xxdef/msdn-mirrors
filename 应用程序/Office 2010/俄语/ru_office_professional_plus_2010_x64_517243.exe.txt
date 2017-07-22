@@ -1,0 +1,5 @@
+文件名    = ru_office_professional_plus_2010_x64_517243.exe
+SHA1      = 0700C768ECE01AE638A9240756E03FFC8B68E321
+文件大小  = 679.05MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|ru_office_professional_plus_2010_x64_517243.exe|712039984|D8BE0BBF52D8699954A359B9BA2EDA57|/

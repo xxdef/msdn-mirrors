@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_test_professional_2015_x86_x64_dvd_6846827.iso
+SHA1      = 437DCB33E1D7F90A70FEDF7C98189C6E5DBFF33B
+文件大小  = 250.28MB
+发布时间  = 2015-07-20
+下载链接  = ed2k://|file|cn_visual_studio_test_professional_2015_x86_x64_dvd_6846827.iso|262434816|D46E18A278E5B331D1825A42A4A28611|/

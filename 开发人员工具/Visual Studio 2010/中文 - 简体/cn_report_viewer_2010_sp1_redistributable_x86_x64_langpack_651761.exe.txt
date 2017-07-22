@@ -1,0 +1,5 @@
+文件名    = cn_report_viewer_2010_sp1_redistributable_x86_x64_langpack_651761.exe
+SHA1      = 420D66954EC9182C17A0DAE78C9221991A8E3D9C
+文件大小  = 956.34KB
+发布时间  = 2011-03-08
+下载链接  = ed2k://|file|cn_report_viewer_2010_sp1_redistributable_x86_x64_langpack_651761.exe|979288|561298649774BB7D04809F27E92CD446|/

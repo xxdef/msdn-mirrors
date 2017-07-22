@@ -1,0 +1,5 @@
+文件名    = en_fr_de_es_windows_server_2008_sp2_language_pack_ia64_dvd_342428.iso
+SHA1      = D35B3E73E3C2391F976D0417426F2B0D5C700C2E
+文件大小  = 307.75MB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|en_fr_de_es_windows_server_2008_sp2_language_pack_ia64_dvd_342428.iso|322701312|20A950C8050A218BAC189C93A7FD53BE|/

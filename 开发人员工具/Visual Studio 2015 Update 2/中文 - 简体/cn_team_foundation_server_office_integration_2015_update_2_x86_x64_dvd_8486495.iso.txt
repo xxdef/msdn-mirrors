@@ -1,0 +1,5 @@
+文件名    = cn_team_foundation_server_office_integration_2015_update_2_x86_x64_dvd_8486495.iso
+SHA1      = E5B0229FAE8E519C94BDF9A1E0652C8F838879B1
+文件大小  = 153.92MB
+发布时间  = 2016-03-30
+下载链接  = ed2k://|file|cn_team_foundation_server_office_integration_2015_update_2_x86_x64_dvd_8486495.iso|161394688|7ED4639FCA11F4EA3FCCD214B5AC703E|/

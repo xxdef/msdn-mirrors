@@ -1,0 +1,5 @@
+文件名    = cn_server_install_disc_windows_server_2012_essentials_x64_dvd_1022276.iso
+SHA1      = 76F247B2DAC27CA2E9BC5DBE7FA103C959A84FAF
+文件大小  = 4.12GB
+发布时间  = 2012-10-09
+下载链接  = ed2k://|file|cn_server_install_disc_windows_server_2012_essentials_x64_dvd_1022276.iso|4429121536|423CDC84FA0629995968D3135B249533|/

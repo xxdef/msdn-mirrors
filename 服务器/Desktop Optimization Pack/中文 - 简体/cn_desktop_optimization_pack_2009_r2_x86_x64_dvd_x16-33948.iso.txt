@@ -1,0 +1,5 @@
+文件名    = cn_desktop_optimization_pack_2009_r2_x86_x64_dvd_x16-33948.iso
+SHA1      = 3345F5FFEC98904821087E602EAC460019CEB17C
+文件大小  = 1.7GB
+发布时间  = 2009-10-20
+下载链接  = ed2k://|file|cn_desktop_optimization_pack_2009_r2_x86_x64_dvd_x16-33948.iso|1829541888|7E2A203A87A929C16BC301F279BB7D06|/

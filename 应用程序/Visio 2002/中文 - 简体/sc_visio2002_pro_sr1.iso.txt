@@ -1,0 +1,5 @@
+文件名    = sc_visio2002_pro_sr1.iso
+SHA1      = 91ED98E131DB968B8C4B2391501BC87955C97CB6
+文件大小  = 282.87MB
+发布时间  = 2003-05-14
+下载链接  = ed2k://|file|sc_visio2002_pro_sr1.iso|296609792|DF41B421136CCA4B01F3C02DA5882C75|/

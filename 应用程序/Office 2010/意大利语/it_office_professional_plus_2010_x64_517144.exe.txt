@@ -1,0 +1,5 @@
+文件名    = it_office_professional_plus_2010_x64_517144.exe
+SHA1      = 993F9D2469883D252446A4CCE3296E410853EF53
+文件大小  = 713.72MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|it_office_professional_plus_2010_x64_517144.exe|748391496|B332F898DC04242AD5D56CC52075CF02|/

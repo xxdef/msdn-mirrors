@@ -1,0 +1,5 @@
+文件名    = cn_office_professional_enterprise_edition_2003_united_states_x86_cd_489879.iso
+SHA1      = 47158F3EFB24BF603DE6F107AA45787F6BDB2A7B
+文件大小  = 588.67MB
+发布时间  = 2010-04-03
+下载链接  = ed2k://|file|cn_office_professional_enterprise_edition_2003_united_states_x86_cd_489879.iso|617261056|27234A4199A4F2B9A9FA019C2CE9FE5B|/

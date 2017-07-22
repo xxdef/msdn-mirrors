@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_team_foundation_server_express_2015_x86_x64_dvd_6909821.iso
+SHA1      = A4A32A56BE73AFB1344AC430FE0F47583405F391
+文件大小  = 936.82MB
+发布时间  = 2015-08-06
+下载链接  = ed2k://|file|cn_visual_studio_team_foundation_server_express_2015_x86_x64_dvd_6909821.iso|982329344|2E5FD330A9828122331CB99012E88050|/

@@ -1,0 +1,5 @@
+文件名    = en_client_restore_disc_windows_home_server_2011_x86_x64_cd_658475.iso
+SHA1      = 86B6F394B232230D1F9A4097B24757F9A12C7FC4
+文件大小  = 467.07MB
+发布时间  = 2011-04-05
+下载链接  = ed2k://|file|en_client_restore_disc_windows_home_server_2011_x86_x64_cd_658475.iso|489754624|6F36E23F859E9DC0B41B325F7CC6F36F|/

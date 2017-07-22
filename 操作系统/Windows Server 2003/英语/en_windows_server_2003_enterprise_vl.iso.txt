@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2003_enterprise_vl.iso
+SHA1      = DED4F516370AE54D0EEB2DEC8EC69E95AE5594D6
+文件大小  = 542.99MB
+发布时间  = 2003-03-26
+下载链接  = ed2k://|file|en_windows_server_2003_enterprise_vl.iso|569366528|1CCA78967368098BD9407F0EFD4B8D62|/

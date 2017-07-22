@@ -1,0 +1,5 @@
+文件名    = ja_windows_7_ultimate_x64_dvd_x15-65940.iso
+SHA1      = 64C34A3E0542F278A8FCE232D09A62793F023AAF
+文件大小  = 3.02GB
+发布时间  = 2009-08-11
+下载链接  = ed2k://|file|ja_windows_7_ultimate_x64_dvd_x15-65940.iso|3241390080|826D4EF10382972267E39ECC011B81BA|/

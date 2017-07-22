@@ -1,0 +1,5 @@
+文件名    = zh-hans_windows_vista_enterprise_with_service_pack_1_x64_dvd_x14-55848.iso
+SHA1      = CFE6ADA55C88F8A6552174C02618D5CE12F8C033
+文件大小  = 2.77GB
+发布时间  = 2008-04-14
+下载链接  = ed2k://|file|zh-hans_windows_vista_enterprise_with_service_pack_1_x64_dvd_x14-55848.iso|2969976832|B4F450ED55F14D48EBA1A76129903A9A|/

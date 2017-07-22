@@ -1,0 +1,5 @@
+文件名    = en_WinXP_MCE_2005_cust_support_diags.iso
+SHA1      = F39FC801A21D9E764F41A1CC5F77A212A0994130
+文件大小  = 411.03MB
+发布时间  = 2004-09-08
+下载链接  = ed2k://|file|en_WinXP_MCE_2005_cust_support_diags.iso|430997504|F25CC596D5B8D21DAF6DFEF27A19AA5E|/

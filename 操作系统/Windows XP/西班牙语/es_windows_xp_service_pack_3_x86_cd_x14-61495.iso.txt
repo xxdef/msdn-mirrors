@@ -1,0 +1,5 @@
+文件名    = es_windows_xp_service_pack_3_x86_cd_x14-61495.iso
+SHA1      = 70F79D586D9CA45D6E07DDC0D0D4F7E5E1CF2D2C
+文件大小  = 371.61MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|es_windows_xp_service_pack_3_x86_cd_x14-61495.iso|389662720|E1BBBCBC384EF7F353ECE9D4C8417A3D|/

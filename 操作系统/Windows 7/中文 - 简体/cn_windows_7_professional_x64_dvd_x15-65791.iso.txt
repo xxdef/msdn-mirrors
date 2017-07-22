@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_professional_x64_dvd_x15-65791.iso
+SHA1      = 5669A51195CD79D73CD18161D51E7E8D43DF53D1
+文件大小  = 3.11GB
+发布时间  = 2009-08-26
+下载链接  = ed2k://|file|cn_windows_7_professional_x64_dvd_x15-65791.iso|3341268992|3474800521D169FBF3F5E527CD835156|/

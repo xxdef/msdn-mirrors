@@ -1,0 +1,5 @@
+文件名    = cn_agents_for_visual_studio_2012_update_3_language_pack_x86_test_controller_2339080.exe
+SHA1      = 2F2F96E3C5AB4EB1B0318BE060B2A343AC6CBAE2
+文件大小  = 13.79MB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|cn_agents_for_visual_studio_2012_update_3_language_pack_x86_test_controller_2339080.exe|14456304|348A7C704C3BB15A5D82C2ED1B72784A|/

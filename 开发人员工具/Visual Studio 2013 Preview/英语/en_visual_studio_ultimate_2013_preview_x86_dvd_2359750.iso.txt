@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_ultimate_2013_preview_x86_dvd_2359750.iso
+SHA1      = 33C50825E0BC305BEEEDB08E793A610CCC03A7A3
+文件大小  = 2.94GB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|en_visual_studio_ultimate_2013_preview_x86_dvd_2359750.iso|3151886336|F844C199FF61EEB8EF65FD89326A75CA|/

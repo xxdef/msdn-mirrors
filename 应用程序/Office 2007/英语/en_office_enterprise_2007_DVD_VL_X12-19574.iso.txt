@@ -1,0 +1,5 @@
+文件名    = en_office_enterprise_2007_DVD_VL_X12-19574.iso
+SHA1      = 83C9B8CB7F4799737A8F8494041F0A9E0AD7CC92
+文件大小  = 559.65MB
+发布时间  = 2006-11-28
+下载链接  = ed2k://|file|en_office_enterprise_2007_DVD_VL_X12-19574.iso|586840064|881D254DAB1A824F55DA13EBAD0C4ABA|/

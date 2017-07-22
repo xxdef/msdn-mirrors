@@ -1,0 +1,5 @@
+文件名    = it_windows_7_ultimate_with_sp1_x86_dvd_619122.iso
+SHA1      = 6CB84FE6BBDF39A662A8D7B62E2EE09A9CD5EDFE
+文件大小  = 2.26GB
+发布时间  = 2011-02-21
+下载链接  = ed2k://|file|it_windows_7_ultimate_with_sp1_x86_dvd_619122.iso|2430539776|366D87E791699ACBAAB1E84CDCDE7453|/

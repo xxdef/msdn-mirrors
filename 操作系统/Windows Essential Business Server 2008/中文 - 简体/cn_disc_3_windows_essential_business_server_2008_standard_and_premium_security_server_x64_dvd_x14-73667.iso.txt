@@ -1,0 +1,5 @@
+文件名    = cn_disc_3_windows_essential_business_server_2008_standard_and_premium_security_server_x64_dvd_x14-73667.iso
+SHA1      = C472C3539B96F8FD22CB9F4EF69FCB01941115CF
+文件大小  = 4.15GB
+发布时间  = 2008-12-11
+下载链接  = ed2k://|file|cn_disc_3_windows_essential_business_server_2008_standard_and_premium_security_server_x64_dvd_x14-73667.iso|4453062656|FC7080D10C04CF9D69B89A1D406F4DF6|/

@@ -1,0 +1,5 @@
+文件名    = en_project_professional_2013_x64_1123813.exe
+SHA1      = ed737bd07ec815d898f5a72b773f529a8d3aafdc
+文件大小  = 336.09MB
+发布时间  = 2012-10-24
+下载链接  = ed2k://|file|en_project_professional_2013_x64_1123813.exe|352410904|19FA2536B2321ED6C8F24CEB2F1F59C7|/

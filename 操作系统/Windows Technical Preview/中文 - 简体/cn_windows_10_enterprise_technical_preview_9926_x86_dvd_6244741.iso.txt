@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_enterprise_technical_preview_9926_x86_dvd_6244741.iso
+SHA1      = E70CF06692C0D0484D0332DF9F58F8705FC29F40
+文件大小  = 3.03GB
+发布时间  = 2015-01-23
+下载链接  = ed2k://|file|cn_windows_10_enterprise_technical_preview_9926_x86_dvd_6244741.iso|3254364160|9737F677263A0AF66852A4995872BCA2|/

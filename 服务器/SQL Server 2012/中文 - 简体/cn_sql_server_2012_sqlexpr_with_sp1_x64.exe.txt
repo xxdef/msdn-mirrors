@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_sqlexpr_with_sp1_x64.exe
+SHA1      = CB14957DA64751F4B8409AB59A9C5C9D153789C1
+文件大小  = 159.04MB
+发布时间  = 2012-11-15
+下载链接  = ed2k://|file|cn_sql_server_2012_sqlexpr_with_sp1_x64.exe|166769152|75687BB1A21A296F918F00FA88E27F2D|/

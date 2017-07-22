@@ -1,0 +1,5 @@
+文件名    = ja_windows_7_ultimate_with_sp1_x86_dvd_619129.iso
+SHA1      = D93189099A785508BD0BA2793F110BDEF81FF954
+文件大小  = 2.38GB
+发布时间  = 2011-02-18
+下载链接  = ed2k://|file|ja_windows_7_ultimate_with_sp1_x86_dvd_619129.iso|2552571904|84DCD0F7410ACD6AFDA57D103535832A|/

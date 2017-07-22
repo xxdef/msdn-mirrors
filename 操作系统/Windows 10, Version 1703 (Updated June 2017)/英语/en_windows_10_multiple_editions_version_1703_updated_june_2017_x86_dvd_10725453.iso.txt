@@ -1,0 +1,5 @@
+文件名    = en_windows_10_multiple_editions_version_1703_updated_june_2017_x86_dvd_10725453.iso
+SHA1      = BF3EB696AA2AFAE538F72A1CBF0A0AB1D4EC8BCB
+文件大小  = 3.75GB
+发布时间  = 2017-06-23
+下载链接  = ed2k://|file|en_windows_10_multiple_editions_version_1703_updated_june_2017_x86_dvd_10725453.iso|4029675520|16568719FD2BEC74AEFDCB9EACF8E1CD|/

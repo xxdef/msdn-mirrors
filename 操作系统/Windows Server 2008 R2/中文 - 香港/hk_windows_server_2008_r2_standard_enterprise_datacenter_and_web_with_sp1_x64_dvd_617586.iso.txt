@@ -1,0 +1,5 @@
+文件名    = hk_windows_server_2008_r2_standard_enterprise_datacenter_and_web_with_sp1_x64_dvd_617586.iso
+SHA1      = F211DA81EDF1B929F01B5A0415D84005F2B2E130
+文件大小  = 3.09GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|hk_windows_server_2008_r2_standard_enterprise_datacenter_and_web_with_sp1_x64_dvd_617586.iso|3323230208|EB0963AB03E1FAB5DCB199D63A8211B9|/

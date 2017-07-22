@@ -1,0 +1,5 @@
+文件名    = nl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73971.iso
+SHA1      = B82F76AFCC45C0415E18FE79B8E41F9E0E17E67D
+文件大小  = 587.63MB
+发布时间  = 2008-05-09
+下载链接  = ed2k://|file|nl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73971.iso|616171520|A63B8BDB8630AA22FC25953EED0D719E|/

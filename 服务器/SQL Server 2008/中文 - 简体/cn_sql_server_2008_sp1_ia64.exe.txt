@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2008_sp1_ia64.exe
+SHA1      = 3D8F288E4536F4CDB36C5A3CE2CC1B2F0BB80AB9
+文件大小  = 317.6MB
+发布时间  = 2009-04-12
+下载链接  = ed2k://|file|cn_sql_server_2008_sp1_ia64.exe|333027680|B7991E5FA2B4CA3DCC3AA160405750A5|/

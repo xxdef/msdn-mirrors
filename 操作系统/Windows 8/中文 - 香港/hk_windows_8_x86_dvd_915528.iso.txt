@@ -1,0 +1,5 @@
+文件名    = hk_windows_8_x86_dvd_915528.iso
+SHA1      = 38985D3BC8762616078FCCFDBDC9EC4D3E8450CC
+文件大小  = 2.5GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|hk_windows_8_x86_dvd_915528.iso|2686932992|E8ABA21DB3E9281B2FC0D832636FF674|/

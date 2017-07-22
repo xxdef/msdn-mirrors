@@ -1,0 +1,5 @@
+文件名    = ko_visual_studio_2010_premium_x86_dvd_533948.iso
+SHA1      = 7C89CC797962B3386D38171F9CD02C967D100FFF
+文件大小  = 2.48GB
+发布时间  = 2010-05-26
+下载链接  = ed2k://|file|ko_visual_studio_2010_premium_x86_dvd_533948.iso|2659651584|25584281CA2DBB65CBE8B3944A50320D|/

@@ -1,0 +1,5 @@
+文件名    = fr_windows_7_home_premium_x86_dvd_x15-65738.iso
+SHA1      = A141840EF44ADB3F4731D681BE0F0E32F8A68B36
+文件大小  = 2.28GB
+发布时间  = 2009-08-14
+下载链接  = ed2k://|file|fr_windows_7_home_premium_x86_dvd_x15-65738.iso|2448254976|65D209D71685C2B5D30AAB89879F2108|/

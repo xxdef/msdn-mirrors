@@ -1,0 +1,5 @@
+文件名    = zh-hans_office_standard_2007_x86_cd_x12-18931.iso
+SHA1      = F985B15B66028ABB42D0A4F0A9C2107B5351BC1B
+文件大小  = 504.13MB
+发布时间  = 2008-05-09
+下载链接  = ed2k://|file|zh-hans_office_standard_2007_x86_cd_x12-18931.iso|528621568|8BC9FD5DB21A3A93E10EF151BE6EF229|/

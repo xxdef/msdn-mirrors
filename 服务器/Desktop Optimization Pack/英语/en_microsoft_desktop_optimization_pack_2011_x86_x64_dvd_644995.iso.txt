@@ -1,0 +1,5 @@
+文件名    = en_microsoft_desktop_optimization_pack_2011_x86_x64_dvd_644995.iso
+SHA1      = 848B59800A357BDAAB2C03BEDC1ED2FC77FEC404
+文件大小  = 2.17GB
+发布时间  = 2011-03-10
+下载链接  = ed2k://|file|en_microsoft_desktop_optimization_pack_2011_x86_x64_dvd_644995.iso|2326435840|479CCA71F156FECAFD22D925CB59963E|/

@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_ultimate_2013_x86_dvd_3175316.iso
+SHA1      = D6029A90916AA49F3F8F260C277DAF838DDA0612
+文件大小  = 2.87GB
+发布时间  = 2013-11-08
+下载链接  = ed2k://|file|cn_visual_studio_ultimate_2013_x86_dvd_3175316.iso|3077509120|ADDA34B2BC29E1571276AE50A220EB91|/

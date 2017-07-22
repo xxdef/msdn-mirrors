@@ -1,0 +1,5 @@
+文件名    = cn_microsoft_desktop_optimization_pack_2011_r2_x86_x64_dvd_715296.iso
+SHA1      = 3071F97E01FF4CE7E2C4B77F6A1D8ED9EE5C2A77
+文件大小  = 2.07GB
+发布时间  = 2011-07-29
+下载链接  = ed2k://|file|cn_microsoft_desktop_optimization_pack_2011_r2_x86_x64_dvd_715296.iso|2223570944|259197EA36DDCB73E0301492E4039CE5|/

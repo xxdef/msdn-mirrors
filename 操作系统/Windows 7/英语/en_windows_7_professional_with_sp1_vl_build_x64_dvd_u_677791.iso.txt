@@ -1,0 +1,5 @@
+文件名    = en_windows_7_professional_with_sp1_vl_build_x64_dvd_u_677791.iso
+SHA1      = 708E0338D4E2F094DFEB860347C84A6ED9E91D0C
+文件大小  = 2.96GB
+发布时间  = 2011-05-12
+下载链接  = ed2k://|file|en_windows_7_professional_with_sp1_vl_build_x64_dvd_u_677791.iso|3183042560|5C51DCE0971810D2AE1E7B29E6ED61D7|/

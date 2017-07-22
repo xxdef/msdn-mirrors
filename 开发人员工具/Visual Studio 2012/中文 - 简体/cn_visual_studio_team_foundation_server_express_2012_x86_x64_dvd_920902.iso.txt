@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_team_foundation_server_express_2012_x86_x64_dvd_920902.iso
+SHA1      = E21D97473344148E5CF32E2E2CDA2D4F9ECF772A
+文件大小  = 484.81MB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|cn_visual_studio_team_foundation_server_express_2012_x86_x64_dvd_920902.iso|508360704|7A39B1758BA0505E9973642DF241202B|/

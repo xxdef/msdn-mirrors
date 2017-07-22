@@ -1,0 +1,5 @@
+文件名    = en_office_2010_kms_host_license_pack_x86_458501.exe
+SHA1      = 1B26C7E619E95E3503F85EF52C147B8820F51CF1
+文件大小  = 1.01MB
+发布时间  = 2009-11-18
+下载链接  = ed2k://|file|en_office_2010_kms_host_license_pack_x86_458501.exe|1054160|6CEEC769C2D8CA970AA764BEDF85862E|/

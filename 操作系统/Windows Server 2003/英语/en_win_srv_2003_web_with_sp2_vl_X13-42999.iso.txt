@@ -1,0 +1,5 @@
+文件名    = en_win_srv_2003_web_with_sp2_vl_X13-42999.iso
+SHA1      = B26AD9CAC4B2CD87C9ABA48E4D4E87F664F16B46
+文件大小  = 524.94MB
+发布时间  = 2007-04-30
+下载链接  = ed2k://|file|en_win_srv_2003_web_with_sp2_vl_X13-42999.iso|550438912|8B600BF5B31175EB2A865A42FC30A518|/

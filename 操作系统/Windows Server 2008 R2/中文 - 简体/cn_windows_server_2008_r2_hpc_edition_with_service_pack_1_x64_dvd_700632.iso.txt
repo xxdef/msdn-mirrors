@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2008_r2_hpc_edition_with_service_pack_1_x64_dvd_700632.iso
+SHA1      = DE67458765B5A7A16E63E089C7E2493C8C0F4E33
+文件大小  = 2.86GB
+发布时间  = 2011-06-29
+下载链接  = ed2k://|file|cn_windows_server_2008_r2_hpc_edition_with_service_pack_1_x64_dvd_700632.iso|3071051776|7FDEE0F7A49FC63148D4DE580D803742|/

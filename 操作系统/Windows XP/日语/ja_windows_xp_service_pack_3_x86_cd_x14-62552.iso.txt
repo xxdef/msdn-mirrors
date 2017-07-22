@@ -1,0 +1,5 @@
+文件名    = ja_windows_xp_service_pack_3_x86_cd_x14-62552.iso
+SHA1      = 41C5187B23FD4BEA64E4CF2132522668CFC24A88
+文件大小  = 388.64MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|ja_windows_xp_service_pack_3_x86_cd_x14-62552.iso|407521280|54C5B1B2EB2342E35CE239CC3193D01C|/

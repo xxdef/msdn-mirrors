@@ -1,0 +1,5 @@
+文件名    = en_office_professional_plus_2013_with_sp1_x86_and_x64_dvd_3928186.iso
+SHA1      = 48F5A9D5457EF7D9D3BDBFA56BFD515EC8B25615
+文件大小  = 1.51GB
+发布时间  = 2014-03-18
+下载链接  = ed2k://|file|en_office_professional_plus_2013_with_sp1_x86_and_x64_dvd_3928186.iso|1626122240|C3D0C9D64D276BC2714260C3D580844B|/

@@ -1,0 +1,5 @@
+文件名    = en_sql_server_2016_enterprise_with_service_pack_1_x64_dvd_9542382.iso
+SHA1      = 5B75DB396BCFF7A02F9720FECAF93B61981DDE32
+文件大小  = 2.53GB
+发布时间  = 2016-12-01
+下载链接  = ed2k://|file|en_sql_server_2016_enterprise_with_service_pack_1_x64_dvd_9542382.iso|2716784640|90E12073B504A3A117FFBADF0E6483E2|/

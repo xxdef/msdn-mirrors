@@ -1,0 +1,5 @@
+文件名    = mu_windows_server_2008_r2_sp1_language_pack_ia64_dvd_619613.iso
+SHA1      = CE422496FD7596BF22827B1BAA71EABE19906C2A
+文件大小  = 508.97MB
+发布时间  = 2011-02-16
+下载链接  = ed2k://|file|mu_windows_server_2008_r2_sp1_language_pack_ia64_dvd_619613.iso|533690368|8CA869813ABD53441AB5496BC7470FEB|/

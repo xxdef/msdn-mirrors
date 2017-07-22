@@ -1,0 +1,5 @@
+文件名    = en_windows_10_iot_core_for_dragonboard_version_1607_updated_jul_2016_arm_dvd_9058889.iso
+SHA1      = 390FB736EA7899D5B6B1F47E71659A5BCEA35C48
+文件大小  = 653.97MB
+发布时间  = 2016-08-02
+下载链接  = ed2k://|file|en_windows_10_iot_core_for_dragonboard_version_1607_updated_jul_2016_arm_dvd_9058889.iso|685733888|25B93C55770B0434022175A1F940FA78|/

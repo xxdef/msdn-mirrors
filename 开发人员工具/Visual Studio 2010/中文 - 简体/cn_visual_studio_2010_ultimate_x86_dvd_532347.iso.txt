@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_2010_ultimate_x86_dvd_532347.iso
+SHA1      = 44B73423A7BBCE38D06BA55ECD821946630BEA4D
+文件大小  = 2.5GB
+发布时间  = 2010-05-26
+下载链接  = ed2k://|file|cn_visual_studio_2010_ultimate_x86_dvd_532347.iso|2685982720|4AE6228933DDE49D9BFA4C3467C831C2|/

@@ -1,0 +1,5 @@
+文件名    = en_sql_server_2008_r2_express_with_advanced_services_x64.exe
+SHA1      = 7D2D2457B854812BF66A23F7A690462460B69FF6
+文件大小  = 795.89MB
+发布时间  = 2010-06-29
+下载链接  = ed2k://|file|en_sql_server_2008_r2_express_with_advanced_services_x64.exe|834553624|F8606BE1ECC1DBE830D24DC8B2CCAAC4|/

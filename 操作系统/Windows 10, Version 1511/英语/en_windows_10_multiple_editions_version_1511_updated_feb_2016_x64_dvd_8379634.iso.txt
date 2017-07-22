@@ -1,0 +1,5 @@
+文件名    = en_windows_10_multiple_editions_version_1511_updated_feb_2016_x64_dvd_8379634.iso
+SHA1      = B57921DDF4672C101F312AA66DD481350035D7E9
+文件大小  = 4.11GB
+发布时间  = 2016-03-04
+下载链接  = ed2k://|file|en_windows_10_multiple_editions_version_1511_updated_feb_2016_x64_dvd_8379634.iso|4414115840|E0459993F4B64B6690C0D3309E47AD32|/

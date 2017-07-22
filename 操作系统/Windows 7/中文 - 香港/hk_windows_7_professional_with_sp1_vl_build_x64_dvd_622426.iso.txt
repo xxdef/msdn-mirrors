@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_professional_with_sp1_vl_build_x64_dvd_622426.iso
+SHA1      = 2FB8E4E6ABEF30849BAE3811B5327CC770595075
+文件大小  = 3.01GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|hk_windows_7_professional_with_sp1_vl_build_x64_dvd_622426.iso|3236292608|5D4406ECB26D88C88A752AC74478C2A3|/

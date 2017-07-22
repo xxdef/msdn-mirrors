@@ -1,0 +1,5 @@
+文件名    = mu_update_for_windows_server_2008_multilingual_user_interface_language_pack_kb951636_x64.msu
+SHA1      = 512A40F75DE305DC33B95DA096EF08C7C8C3E7C1
+文件大小  = 1.25MB
+发布时间  = 2008-06-27
+下载链接  = ed2k://|file|mu_update_for_windows_server_2008_multilingual_user_interface_language_pack_kb951636_x64.msu|1315470|518594B94FD95C0B135754D71AB78424|/

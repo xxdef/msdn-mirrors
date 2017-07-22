@@ -1,0 +1,5 @@
+文件名    = mu_exchange_server_2013_with_sp1_x64_dvd_4059293.iso
+SHA1      = 19F7AB7B8AD39490323C82A06D3D5DC2A5C898CF
+文件大小  = 4.49GB
+发布时间  = 2014-03-24
+下载链接  = ed2k://|file|mu_exchange_server_2013_with_sp1_x64_dvd_4059293.iso|4817616896|ABD88C6E4ADF19A8A7935C2172D2FFE5|/

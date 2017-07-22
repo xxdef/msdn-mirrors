@@ -1,0 +1,5 @@
+文件名    = tw_windows_vista_with_sp2_x86_dvd_x15-36286.iso
+SHA1      = BC116DE2EFFD4DAEA5A331C6F2E209AB4CF5F99C
+文件大小  = 2.83GB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|tw_windows_vista_with_sp2_x86_dvd_x15-36286.iso|3036975104|F162F8E4ACE142D4C37ACADE01FD129F|/

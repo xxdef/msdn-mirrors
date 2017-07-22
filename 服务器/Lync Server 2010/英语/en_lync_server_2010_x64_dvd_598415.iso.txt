@@ -1,0 +1,5 @@
+文件名    = en_lync_server_2010_x64_dvd_598415.iso
+SHA1      = AD4B3D0893BF81B0AA840A3DA31B9702B084EA0C
+文件大小  = 1.49GB
+发布时间  = 2010-11-17
+下载链接  = ed2k://|file|en_lync_server_2010_x64_dvd_598415.iso|1597792256|4D4A1821A91A1883A7873A44ED32ED3E|/

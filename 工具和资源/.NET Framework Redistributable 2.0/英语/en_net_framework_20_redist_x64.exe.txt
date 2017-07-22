@@ -1,0 +1,5 @@
+文件名    = en_net_framework_20_redist_x64.exe
+SHA1      = E59CCA309463A5D98DAEAADA83D1B05FED5126C5
+文件大小  = 45.2MB
+发布时间  = 2005-11-08
+下载链接  = ed2k://|file|en_net_framework_20_redist_x64.exe|47400128|3452D455239FBD2EBECE894155471A89|/

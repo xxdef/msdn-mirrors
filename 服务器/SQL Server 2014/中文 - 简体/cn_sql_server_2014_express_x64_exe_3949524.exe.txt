@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2014_express_x64_exe_3949524.exe
+SHA1      = E684B78C9EB3D8DC36E5064744C1385178BA7CE5
+文件大小  = 215.51MB
+发布时间  = 2014-04-01
+下载链接  = ed2k://|file|cn_sql_server_2014_express_x64_exe_3949524.exe|225976624|5546768EC240AD38412A92A780CDD744|/

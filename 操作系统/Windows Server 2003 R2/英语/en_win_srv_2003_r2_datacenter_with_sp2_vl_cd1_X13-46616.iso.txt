@@ -1,0 +1,5 @@
+文件名    = en_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_X13-46616.iso
+SHA1      = E1F1D97300F6D854665D3ECCEF05660782C06AE5
+文件大小  = 583.45MB
+发布时间  = 2007-04-27
+下载链接  = ed2k://|file|en_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_X13-46616.iso|611788800|7D0DEB1956B1595A8814F0556FE601D6|/

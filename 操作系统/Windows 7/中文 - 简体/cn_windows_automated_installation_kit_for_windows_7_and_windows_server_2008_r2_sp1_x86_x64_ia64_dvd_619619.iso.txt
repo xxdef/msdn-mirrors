@@ -1,0 +1,5 @@
+文件名    = cn_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619619.iso
+SHA1      = F7C1748AF4BBC5BEAEF1D3F6BEFE7ECB25D805AE
+文件大小  = 1.4GB
+发布时间  = 2011-02-21
+下载链接  = ed2k://|file|cn_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619619.iso|1500217344|994486E3A542CE166219D75C8C86E7D6|/

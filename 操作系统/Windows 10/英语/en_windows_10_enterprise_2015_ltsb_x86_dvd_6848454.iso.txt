@@ -1,0 +1,5 @@
+文件名    = en_windows_10_enterprise_2015_ltsb_x86_dvd_6848454.iso
+SHA1      = ABE400AD86C604197A3B163E31AFCC1B7C53325E
+文件大小  = 2.52GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|en_windows_10_enterprise_2015_ltsb_x86_dvd_6848454.iso|2706466816|BB87DCFFDC6DD992DCF0914CC994F9AB|/

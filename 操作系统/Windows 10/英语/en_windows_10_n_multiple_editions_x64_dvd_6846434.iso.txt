@@ -1,0 +1,5 @@
+文件名    = en_windows_10_n_multiple_editions_x64_dvd_6846434.iso
+SHA1      = A038780A94EE490F288530A24464AE54C604A292
+文件大小  = 3.59GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|en_windows_10_n_multiple_editions_x64_dvd_6846434.iso|3851401216|F0AA6EA9C3389BB50086891B61430053|/

@@ -1,0 +1,5 @@
+文件名    = en_sql_server_2014_enterprise_edition_with_service_pack_2_x86_dvd_8968170.iso
+SHA1      = 623A806C86504F113C6A42CB5EF9A3C98778B046
+文件大小  = 2.44GB
+发布时间  = 2016-07-14
+下载链接  = ed2k://|file|en_sql_server_2014_enterprise_edition_with_service_pack_2_x86_dvd_8968170.iso|2614827008|F311FFD00A97DCD68D8ADA285713E265|/

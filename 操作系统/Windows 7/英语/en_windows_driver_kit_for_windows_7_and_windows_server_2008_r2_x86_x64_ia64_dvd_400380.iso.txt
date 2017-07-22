@@ -1,0 +1,5 @@
+文件名    = en_windows_driver_kit_for_windows_7_and_windows_server_2008_r2_x86_x64_ia64_dvd_400380.iso
+SHA1      = 8CB1F754ACDE465DCAEE17C9B1558681941EB844
+文件大小  = 610.21MB
+发布时间  = 2009-08-06
+下载链接  = ed2k://|file|en_windows_driver_kit_for_windows_7_and_windows_server_2008_r2_x86_x64_ia64_dvd_400380.iso|639856640|5AB0A5BDBA9D3C01873152B44F7D682D|/

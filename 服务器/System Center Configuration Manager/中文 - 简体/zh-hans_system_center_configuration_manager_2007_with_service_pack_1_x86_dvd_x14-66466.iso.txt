@@ -1,0 +1,5 @@
+文件名    = zh-hans_system_center_configuration_manager_2007_with_service_pack_1_x86_dvd_x14-66466.iso
+SHA1      = 426B69665DB3E5689399FFD95BD246B907EBD367
+文件大小  = 1.18GB
+发布时间  = 2008-08-25
+下载链接  = ed2k://|file|zh-hans_system_center_configuration_manager_2007_with_service_pack_1_x86_dvd_x14-66466.iso|1268529152|722C22BC1C406B6DF0B6552293BA5BB0|/

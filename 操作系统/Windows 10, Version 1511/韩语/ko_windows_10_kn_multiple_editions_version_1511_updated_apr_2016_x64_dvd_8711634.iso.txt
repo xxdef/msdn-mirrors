@@ -1,0 +1,5 @@
+文件名    = ko_windows_10_kn_multiple_editions_version_1511_updated_apr_2016_x64_dvd_8711634.iso
+SHA1      = CB136BD900DDD20255CFBDB60CC2B8DC4D529C58
+文件大小  = 3.9GB
+发布时间  = 2016-05-23
+下载链接  = ed2k://|file|ko_windows_10_kn_multiple_editions_version_1511_updated_apr_2016_x64_dvd_8711634.iso|4186718208|A2BD6B668313AAA6A66E21D902418914|/

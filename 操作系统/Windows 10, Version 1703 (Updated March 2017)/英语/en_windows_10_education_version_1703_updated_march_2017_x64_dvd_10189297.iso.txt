@@ -1,0 +1,5 @@
+文件名    = en_windows_10_education_version_1703_updated_march_2017_x64_dvd_10189297.iso
+SHA1      = FDC69E1C3E588A8B96FA9AAD8F82458522E59365
+文件大小  = 3.93GB
+发布时间  = 2017-04-05
+下载链接  = ed2k://|file|en_windows_10_education_version_1703_updated_march_2017_x64_dvd_10189297.iso|4219451392|C5390648C8BF955D356D27B39C7FD077|/

@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_ultimate_2013_with_update_2_x86_dvd_4238238.iso
+SHA1      = 072091BAF1957401405DDD1DE382055EE68BDC58
+文件大小  = 5.79GB
+发布时间  = 2014-05-12
+下载链接  = ed2k://|file|cn_visual_studio_ultimate_2013_with_update_2_x86_dvd_4238238.iso|6213523456|BD070868A0A9662C9B592F73E95619EB|/

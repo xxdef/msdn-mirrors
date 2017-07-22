@@ -1,0 +1,5 @@
+文件名    = cn_windows_vista_x86_dvd_X12-59648.iso
+SHA1      = 4AC79C50B11BCB2F4FA6A5660084ED748BCA7254
+文件大小  = 2.43GB
+发布时间  = 2006-11-30
+下载链接  = ed2k://|file|cn_windows_vista_x86_dvd_X12-59648.iso|2613229568|DBC16B06681EE44AA2DA0A8F95192C8F|/

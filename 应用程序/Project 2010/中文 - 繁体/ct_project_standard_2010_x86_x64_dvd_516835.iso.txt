@@ -1,0 +1,5 @@
+文件名    = ct_project_standard_2010_x86_x64_dvd_516835.iso
+SHA1      = 4DCCABE841DCC8676A5F1C80BC7AB73CD91B917B
+文件大小  = 836.19MB
+发布时间  = 2010-05-18
+下载链接  = ed2k://|file|ct_project_standard_2010_x86_x64_dvd_516835.iso|876806144|459D9ACA66BB4E71B7EBCACFA79F1DF2|/

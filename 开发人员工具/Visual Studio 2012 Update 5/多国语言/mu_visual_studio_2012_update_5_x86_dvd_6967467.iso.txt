@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_2012_update_5_x86_dvd_6967467.iso
+SHA1      = B28241CA909E909A9BB43FBEC3358C0D1BC26B5F
+文件大小  = 2.36GB
+发布时间  = 2015-08-26
+下载链接  = ed2k://|file|mu_visual_studio_2012_update_5_x86_dvd_6967467.iso|2538768384|405A484D70CA922DC6FC1F204818D412|/

@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_starter_x86_dvd_x15-69303.iso
+SHA1      = C9B9F3143328AFE62BF3EACA164BE02B17B04532
+文件大小  = 2.43GB
+发布时间  = 2009-08-26
+下载链接  = ed2k://|file|cn_windows_7_starter_x86_dvd_x15-69303.iso|2604238848|5A6796B2B6A97B3E372F7C37D3A42AA4|/

@@ -1,0 +1,5 @@
+文件名    = hk_windows_8_pro_vl_x86_dvd_917722.iso
+SHA1      = 4270EE939B8F295EB546AED031405D906D6EB3CD
+文件大小  = 2.42GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|hk_windows_8_pro_vl_x86_dvd_917722.iso|2602309632|B05A4C7D10ACB1ED7C87AB09155C75BB|/

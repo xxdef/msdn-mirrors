@@ -1,0 +1,5 @@
+文件名    = en_project_server_2010_with_service_pack_1_x64_dvd_759779.iso
+SHA1      = E24AC30BB353D61278F28257792E5E10B7783DB5
+文件大小  = 85.22MB
+发布时间  = 2011-11-11
+下载链接  = ed2k://|file|en_project_server_2010_with_service_pack_1_x64_dvd_759779.iso|89360384|4549BFBE1C4EF8BAAE9B961961A09F6B|/

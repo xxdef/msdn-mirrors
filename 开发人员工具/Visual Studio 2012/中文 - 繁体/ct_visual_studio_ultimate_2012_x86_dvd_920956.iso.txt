@@ -1,0 +1,5 @@
+文件名    = ct_visual_studio_ultimate_2012_x86_dvd_920956.iso
+SHA1      = 2A86DD0BC6453B02CF890E9900B588D02D479B13
+文件大小  = 1.53GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|ct_visual_studio_ultimate_2012_x86_dvd_920956.iso|1644306432|7AE8F185E2AC2F05BD307E796C16F52D|/

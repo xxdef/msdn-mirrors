@@ -1,0 +1,5 @@
+文件名    = jp_office_enterprise_2007_DVD_VL_X12-19584.iso
+SHA1      = F9DBE97A70353ED49101C7E130ADD5FDF95CE18B
+文件大小  = 675.28MB
+发布时间  = 2006-11-28
+下载链接  = ed2k://|file|jp_office_enterprise_2007_DVD_VL_X12-19584.iso|708085760|62F757CE24F2257F87809C30C4564164|/

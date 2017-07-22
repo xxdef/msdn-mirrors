@@ -1,0 +1,5 @@
+文件名    = en_windows_driver_kit_6001.18001_x86_x64_ia64_dvd_79037.iso
+SHA1      = 27BB8757243115FC91A39E48C0E1BF8E9A0982C0
+文件大小  = 632.9MB
+发布时间  = 2008-04-01
+下载链接  = ed2k://|file|en_windows_driver_kit_6001.18001_x86_x64_ia64_dvd_79037.iso|663646208|25E6A8A838A6C5041BA3C5F1F64AA48E|/

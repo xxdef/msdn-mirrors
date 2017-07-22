@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_2013_update_4_x86_dvd_5921353.iso
+SHA1      = 4220970B6205F60B8AEA7DA5A20D1F20DDC8CFB7
+文件大小  = 5.82GB
+发布时间  = 2014-11-12
+下载链接  = ed2k://|file|mu_visual_studio_2013_update_4_x86_dvd_5921353.iso|6249627648|06F4C60529701F3D652D80FF6E25635C|/

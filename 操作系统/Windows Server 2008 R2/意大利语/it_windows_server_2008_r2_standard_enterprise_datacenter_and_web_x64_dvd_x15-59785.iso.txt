@@ -1,0 +1,5 @@
+文件名    = it_windows_server_2008_r2_standard_enterprise_datacenter_and_web_x64_dvd_x15-59785.iso
+SHA1      = 375C18DFA37B6BE14F8C0DB5E5DA2AF7A24A18A0
+文件大小  = 2.88GB
+发布时间  = 2009-08-14
+下载链接  = ed2k://|file|it_windows_server_2008_r2_standard_enterprise_datacenter_and_web_x64_dvd_x15-59785.iso|3092619264|E5A4921643CAD74D4C4ECD9A428D035F|/

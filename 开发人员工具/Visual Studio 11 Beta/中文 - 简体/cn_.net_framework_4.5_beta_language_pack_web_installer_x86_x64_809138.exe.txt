@@ -1,0 +1,5 @@
+文件名    = cn_.net_framework_4.5_beta_language_pack_web_installer_x86_x64_809138.exe
+SHA1      = 8D83C33B35610AC6AAB3F77FB04E5EA7A270C8FC
+文件大小  = 3.83MB
+发布时间  = 2012-02-29
+下载链接  = ed2k://|file|cn_.net_framework_4.5_beta_language_pack_web_installer_x86_x64_809138.exe|4014008|BCAE3152DDC6B1E60D13932C206768D3|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_xp_professional_with_service_pack_3_x86_cd_x14-80428.iso
+SHA1      = 1C735B38931BF57FB14EBD9A9BA253CEB443D459
+文件大小  = 589.14MB
+发布时间  = 2008-05-01
+下载链接  = ed2k://|file|en_windows_xp_professional_with_service_pack_3_x86_cd_x14-80428.iso|617756672|2A30BB63730F7887E1AC54363A8489C2|/

@@ -1,0 +1,5 @@
+文件名    = ko_windows_vista_with_sp2_global_language_pack_x64_dvd_x15-40581.iso
+SHA1      = 2A3ADDD078D1A41055D548363C5991F9514F7028
+文件大小  = 170.86MB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|ko_windows_vista_with_sp2_global_language_pack_x64_dvd_x15-40581.iso|179154944|F3AC4FEA159766A474319A074F55722C|/

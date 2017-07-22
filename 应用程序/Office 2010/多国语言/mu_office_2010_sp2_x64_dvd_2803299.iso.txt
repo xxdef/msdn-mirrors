@@ -1,0 +1,5 @@
+文件名    = mu_office_2010_sp2_x64_dvd_2803299.iso
+SHA1      = 8882e2570bad1b22bb3ddb1e9e6913e1e0d5aebf
+文件大小  = 1.58GB
+发布时间  = 2013-09-12
+下载链接  = ed2k://|file|mu_office_2010_sp2_x64_dvd_2803299.iso|1699620864|6EDDF097C72C445787D6DA7D289D29C0|/

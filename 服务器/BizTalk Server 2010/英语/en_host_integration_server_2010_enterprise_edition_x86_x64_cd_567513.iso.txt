@@ -1,0 +1,5 @@
+文件名    = en_host_integration_server_2010_enterprise_edition_x86_x64_cd_567513.iso
+SHA1      = 8BB60335F5F558F5BD94ABE82BE4DB982672249F
+文件大小  = 320.58MB
+发布时间  = 2010-10-01
+下载链接  = ed2k://|file|en_host_integration_server_2010_enterprise_edition_x86_x64_cd_567513.iso|336152576|03D8A70CFB1B16716504BAE191F9E57A|/

@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_enterprise_15_preview_2_x86_x64_dvd_8703142.iso
+SHA1      = 87CB2545622AA1DCFE068CB6361FBBEA5C7AA0BA
+文件大小  = 2.77GB
+发布时间  = 2016-05-10
+下载链接  = ed2k://|file|cn_visual_studio_enterprise_15_preview_2_x86_x64_dvd_8703142.iso|2969722880|D9068050741068275CC588B3D29BA2D1|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_8.1_preview_debug_checked_x86_dvd_2358831.iso
+SHA1      = 77A7FD6726DD4F377BCE8362F01F3CF0646FE75A
+文件大小  = 2.51GB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|en_windows_8.1_preview_debug_checked_x86_dvd_2358831.iso|2697666560|39ECDB98CE8448327BB6E47B8923F9C7|/

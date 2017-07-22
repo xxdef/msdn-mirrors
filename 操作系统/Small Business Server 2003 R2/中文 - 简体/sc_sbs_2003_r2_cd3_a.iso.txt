@@ -1,0 +1,5 @@
+文件名    = sc_sbs_2003_r2_cd3_a.iso
+SHA1      = CE2570B8E419F2A573240FC1A8CF342E905E7289
+文件大小  = 633.08MB
+发布时间  = 2006-07-11
+下载链接  = ed2k://|file|sc_sbs_2003_r2_cd3_a.iso|663828480|FA1A9383D692BE0F1F8870F2B8F0C2A7|/

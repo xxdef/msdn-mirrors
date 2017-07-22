@@ -1,0 +1,5 @@
+文件名    = ko_windows_7_enterprise_k_x86_dvd_x15-72823.iso
+SHA1      = F46C9599AF3DDE0436A16AE64992458DF5D52640
+文件大小  = 2.15GB
+发布时间  = 2009-08-28
+下载链接  = ed2k://|file|ko_windows_7_enterprise_k_x86_dvd_x15-72823.iso|2305773568|BF0E46F1CD402BA971751382B2CECE19|/

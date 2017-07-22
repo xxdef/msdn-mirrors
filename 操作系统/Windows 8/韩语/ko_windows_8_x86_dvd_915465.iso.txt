@@ -1,0 +1,5 @@
+文件名    = ko_windows_8_x86_dvd_915465.iso
+SHA1      = 07FA2ECB4347A3801FA19D155FA7085996E1DCF7
+文件大小  = 2.39GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|ko_windows_8_x86_dvd_915465.iso|2565791744|9F53C01B21EA823AB257798927916E8E|/

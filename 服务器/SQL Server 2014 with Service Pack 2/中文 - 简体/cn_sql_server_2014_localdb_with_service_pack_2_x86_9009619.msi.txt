@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2014_localdb_with_service_pack_2_x86_9009619.msi
+SHA1      = 8B7DD2F5ABB8AA7A2F6E3C1840EB398C59AA656E
+文件大小  = 36.87MB
+发布时间  = 2016-07-14
+下载链接  = ed2k://|file|cn_sql_server_2014_localdb_with_service_pack_2_x86_9009619.msi|38662144|AB3D7AB6C084F4223D37589FA00F037E|/

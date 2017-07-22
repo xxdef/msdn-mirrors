@@ -1,0 +1,5 @@
+文件名    = en_quickbasic_4.5.exe
+SHA1      = 6E290435715ED30ACBB0FC24C2710E92D7BF8D7B
+文件大小  = 3.39MB
+发布时间  = 2003-12-29
+下载链接  = ed2k://|file|en_quickbasic_4.5.exe|3557888|AFCE1A3970DCD345668338F52C542FA3|/

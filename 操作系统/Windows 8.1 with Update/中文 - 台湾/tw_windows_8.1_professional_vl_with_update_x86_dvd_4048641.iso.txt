@@ -1,0 +1,5 @@
+文件名    = tw_windows_8.1_professional_vl_with_update_x86_dvd_4048641.iso
+SHA1      = BB525E5498D14DF78F6EAA10277D213DC7588BCC
+文件大小  = 2.87GB
+发布时间  = 2014-04-08
+下载链接  = ed2k://|file|tw_windows_8.1_professional_vl_with_update_x86_dvd_4048641.iso|3076507648|CB2D02AD42B91FBC58AD55ABFEC68157|/

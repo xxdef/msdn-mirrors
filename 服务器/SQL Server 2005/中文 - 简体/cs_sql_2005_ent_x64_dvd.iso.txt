@@ -1,0 +1,5 @@
+文件名    = cs_sql_2005_ent_x64_dvd.iso
+SHA1      = D72C3624C417218CD26FAE8A626CE98DE9F370DC
+文件大小  = 972.01MB
+发布时间  = 2006-01-20
+下载链接  = ed2k://|file|cs_sql_2005_ent_x64_dvd.iso|1019222016|10FD11133A3E70DAD665BEDC1090AD28|/

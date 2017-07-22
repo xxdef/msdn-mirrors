@@ -1,0 +1,5 @@
+文件名    = en-us_office_accounting_professional_2009_x86_110458.exe
+SHA1      = DAF5BD11DE013DE314A76A73878E7D7AA5C6C3FE
+文件大小  = 161.42MB
+发布时间  = 2009-02-17
+下载链接  = ed2k://|file|en-us_office_accounting_professional_2009_x86_110458.exe|169265744|575E22BD6E71A0C5329B9853D87F74E8|/

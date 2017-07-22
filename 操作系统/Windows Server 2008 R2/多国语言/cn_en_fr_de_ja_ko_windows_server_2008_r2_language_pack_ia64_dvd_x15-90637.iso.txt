@@ -1,0 +1,5 @@
+文件名    = cn_en_fr_de_ja_ko_windows_server_2008_r2_language_pack_ia64_dvd_x15-90637.iso
+SHA1      = 3CCA45259F03C96CC55EF81CEFC3783B3E116421
+文件大小  = 445.73MB
+发布时间  = 2009-08-14
+下载链接  = ed2k://|file|cn_en_fr_de_ja_ko_windows_server_2008_r2_language_pack_ia64_dvd_x15-90637.iso|467386368|5A5B653B0F7D8960C578339C79456EC8|/

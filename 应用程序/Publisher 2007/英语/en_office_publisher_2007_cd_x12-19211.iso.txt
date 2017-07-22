@@ -1,0 +1,5 @@
+文件名    = en_office_publisher_2007_cd_x12-19211.iso
+SHA1      = 2F1037160D1B7811747CB0D81B6B47D4928CD003
+文件大小  = 263.66MB
+发布时间  = 2007-03-29
+下载链接  = ed2k://|file|en_office_publisher_2007_cd_x12-19211.iso|276463616|F6151AEF0B1E43FA8CAC424EA38CE3B6|/

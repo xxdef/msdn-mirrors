@@ -1,0 +1,5 @@
+文件名    = en_windows_8.1_enterprise_with_update_x64_dvd_6054382.iso
+SHA1      = B7DD748446D89B9449A160CDC24BD282989BBD96
+文件大小  = 3.85GB
+发布时间  = 2014-12-15
+下载链接  = ed2k://|file|en_windows_8.1_enterprise_with_update_x64_dvd_6054382.iso|4139163648|B59D9B7F464D31C8F892673FBB1231AD|/

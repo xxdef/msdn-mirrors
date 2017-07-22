@@ -1,0 +1,5 @@
+文件名    = umlanguagepack.zh-cn.exe
+SHA1      = BD27A7A944E662AD8CC3357F090096AC69440A0D
+文件大小  = 122.02MB
+发布时间  = 2010-09-14
+下载链接  = ed2k://|file|umlanguagepack.zh-cn.exe|127943296|0603BB666444E2E9753866364790C529|/

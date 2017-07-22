@@ -1,0 +1,5 @@
+文件名    = cn_windows_embedded_8_1_industry_pro_x64_dvd_2707158.iso
+SHA1      = C81406626337AF042803006251273F5A656C0B33
+文件大小  = 3.59GB
+发布时间  = 2013-09-10
+下载链接  = ed2k://|file|cn_windows_embedded_8_1_industry_pro_x64_dvd_2707158.iso|3855857664|9D7D33DE9C33716A4D5F7A47F620BF26|/

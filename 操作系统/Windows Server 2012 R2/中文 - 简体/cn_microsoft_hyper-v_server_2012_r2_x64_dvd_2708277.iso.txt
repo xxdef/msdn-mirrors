@@ -1,0 +1,5 @@
+文件名    = cn_microsoft_hyper-v_server_2012_r2_x64_dvd_2708277.iso
+SHA1      = E99AC484042B38126B8292C996114DE994712365
+文件大小  = 2GB
+发布时间  = 2013-09-09
+下载链接  = ed2k://|file|cn_microsoft_hyper-v_server_2012_r2_x64_dvd_2708277.iso|2144010240|3BB6E1FB513204D8D2C6991B14B35D9B|/

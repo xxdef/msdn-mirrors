@@ -1,0 +1,5 @@
+文件名    = it_office_language_pack_2010_x86_dvd_516056.iso
+SHA1      = F2FEF896D80444DE4AC24471E8915322FCE414D4
+文件大小  = 437.82MB
+发布时间  = 2010-07-09
+下载链接  = ed2k://|file|it_office_language_pack_2010_x86_dvd_516056.iso|459091968|CBE8EE6C1483FF9B7FE09712362DCFEB|/

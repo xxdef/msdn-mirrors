@@ -1,0 +1,5 @@
+文件名    = zh-hans_office_sharepoint_server_2007_standard_and_enterprise_edition_x86_dvd_x13-38827.iso
+SHA1      = 2A061862E72E3C6CA312899DB24A24528FD34745
+文件大小  = 379.29MB
+发布时间  = 2008-07-01
+下载链接  = ed2k://|file|zh-hans_office_sharepoint_server_2007_standard_and_enterprise_edition_x86_dvd_x13-38827.iso|397711360|45944D8F293D876A99EF1B9856E9A75A|/

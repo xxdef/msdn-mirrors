@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_enterprise_version_1703_updated_march_2017_x86_dvd_10189572.iso
+SHA1      = 14CC045F0C885CBED0AE0B9EA4B8C6F2FF7DD854
+文件大小  = 3.16GB
+发布时间  = 2017-04-05
+下载链接  = ed2k://|file|cn_windows_10_enterprise_version_1703_updated_march_2017_x86_dvd_10189572.iso|3394940928|2E72355CDA5373B9F778D36CF03B86FD|/

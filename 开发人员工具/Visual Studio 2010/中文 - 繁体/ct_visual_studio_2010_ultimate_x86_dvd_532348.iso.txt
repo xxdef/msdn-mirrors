@@ -1,0 +1,5 @@
+文件名    = ct_visual_studio_2010_ultimate_x86_dvd_532348.iso
+SHA1      = 7158D068963FC65137B18D2788EED4DC8F28207E
+文件大小  = 2.51GB
+发布时间  = 2010-05-26
+下载链接  = ed2k://|file|ct_visual_studio_2010_ultimate_x86_dvd_532348.iso|2691330048|BF50926EAB061C7D0D92580F4132F9EA|/

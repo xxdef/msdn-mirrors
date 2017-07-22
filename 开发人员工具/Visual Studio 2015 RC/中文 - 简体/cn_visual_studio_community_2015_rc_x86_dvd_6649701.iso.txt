@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_community_2015_rc_x86_dvd_6649701.iso
+SHA1      = A203B78958F30D868B91E06C7F9CC0E4F626508B
+文件大小  = 3.61GB
+发布时间  = 2015-04-29
+下载链接  = ed2k://|file|cn_visual_studio_community_2015_rc_x86_dvd_6649701.iso|3876552704|822B46F117C7CD0090AC0AF01128979B|/

@@ -1,0 +1,5 @@
+文件名    = mui_win_xp_pro_n_cd5.iso
+SHA1      = 59CDA82A7FC210350D4FF31B1F08C00A12A518EF
+文件大小  = 157.91MB
+发布时间  = 2005-06-30
+下载链接  = ed2k://|file|mui_win_xp_pro_n_cd5.iso|165584896|0137EC366858C1383DD14FDFD8D32211|/

@@ -1,0 +1,5 @@
+文件名    = visual_j#.net_en.exe
+SHA1      = 233E39F18C87D92435E3FC291F32E64C8DCFBD49
+文件大小  = 18MB
+发布时间  = 2002-07-08
+下载链接  = ed2k://|file|visual_j#.net_en.exe|18875392|626BA67674E6CCD5A449A6FE5C337A85|/

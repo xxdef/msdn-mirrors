@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_professional_x86_dvd_x15-65794.iso
+SHA1      = 9192770CEF28773CCCFA5B1FDCE22E78FF347C3E
+文件大小  = 2.4GB
+发布时间  = 2009-08-21
+下载链接  = ed2k://|file|hk_windows_7_professional_x86_dvd_x15-65794.iso|2574176256|EFAB842ABFE8259FD549B7EF70BBDB9B|/

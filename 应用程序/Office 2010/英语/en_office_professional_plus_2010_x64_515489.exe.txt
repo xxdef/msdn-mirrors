@@ -1,0 +1,5 @@
+文件名    = en_office_professional_plus_2010_x64_515489.exe
+SHA1      = 7C2F2D5F8C273724EEC70A9EFA2DDD800FE3265F
+文件大小  = 718.49MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|en_office_professional_plus_2010_x64_515489.exe|753387136|5BFA4237E2999DA93DB60FBC6131C12D|/

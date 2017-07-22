@@ -1,0 +1,5 @@
+文件名    = mu_update_for_windows_server_2008_kb950050_x86.msu
+SHA1      = CA9C19235F4789743D1D818C33726E0F2600238A
+文件大小  = 3.86MB
+发布时间  = 2008-06-26
+下载链接  = ed2k://|file|mu_update_for_windows_server_2008_kb950050_x86.msu|4049948|274106C7CD39FFCC05B5333DBEC37E0A|/

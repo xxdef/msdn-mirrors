@@ -1,0 +1,5 @@
+文件名    = zh-hans_visual_studio_2008_service_pack_1_x86_dvd_x15-12981.iso
+SHA1      = 8C3EA92CBC60CECB30B6262DB475BDE1E2620B36
+文件大小  = 898.08MB
+发布时间  = 2008-08-10
+下载链接  = ed2k://|file|zh-hans_visual_studio_2008_service_pack_1_x86_dvd_x15-12981.iso|941703168|E1647161AA5CA4567B787A5606D2A065|/

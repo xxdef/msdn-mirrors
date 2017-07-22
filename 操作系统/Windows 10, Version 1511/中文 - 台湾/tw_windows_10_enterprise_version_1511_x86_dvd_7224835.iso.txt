@@ -1,0 +1,5 @@
+文件名    = tw_windows_10_enterprise_version_1511_x86_dvd_7224835.iso
+SHA1      = A69AE3424CEA1A1FF55833768931D28C07A142BF
+文件大小  = 2.76GB
+发布时间  = 2015-11-12
+下载链接  = ed2k://|file|tw_windows_10_enterprise_version_1511_x86_dvd_7224835.iso|2960504832|E2CDA5904D7A8F8ECE5D2A83A2882F43|/

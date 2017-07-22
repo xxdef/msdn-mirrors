@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_professional_2012_x86_dvd_920783.iso
+SHA1      = E6CAF4E624F6ECC492AFF171395855878502EB24
+文件大小  = 1.48GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|cn_visual_studio_professional_2012_x86_dvd_920783.iso|1590749184|52B956DB8119CFB1610CC8E369F5F1FD|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_embedded_ce_6.0_r3_dvd_x16-28730.iso
+SHA1      = 69A456B4D3F26FA7FAB40711756E90B4108940FD
+文件大小  = 1.14GB
+发布时间  = 2009-10-02
+下载链接  = ed2k://|file|en_windows_embedded_ce_6.0_r3_dvd_x16-28730.iso|1227706368|D58747A6B4D7506E38B06D672B7B783B|/

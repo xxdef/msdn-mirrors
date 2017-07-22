@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_professional_with_sp1_x86_dvd_u_677162.iso
+SHA1      = 7BB512B6AF82632D6B080C1E9C3C10CD0C738F0E
+文件大小  = 2.47GB
+发布时间  = 2011-05-12
+下载链接  = ed2k://|file|cn_windows_7_professional_with_sp1_x86_dvd_u_677162.iso|2653276160|08F65018BD9B5BC8D77C1C7C5615A329|/

@@ -1,0 +1,5 @@
+文件名    = en_sharepoint_server_2013_with_sp1_x64_dvd_3823428.iso
+SHA1      = 9C29CF62E151D362FB02FBF07AEB0440C52DF555
+文件大小  = 2.63GB
+发布时间  = 2014-02-28
+下载链接  = ed2k://|file|en_sharepoint_server_2013_with_sp1_x64_dvd_3823428.iso|2823081984|2FC322DF89E685387F4AD26368457964|/

@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_pro_insider_preview_10074_x86_dvd_6651164.iso
+SHA1      = BB5403918954D3563A026C33412F765C79CA8B12
+文件大小  = 2.75GB
+发布时间  = 2015-04-30
+下载链接  = ed2k://|file|cn_windows_10_pro_insider_preview_10074_x86_dvd_6651164.iso|2950793216|0B611A3516A67299D60C12D9C2F20F2A|/

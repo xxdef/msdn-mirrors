@@ -1,0 +1,5 @@
+文件名    = en_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992110.iso
+SHA1      = 54FC597523EA5755205B88329F6BA545C522B485
+文件大小  = 1.68GB
+发布时间  = 2013-04-09
+下载链接  = ed2k://|file|en_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992110.iso|1804417024|A1072890AFF50AE9F36D89DCA85AFF8B|/

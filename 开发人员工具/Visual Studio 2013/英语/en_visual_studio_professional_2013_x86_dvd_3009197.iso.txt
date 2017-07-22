@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_professional_2013_x86_dvd_3009197.iso
+SHA1      = 4C0C7B3372FE44248F1AF995DD0E9B3864657DAD
+文件大小  = 2.76GB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|en_visual_studio_professional_2013_x86_dvd_3009197.iso|2967486464|114BBD93281A32655FDA7C886C956EDE|/

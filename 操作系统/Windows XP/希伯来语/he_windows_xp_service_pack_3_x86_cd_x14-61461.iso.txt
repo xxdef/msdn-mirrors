@@ -1,0 +1,5 @@
+文件名    = he_windows_xp_service_pack_3_x86_cd_x14-61461.iso
+SHA1      = EDAA26C1B8618183AEBF9A5CE83AFC46D7CE4898
+文件大小  = 364.19MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|he_windows_xp_service_pack_3_x86_cd_x14-61461.iso|381878272|178E7DBA2546303834D16C715E4D360D|/

@@ -1,0 +1,5 @@
+文件名    = zh_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-13941.iso
+SHA1      = D315F5118699A77A4D4D66C0DB34D722B7B411B9
+文件大小  = 123.73MB
+发布时间  = 2007-04-27
+下载链接  = ed2k://|file|zh_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-13941.iso|129744896|15FFA6CDADE19042404F8E7C1444D801|/

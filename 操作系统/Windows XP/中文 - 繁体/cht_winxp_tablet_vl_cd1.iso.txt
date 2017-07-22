@@ -1,0 +1,5 @@
+文件名    = cht_winxp_tablet_vl_cd1.iso
+SHA1      = 77E4F136CE0AE953F96DDD5C1A4F45B4FB394CC9
+文件大小  = 603.66MB
+发布时间  = 2002-11-12
+下载链接  = ed2k://|file|cht_winxp_tablet_vl_cd1.iso|632983552|F7DC0EB99B1A9E3ED262297655C534D3|/

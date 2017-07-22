@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_test_professional_2010_x86_dvd_509401.iso
+SHA1      = 92B61F8C6EB64C4C79079315516F42221F8E9F99
+文件大小  = 407.97MB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_visual_studio_test_professional_2010_x86_dvd_509401.iso|427792384|7B655FA8317DEEA7CFA9CABAE9011FC0|/

@@ -1,0 +1,5 @@
+文件名    = ct_office_professional_plus_2016_x86_x64_dvd_6966429.iso
+SHA1      = C4258E610462F95188B4F4FB43A645305EA919E9
+文件大小  = 2.16GB
+发布时间  = 2015-09-22
+下载链接  = ed2k://|file|ct_office_professional_plus_2016_x86_x64_dvd_6966429.iso|2321922048|AB7DB94ADF238CAB2CFD2A20A3E463ED|/

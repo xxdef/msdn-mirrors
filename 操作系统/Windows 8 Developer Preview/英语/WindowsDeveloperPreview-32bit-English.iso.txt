@@ -1,0 +1,5 @@
+文件名    = WindowsDeveloperPreview-32bit-English.iso
+SHA1      = 4E0698BBABE01ED27582C9FC16AD21C4422913CC
+文件大小  = 2.83GB
+发布时间  = 2011-09-14
+下载链接  = ed2k://|file|WindowsDeveloperPreview-32bit-English.iso|3033585664|3E04BB68F6392019424DA85F6FA68CCF|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2008_datacenter_enterprise_standard_without_hyper-v_sp2_x86_dvd_342334.iso
+SHA1      = 7002031C61008F31D22E483224FA980B27159B42
+文件大小  = 1.89GB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|en_windows_server_2008_datacenter_enterprise_standard_without_hyper-v_sp2_x86_dvd_342334.iso|2033383424|9BCE951D095EF92DAD0163181874DECC|/

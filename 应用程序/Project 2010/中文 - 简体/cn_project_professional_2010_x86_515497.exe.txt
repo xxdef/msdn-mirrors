@@ -1,0 +1,5 @@
+文件名    = cn_project_professional_2010_x86_515497.exe
+SHA1      = 7EA2A52C68B2778C02883327FAAC00DF8C58BC20
+文件大小  = 395.67MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|cn_project_professional_2010_x86_515497.exe|414887344|E4751F9E7F185F517A62FE468596EC24|/

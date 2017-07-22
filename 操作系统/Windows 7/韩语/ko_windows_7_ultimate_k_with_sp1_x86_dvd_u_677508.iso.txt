@@ -1,0 +1,5 @@
+文件名    = ko_windows_7_ultimate_k_with_sp1_x86_dvd_u_677508.iso
+SHA1      = D7153A39D4377807B94CA4F7BE22225785013BCF
+文件大小  = 2.34GB
+发布时间  = 2011-05-12
+下载链接  = ed2k://|file|ko_windows_7_ultimate_k_with_sp1_x86_dvd_u_677508.iso|2507954176|FCAF6CAC4BA1818FDEE0EEA0AA02872D|/

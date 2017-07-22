@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_express_2013_for_web_with_update_4_x86_dvd_5920586.iso
+SHA1      = C8DF5AC2A061BE0BBA9306714452BE3123926C04
+文件大小  = 6.28GB
+发布时间  = 2014-11-12
+下载链接  = ed2k://|file|cn_visual_studio_express_2013_for_web_with_update_4_x86_dvd_5920586.iso|6748157952|9F85D6FB99BCCF14ABED75CDA0CFFC90|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_home_server_connector_disc_x86_cd_x14-24271.iso
+SHA1      = 873639B7092E2A4E64A9B50A7DE6E77DCBB1BE16
+文件大小  = 1.11MB
+发布时间  = 2008-12-17
+下载链接  = ed2k://|file|en_windows_home_server_connector_disc_x86_cd_x14-24271.iso|1165312|F44DB9F3B2A58F93B6E34ABB066360FB|/

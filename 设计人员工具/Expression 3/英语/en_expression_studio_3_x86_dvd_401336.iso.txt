@@ -1,0 +1,5 @@
+文件名    = en_expression_studio_3_x86_dvd_401336.iso
+SHA1      = 1A5C9205D33814241527268AEBDB5A80C1FBBEE9
+文件大小  = 252.02MB
+发布时间  = 2009-07-23
+下载链接  = ed2k://|file|en_expression_studio_3_x86_dvd_401336.iso|264257536|A09319377F43AF705A1C846EB4DEB4EF|/

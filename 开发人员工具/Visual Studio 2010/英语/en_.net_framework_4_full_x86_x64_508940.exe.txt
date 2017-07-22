@@ -1,0 +1,5 @@
+文件名    = en_.net_framework_4_full_x86_x64_508940.exe
+SHA1      = 58DA3D74DB353AAD03588CBB5CEA8234166D8B99
+文件大小  = 48.11MB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_.net_framework_4_full_x86_x64_508940.exe|50449456|DD1E3FF980672F5551EB8C0C3853CCBF|/

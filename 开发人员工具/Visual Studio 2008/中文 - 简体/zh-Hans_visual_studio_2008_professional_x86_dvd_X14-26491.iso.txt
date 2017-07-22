@@ -1,0 +1,5 @@
+文件名    = zh-Hans_visual_studio_2008_professional_x86_dvd_X14-26491.iso
+SHA1      = 2337C507A45DC24C03EE3A03E94051AB8D2D03B2
+文件大小  = 3.7GB
+发布时间  = 2008-05-19
+下载链接  = ed2k://|file|zh-Hans_visual_studio_2008_professional_x86_dvd_X14-26491.iso|3972526080|6690005555AFD1EC7FA9F7D1BA797FBB|/

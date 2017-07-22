@@ -1,0 +1,5 @@
+文件名    = en_windows_embedded_standard_7_runtime_x86_dvd_521776.iso
+SHA1      = 8CDD02B4381F8ABD9D9C9D01D2EA6C4C534919ED
+文件大小  = 2.86GB
+发布时间  = 2010-05-13
+下载链接  = ed2k://|file|en_windows_embedded_standard_7_runtime_x86_dvd_521776.iso|3076239360|6A9981EA9A1D08DDA6F6CA8B5D459E02|/

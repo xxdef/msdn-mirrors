@@ -1,0 +1,5 @@
+文件名    = en_system_center_operations_manager_2007_r2_x86_x64_x15-15495.iso
+SHA1      = E38B8A09549C9361D71CE1D26AE6C159D5F77DAB
+文件大小  = 1.34GB
+发布时间  = 2009-07-14
+下载链接  = ed2k://|file|en_system_center_operations_manager_2007_r2_x86_x64_x15-15495.iso|1439893504|6B498E7B595DD8AD67F8C57131B70E41|/

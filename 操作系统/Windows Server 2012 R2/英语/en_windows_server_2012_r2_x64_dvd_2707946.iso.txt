@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2012_r2_x64_dvd_2707946.iso
+SHA1      = B6F063436056510357CB19CB77DB781ED9C11DF3
+文件大小  = 3.98GB
+发布时间  = 2013-09-09
+下载链接  = ed2k://|file|en_windows_server_2012_r2_x64_dvd_2707946.iso|4268605440|5A75F9A12F5493228D916481CD83125E|/

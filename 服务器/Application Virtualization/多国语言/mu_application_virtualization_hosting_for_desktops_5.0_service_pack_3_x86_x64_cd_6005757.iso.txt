@@ -1,0 +1,5 @@
+文件名    = mu_application_virtualization_hosting_for_desktops_5.0_service_pack_3_x86_x64_cd_6005757.iso
+SHA1      = F422D4DA342C3219BAAB051D7A8FAF64AB5D6568
+文件大小  = 110.25MB
+发布时间  = 2014-12-04
+下载链接  = ed2k://|file|mu_application_virtualization_hosting_for_desktops_5.0_service_pack_3_x86_x64_cd_6005757.iso|115607552|577594B759CB0D5493BADD31D77DB6AA|/

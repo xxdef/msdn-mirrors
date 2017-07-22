@@ -1,0 +1,5 @@
+文件名    = en_windows_10_education_n_x86_dvd_6847243.iso
+SHA1      = 841CC023EBCD5FC3B32560939AC655F710438175
+文件大小  = 2.62GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|en_windows_10_education_n_x86_dvd_6847243.iso|2813374464|F44692893A8DB290EE83528751571692|/

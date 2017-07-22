@@ -1,0 +1,5 @@
+文件名    = en_office_standard_2010_x86_x64_dvd_515793.iso
+SHA1      = 5D63124DA00720CCA8ED6C4E9DDD85AA069A8FE9
+文件大小  = 1.15GB
+发布时间  = 2010-05-10
+下载链接  = ed2k://|file|en_office_standard_2010_x86_x64_dvd_515793.iso|1234751488|203FAD3923551B70E3EFBFF92E978985|/

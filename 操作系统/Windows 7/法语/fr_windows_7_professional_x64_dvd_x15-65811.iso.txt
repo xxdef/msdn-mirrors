@@ -1,0 +1,5 @@
+文件名    = fr_windows_7_professional_x64_dvd_x15-65811.iso
+SHA1      = 608BBC966703F42FF3A9C6AD9F162FCAA1BC5D9A
+文件大小  = 2.96GB
+发布时间  = 2009-08-14
+下载链接  = ed2k://|file|fr_windows_7_professional_x64_dvd_x15-65811.iso|3176984576|F04811FB8A07637449B06069061EB437|/

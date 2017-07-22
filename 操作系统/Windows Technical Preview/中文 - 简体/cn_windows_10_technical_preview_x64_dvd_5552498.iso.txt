@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_technical_preview_x64_dvd_5552498.iso
+SHA1      = 135E3193571C5AF9FBF36D24D07B2BE7EE49B2E8
+文件大小  = 3.96GB
+发布时间  = 2014-10-01
+下载链接  = ed2k://|file|cn_windows_10_technical_preview_x64_dvd_5552498.iso|4255932416|4AD5B64C376EE41D0AE3F29B2B8C7FCD|/

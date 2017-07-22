@@ -1,0 +1,5 @@
+文件名    = cn_office_online_server_may_2016_x64_dvd_8480704.iso
+SHA1      = A85B00E0D1DDD219985FBC6B76EF2E422A5EEDBD
+文件大小  = 676.81MB
+发布时间  = 2016-05-09
+下载链接  = ed2k://|file|cn_office_online_server_may_2016_x64_dvd_8480704.iso|709687296|99014E02579B6E08E7172D05857F2D05|/

@@ -1,0 +1,5 @@
+文件名    = cn_ko_windows_server_2008_for_itanium-based_systems_with_sp2_global_language_pack_ia64_dvd_x15-51197.iso
+SHA1      = 5CC141AB374E3D133159E6C761F2A08394E78C89
+文件大小  = 194.85MB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|cn_ko_windows_server_2008_for_itanium-based_systems_with_sp2_global_language_pack_ia64_dvd_x15-51197.iso|204316672|966F599CD8BECBDAF46B7DB84251ADEB|/

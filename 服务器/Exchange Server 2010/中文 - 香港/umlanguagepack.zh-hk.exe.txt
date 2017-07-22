@@ -1,0 +1,5 @@
+文件名    = umlanguagepack.zh-hk.exe
+SHA1      = B163A8CB2BD4E19D74BC87942C71B59B2E7F168C
+文件大小  = 110.81MB
+发布时间  = 2010-09-14
+下载链接  = ed2k://|file|umlanguagepack.zh-hk.exe|116188376|C6F03F19A1ED1CCCE3BADC42CD1A0D8D|/

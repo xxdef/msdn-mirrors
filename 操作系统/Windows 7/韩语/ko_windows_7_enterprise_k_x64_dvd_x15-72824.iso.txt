@@ -1,0 +1,5 @@
+文件名    = ko_windows_7_enterprise_k_x64_dvd_x15-72824.iso
+SHA1      = 194DA113F9ACCFCA5F27D66CB187631E24BE244E
+文件大小  = 2.84GB
+发布时间  = 2009-08-28
+下载链接  = ed2k://|file|ko_windows_7_enterprise_k_x64_dvd_x15-72824.iso|3044374528|2725573ECA6368427542C96C16F59586|/

@@ -1,0 +1,5 @@
+文件名    = en_office_project_portfolio_server_2007_x12-79226.iso
+SHA1      = 3E5A5F4D0AA29EE83F42225741EFB7F866B63540
+文件大小  = 25.04MB
+发布时间  = 2007-01-04
+下载链接  = ed2k://|file|en_office_project_portfolio_server_2007_x12-79226.iso|26261504|D1F7D97ADB998B7AFB6C16A5E63E9260|/

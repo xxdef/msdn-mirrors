@@ -1,0 +1,5 @@
+文件名    = en_kinect_for_windows_sdk_ v10_x86_x64.exe
+SHA1      = 0196F075418A117EB4447E7D64FA8FBCF6346EA5
+文件大小  = 226.78MB
+发布时间  = 2012-02-14
+下载链接  = ed2k://|file|en_kinect_for_windows_sdk_ v10_x86_x64.exe|237791208|867C4C03F93CFC64B81742D71B8620BA|/

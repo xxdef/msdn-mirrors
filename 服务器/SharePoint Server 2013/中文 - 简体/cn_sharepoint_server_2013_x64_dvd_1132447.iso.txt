@@ -1,0 +1,5 @@
+文件名    = cn_sharepoint_server_2013_x64_dvd_1132447.iso
+SHA1      = 604388083ba36e2275c2ab2b2c483f2021c987f0
+文件大小  = 2.48GB
+发布时间  = 2012-10-25
+下载链接  = ed2k://|file|cn_sharepoint_server_2013_x64_dvd_1132447.iso|2662701056|07BD1C642B826086531DEFCF0926A02B|/

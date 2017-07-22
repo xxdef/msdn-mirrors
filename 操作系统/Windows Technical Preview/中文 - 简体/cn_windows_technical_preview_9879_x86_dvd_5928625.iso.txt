@@ -1,0 +1,5 @@
+文件名    = cn_windows_technical_preview_9879_x86_dvd_5928625.iso
+SHA1      = 1EB80DB82B669A687D9FC22974503F16122E06E1
+文件大小  = 3.1GB
+发布时间  = 2014-11-24
+下载链接  = ed2k://|file|cn_windows_technical_preview_9879_x86_dvd_5928625.iso|3333339136|04342934EB3AF267AEAEC3C7986EB04D|/

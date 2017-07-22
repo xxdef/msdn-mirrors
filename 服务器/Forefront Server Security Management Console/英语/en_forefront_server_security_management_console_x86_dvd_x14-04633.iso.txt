@@ -1,0 +1,5 @@
+文件名    = en_forefront_server_security_management_console_x86_dvd_x14-04633.iso
+SHA1      = E4C1B125860DE59DB6436D5C55A925615402A9EF
+文件大小  = 77.14MB
+发布时间  = 2008-01-15
+下载链接  = ed2k://|file|en_forefront_server_security_management_console_x86_dvd_x14-04633.iso|80891904|6B7935A17EEB8F0C36401407EA93259C|/

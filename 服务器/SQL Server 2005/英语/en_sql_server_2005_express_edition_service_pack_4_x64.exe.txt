@@ -1,0 +1,5 @@
+文件名    = en_sql_server_2005_express_edition_service_pack_4_x64.exe
+SHA1      = A054220F0B5E8552B4B6A70A727B2FE66A99CB49
+文件大小  = 54.79MB
+发布时间  = 2012-02-06
+下载链接  = ed2k://|file|en_sql_server_2005_express_edition_service_pack_4_x64.exe|57447776|9B49DE8D552EE5F49E0EE14135E9E7C2|/

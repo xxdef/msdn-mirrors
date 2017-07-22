@@ -1,0 +1,5 @@
+文件名    = en_fr_de_es_windows_server_2008_sp2_language_pack_x64_dvd_342427.iso
+SHA1      = 5EBF48DCB2FB72355546A5F03EBDF75FC4F3E9E2
+文件大小  = 398.54MB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|en_fr_de_es_windows_server_2008_sp2_language_pack_x64_dvd_342427.iso|417902592|1EC79060B420DDC92E8AC798E90CBAE8|/

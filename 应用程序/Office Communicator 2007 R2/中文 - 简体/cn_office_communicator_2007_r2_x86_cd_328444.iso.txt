@@ -1,0 +1,5 @@
+文件名    = cn_office_communicator_2007_r2_x86_cd_328444.iso
+SHA1      = 37289EC6164E7805AE63258DDE4F3F70BDF209BF
+文件大小  = 14.35MB
+发布时间  = 2009-03-24
+下载链接  = ed2k://|file|cn_office_communicator_2007_r2_x86_cd_328444.iso|15046656|2172ECE81BE2FF902201FE4F87FC4791|/

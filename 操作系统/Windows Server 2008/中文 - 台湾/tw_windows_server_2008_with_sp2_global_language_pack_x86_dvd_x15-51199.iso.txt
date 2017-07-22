@@ -1,0 +1,5 @@
+文件名    = tw_windows_server_2008_with_sp2_global_language_pack_x86_dvd_x15-51199.iso
+SHA1      = C9374088B590D152E8D6CB4FAF409AC3B77662B7
+文件大小  = 69.64MB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|tw_windows_server_2008_with_sp2_global_language_pack_x86_dvd_x15-51199.iso|73023488|A8A42ACE6E6A27E1A245CA642C1A3D65|/

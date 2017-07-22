@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_community_2015_with_update_3_x86_x64_dvd_8923246.iso
+SHA1      = 43E0A127206ACA3638AFCA8E79807D3FF15A97EA
+文件大小  = 7.11GB
+发布时间  = 2016-06-27
+下载链接  = ed2k://|file|cn_visual_studio_community_2015_with_update_3_x86_x64_dvd_8923246.iso|7633565696|605D19028916D09E1BFA2DABBD266FE9|/

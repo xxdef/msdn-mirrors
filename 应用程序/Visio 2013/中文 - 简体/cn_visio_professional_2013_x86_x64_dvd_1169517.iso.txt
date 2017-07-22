@@ -1,0 +1,5 @@
+文件名    = cn_visio_professional_2013_x86_x64_dvd_1169517.iso
+SHA1      = A79CEEB1B5ADA66C5DA11524A8F9CBB74EE779E3
+文件大小  = 958.67MB
+发布时间  = 2012-11-14
+下载链接  = ed2k://|file|cn_visio_professional_2013_x86_x64_dvd_1169517.iso|1005238272|A8D69A860D7D7A2B29975FC2BB2BFB1E|/

@@ -1,0 +1,5 @@
+文件名    = Windows_XP_Media_Center_2005_SDK.msi
+SHA1      = F520D5616484F4F05B7888E75015614AE9A9D511
+文件大小  = 3.32MB
+发布时间  = 2005-11-03
+下载链接  = ed2k://|file|Windows_XP_Media_Center_2005_SDK.msi|3484672|BD664235FC599AD8BA8857C1848C8585|/

@@ -1,0 +1,5 @@
+文件名    = ct_msxml_4.0_service_pack_3_x86.msi
+SHA1      = 6A01FFDB65E591AB9EC956CD71D8C456654635C1
+文件大小  = 2.26MB
+发布时间  = 2011-06-23
+下载链接  = ed2k://|file|ct_msxml_4.0_service_pack_3_x86.msi|2368000|543415A6FAB23C313CD9EB21AE062F03|/

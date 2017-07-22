@@ -1,0 +1,5 @@
+文件名    = en_virtual_pc_2007_x64.exe
+SHA1      = 69BD32EB47FCC7AA7E7C9582DB624FA28C7A7007
+文件大小  = 30.52MB
+发布时间  = 2007-04-05
+下载链接  = ed2k://|file|en_virtual_pc_2007_x64.exe|32005504|C407A5E4C2824D012D6ADA1F01401DD3|/

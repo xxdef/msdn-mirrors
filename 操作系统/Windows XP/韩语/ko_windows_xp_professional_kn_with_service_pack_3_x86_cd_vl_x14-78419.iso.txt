@@ -1,0 +1,5 @@
+文件名    = ko_windows_xp_professional_kn_with_service_pack_3_x86_cd_vl_x14-78419.iso
+SHA1      = 723F0206CF09E5C8693DE5EEAEE7DA849E734BC8
+文件大小  = 615.45MB
+发布时间  = 2008-05-02
+下载链接  = ed2k://|file|ko_windows_xp_professional_kn_with_service_pack_3_x86_cd_vl_x14-78419.iso|645347328|706DD7CF89DDBFE79FC05F63B6425937|/

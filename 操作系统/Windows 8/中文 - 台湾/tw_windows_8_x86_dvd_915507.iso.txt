@@ -1,0 +1,5 @@
+文件名    = tw_windows_8_x86_dvd_915507.iso
+SHA1      = 9C042EBB5910A926132E1EC49C8C6D66DE182949
+文件大小  = 2.5GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|tw_windows_8_x86_dvd_915507.iso|2686955520|AED308F1982A33F0A0299AEDE00CAB6C|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2008_r2_standard_enterprise_datacenter_and_web_with_sp1_x64_dvd_617601.iso
+SHA1      = D3FD7BF85EE1D5BDD72DE5B2C69A7B470733CD0A
+文件大小  = 2.95GB
+发布时间  = 2011-02-16
+下载链接  = ed2k://|file|en_windows_server_2008_r2_standard_enterprise_datacenter_and_web_with_sp1_x64_dvd_617601.iso|3166584832|C6B85CF761994A600FFD652B78D04C5B|/

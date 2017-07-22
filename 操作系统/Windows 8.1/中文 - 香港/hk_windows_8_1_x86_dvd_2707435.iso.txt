@@ -1,0 +1,5 @@
+文件名    = hk_windows_8_1_x86_dvd_2707435.iso
+SHA1      = 551C1966CCDB04D864E40CB9390AEABBAFAA7310
+文件大小  = 2.85GB
+发布时间  = 2013-09-09
+下载链接  = ed2k://|file|hk_windows_8_1_x86_dvd_2707435.iso|3059003392|F6253A0E165BA72B03EE93AF4D2DE931|/

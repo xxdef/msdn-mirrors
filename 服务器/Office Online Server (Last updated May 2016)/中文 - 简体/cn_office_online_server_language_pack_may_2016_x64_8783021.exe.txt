@@ -1,0 +1,5 @@
+文件名    = cn_office_online_server_language_pack_may_2016_x64_8783021.exe
+SHA1      = 0BCB323291B6DBFCB473B074F36531F10816B1F6
+文件大小  = 116.37MB
+发布时间  = 2016-05-26
+下载链接  = ed2k://|file|cn_office_online_server_language_pack_may_2016_x64_8783021.exe|122025248|3E8073A25EE45E0C106E34FA86CB006B|/

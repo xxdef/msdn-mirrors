@@ -1,0 +1,5 @@
+文件名    = en_windows_web_server_2008_sp2_x64_dvd_342342.iso
+SHA1      = 755D2776F18566F2C1206137F3613A6770912C89
+文件大小  = 2.26GB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|en_windows_web_server_2008_sp2_x64_dvd_342342.iso|2424758272|86C5E89C225133A2B5C87A4150B134B4|/

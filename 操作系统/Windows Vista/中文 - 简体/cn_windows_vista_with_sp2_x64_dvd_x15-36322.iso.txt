@@ -1,0 +1,5 @@
+文件名    = cn_windows_vista_with_sp2_x64_dvd_x15-36322.iso
+SHA1      = A1689C254FB3BD67807EE493EE7D4896BCA39887
+文件大小  = 3.56GB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|cn_windows_vista_with_sp2_x64_dvd_x15-36322.iso|3817512960|3719CEC49ECC2D73FCF7AF152A42049A|/

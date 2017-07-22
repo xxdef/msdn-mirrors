@@ -1,0 +1,5 @@
+文件名    = cn_microsoft_hyper-v_server_2016_x64_dvd_9347275.iso
+SHA1      = D4C07337ABD5941AE909C14AD727A445CA5249FB
+文件大小  = 2.77GB
+发布时间  = 2016-10-12
+下载链接  = ed2k://|file|cn_microsoft_hyper-v_server_2016_x64_dvd_9347275.iso|2978353152|4A8AEDD2D6E2DCF69E7DE2C6B72C6627|/

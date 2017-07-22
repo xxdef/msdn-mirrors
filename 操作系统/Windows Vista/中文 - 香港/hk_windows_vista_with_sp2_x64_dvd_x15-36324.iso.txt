@@ -1,0 +1,5 @@
+文件名    = hk_windows_vista_with_sp2_x64_dvd_x15-36324.iso
+SHA1      = BE2B4E2BE0D75182210E8084909483F177F5AF03
+文件大小  = 3.52GB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|hk_windows_vista_with_sp2_x64_dvd_x15-36324.iso|3779794944|802F8F03480759D7B0CEC40CF72725C0|/

@@ -1,0 +1,5 @@
+文件名    = ko_windows_server_2008_r2_standard_enterprise_datacenter_web_x64_dvd_x15-59797.iso
+SHA1      = 1EDB00EDF258BDE27209BAEADA53E517ED950C2E
+文件大小  = 2.95GB
+发布时间  = 2009-08-28
+下载链接  = ed2k://|file|ko_windows_server_2008_r2_standard_enterprise_datacenter_web_x64_dvd_x15-59797.iso|3170244608|A329B85664FA6D0B409AC420F1902548|/

@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_ultimate_x86_dvd_x15-65912.iso
+SHA1      = DB866DAAF229CF00DA3E45CE70581C7BC1BB63F6
+文件大小  = 2.4GB
+发布时间  = 2009-08-21
+下载链接  = ed2k://|file|hk_windows_7_ultimate_x86_dvd_x15-65912.iso|2574176256|4AA63D85BEA48F5742BD22B8655363B2|/

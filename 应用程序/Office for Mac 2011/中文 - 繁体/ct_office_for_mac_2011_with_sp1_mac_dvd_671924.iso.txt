@@ -1,0 +1,5 @@
+文件名    = ct_office_for_mac_2011_with_sp1_mac_dvd_671924.iso
+SHA1      = ECFB54A2F21CA79FD7E031C3B4B52D229B71B8F4
+文件大小  = 1.01GB
+发布时间  = 2011-05-05
+下载链接  = ed2k://|file|ct_office_for_mac_2011_with_sp1_mac_dvd_671924.iso|1084252160|C40A58767C9231CC595564684B8A0A00|/

@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2005_express_edition_with_advanced_services_service_pack_4_x86.exe
+SHA1      = 44C40BE79693BDCE84C6FCAAD168178A388A77CC
+文件大小  = 266.36MB
+发布时间  = 2012-02-06
+下载链接  = ed2k://|file|cn_sql_server_2005_express_edition_with_advanced_services_service_pack_4_x86.exe|279297888|3AC9C4620D654F57E5F10C332000C386|/

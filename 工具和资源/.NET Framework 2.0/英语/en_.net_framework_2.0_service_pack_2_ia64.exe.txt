@@ -1,0 +1,5 @@
+文件名    = en_.net_framework_2.0_service_pack_2_ia64.exe
+SHA1      = 91FCFDB4B2E16E197C2594FA1D23DF15F25428A9
+文件大小  = 52.23MB
+发布时间  = 2008-08-10
+下载链接  = ed2k://|file|en_.net_framework_2.0_service_pack_2_ia64.exe|54762512|33D491757CF8DF4403619C0E7530A2E0|/

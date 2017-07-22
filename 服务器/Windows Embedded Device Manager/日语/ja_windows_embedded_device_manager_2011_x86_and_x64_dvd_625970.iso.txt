@@ -1,0 +1,5 @@
+文件名    = ja_windows_embedded_device_manager_2011_x86_and_x64_dvd_625970.iso
+SHA1      = A2523EBB78D2E6F2D99E54DCC07A868ED33EEF20
+文件大小  = 5.64MB
+发布时间  = 2011-03-24
+下载链接  = ed2k://|file|ja_windows_embedded_device_manager_2011_x86_and_x64_dvd_625970.iso|5910528|6668005F44ECB5117A015069539A6DA8|/

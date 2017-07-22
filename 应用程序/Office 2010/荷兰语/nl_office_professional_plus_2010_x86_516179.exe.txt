@@ -1,0 +1,5 @@
+文件名    = nl_office_professional_plus_2010_x86_516179.exe
+SHA1      = 8540515F630D3F87DB226D7DD3185223AFE2FB51
+文件大小  = 628.53MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|nl_office_professional_plus_2010_x86_516179.exe|659057496|903CF05FBB2141134387718F03F1AABB|/

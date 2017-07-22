@@ -1,0 +1,5 @@
+文件名    = cn_visio_professional_2016_x86_x64_dvd_6970929.iso
+SHA1      = E16292B938A284E14A79E4998209F5A4143DBF8A
+文件大小  = 2.41GB
+发布时间  = 2015-09-22
+下载链接  = ed2k://|file|cn_visio_professional_2016_x86_x64_dvd_6970929.iso|2588262400|52A997F3AF4E40B896C8E4677CF10E90|/

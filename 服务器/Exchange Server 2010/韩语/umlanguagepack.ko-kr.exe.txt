@@ -1,0 +1,5 @@
+文件名    = umlanguagepack.ko-kr.exe
+SHA1      = BF15A4CDD535D26AFE7AC24CAB3F952FC101A89E
+文件大小  = 106.21MB
+发布时间  = 2010-09-14
+下载链接  = ed2k://|file|umlanguagepack.ko-kr.exe|111365192|48943E443EC8A84659018F2EA089FB2D|/

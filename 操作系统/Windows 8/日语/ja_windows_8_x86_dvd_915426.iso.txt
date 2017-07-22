@@ -1,0 +1,5 @@
+文件名    = ja_windows_8_x86_dvd_915426.iso
+SHA1      = 5A0F5CF0354C1C390B2B21BB5E0E11EA681987C1
+文件大小  = 2.44GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|ja_windows_8_x86_dvd_915426.iso|2615216128|8F9EFAB4B7256CA1D7B12A8B04C9BCC5|/

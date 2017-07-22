@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_ultimate_2013_x86_dvd_3009107.iso
+SHA1      = 79DBBA7B6EF12B1A4E715A7F20951EE66FBCDAB4
+文件大小  = 2.82GB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|en_visual_studio_ultimate_2013_x86_dvd_3009107.iso|3024457728|88ABAD28F04D52A45F060BBC48B3DF8A|/

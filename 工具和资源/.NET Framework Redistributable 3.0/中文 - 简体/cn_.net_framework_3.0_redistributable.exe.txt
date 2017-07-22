@@ -1,0 +1,5 @@
+文件名    = cn_.net_framework_3.0_redistributable.exe
+SHA1      = A566BCD2FFFFC3842A95ADC57F7DF3F8CD11577F
+文件大小  = 2.81MB
+发布时间  = 2007-03-14
+下载链接  = ed2k://|file|cn_.net_framework_3.0_redistributable.exe|2945816|D229344339F30F1D0985E39942D827F0|/

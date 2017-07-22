@@ -1,0 +1,5 @@
+文件名    = cn_agents_for_visual_studio_2015_with_update_1_x86_x64_7288039.exe
+SHA1      = 4C1588FB7AB481D865DB3CC2B94E9D5C379AE50A
+文件大小  = 168.62MB
+发布时间  = 2015-11-30
+下载链接  = ed2k://|file|cn_agents_for_visual_studio_2015_with_update_1_x86_x64_7288039.exe|176812712|73CD085D1E9E002555CEA6D1238EBE15|/

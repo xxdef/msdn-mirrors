@@ -1,0 +1,5 @@
+文件名    = zh-hans_2007_microsoft_office_suite_service_pack_2_x86.exe
+SHA1      = 777AC1E960E791F4FB34433185E6C12791AF0CE7
+文件大小  = 301.28MB
+发布时间  = 2009-04-28
+下载链接  = ed2k://|file|zh-hans_2007_microsoft_office_suite_service_pack_2_x86.exe|315914760|8788449FD411570FE700FE297A5C2FC5|/

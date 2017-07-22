@@ -1,0 +1,5 @@
+文件名    = en_windows_embedded_posready_2009_x86_dvd_283454.iso
+SHA1      = 0E9E37F9268BBB7181E0A1AE561C178382CC3014
+文件大小  = 3.32GB
+发布时间  = 2009-06-30
+下载链接  = ed2k://|file|en_windows_embedded_posready_2009_x86_dvd_283454.iso|3559516160|ECD44F0F55285858517786E48B7BC3E9|/

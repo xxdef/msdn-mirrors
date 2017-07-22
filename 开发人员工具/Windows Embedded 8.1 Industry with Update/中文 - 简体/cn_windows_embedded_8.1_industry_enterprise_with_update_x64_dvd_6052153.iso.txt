@@ -1,0 +1,5 @@
+文件名    = cn_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052153.iso
+SHA1      = A1CD6AD76EF2E619FECCB8077FFEC643E98B26B2
+文件大小  = 3.82GB
+发布时间  = 2014-12-15
+下载链接  = ed2k://|file|cn_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052153.iso|4099381248|CC31C4B6E10951D1C12AAEB51A6DF272|/

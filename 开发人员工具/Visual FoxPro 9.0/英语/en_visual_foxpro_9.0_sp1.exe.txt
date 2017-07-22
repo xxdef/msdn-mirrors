@@ -1,0 +1,5 @@
+文件名    = en_visual_foxpro_9.0_sp1.exe
+SHA1      = 2DDFCE2B58FF92E028BEB7A00E52E974E727669B
+文件大小  = 31.79MB
+发布时间  = 2006-01-03
+下载链接  = ed2k://|file|en_visual_foxpro_9.0_sp1.exe|33332744|61BA597D5BB9F99C7B6A6CEF70171650|/

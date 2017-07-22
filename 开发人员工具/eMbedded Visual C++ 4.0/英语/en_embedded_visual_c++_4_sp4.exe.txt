@@ -1,0 +1,5 @@
+文件名    = en_embedded_visual_c++_4_sp4.exe
+SHA1      = 77D2CF961ACC96FD78FDAA910F989A41010EDD45
+文件大小  = 66.69MB
+发布时间  = 2007-05-23
+下载链接  = ed2k://|file|en_embedded_visual_c++_4_sp4.exe|69927136|D133A50EA57E3978B49A5FE985A156AF|/

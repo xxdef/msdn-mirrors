@@ -1,0 +1,5 @@
+文件名    = ct_office_professional_plus_2013_x86_x64_dvd_1149707.iso
+SHA1      = BE12B744A78E2953EA5A48EE513E0DD176A6A6B0
+文件大小  = 1.45GB
+发布时间  = 2012-10-31
+下载链接  = ed2k://|file|ct_office_professional_plus_2013_x86_x64_dvd_1149707.iso|1552515072|5378B36C1CBE452A8F32A22F100DE9C9|/

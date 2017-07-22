@@ -1,0 +1,5 @@
+文件名    = en_windows_vista_enterprise_sp2_x64_dvd_342332.iso
+SHA1      = B1A450ABBE43D7843CA502964C1E8E3CC7DCBFC5
+文件大小  = 2.99GB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|en_windows_vista_enterprise_sp2_x64_dvd_342332.iso|3205953536|8CF3A80C8A6A35DDFCCF29632FA67E71|/

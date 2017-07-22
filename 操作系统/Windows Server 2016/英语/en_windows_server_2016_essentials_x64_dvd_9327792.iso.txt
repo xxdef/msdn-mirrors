@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2016_essentials_x64_dvd_9327792.iso
+SHA1      = 3F4F4442073EDCF0EF30BC470E721208E2611DBC
+文件大小  = 4.37GB
+发布时间  = 2016-10-12
+下载链接  = ed2k://|file|en_windows_server_2016_essentials_x64_dvd_9327792.iso|4690671616|0CA4710DC5D2374A1B3A6DF199B920EE|/

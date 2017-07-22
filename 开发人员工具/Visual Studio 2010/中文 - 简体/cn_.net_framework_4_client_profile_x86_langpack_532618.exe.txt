@@ -1,0 +1,5 @@
+文件名    = cn_.net_framework_4_client_profile_x86_langpack_532618.exe
+SHA1      = 7B8817E8BA54167529A9BFBD4D389BE3379DC213
+文件大小  = 2.01MB
+发布时间  = 2010-05-26
+下载链接  = ed2k://|file|cn_.net_framework_4_client_profile_x86_langpack_532618.exe|2110880|7F89F91A4911042A2BE28E75DECEDC9D|/

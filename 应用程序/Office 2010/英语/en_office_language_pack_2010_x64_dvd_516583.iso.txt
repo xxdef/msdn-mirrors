@@ -1,0 +1,5 @@
+文件名    = en_office_language_pack_2010_x64_dvd_516583.iso
+SHA1      = 8C65BE3419DC886B0ECF75FF87D28C88B99BE705
+文件大小  = 472.11MB
+发布时间  = 2010-07-09
+下载链接  = ed2k://|file|en_office_language_pack_2010_x64_dvd_516583.iso|495038464|1E9CFDC519D49935E66C9A4617C6733C|/

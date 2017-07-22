@@ -1,0 +1,5 @@
+文件名    = tw_windows_8.1_enterprise_with_update_x64_dvd_4048586.iso
+SHA1      = 241D9FE8A1497BC11CCFE1EE4A3F95CFC6F7816F
+文件大小  = 3.83GB
+发布时间  = 2014-04-08
+下载链接  = ed2k://|file|tw_windows_8.1_enterprise_with_update_x64_dvd_4048586.iso|4111581184|2DCCF332AE27C2F75529E278471A8497|/

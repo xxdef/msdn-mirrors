@@ -1,0 +1,5 @@
+文件名    = en_windows_xp_service_pack_3_x86_cd_x14-60489.iso
+SHA1      = 8FA76CCEA145D050FC6A506FFBDEDFE53282E5B4
+文件大小  = 544.86MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|en_windows_xp_service_pack_3_x86_cd_x14-60489.iso|571322368|A3180A13529B092A383C9D8C5DBD1653|/

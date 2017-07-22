@@ -1,0 +1,5 @@
+文件名    = cn_windows_technical_preview_for_enterprise_9879_x64_dvd_5928631.iso
+SHA1      = 7C662940E2E699CF178449ECE8987A60D3FD2DB2
+文件大小  = 3.9GB
+发布时间  = 2014-11-24
+下载链接  = ed2k://|file|cn_windows_technical_preview_for_enterprise_9879_x64_dvd_5928631.iso|4190017536|B0198B40718A6D156D0843014B1F47B2|/

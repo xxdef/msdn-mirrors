@@ -1,0 +1,5 @@
+文件名    = cn_windows_home_server_installation_disc_x86_dvd_x14-67788.iso
+SHA1      = CF519146C3A131A34B16AA04804DD12C58D6594B
+文件大小  = 887.28MB
+发布时间  = 2008-12-17
+下载链接  = ed2k://|file|cn_windows_home_server_installation_disc_x86_dvd_x14-67788.iso|930381824|A706E65E3BE024CB21A3F9BDBFD1BDB2|/

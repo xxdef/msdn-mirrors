@@ -1,0 +1,5 @@
+文件名    = ar_fr_de_it_ja_disc_1_office_professional_2003_MUI_x86_cd_x09-79574.iso
+SHA1      = BDF3B30687EDB890C1CF4671DE981E028E575C84
+文件大小  = 573.65MB
+发布时间  = 2003-10-14
+下载链接  = ed2k://|file|ar_fr_de_it_ja_disc_1_office_professional_2003_MUI_x86_cd_x09-79574.iso|601511936|EB3A5788205FC58B38409E24BD083B3F|/

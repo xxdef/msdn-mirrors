@@ -1,0 +1,5 @@
+文件名    = hk_windows_10_multiple_editions_x86_dvd_6846861.iso
+SHA1      = 3310887C489DF86909588E62488759DFBE6D773E
+文件大小  = 2.95GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|hk_windows_10_multiple_editions_x86_dvd_6846861.iso|3165634560|E35ED0A05C049E0274185C0A8175E1A3|/

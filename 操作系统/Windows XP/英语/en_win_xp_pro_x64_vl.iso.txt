@@ -1,0 +1,5 @@
+文件名    = en_win_xp_pro_x64_vl.iso
+SHA1      = A70B118316A9A451B966A082E7C1DD0E8018718D
+文件大小  = 585.71MB
+发布时间  = 2005-04-07
+下载链接  = ed2k://|file|en_win_xp_pro_x64_vl.iso|614166528|69C268B5F717E29EB81BA5E506FF15EA|/

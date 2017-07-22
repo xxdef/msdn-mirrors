@@ -1,0 +1,5 @@
+文件名    = en_sbs_2003_std_sp1_disc1.iso
+SHA1      = 6F61A1D272613D2B4622E7AE7DF9051AC72D1B84
+文件大小  = 433.58MB
+发布时间  = 2005-06-01
+下载链接  = ed2k://|file|en_sbs_2003_std_sp1_disc1.iso|454645760|6CB8494FE78AB895B7A0CDD61CA8855C|/

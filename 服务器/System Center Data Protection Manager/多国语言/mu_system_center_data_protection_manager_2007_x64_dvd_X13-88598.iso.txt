@@ -1,0 +1,5 @@
+文件名    = mu_system_center_data_protection_manager_2007_x64_dvd_X13-88598.iso
+SHA1      = 927E783F404A7C3D203E0D15BAFEE89069AB762F
+文件大小  = 1.85GB
+发布时间  = 2007-10-10
+下载链接  = ed2k://|file|mu_system_center_data_protection_manager_2007_x64_dvd_X13-88598.iso|1981106176|0E11A5E476CDB71F6E5C11CBE29B02EC|/

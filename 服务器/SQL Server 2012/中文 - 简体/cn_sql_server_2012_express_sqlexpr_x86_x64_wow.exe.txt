@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_express_sqlexpr_x86_x64_wow.exe
+SHA1      = 73323BF8C208B0328B878097B246F4F3B9C6D460
+文件大小  = 126.53MB
+发布时间  = 2012-03-08
+下载链接  = ed2k://|file|cn_sql_server_2012_express_sqlexpr_x86_x64_wow.exe|132680792|1FBC86837E6599A7C18BBA41F5B1CCA0|/

@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2012_data_protection_manager_x64_dvd_804296.iso
+SHA1      = 1C32372C662FDCBC3F8D785CF1418BE3D7BC9B86
+文件大小  = 3.29GB
+发布时间  = 2012-04-02
+下载链接  = ed2k://|file|mu_system_center_2012_data_protection_manager_x64_dvd_804296.iso|3532482560|A8931DAE85B9CC756DC5D861A4B768EF|/

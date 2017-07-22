@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_2013_update_5_x86_dvd_6815499.iso
+SHA1      = 7CE5A2C37C75B6354CFA51BA2703DAA51CA83288
+文件大小  = 5.97GB
+发布时间  = 2015-07-20
+下载链接  = ed2k://|file|mu_visual_studio_2013_update_5_x86_dvd_6815499.iso|6407950336|1F292D0E43A6274B210689F694BDF58B|/

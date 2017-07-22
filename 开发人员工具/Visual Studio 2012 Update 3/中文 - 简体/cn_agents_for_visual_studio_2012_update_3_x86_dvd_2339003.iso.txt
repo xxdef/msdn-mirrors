@@ -1,0 +1,5 @@
+文件名    = cn_agents_for_visual_studio_2012_update_3_x86_dvd_2339003.iso
+SHA1      = 31CA201EA9D67E6FB5B481AFD16D1C585E8C84D4
+文件大小  = 238.74MB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|cn_agents_for_visual_studio_2012_update_3_x86_dvd_2339003.iso|250341376|8374DAA6C7D45CE6BD6ED60C4A6EB19E|/

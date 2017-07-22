@@ -1,0 +1,5 @@
+文件名    = tw_windows_10_multiple_editions_version_1511_x64_dvd_7223656.iso
+SHA1      = 41DA2592A69C2B67B9F6B578DDFB722FE29C5501
+文件大小  = 3.81GB
+发布时间  = 2015-11-12
+下载链接  = ed2k://|file|tw_windows_10_multiple_editions_version_1511_x64_dvd_7223656.iso|4095107072|4C0A0382B00B90FB5647B39FEA11BE57|/

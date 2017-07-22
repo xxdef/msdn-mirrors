@@ -1,0 +1,5 @@
+文件名    = en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368.iso
+SHA1      = 50E5EBEED5C14C95EDD56F0BD2CFC88215B688EB
+文件大小  = 1.92MB
+发布时间  = 2009-05-06
+下载链接  = ed2k://|file|en_windows_storage_server_2008_iscsi_tools_cd_x64_x86_x15-63368.iso|2015232|1F45EA0F7908A46BE6216AA8638E7328|/

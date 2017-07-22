@@ -1,0 +1,5 @@
+文件名    = en_biztalk_server_2013_standard_edition_x86_x64_dvd_1797912.iso
+SHA1      = 3346132D993849A52960CD885258DFCF43D8A2EB
+文件大小  = 996.72MB
+发布时间  = 2013-03-21
+下载链接  = ed2k://|file|en_biztalk_server_2013_standard_edition_x86_x64_dvd_1797912.iso|1045141504|98853AD9663B055810377C22231269F7|/

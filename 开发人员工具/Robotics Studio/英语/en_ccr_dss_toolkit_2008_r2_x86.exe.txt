@@ -1,0 +1,5 @@
+文件名    = en_ccr_dss_toolkit_2008_r2_x86.exe
+SHA1      = 379CBF57D6B1EEE1973F0902E21DF62FC6AEECAC
+文件大小  = 320.27MB
+发布时间  = 2009-06-18
+下载链接  = ed2k://|file|en_ccr_dss_toolkit_2008_r2_x86.exe|335826216|30F0A02D2FEC6B265EF846FF07C688BF|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_storage_server_2016_x64_dvd_9327790.iso
+SHA1      = 3F136FE5C44BCE158E5F044121E43438FDA058E5
+文件大小  = 4.26GB
+发布时间  = 2016-10-12
+下载链接  = ed2k://|file|en_windows_storage_server_2016_x64_dvd_9327790.iso|4574750720|E4893F2CD7CEC08341CC68003AC9F2F9|/

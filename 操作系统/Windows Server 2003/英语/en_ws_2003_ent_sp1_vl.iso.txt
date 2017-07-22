@@ -1,0 +1,5 @@
+文件名    = en_ws_2003_ent_sp1_vl.iso
+SHA1      = DF5BBF6B9C2EF90A8E9951CFAC7BEE007AA770BA
+文件大小  = 567MB
+发布时间  = 2005-04-07
+下载链接  = ed2k://|file|en_ws_2003_ent_sp1_vl.iso|594542592|2D4209717F395B5872E5559E4031BBC4|/

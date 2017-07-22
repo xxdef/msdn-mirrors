@@ -1,0 +1,5 @@
+文件名    = fr_office_language_pack_2010_x64_dvd_519070.iso
+SHA1      = 21D3ED1FD9BFBEDAAC8C093A178484BFD75A9E8B
+文件大小  = 486.62MB
+发布时间  = 2010-07-09
+下载链接  = ed2k://|file|fr_office_language_pack_2010_x64_dvd_519070.iso|510257152|DD186278B86E5331508AAF1095147430|/

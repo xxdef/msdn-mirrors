@@ -1,0 +1,5 @@
+文件名    = ct_office_professional_plus_2010_x64_515502.exe
+SHA1      = 935A0025D00257F79233998233EE56D968439FB7
+文件大小  = 858.55MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|ct_office_professional_plus_2010_x64_515502.exe|900255168|520521918830B6450D2B6F12B8F7A291|/

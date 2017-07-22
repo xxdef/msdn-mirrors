@@ -1,0 +1,5 @@
+文件名    = it_windows_7_ultimate_x64_dvd_x15-65938.iso
+SHA1      = 8AF30CC44CEB9A369CDA4BA5F54F67DE8A684477
+文件大小  = 2.9GB
+发布时间  = 2009-08-14
+下载链接  = ed2k://|file|it_windows_7_ultimate_x64_dvd_x15-65938.iso|3115681792|2341FC27B101B164800968BAB9E47A5E|/

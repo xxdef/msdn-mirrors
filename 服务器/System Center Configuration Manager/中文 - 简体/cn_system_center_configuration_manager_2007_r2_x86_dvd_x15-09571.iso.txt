@@ -1,0 +1,5 @@
+文件名    = cn_system_center_configuration_manager_2007_r2_x86_dvd_x15-09571.iso
+SHA1      = 9C7E893A0A091F5CEFC664F8857F0748F4FD49DB
+文件大小  = 25.46MB
+发布时间  = 2008-10-29
+下载链接  = ed2k://|file|cn_system_center_configuration_manager_2007_r2_x86_dvd_x15-09571.iso|26701824|208BCD37A15B4AF81DA16F21E8A9CB4A|/

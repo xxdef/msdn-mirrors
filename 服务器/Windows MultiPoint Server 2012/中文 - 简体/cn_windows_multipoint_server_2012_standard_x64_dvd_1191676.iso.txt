@@ -1,0 +1,5 @@
+文件名    = cn_windows_multipoint_server_2012_standard_x64_dvd_1191676.iso
+SHA1      = F4071501A45A105F304A447397C3EAA0B4FCFEF4
+文件大小  = 3.55GB
+发布时间  = 2012-11-15
+下载链接  = ed2k://|file|cn_windows_multipoint_server_2012_standard_x64_dvd_1191676.iso|3812769792|660CBFFC08929EBC61E8642EF87A2E97|/

@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_enterprise_x64_dvd_x15-70981.iso
+SHA1      = 20F22C1D06864861AA4BA9C52C7BE68CC031FBB1
+文件大小  = 2.96GB
+发布时间  = 2009-08-21
+下载链接  = ed2k://|file|hk_windows_7_enterprise_x64_dvd_x15-70981.iso|3175837696|FA52A6C1B24D945BD4F36AAE6F66DBFE|/

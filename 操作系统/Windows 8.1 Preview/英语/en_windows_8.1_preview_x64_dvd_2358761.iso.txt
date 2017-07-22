@@ -1,0 +1,5 @@
+文件名    = en_windows_8.1_preview_x64_dvd_2358761.iso
+SHA1      = D8076E029292FBC933792D215793045031255FF6
+文件大小  = 3.5GB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|en_windows_8.1_preview_x64_dvd_2358761.iso|3753558016|E4BA804FA337BC812D7E33E2A2E655A4|/

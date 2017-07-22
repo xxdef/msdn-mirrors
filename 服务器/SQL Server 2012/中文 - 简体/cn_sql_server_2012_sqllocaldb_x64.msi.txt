@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_sqllocaldb_x64.msi
+SHA1      = 26C0BFF80527699591FAD86929390EAEE2F5623C
+文件大小  = 33.11MB
+发布时间  = 2012-03-08
+下载链接  = ed2k://|file|cn_sql_server_2012_sqllocaldb_x64.msi|34721792|57EEF774AA9BD53BAADD04383651516C|/

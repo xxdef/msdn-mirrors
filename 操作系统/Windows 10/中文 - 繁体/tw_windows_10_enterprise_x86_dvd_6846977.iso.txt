@@ -1,0 +1,5 @@
+文件名    = tw_windows_10_enterprise_x86_dvd_6846977.iso
+SHA1      = 7AA9B7B550D5C2A0E3BDC0E382674229A49680C4
+文件大小  = 2.83GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|tw_windows_10_enterprise_x86_dvd_6846977.iso|3034386432|F565555D7396CB63A5B424200265564D|/

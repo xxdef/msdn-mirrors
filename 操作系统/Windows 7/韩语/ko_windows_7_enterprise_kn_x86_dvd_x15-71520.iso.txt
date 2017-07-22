@@ -1,0 +1,5 @@
+文件名    = ko_windows_7_enterprise_kn_x86_dvd_x15-71520.iso
+SHA1      = FA77F6D2207DA3B65B18F31F4BECDAF3D83FFAF4
+文件大小  = 1.88GB
+发布时间  = 2009-08-28
+下载链接  = ed2k://|file|ko_windows_7_enterprise_kn_x86_dvd_x15-71520.iso|2020864000|0543DFAFCEC588968C1DA65D9613E4C1|/

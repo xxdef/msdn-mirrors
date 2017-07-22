@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2008_standard_enterprise_and_datacenter_without_hyper-v_with_sp2_x64_dvd_x15-41415.iso
+SHA1      = 67EB3637C96C047D18B0495F4332970D905073E7
+文件大小  = 2.72GB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|cn_windows_server_2008_standard_enterprise_and_datacenter_without_hyper-v_with_sp2_x64_dvd_x15-41415.iso|2916302848|C54319418341B6EFF7A98D0D62FA372A|/

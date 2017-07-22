@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2014_management_studio_x86_exe_3949524.exe
+SHA1      = C2E46C96807E967B418F36E99DF6FF5F1CA979FF
+文件大小  = 719.41MB
+发布时间  = 2014-04-01
+下载链接  = ed2k://|file|cn_sql_server_2014_management_studio_x86_exe_3949524.exe|754351368|06EF7D750AC4293A0B341104F7CB0B5D|/

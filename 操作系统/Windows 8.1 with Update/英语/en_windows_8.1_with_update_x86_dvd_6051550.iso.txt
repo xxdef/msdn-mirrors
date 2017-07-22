@@ -1,0 +1,5 @@
+文件名    = en_windows_8.1_with_update_x86_dvd_6051550.iso
+SHA1      = C7FA828E01E98B601E0ACA8019F1CB223EB23223
+文件大小  = 2.99GB
+发布时间  = 2014-12-15
+下载链接  = ed2k://|file|en_windows_8.1_with_update_x86_dvd_6051550.iso|3209969664|6F6D414D315630EC8EBB27355A16DCA1|/

@@ -1,0 +1,5 @@
+文件名    = cn_sharepoint_designer_2013_x64_1176104.exe
+SHA1      = d829bdb95f32bf5a6e1cbaa10ba3bb706ee4bc57
+文件大小  = 427.84MB
+发布时间  = 2012-11-07
+下载链接  = ed2k://|file|cn_sharepoint_designer_2013_x64_1176104.exe|448627640|D46E3B59A3A0DB77F42113ED1D96E19C|/

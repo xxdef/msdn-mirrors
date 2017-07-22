@@ -1,0 +1,5 @@
+文件名    = ja_windows_7_enterprise_x86_dvd_x15-70850.iso
+SHA1      = 6B73FBD4582FE6E1A15E998CD0A94FF84FE10FC1
+文件大小  = 2.2GB
+发布时间  = 2009-08-11
+下载链接  = ed2k://|file|ja_windows_7_enterprise_x86_dvd_x15-70850.iso|2364174336|8A493EAC828FE4DF2573CBEFBB79E4CD|/

@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_enterprise_version_1511_updated_apr_2016_x64_dvd_8710041.iso
+SHA1      = CE10EE453BDD40D04D9EB8A65D0BE46B8E1D8916
+文件大小  = 4.15GB
+发布时间  = 2016-05-23
+下载链接  = ed2k://|file|cn_windows_10_enterprise_version_1511_updated_apr_2016_x64_dvd_8710041.iso|4453720064|41F07B071685E4035206F0F986B8451D|/

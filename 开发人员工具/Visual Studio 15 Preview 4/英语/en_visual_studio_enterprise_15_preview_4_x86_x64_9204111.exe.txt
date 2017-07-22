@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_enterprise_15_preview_4_x86_x64_9204111.exe
+SHA1      = D0A4C56869B11969E629A70E60EC108794B57A4F
+文件大小  = 992.94KB
+发布时间  = 2016-08-22
+下载链接  = ed2k://|file|en_visual_studio_enterprise_15_preview_4_x86_x64_9204111.exe|1016768|D38A5FA0997921DA3B06040E2B1C6C69|/

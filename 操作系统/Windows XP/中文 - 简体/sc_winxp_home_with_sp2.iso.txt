@@ -1,0 +1,5 @@
+文件名    = sc_winxp_home_with_sp2.iso
+SHA1      = F31B766CDBBB84826C09216A4B8CC7DFB1428493
+文件大小  = 583.04MB
+发布时间  = 2004-12-17
+下载链接  = ed2k://|file|sc_winxp_home_with_sp2.iso|611358720|B80F4CCF312420015FFD5740057085B0|/

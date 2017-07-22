@@ -1,0 +1,5 @@
+文件名    = zh-hk_windows_xp_service_pack_3_x86_cd_x14-60562.iso
+SHA1      = 68FBEA55A4D9E1C62F1559C39F69BF1B9069C97E
+文件大小  = 384.14MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|zh-hk_windows_xp_service_pack_3_x86_cd_x14-60562.iso|402798592|C91DA7CFE3C1585AA4B10E6B079F35B0|/

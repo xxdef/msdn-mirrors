@@ -1,0 +1,5 @@
+文件名    = cn_windows_8_enterprise_x86_dvd_917682.iso
+SHA1      = 951565D8579C5912FB4A407B3B9F715FBDB77EFE
+文件大小  = 2.42GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|cn_windows_8_enterprise_x86_dvd_917682.iso|2597502976|7B6541942A16EB54BC81E84558DF09DF|/

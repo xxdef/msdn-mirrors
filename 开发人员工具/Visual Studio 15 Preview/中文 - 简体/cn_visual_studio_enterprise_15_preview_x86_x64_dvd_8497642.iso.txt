@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_enterprise_15_preview_x86_x64_dvd_8497642.iso
+SHA1      = 859430CCE878326627942EE184081DCF9103AD3B
+文件大小  = 2.76GB
+发布时间  = 2016-03-30
+下载链接  = ed2k://|file|cn_visual_studio_enterprise_15_preview_x86_x64_dvd_8497642.iso|2958809088|2C71E3C549A0E621F35729CCD3FBF356|/

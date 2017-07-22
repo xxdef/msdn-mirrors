@@ -1,0 +1,5 @@
+文件名    = en_windows_10_enterprise_version_1511_updated_feb_2016_x86_dvd_8378870.iso
+SHA1      = 1C4B56B8C08EB9A3EA8C9BF76255CBA6402E4F0F
+文件大小  = 2.9GB
+发布时间  = 2016-03-04
+下载链接  = ed2k://|file|en_windows_10_enterprise_version_1511_updated_feb_2016_x86_dvd_8378870.iso|3113904128|E5D5E83F4F0F8AB6769BF39C6AC6F76B|/

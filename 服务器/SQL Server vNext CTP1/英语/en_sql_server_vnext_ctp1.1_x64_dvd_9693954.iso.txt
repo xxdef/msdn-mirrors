@@ -1,0 +1,5 @@
+文件名    = en_sql_server_vnext_ctp1.1_x64_dvd_9693954.iso
+SHA1      = 67611F3C368218780C392765A08C18A3B51A7002
+文件大小  = 1.93GB
+发布时间  = 2016-12-16
+下载链接  = ed2k://|file|en_sql_server_vnext_ctp1.1_x64_dvd_9693954.iso|2071097344|4B7C7040CDCA8FB551388D9E375F0DA2|/

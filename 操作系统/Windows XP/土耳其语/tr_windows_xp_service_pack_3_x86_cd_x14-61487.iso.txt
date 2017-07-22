@@ -1,0 +1,5 @@
+文件名    = tr_windows_xp_service_pack_3_x86_cd_x14-61487.iso
+SHA1      = A2447ECF86C2CDB5F4A88F58E0FBC288FC93168E
+文件大小  = 366.02MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|tr_windows_xp_service_pack_3_x86_cd_x14-61487.iso|383801344|62CFAE2FEB8F269563B526F179605C78|/

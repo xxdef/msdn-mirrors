@@ -1,0 +1,5 @@
+文件名    = fi_windows_xp_service_pack_3_x86_cd_x14-61429
+SHA1      = A76540CB5B071CE5407409480239BF82C0FA9EA7
+文件大小  = 369.64MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|fi_windows_xp_service_pack_3_x86_cd_x14-61429|387594240|C509C5A48A0409A3FCB0B2880A6A9032|/

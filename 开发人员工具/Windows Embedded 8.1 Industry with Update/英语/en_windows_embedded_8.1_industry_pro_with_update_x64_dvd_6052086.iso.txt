@@ -1,0 +1,5 @@
+文件名    = en_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052086.iso
+SHA1      = DCD10322CB20A98D40ED558BB15CADB025DF98C9
+文件大小  = 3.66GB
+发布时间  = 2014-12-15
+下载链接  = ed2k://|file|en_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052086.iso|3924887552|15C312E995F9B4BF208E6CB4B14EE1C1|/

@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_11_beta_language_pack_web_installer_x86_808038.exe
+SHA1      = 40A614A2351759BA27C1DD4583B9528C808D7421
+文件大小  = 1.19MB
+发布时间  = 2012-02-29
+下载链接  = ed2k://|file|cn_visual_studio_11_beta_language_pack_web_installer_x86_808038.exe|1247592|671EDB8D308E91895C8AAAD7DE890266|/

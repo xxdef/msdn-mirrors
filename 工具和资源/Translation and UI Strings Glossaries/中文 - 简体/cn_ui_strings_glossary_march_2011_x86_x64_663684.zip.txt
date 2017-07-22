@@ -1,0 +1,5 @@
+文件名    = cn_ui_strings_glossary_march_2011_x86_x64_663684.zip
+SHA1      = 895D45EA81563557776253D17D1D74AB3B9882A9
+文件大小  = 85.69MB
+发布时间  = 2011-04-08
+下载链接  = ed2k://|file|cn_ui_strings_glossary_march_2011_x86_x64_663684.zip|89850532|8255922D0C15EB2034E91A54EF37DE91|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_7_ultimate_x64_dvd_X15-65922.iso
+SHA1      = 326327CC2FF9F05379F5058C41BE6BC5E004BAA7
+文件大小  = 3GB
+发布时间  = 2009-08-06
+下载链接  = ed2k://|file|en_windows_7_ultimate_x64_dvd_X15-65922.iso|3224686592|6719AFC5486F38BE75F2DF39C8527113|/

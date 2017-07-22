@@ -1,0 +1,5 @@
+文件名    = en_project_standard_2010_x64_516836.exe
+SHA1      = D07EFAC9B137ABD31BD4C68E0DCBC9414917A5D0
+文件大小  = 244.88MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|en_project_standard_2010_x64_516836.exe|256773936|08AA5F50344A758081E978D70BCAE4B2|/

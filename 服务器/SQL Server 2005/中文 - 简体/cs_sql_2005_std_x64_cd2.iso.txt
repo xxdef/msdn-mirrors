@@ -1,0 +1,5 @@
+文件名    = cs_sql_2005_std_x64_cd2.iso
+SHA1      = C95827A4233CDE6EB6EC10A1E678B6D351DB09FE
+文件大小  = 593.4MB
+发布时间  = 2006-01-19
+下载链接  = ed2k://|file|cs_sql_2005_std_x64_cd2.iso|622227456|13608540E5A380DA597398F0656922DF|/

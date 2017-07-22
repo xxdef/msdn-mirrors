@@ -1,0 +1,5 @@
+文件名    = zh-hans_sharepoint_services_3.0_with_service_pack_1_x86.exe
+SHA1      = 0E22DC630437267B017025E213394FE0B1E35022
+文件大小  = 104.48MB
+发布时间  = 2008-03-22
+下载链接  = ed2k://|file|zh-hans_sharepoint_services_3.0_with_service_pack_1_x86.exe|109551208|1CA71DC5F84376F51EF9BAFAFB9D080F|/

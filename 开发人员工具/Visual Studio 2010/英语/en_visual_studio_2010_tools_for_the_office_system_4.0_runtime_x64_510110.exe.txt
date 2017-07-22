@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x64_510110.exe
+SHA1      = CCCB84486196CBB0101304AB8ABEEB29DA8CD03B
+文件大小  = 3.29MB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x64_510110.exe|3451224|7E01478E2B32F03AEFB0E845811A1AFD|/

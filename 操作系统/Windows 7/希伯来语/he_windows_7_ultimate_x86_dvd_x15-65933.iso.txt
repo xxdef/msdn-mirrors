@@ -1,0 +1,5 @@
+文件名    = he_windows_7_ultimate_x86_dvd_x15-65933.iso
+SHA1      = 83DBFC5D4C9F8661481EE141E6F74F8BC88D3CB0
+文件大小  = 2.24GB
+发布时间  = 2009-08-28
+下载链接  = ed2k://|file|he_windows_7_ultimate_x86_dvd_x15-65933.iso|2408157184|1CC5E4591D9EFB27A1AFD89B63706D77|/

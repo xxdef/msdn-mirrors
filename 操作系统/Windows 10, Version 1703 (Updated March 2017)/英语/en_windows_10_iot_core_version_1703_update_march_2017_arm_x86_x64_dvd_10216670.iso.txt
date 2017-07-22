@@ -1,0 +1,5 @@
+文件名    = en_windows_10_iot_core_version_1703_update_march_2017_arm_x86_x64_dvd_10216670.iso
+SHA1      = 95923D4C9BCA230864C9A1A4D712B7A6995DE382
+文件大小  = 3.09GB
+发布时间  = 2017-04-05
+下载链接  = ed2k://|file|en_windows_10_iot_core_version_1703_update_march_2017_arm_x86_x64_dvd_10216670.iso|3316246528|743A20855A2F57A623C3AAB88569346E|/

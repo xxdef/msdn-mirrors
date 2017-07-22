@@ -1,0 +1,5 @@
+文件名    = cn_biztalk_server_2010_standard_edition_x86_x64_dvd_567729.iso
+SHA1      = 8130FFD5612223A445A0E88E62E16BB6AB6EF376
+文件大小  = 1,003.93MB
+发布时间  = 2010-10-01
+下载链接  = ed2k://|file|cn_biztalk_server_2010_standard_edition_x86_x64_dvd_567729.iso|1052696576|B7F6BC9B0D93FC8A5A983846CC82F57E|/

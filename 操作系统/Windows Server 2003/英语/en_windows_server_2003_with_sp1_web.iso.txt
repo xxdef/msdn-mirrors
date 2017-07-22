@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2003_with_sp1_web.iso
+SHA1      = 524A0074B1A8AC277E28907352950A54D2B4F257
+文件大小  = 512.45MB
+发布时间  = 2005-03-29
+下载链接  = ed2k://|file|en_windows_server_2003_with_sp1_web.iso|537337856|B42CA6D56F34955784761C19CDBF4625|/

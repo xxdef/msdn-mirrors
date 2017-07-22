@@ -1,0 +1,5 @@
+文件名    = en_expression_studio_4_premium_x86_dvd_537029.iso
+SHA1      = B4245F2AF701FB5531BDDA8E91D55E33DFE1615B
+文件大小  = 284.14MB
+发布时间  = 2010-06-07
+下载链接  = ed2k://|file|en_expression_studio_4_premium_x86_dvd_537029.iso|297947136|C2B2BD7F76F8020C37C4EB556E2B6B97|/

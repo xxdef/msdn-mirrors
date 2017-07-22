@@ -1,0 +1,5 @@
+文件名    = cn_disc_4_windows_essential_business_server_2008_standard_and_premium_messaging_server_x64_dvd_x14-73671.iso
+SHA1      = 0EA51038ABB18E89FE33E38D04737DE66DD46E91
+文件大小  = 3.86GB
+发布时间  = 2008-12-11
+下载链接  = ed2k://|file|cn_disc_4_windows_essential_business_server_2008_standard_and_premium_messaging_server_x64_dvd_x14-73671.iso|4141398016|2A12FC7DEEA92360515D92B9A99AAB49|/

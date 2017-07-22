@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2008_datacenter_enterprise_standard_sp2_x64_dvd_342336.iso
+SHA1      = 34C7D726C57B0F8B19BA3B40D1B4044C15FC2029
+文件大小  = 2.57GB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|en_windows_server_2008_datacenter_enterprise_standard_sp2_x64_dvd_342336.iso|2755887104|A2EA28A4DF1671271D0AA8A6D4408A46|/

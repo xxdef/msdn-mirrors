@@ -1,0 +1,5 @@
+文件名    = en_windows_xp_pro_64bit.iso
+SHA1      = DEFC235255C9B92792199E0001ABDB755E463C0C
+文件大小  = 501.12MB
+发布时间  = 2003-03-26
+下载链接  = ed2k://|file|en_windows_xp_pro_64bit.iso|525461504|A1E652C1F13CB3D8CBEAB2F8ED790E76|/

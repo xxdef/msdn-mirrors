@@ -1,0 +1,5 @@
+文件名    = mu_microsoft_hpc_pack_2008_r2_with_service_pack_2_x86_x64_dvd_709909.iso
+SHA1      = 9123DA843E25EEF522533530CAB874EC8CF92FCB
+文件大小  = 956.92MB
+发布时间  = 2011-06-29
+下载链接  = ed2k://|file|mu_microsoft_hpc_pack_2008_r2_with_service_pack_2_x86_x64_dvd_709909.iso|1003403264|63FB57138627683A65C9ACEF71F42BEA|/

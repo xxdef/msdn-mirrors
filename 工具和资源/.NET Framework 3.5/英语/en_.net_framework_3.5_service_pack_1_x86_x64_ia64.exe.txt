@@ -1,0 +1,5 @@
+文件名    = en_.net_framework_3.5_service_pack_1_x86_x64_ia64.exe
+SHA1      = 3DCE66BAE0DD71284AC7A971BAED07030A186918
+文件大小  = 231.5MB
+发布时间  = 2008-08-10
+下载链接  = ed2k://|file|en_.net_framework_3.5_service_pack_1_x86_x64_ia64.exe|242743296|C8B10D7008E5C32BD5BA03CA0E41BA7B|/

@@ -1,0 +1,5 @@
+文件名    = cn_install_disc_windows_small_business_server_2011_standard_x64_dvd_611622.iso
+SHA1      = 005CA236E7764EAA3E797963563C054C2C785129
+文件大小  = 6.7GB
+发布时间  = 2011-07-29
+下载链接  = ed2k://|file|cn_install_disc_windows_small_business_server_2011_standard_x64_dvd_611622.iso|7191193600|10769ABD36B025DA84F523E154F9B210|/

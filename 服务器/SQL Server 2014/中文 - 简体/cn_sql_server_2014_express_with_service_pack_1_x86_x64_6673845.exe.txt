@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2014_express_with_service_pack_1_x86_x64_6673845.exe
+SHA1      = CF7278F78F7E8C59A9AC52DB68CA2965472B5751
+文件大小  = 282.65MB
+发布时间  = 2015-05-21
+下载链接  = ed2k://|file|cn_sql_server_2014_express_with_service_pack_1_x86_x64_6673845.exe|296384368|1851FD0938D9BE12C2AC15BBB23BFE8A|/

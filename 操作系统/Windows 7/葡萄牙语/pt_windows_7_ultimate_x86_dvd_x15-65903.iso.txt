@@ -1,0 +1,5 @@
+文件名    = pt_windows_7_ultimate_x86_dvd_x15-65903.iso
+SHA1      = 4F2882301AC269BD6C65A7208BB72844E0BE5EB5
+文件大小  = 2.23GB
+发布时间  = 2009-08-25
+下载链接  = ed2k://|file|pt_windows_7_ultimate_x86_dvd_x15-65903.iso|2389719040|8B7427E86CDD124C7994A7BEBABF923F|/

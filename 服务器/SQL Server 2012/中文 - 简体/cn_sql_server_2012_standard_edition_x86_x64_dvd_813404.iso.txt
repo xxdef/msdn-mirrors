@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_standard_edition_x86_x64_dvd_813404.iso
+SHA1      = 7D0A8228AA975075796C4528A55E3EBEE37D3782
+文件大小  = 4.71GB
+发布时间  = 2012-03-07
+下载链接  = ed2k://|file|cn_sql_server_2012_standard_edition_x86_x64_dvd_813404.iso|5054384128|4BA89C95A1A99FE3B6D0D152947FFC7E|/

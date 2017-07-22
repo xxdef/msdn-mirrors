@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2003_standard.iso
+SHA1      = A600409482A5678EF6AF2B26D3576D6D9894178D
+文件大小  = 541.95MB
+发布时间  = 2003-03-26
+下载链接  = ed2k://|file|en_windows_server_2003_standard.iso|568276992|5CEA5F240AA81C1A66B2BBF72DEA60BF|/

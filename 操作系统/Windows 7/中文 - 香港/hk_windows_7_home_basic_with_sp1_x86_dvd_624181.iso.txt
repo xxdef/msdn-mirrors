@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_home_basic_with_sp1_x86_dvd_624181.iso
+SHA1      = 18ECBF90FF07057FC38D0514D83710E1A60648EF
+文件大小  = 2.44GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|hk_windows_7_home_basic_with_sp1_x86_dvd_624181.iso|2621298688|A5B68B26ABE6E078A7EA95D98D5C381D|/

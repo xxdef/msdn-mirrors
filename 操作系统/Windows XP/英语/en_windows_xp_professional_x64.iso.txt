@@ -1,0 +1,5 @@
+文件名    = en_windows_xp_professional_x64.iso
+SHA1      = 8E914F652DFF0AA8FD16F41B583817C7E107BBA5
+文件大小  = 585.72MB
+发布时间  = 2005-03-29
+下载链接  = ed2k://|file|en_windows_xp_professional_x64.iso|614168576|DCEE7C1436E165867DDC75FBA1790BC7|/

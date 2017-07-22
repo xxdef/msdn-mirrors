@@ -1,0 +1,5 @@
+文件名    = en_client_restore_disc_windows_small_business_server_2011_essentials_x86_x64_cd_664348.iso
+SHA1      = 678403787D1E364F65FF5BF27D3988C52792F132
+文件大小  = 467.07MB
+发布时间  = 2011-04-05
+下载链接  = ed2k://|file|en_client_restore_disc_windows_small_business_server_2011_essentials_x86_x64_cd_664348.iso|489754624|3EE8C7180654CC71745D87D6A0150052|/

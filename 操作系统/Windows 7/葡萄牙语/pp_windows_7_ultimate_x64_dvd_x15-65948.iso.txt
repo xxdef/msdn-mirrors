@@ -1,0 +1,5 @@
+文件名    = pp_windows_7_ultimate_x64_dvd_x15-65948.iso
+SHA1      = 89502FF0BA9628536E1D1B1A0640EDE1C27BC64C
+文件大小  = 2.9GB
+发布时间  = 2009-08-28
+下载链接  = ed2k://|file|pp_windows_7_ultimate_x64_dvd_x15-65948.iso|3115857920|CB55CDD565DFC3A71D78918A283420FC|/

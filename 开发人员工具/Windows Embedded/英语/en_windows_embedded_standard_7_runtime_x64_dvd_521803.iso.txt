@@ -1,0 +1,5 @@
+文件名    = en_windows_embedded_standard_7_runtime_x64_dvd_521803.iso
+SHA1      = E35B9A1B935D87DF49EBD8F6BAB801ED205F2583
+文件大小  = 3.44GB
+发布时间  = 2010-05-13
+下载链接  = ed2k://|file|en_windows_embedded_standard_7_runtime_x64_dvd_521803.iso|3693348864|0945FFBC080B289D37602A76B632060F|/

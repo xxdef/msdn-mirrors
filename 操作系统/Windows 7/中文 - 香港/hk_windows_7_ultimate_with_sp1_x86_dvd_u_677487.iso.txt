@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_ultimate_with_sp1_x86_dvd_u_677487.iso
+SHA1      = 66CD3D00631DF7EDE1D94331A49B842E1C2D37EF
+文件大小  = 2.44GB
+发布时间  = 2011-05-12
+下载链接  = ed2k://|file|hk_windows_7_ultimate_with_sp1_x86_dvd_u_677487.iso|2622672896|2EFFEBFD1E9FEE32929D44866D4B4763|/

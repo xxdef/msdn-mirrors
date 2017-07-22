@@ -1,0 +1,5 @@
+文件名    = en_windows_web_server_2008_x64_dvd_X14-26683.iso
+SHA1      = 8361690D28ACCA8A82F45B53F088763980AAC1BC
+文件大小  = 2.09GB
+发布时间  = 2008-02-09
+下载链接  = ed2k://|file|en_windows_web_server_2008_x64_dvd_X14-26683.iso|2247387136|5E43DE49C052B6BCC7EFB967BC83537F|/

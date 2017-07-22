@@ -1,0 +1,5 @@
+文件名    = en_skype_for_business_server_2015_x64_dvd_6622058.iso
+SHA1      = DA7A0F6A4A34F5A6D03F6DB1084048CD1571F29D
+文件大小  = 1.37GB
+发布时间  = 2015-05-01
+下载链接  = ed2k://|file|en_skype_for_business_server_2015_x64_dvd_6622058.iso|1470470144|7334FFFC15D1B99F079AEC4FEE5C69F9|/

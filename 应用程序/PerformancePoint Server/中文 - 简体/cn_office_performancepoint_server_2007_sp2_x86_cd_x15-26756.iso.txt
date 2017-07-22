@@ -1,0 +1,5 @@
+文件名    = cn_office_performancepoint_server_2007_sp2_x86_cd_x15-26756.iso
+SHA1      = 933316AD4A9291BA8C394A250CCC8CED1499E927
+文件大小  = 6.6MB
+发布时间  = 2009-03-05
+下载链接  = ed2k://|file|cn_office_performancepoint_server_2007_sp2_x86_cd_x15-26756.iso|6916096|DE33F33FE282CB91294753381EFED5DC|/

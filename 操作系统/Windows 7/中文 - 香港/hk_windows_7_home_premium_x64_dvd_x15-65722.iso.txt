@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_home_premium_x64_dvd_x15-65722.iso
+SHA1      = 6B6D270829FD83600ED2AB9096D125CE83E45584
+文件大小  = 3.09GB
+发布时间  = 2009-08-21
+下载链接  = ed2k://|file|hk_windows_7_home_premium_x64_dvd_x15-65722.iso|3313936384|89A775C883FEC124572040F0C4169155|/

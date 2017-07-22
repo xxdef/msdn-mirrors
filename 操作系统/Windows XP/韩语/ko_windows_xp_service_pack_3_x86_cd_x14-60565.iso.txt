@@ -1,0 +1,5 @@
+文件名    = ko_windows_xp_service_pack_3_x86_cd_x14-60565.iso
+SHA1      = 0560FF2C8BFDCF583614B2A94A0E9F97E14663F0
+文件大小  = 378.29MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|ko_windows_xp_service_pack_3_x86_cd_x14-60565.iso|396662784|F28CC94043659241B95CF81E4B23300F|/

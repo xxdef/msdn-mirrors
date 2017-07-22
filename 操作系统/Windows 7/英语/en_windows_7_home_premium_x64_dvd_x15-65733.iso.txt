@@ -1,0 +1,5 @@
+文件名    = en_windows_7_home_premium_x64_dvd_x15-65733.iso
+SHA1      = 336779EA6B65F63E11A609B4D021439C47AB315B
+文件大小  = 3GB
+发布时间  = 2009-08-06
+下载链接  = ed2k://|file|en_windows_7_home_premium_x64_dvd_x15-65733.iso|3224686592|9154F9E4021BEAF83439A42FA267ACBD|/

@@ -1,0 +1,5 @@
+文件名    = pt_windows_7_enterprise_x86_dvd_x15-70729.iso
+SHA1      = E55DCEFA2630969ABCAB752653F6A47ADDE45EAF
+文件大小  = 2.11GB
+发布时间  = 2009-08-25
+下载链接  = ed2k://|file|pt_windows_7_enterprise_x86_dvd_x15-70729.iso|2266695680|6CEC99375A7FEE3D4BA03B00BBC078B7|/

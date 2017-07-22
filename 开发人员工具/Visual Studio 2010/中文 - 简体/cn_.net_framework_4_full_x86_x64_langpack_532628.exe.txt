@@ -1,0 +1,5 @@
+文件名    = cn_.net_framework_4_full_x86_x64_langpack_532628.exe
+SHA1      = 67AA64E0E97597A9B17264B8ECAFF40E18DE5715
+文件大小  = 3MB
+发布时间  = 2010-05-26
+下载链接  = ed2k://|file|cn_.net_framework_4_full_x86_x64_langpack_532628.exe|3149904|6269F58D6F078BB9DAD869E259158478|/

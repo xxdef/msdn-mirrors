@@ -1,0 +1,5 @@
+文件名    = en_server_install_disc_windows_small_business_server_2011_essentials_x64_dvd_664391.iso
+SHA1      = 58FE96CD15B46107C0030713CB75A18B5FAFEF69
+文件大小  = 3.98GB
+发布时间  = 2011-04-05
+下载链接  = ed2k://|file|en_server_install_disc_windows_small_business_server_2011_essentials_x64_dvd_664391.iso|4268191744|18289211AEE30FE8187753515C2C483B|/

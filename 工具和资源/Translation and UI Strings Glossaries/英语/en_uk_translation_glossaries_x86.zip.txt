@@ -1,0 +1,5 @@
+文件名    = en_uk_translation_glossaries_x86.zip
+SHA1      = 7DC3CF24ADF8F2A22FCCA4A6E912715AB5C44FDE
+文件大小  = 148.29KB
+发布时间  = 2008-09-29
+下载链接  = ed2k://|file|en_uk_translation_glossaries_x86.zip|151844|A88412D3A889E9C62A14A239CD039F5D|/

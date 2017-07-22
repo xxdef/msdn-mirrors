@@ -1,0 +1,5 @@
+文件名    = en_r_server_901_for_windows_x64_9649035.zip
+SHA1      = C028340A923C8D6D0100C349071FF149250F0BB4
+文件大小  = 314.44MB
+发布时间  = 2016-12-07
+下载链接  = ed2k://|file|en_r_server_901_for_windows_x64_9649035.zip|329711311|E2A028CCAE046298D87A0BB0A1F5D446|/

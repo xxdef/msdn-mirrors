@@ -1,0 +1,5 @@
+文件名    = de_office_language_pack_2010_x86_dvd_515986.iso
+SHA1      = F28F17182B5BAAEA03C7F64ABE8E5C5946ED4898
+文件大小  = 483.26MB
+发布时间  = 2010-07-09
+下载链接  = ed2k://|file|de_office_language_pack_2010_x86_dvd_515986.iso|506734592|D36580231CF577DE3DFF11D6D6AAF6DE|/

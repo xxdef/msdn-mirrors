@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_enterprise_x86_dvd_x15-70969.iso
+SHA1      = A505A01BC798CCCD05CE3034D1008869D7FAD975
+文件大小  = 2.27GB
+发布时间  = 2009-08-21
+下载链接  = ed2k://|file|tw_windows_7_enterprise_x86_dvd_x15-70969.iso|2439798784|DF2470C42957FC0E8FF0041E145E14C4|/

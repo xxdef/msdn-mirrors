@@ -1,0 +1,5 @@
+文件名    = en_ws_2003_std_sp1_vl.iso
+SHA1      = 1E24951086B607EAC3F0CDCAE40396E0948C6A8B
+文件大小  = 565.64MB
+发布时间  = 2005-04-07
+下载链接  = ed2k://|file|en_ws_2003_std_sp1_vl.iso|593117184|D526DE9061CA9691B0B8DB0DEFA3BFE3|/

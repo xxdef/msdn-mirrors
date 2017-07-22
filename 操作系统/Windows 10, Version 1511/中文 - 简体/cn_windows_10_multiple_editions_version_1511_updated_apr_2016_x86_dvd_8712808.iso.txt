@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_multiple_editions_version_1511_updated_apr_2016_x86_dvd_8712808.iso
+SHA1      = D070DEE253512267ED8F0F1039DBA121531725DA
+文件大小  = 3.3GB
+发布时间  = 2016-05-23
+下载链接  = ed2k://|file|cn_windows_10_multiple_editions_version_1511_updated_apr_2016_x86_dvd_8712808.iso|3540477952|9F5C03A7B60E8292FA50A80F5FE57D34|/

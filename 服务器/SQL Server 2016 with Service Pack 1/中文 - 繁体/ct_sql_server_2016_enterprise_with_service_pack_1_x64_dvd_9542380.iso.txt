@@ -1,0 +1,5 @@
+文件名    = ct_sql_server_2016_enterprise_with_service_pack_1_x64_dvd_9542380.iso
+SHA1      = 077E6F59F54E6BE3E407A6E22B7DAF9A3111A413
+文件大小  = 2.76GB
+发布时间  = 2016-12-01
+下载链接  = ed2k://|file|ct_sql_server_2016_enterprise_with_service_pack_1_x64_dvd_9542380.iso|2960183296|E7CC1AFBACA09CE40C9DA53DE0706F16|/

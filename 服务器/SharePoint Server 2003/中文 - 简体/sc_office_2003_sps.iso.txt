@@ -1,0 +1,5 @@
+文件名    = sc_office_2003_sps.iso
+SHA1      = E74DFD9D9C0A1CEA9B33586C6C8D17E43C22E4A1
+文件大小  = 608.65MB
+发布时间  = 2003-10-23
+下载链接  = ed2k://|file|sc_office_2003_sps.iso|638218240|C13C7B45576FC24210F26A804BFC9B8B|/

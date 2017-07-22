@@ -1,0 +1,5 @@
+文件名    = en_forefront_threat_management_gateway_2010_enterprise_x64_dvd_456235.iso
+SHA1      = 5B4C04C4E4EFF29E95ED46FF24B9F35802FE1158
+文件大小  = 1.16GB
+发布时间  = 2009-12-11
+下载链接  = ed2k://|file|en_forefront_threat_management_gateway_2010_enterprise_x64_dvd_456235.iso|1249964032|98CECE8C40BF43AF71065E7A742F60FB|/

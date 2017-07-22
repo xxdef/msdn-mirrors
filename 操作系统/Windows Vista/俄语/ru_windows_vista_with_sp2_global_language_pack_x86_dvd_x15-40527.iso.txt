@@ -1,0 +1,5 @@
+文件名    = ru_windows_vista_with_sp2_global_language_pack_x86_dvd_x15-40527.iso
+SHA1      = 0F73C5AE7A177A6DBBEA26E1B4D695A709E65065
+文件大小  = 161.48MB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|ru_windows_vista_with_sp2_global_language_pack_x86_dvd_x15-40527.iso|169326592|B183D4B7B2D1B36C2B1AF76C5CE7C412|/

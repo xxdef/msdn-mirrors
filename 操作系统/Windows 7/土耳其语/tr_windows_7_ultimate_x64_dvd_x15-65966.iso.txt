@@ -1,0 +1,5 @@
+文件名    = tr_windows_7_ultimate_x64_dvd_x15-65966.iso
+SHA1      = 2A478A2875FF375A9BC98B67C7050E162AF2889D
+文件大小  = 2.9GB
+发布时间  = 2009-08-29
+下载链接  = ed2k://|file|tr_windows_7_ultimate_x64_dvd_x15-65966.iso|3110756352|C9789E78CFA806DCB5BA5D7E923CAAD6|/

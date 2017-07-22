@@ -1,0 +1,5 @@
+文件名    = cs_windows_xp_service_pack_3_x86_cd_x14-61417.iso
+SHA1      = 311C7E2DA4D6610362F6EF88558952FD660DD188
+文件大小  = 370.73MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|cs_windows_xp_service_pack_3_x86_cd_x14-61417.iso|388739072|848455E6D7132022F0825DE81726C141|/

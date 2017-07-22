@@ -1,0 +1,5 @@
+文件名    = fr_msdos622.exe
+SHA1      = 94D1D6DC7758999647E9CEAF0D502437E1556CCC
+文件大小  = 5.1MB
+发布时间  = 2000-03-02
+下载链接  = ed2k://|file|fr_msdos622.exe|5347752|987A89E16D1F13E6A9257582B8A2CCF0|/

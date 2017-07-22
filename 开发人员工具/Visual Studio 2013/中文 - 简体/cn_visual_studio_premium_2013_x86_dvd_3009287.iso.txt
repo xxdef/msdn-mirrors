@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_premium_2013_x86_dvd_3009287.iso
+SHA1      = 482637647D6E4711A0EB24784B76CBD6C0785E01
+文件大小  = 2.85GB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|cn_visual_studio_premium_2013_x86_dvd_3009287.iso|3057461248|F5F41358BB514B27AA3AF444D0DE561E|/

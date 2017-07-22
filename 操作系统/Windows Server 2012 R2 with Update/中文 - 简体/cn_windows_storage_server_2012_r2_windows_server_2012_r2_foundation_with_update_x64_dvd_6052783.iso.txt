@@ -1,0 +1,5 @@
+文件名    = cn_windows_storage_server_2012_r2_windows_server_2012_r2_foundation_with_update_x64_dvd_6052783.iso
+SHA1      = 6DD7EE28950A4E302ADF79FF80D0A0F08090B729
+文件大小  = 4.97GB
+发布时间  = 2014-12-15
+下载链接  = ed2k://|file|cn_windows_storage_server_2012_r2_windows_server_2012_r2_foundation_with_update_x64_dvd_6052783.iso|5335404544|5EE0BA12E752A724DCD7BF6A8E8E4241|/

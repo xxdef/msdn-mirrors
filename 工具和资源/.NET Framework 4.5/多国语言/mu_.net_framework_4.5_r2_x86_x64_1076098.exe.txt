@@ -1,0 +1,5 @@
+文件名    = mu_.net_framework_4.5_r2_x86_x64_1076098.exe
+SHA1      = B2FF712CA0947040CA0B8E9BD7436A3C3524BB5D
+文件大小  = 48.02MB
+发布时间  = 2012-10-09
+下载链接  = ed2k://|file|mu_.net_framework_4.5_r2_x86_x64_1076098.exe|50352408|0390B971E3B2F06AF2F81D7BC031F45F|/

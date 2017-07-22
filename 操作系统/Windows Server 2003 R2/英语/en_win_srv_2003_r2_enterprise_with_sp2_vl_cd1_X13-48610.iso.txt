@@ -1,0 +1,5 @@
+文件名    = en_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_X13-48610.iso
+SHA1      = 0D0CDDD29FCF8FF7456A4BE8CE15698EBA90D1DC
+文件大小  = 595.59MB
+发布时间  = 2007-04-27
+下载链接  = ed2k://|file|en_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_X13-48610.iso|624521216|B11D2E4C8D8AD7EC72B546EAB11005C3|/

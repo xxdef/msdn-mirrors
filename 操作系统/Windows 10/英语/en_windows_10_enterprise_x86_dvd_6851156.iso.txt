@@ -1,0 +1,5 @@
+文件名    = en_windows_10_enterprise_x86_dvd_6851156.iso
+SHA1      = E7138032986BFCFA0E5F1A8E41E2E9FD1EC94268
+文件大小  = 2.71GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|en_windows_10_enterprise_x86_dvd_6851156.iso|2909575168|6A777DF48ABE80E42864E6B9E7359256|/

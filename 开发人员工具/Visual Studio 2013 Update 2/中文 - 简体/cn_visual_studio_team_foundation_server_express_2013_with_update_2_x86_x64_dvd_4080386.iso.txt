@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_team_foundation_server_express_2013_with_update_2_x86_x64_dvd_4080386.iso
+SHA1      = 735D285BE7B04758FE4ADEAE0E64CC39C5107CE1
+文件大小  = 561.07MB
+发布时间  = 2014-04-02
+下载链接  = ed2k://|file|cn_visual_studio_team_foundation_server_express_2013_with_update_2_x86_x64_dvd_4080386.iso|588326912|D7A01895ED1559A7E7745812E8CE6219|/

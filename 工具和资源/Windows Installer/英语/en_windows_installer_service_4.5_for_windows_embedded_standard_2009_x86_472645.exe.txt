@@ -1,0 +1,5 @@
+文件名    = en_windows_installer_service_4.5_for_windows_embedded_standard_2009_x86_472645.exe
+SHA1      = 7945A5F919FE4C5C3285E888C74D60AAC4C234E7
+文件大小  = 1.53MB
+发布时间  = 2009-12-21
+下载链接  = ed2k://|file|en_windows_installer_service_4.5_for_windows_embedded_standard_2009_x86_472645.exe|1599848|45F412211B799ED8572AA9F10C6CF26F|/

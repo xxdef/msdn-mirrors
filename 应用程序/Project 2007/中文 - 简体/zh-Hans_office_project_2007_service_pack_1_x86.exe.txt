@@ -1,0 +1,5 @@
+文件名    = zh-Hans_office_project_2007_service_pack_1_x86.exe
+SHA1      = F4E5C272D761EE847BA2E73B9065C87EC91C9253
+文件大小  = 100.3MB
+发布时间  = 2007-12-21
+下载链接  = ed2k://|file|zh-Hans_office_project_2007_service_pack_1_x86.exe|105169632|D4112D91A36BCC0F0A9F300B8F0DF0D9|/

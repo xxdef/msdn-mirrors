@@ -1,0 +1,5 @@
+文件名    = en_sql_server_2014_enterprise_core_edition_with_service_pack_1_x64_dvd_6672706.iso
+SHA1      = D70D5431BF971DCEBD454F279C44414101643521
+文件大小  = 2.96GB
+发布时间  = 2015-05-21
+下载链接  = ed2k://|file|en_sql_server_2014_enterprise_core_edition_with_service_pack_1_x64_dvd_6672706.iso|3183425536|186DFCD063AD17A660959B9030BA47D7|/

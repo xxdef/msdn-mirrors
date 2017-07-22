@@ -1,0 +1,5 @@
+文件名    = cn_project_professional_2016_x86_x64_dvd_6966612.iso
+SHA1      = 245787253622D4D790F62012B578398EA78D8EA2
+文件大小  = 2.41GB
+发布时间  = 2015-09-22
+下载链接  = ed2k://|file|cn_project_professional_2016_x86_x64_dvd_6966612.iso|2588266496|DEF65A0A9B12D8A8B734528800F625D5|/

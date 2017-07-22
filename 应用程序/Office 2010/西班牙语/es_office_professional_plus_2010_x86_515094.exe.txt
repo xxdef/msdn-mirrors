@@ -1,0 +1,5 @@
+文件名    = es_office_professional_plus_2010_x86_515094.exe
+SHA1      = 96E3547CBDBFCEDEC97A311873E7A938CD8AFDC0
+文件大小  = 636.89MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|es_office_professional_plus_2010_x86_515094.exe|667832488|1958665DC3D9D9FFC89C3C65C6A8A294|/

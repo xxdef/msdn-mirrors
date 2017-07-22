@@ -1,0 +1,5 @@
+文件名    = mu_windows_server_2008_r2_language_pack_x64_dvd_x15-90636.iso
+SHA1      = 9791594631ADF24BE12E87CCC274E13F60890D26
+文件大小  = 2.32GB
+发布时间  = 2009-08-14
+下载链接  = ed2k://|file|mu_windows_server_2008_r2_language_pack_x64_dvd_x15-90636.iso|2490892288|3BEB808E88B84C8A16A0F1272C710AA7|/

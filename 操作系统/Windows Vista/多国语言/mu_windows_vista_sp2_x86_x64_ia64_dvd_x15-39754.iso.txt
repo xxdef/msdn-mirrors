@@ -1,0 +1,5 @@
+文件名    = mu_windows_vista_sp2_x86_x64_ia64_dvd_x15-39754.iso
+SHA1      = 8237E8D1F03F6975D2E3A75715C9076073C02749
+文件大小  = 1.66GB
+发布时间  = 2009-05-22
+下载链接  = ed2k://|file|mu_windows_vista_sp2_x86_x64_ia64_dvd_x15-39754.iso|1777418240|E4890584141C8B4D4BAFEA9C10D65B2E|/

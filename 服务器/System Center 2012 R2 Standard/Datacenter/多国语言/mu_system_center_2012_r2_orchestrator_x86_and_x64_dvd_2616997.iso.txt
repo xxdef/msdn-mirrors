@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2012_r2_orchestrator_x86_and_x64_dvd_2616997.iso
+SHA1      = B04374FF7879A59231132E68490143FF09EC550E
+文件大小  = 248.44MB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|mu_system_center_2012_r2_orchestrator_x86_and_x64_dvd_2616997.iso|260509696|E2CD9FADFC20A121A02FE11C80FFCE9E|/

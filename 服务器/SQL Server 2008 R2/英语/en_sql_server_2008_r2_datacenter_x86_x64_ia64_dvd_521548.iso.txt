@@ -1,0 +1,5 @@
+文件名    = en_sql_server_2008_r2_datacenter_x86_x64_ia64_dvd_521548.iso
+SHA1      = 126CF6C4FD8BD1C1305E0D54A90E5ED62076A609
+文件大小  = 4.08GB
+发布时间  = 2010-04-27
+下载链接  = ed2k://|file|en_sql_server_2008_r2_datacenter_x86_x64_ia64_dvd_521548.iso|4380329984|F833E8AB4F47703561EFA1DF36FF4D4F|/

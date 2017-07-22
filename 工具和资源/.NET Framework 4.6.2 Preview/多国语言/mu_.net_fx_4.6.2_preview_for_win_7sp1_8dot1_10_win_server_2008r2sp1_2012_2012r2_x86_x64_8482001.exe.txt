@@ -1,0 +1,5 @@
+文件名    = mu_.net_fx_4.6.2_preview_for_win_7sp1_8dot1_10_win_server_2008r2sp1_2012_2012r2_x86_x64_8482001.exe
+SHA1      = 8DA7B2FD679B677AEF15CD45AE4F49D5973E99EF
+文件大小  = 60.87MB
+发布时间  = 2016-03-30
+下载链接  = ed2k://|file|mu_.net_fx_4.6.2_preview_for_win_7sp1_8dot1_10_win_server_2008r2sp1_2012_2012r2_x86_x64_8482001.exe|63825120|28D3955ABD8757B02D3A7AB6A323145B|/

@@ -1,0 +1,5 @@
+文件名    = en_office_web_apps_server_2013_with_sp1_x64_dvd_3833121.iso
+SHA1      = 2B6F660EA75B9AB02432AB682838FA0D2DBA60D7
+文件大小  = 421MB
+发布时间  = 2014-03-18
+下载链接  = ed2k://|file|en_office_web_apps_server_2013_with_sp1_x64_dvd_3833121.iso|441450496|2B744941C96E623140D1E5DF6A151AD2|/

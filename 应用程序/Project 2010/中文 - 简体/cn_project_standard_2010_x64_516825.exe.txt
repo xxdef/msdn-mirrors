@@ -1,0 +1,5 @@
+文件名    = cn_project_standard_2010_x64_516825.exe
+SHA1      = C091152C59890B14AC3C8817DE8568F801D1BD6D
+文件大小  = 405.41MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|cn_project_standard_2010_x64_516825.exe|425107176|098058C3A09CD6DF335886765016E386|/

@@ -1,0 +1,5 @@
+文件名    = cn_expression_blend_2_sp1_x86.exe
+SHA1      = C7A4E5DEC5213FAFD224E86B89B6576D1B9FEE28
+文件大小  = 28.25MB
+发布时间  = 2009-12-04
+下载链接  = ed2k://|file|cn_expression_blend_2_sp1_x86.exe|29626224|12A1EC16B96642C0F3A308F7C419FE58|/

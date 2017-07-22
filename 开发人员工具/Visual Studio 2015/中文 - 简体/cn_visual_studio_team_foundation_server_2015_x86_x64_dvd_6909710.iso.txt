@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_team_foundation_server_2015_x86_x64_dvd_6909710.iso
+SHA1      = E70441358086138EAE0620916EC345C97F5AF458
+文件大小  = 958.26MB
+发布时间  = 2015-08-06
+下载链接  = ed2k://|file|cn_visual_studio_team_foundation_server_2015_x86_x64_dvd_6909710.iso|1004804096|5246886D67A148470C9BF5AB728C8FDB|/

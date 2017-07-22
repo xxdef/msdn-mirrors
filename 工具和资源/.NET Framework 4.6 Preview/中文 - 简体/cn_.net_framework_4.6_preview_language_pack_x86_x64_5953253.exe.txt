@@ -1,0 +1,5 @@
+文件名    = cn_.net_framework_4.6_preview_language_pack_x86_x64_5953253.exe
+SHA1      = 12055A77657BD1142C6811D4B90A9096831FDAFF
+文件大小  = 5.96MB
+发布时间  = 2014-11-12
+下载链接  = ed2k://|file|cn_.net_framework_4.6_preview_language_pack_x86_x64_5953253.exe|6247056|207304F378A86C48E2B27EEE16888C4F|/

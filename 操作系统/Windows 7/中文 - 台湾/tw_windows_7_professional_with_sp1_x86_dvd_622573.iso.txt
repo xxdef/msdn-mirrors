@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_professional_with_sp1_x86_dvd_622573.iso
+SHA1      = B06C2B2659F27C9333D38D8A7644E68DCA5492C2
+文件大小  = 2.44GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|tw_windows_7_professional_with_sp1_x86_dvd_622573.iso|2624999424|D2DF800EB4F16C7EAF45DC79CF43F1A1|/

@@ -1,0 +1,5 @@
+文件名    = cn_ct_en_fr_de_it_ja_ko_pt_ru_es_application_virtualization_4.5_for_terminal_services_dvd_x86_x15-08322.iso
+SHA1      = EAD71C5C6EF2F4546DEFC0127306167B78E9255D
+文件大小  = 129.28MB
+发布时间  = 2008-10-29
+下载链接  = ed2k://|file|cn_ct_en_fr_de_it_ja_ko_pt_ru_es_application_virtualization_4.5_for_terminal_services_dvd_x86_x15-08322.iso|135563264|97AB9DE66DC214F177893A38481B7952|/

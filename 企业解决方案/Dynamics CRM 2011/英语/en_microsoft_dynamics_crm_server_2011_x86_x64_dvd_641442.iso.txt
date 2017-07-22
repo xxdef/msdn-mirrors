@@ -1,0 +1,5 @@
+文件名    = en_microsoft_dynamics_crm_server_2011_x86_x64_dvd_641442.iso
+SHA1      = 1941A1B0FCE45353C8F8DAEA95DC0BD20CBF6580
+文件大小  = 877.15MB
+发布时间  = 2011-03-01
+下载链接  = ed2k://|file|en_microsoft_dynamics_crm_server_2011_x86_x64_dvd_641442.iso|919754752|CF35AC26611686D6EE4C5CE77B1DFECF|/

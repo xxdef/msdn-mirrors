@@ -1,0 +1,5 @@
+文件名    = en_ws_2003_std_x64_vl.iso
+SHA1      = B38AEBB7B43934F5A4B0031E34BD61F0DF2B111F
+文件大小  = 592.32MB
+发布时间  = 2005-04-07
+下载链接  = ed2k://|file|en_ws_2003_std_x64_vl.iso|621090816|EDB591125437AB8EC9E3F2330C65359D|/

@@ -1,0 +1,5 @@
+文件名    = mu_windows_10_language_pack_version_1511_x86_x64_dvd_7224763.iso
+SHA1      = 2FCDA3A681A7925FE946F7C9F9D2205889EFA0FC
+文件大小  = 2.83GB
+发布时间  = 2015-11-12
+下载链接  = ed2k://|file|mu_windows_10_language_pack_version_1511_x86_x64_dvd_7224763.iso|3043827712|204BE828458538F2EDCB22CC2AD8794E|/

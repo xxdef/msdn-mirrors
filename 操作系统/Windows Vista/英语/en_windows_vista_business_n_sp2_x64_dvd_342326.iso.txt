@@ -1,0 +1,5 @@
+文件名    = en_windows_vista_business_n_sp2_x64_dvd_342326.iso
+SHA1      = 9ADC247F0364C6A86CD5FD7F9FD733ED175C8541
+文件大小  = 2.79GB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|en_windows_vista_business_n_sp2_x64_dvd_342326.iso|2996275200|308186C01818B20220028431E3AFDE0D|/

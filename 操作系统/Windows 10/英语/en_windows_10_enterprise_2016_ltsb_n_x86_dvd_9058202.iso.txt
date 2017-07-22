@@ -1,0 +1,5 @@
+文件名    = en_windows_10_enterprise_2016_ltsb_n_x86_dvd_9058202.iso
+SHA1      = 3F8F9811A7E72ADF88215060E38BA81340DFB0C0
+文件大小  = 2.38GB
+发布时间  = 2016-08-11
+下载链接  = ed2k://|file|en_windows_10_enterprise_2016_ltsb_n_x86_dvd_9058202.iso|2554556416|733F99E3F69CF8A9953F3018E8BDED3F|/

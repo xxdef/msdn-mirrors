@@ -1,0 +1,5 @@
+文件名    = en_office_for_mac_2011_sp1_mac.dmg
+SHA1      = 621A2C0793F4B061BE622020D24B56660C569F3C
+文件大小  = 246.24MB
+发布时间  = 2011-04-29
+下载链接  = ed2k://|file|en_office_for_mac_2011_sp1_mac.dmg|258197779|17E8A80BEFFDE49C49845F753A15FB73|/

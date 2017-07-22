@@ -1,0 +1,5 @@
+文件名    = en_windows_7_professional_with_sp1_x86_dvd_u_677056.iso
+SHA1      = D89937DF3A9BC2EC1A1486195FD308CD3DADE928
+文件大小  = 2.39GB
+发布时间  = 2011-05-12
+下载链接  = ed2k://|file|en_windows_7_professional_with_sp1_x86_dvd_u_677056.iso|2564476928|6AFD92654E8069BCA6ADD680B141915A|/

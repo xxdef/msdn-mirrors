@@ -1,0 +1,5 @@
+文件名    = en_office_groove_server_2010_x64_dvd_x16-50311.iso
+SHA1      = 6B83074502F17BD9B459B934B3C0C0A2856C5E27
+文件大小  = 100.39MB
+发布时间  = 2010-05-03
+下载链接  = ed2k://|file|en_office_groove_server_2010_x64_dvd_x16-50311.iso|105265152|0FEA753F25C8AD23E66612B1F88132D8|/

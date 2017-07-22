@@ -1,0 +1,5 @@
+文件名    = en_win_srv_2003_r2_standard_with_sp2_cd1_X13-04790.iso
+SHA1      = E81AFC4B92CEEC9BC7F722EB902CF5ACA54A8BFE
+文件大小  = 594.21MB
+发布时间  = 2007-04-26
+下载链接  = ed2k://|file|en_win_srv_2003_r2_standard_with_sp2_cd1_X13-04790.iso|623075328|B0D7DD5FCAB38573B91CC0CC8EBB13B5|/

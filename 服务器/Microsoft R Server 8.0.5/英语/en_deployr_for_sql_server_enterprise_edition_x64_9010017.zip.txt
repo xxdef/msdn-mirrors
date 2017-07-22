@@ -1,0 +1,5 @@
+文件名    = en_deployr_for_sql_server_enterprise_edition_x64_9010017.zip
+SHA1      = 8AA323CDCA48329C6663F5CC3D1CA14598E744FE
+文件大小  = 114.01MB
+发布时间  = 2016-07-14
+下载链接  = ed2k://|file|en_deployr_for_sql_server_enterprise_edition_x64_9010017.zip|119547069|46B0913CFA0772E1B8917A0214550711|/

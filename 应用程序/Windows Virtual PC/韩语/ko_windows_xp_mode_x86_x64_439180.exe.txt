@@ -1,0 +1,5 @@
+文件名    = ko_windows_xp_mode_x86_x64_439180.exe
+SHA1      = 1FB17099594C749FC5B6993C7AE7C4C315CE666D
+文件大小  = 558.45MB
+发布时间  = 2009-10-07
+下载链接  = ed2k://|file|ko_windows_xp_mode_x86_x64_439180.exe|585572112|A127187EC882DCF65DEA80B602CBE0BF|/

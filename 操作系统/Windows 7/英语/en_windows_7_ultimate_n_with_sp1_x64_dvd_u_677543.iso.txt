@@ -1,0 +1,5 @@
+文件名    = en_windows_7_ultimate_n_with_sp1_x64_dvd_u_677543.iso
+SHA1      = E01A55499FE9EBA718B59492E55B567F3D6F4E1B
+文件大小  = 2.77GB
+发布时间  = 2011-05-12
+下载链接  = ed2k://|file|en_windows_7_ultimate_n_with_sp1_x64_dvd_u_677543.iso|2974552064|4CFCDB49F799F9604B5D3808E61F0147|/

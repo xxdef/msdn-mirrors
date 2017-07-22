@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_agents_2010_x86_x64_dvd_509679.iso
+SHA1      = E7E0E89CBBE0D4F658686360894C00C40C28581C
+文件大小  = 514.68MB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_visual_studio_agents_2010_x86_x64_dvd_509679.iso|539678720|B8FC7940C9250B552BE4A6545011B6C1|/

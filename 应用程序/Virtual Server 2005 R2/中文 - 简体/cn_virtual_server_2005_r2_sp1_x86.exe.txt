@@ -1,0 +1,5 @@
+文件名    = cn_virtual_server_2005_r2_sp1_x86.exe
+SHA1      = 5B0475916EE27F1C9B2E55E4F2C67A5FA0FB0DB6
+文件大小  = 41.05MB
+发布时间  = 2009-11-23
+下载链接  = ed2k://|file|cn_virtual_server_2005_r2_sp1_x86.exe|43039624|D4266CE9B956BCD1B4716A602927A944|/

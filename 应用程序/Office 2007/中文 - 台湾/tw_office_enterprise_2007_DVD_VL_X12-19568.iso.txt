@@ -1,0 +1,5 @@
+文件名    = tw_office_enterprise_2007_DVD_VL_X12-19568.iso
+SHA1      = 0129B02770680CDE66D91305BE80E6A4DBAEC28C
+文件大小  = 778.46MB
+发布时间  = 2006-12-14
+下载链接  = ed2k://|file|tw_office_enterprise_2007_DVD_VL_X12-19568.iso|816275456|4F5930254D09F35191AD37BD3E9BEA42|/

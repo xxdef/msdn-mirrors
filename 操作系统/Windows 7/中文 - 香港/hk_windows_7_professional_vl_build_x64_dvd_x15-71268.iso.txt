@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_professional_vl_build_x64_dvd_x15-71268.iso
+SHA1      = F9BB70DFE544E458546210832A87CD6C44C95BDC
+文件大小  = 2.96GB
+发布时间  = 2009-11-12
+下载链接  = ed2k://|file|hk_windows_7_professional_vl_build_x64_dvd_x15-71268.iso|3176290304|FC68645B2F5B66D45040A7565F1088B4|/

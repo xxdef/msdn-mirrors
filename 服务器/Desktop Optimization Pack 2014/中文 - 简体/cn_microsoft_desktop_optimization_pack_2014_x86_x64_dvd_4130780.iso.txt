@@ -1,0 +1,5 @@
+文件名    = cn_microsoft_desktop_optimization_pack_2014_x86_x64_dvd_4130780.iso
+SHA1      = 20B6BFD1E8C71501228B9CC2E35A334350AAA682
+文件大小  = 1.79GB
+发布时间  = 2014-04-29
+下载链接  = ed2k://|file|cn_microsoft_desktop_optimization_pack_2014_x86_x64_dvd_4130780.iso|1924722688|2BA6F93B7B0C2395AF1E18691459798D|/

@@ -1,0 +1,5 @@
+文件名    = en_win_srv_2003_r2_datacenter_x64_vl_cd1_X12-96000.iso
+SHA1      = F965F84B3EC1AFF8BCAD8639E8EBB8C84503ECFA
+文件大小  = 614.04MB
+发布时间  = 2006-10-05
+下载链接  = ed2k://|file|en_win_srv_2003_r2_datacenter_x64_vl_cd1_X12-96000.iso|643864576|CFDDD089157BBF0EDB1E8D2A7114BD35|/

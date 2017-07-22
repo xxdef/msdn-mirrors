@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_team_foundation_server_express_2013_x86_x64_dvd_3007664.iso
+SHA1      = D8E252EEB915D40F216F1981DCDB4B37CA931A86
+文件大小  = 505.97MB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|en_visual_studio_team_foundation_server_express_2013_x86_x64_dvd_3007664.iso|530544640|D789F64C3C9650DDBF71A397D3C12979|/

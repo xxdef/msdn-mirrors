@@ -1,0 +1,5 @@
+文件名    = en_mdac_typ_2_8_sp1.exe
+SHA1      = 4FBC272C79DA59E38818924D8575ACCB0AF776FB
+文件大小  = 5.82MB
+发布时间  = 2005-07-13
+下载链接  = ed2k://|file|en_mdac_typ_2_8_sp1.exe|6100504|1B5E251F004BD3CA83C04EBEE9102FE2|/

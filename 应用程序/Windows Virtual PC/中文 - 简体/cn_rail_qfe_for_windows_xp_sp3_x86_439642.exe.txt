@@ -1,0 +1,5 @@
+文件名    = cn_rail_qfe_for_windows_xp_sp3_x86_439642.exe
+SHA1      = 0B85F385B9F0DB29DDAD12DA33D9E691472CDDF9
+文件大小  = 1.16MB
+发布时间  = 2009-10-07
+下载链接  = ed2k://|file|cn_rail_qfe_for_windows_xp_sp3_x86_439642.exe|1214704|1D2C26EBF653F2450B433334E51EDAAD|/

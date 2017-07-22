@@ -1,0 +1,5 @@
+文件名    = cn_msdn_library_2007_06_dvd_x13-70482.iso
+SHA1      = 7D397955AA5B226BF6A2ABF9B4F17B1C2A2E0E54
+文件大小  = 2.16GB
+发布时间  = 2007-06-27
+下载链接  = ed2k://|file|cn_msdn_library_2007_06_dvd_x13-70482.iso|2314426368|9B9D46CA1104B4647C579FEF28ACC4F0|/

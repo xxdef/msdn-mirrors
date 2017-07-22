@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_lightswitch_2011_x86_dvd_681201.iso
+SHA1      = CFE4DED15EEC59E31862451308AC78C26A0BDCF9
+文件大小  = 577.21MB
+发布时间  = 2011-07-26
+下载链接  = ed2k://|file|en_visual_studio_lightswitch_2011_x86_dvd_681201.iso|605245440|117A96EF9A376F0B91BF7F984A937789|/

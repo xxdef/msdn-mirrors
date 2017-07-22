@@ -1,0 +1,5 @@
+文件名    = en_windows_7_professional_x86_dvd_x15-65804.iso
+SHA1      = 697FA06554502FB21D30275273B25747299C020D
+文件大小  = 2.33GB
+发布时间  = 2009-08-06
+下载链接  = ed2k://|file|en_windows_7_professional_x86_dvd_x15-65804.iso|2501894144|61D69F2250F114B95720CB81D3C1C5EE|/

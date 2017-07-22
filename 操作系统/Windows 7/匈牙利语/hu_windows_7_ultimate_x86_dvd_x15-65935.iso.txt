@@ -1,0 +1,5 @@
+文件名    = hu_windows_7_ultimate_x86_dvd_x15-65935.iso
+SHA1      = BD797E6E156DD381592FF154D0C3E3C542F45D48
+文件大小  = 2.22GB
+发布时间  = 2009-08-29
+下载链接  = ed2k://|file|hu_windows_7_ultimate_x86_dvd_x15-65935.iso|2386423808|3C29AE292BB1A2D9F3DA5D337C7C8713|/

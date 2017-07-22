@@ -1,0 +1,5 @@
+文件名    = en_office_standard_2010_with_sp1_x86_x64_dvd_730335.iso
+SHA1      = 3F32FFA27E9721B8A97C9D27B1CE987D303160C6
+文件大小  = 2.19GB
+发布时间  = 2011-09-20
+下载链接  = ed2k://|file|en_office_standard_2010_with_sp1_x86_x64_dvd_730335.iso|2349852672|AA8AD8414E29B9DAA32A324194AC8CBC|/

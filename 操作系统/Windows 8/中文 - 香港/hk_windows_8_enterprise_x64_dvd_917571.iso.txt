@@ -1,0 +1,5 @@
+文件名    = hk_windows_8_enterprise_x64_dvd_917571.iso
+SHA1      = A1FBBF40471251EF5E0AFE299B74ED239CE143E2
+文件大小  = 3.33GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|hk_windows_8_enterprise_x64_dvd_917571.iso|3570765824|FA30920637AC13B7F77D513D1A87D059|/

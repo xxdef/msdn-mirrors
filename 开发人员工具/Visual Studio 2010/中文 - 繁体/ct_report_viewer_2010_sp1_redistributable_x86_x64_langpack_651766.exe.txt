@@ -1,0 +1,5 @@
+文件名    = ct_report_viewer_2010_sp1_redistributable_x86_x64_langpack_651766.exe
+SHA1      = 2CC4F30E8393E3711198AB147145687A259BBA13
+文件大小  = 955.84KB
+发布时间  = 2011-03-08
+下载链接  = ed2k://|file|ct_report_viewer_2010_sp1_redistributable_x86_x64_langpack_651766.exe|978776|04090476B531BA37D6EE5E606BCB3A1A|/

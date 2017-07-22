@@ -1,0 +1,5 @@
+文件名    = zh-Hans_windows_server_2008_datacenter_enterprise_standard_without_hyper-v_x86_dvd_x14-26876.iso
+SHA1      = B47A6F9573F5B2529A2183ACC13150EA93DEBC14
+文件大小  = 1.91GB
+发布时间  = 2008-03-21
+下载链接  = ed2k://|file|zh-Hans_windows_server_2008_datacenter_enterprise_standard_without_hyper-v_x86_dvd_x14-26876.iso|2050158592|419CC8C2A520E900EE4913820E644B67|/

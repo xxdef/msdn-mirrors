@@ -1,0 +1,5 @@
+文件名    = zh-Hans_visual_studio_team_system_2008_test_load_agent_trial_x86_dvd_X14-35625.iso
+SHA1      = 839C94920745F367BCA78CA0364BF18887DCF3F8
+文件大小  = 623.35MB
+发布时间  = 2008-05-23
+下载链接  = ed2k://|file|zh-Hans_visual_studio_team_system_2008_test_load_agent_trial_x86_dvd_X14-35625.iso|653629440|E594FE56910F3BFB9FC675125396E5BC|/

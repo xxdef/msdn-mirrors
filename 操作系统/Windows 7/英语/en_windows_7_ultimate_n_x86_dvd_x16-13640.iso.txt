@@ -1,0 +1,5 @@
+文件名    = en_windows_7_ultimate_n_x86_dvd_x16-13640.iso
+SHA1      = 5DF8CDCA9A3289D53468836ABA204FE2937E86AB
+文件大小  = 2.08GB
+发布时间  = 2009-10-22
+下载链接  = ed2k://|file|en_windows_7_ultimate_n_x86_dvd_x16-13640.iso|2228641792|7BA6166574EF41A3D664BCCDB27A5242|/

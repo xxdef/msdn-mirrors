@@ -1,0 +1,5 @@
+文件名    = cn_windows_vista_x64_dvd_X12-63216.iso
+SHA1      = 4B7ED66850BB34C818EB282DCFB60C622B411C10
+文件大小  = 3.29GB
+发布时间  = 2006-11-30
+下载链接  = ed2k://|file|cn_windows_vista_x64_dvd_X12-63216.iso|3536730112|73EF8E235F3AD1A359546C89EDE7E4FC|/

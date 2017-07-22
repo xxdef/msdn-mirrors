@@ -1,0 +1,5 @@
+文件名    = en_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_x86_x64_ia64_dvd_400053.iso
+SHA1      = 793F4CC4741EBAD223938BE0EEEE708EDA968DAA
+文件大小  = 1.67GB
+发布时间  = 2009-08-06
+下载链接  = ed2k://|file|en_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_x86_x64_ia64_dvd_400053.iso|1789542400|E095EB20063F394FECA1BB6E4911E611|/

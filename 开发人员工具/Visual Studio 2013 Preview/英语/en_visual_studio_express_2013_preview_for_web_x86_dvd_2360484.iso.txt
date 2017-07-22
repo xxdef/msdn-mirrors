@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_express_2013_preview_for_web_x86_dvd_2360484.iso
+SHA1      = A5C48636E7215B3BE343E737196655145E9A8338
+文件大小  = 776.88MB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|en_visual_studio_express_2013_preview_for_web_x86_dvd_2360484.iso|814614528|27F6C4469A235D8031C280C54A27DC74|/

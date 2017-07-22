@@ -1,0 +1,5 @@
+文件名    = uk_windows_7_ultimate_x86_dvd_x15-65968.iso
+SHA1      = E354E719E2889759F4709A5DC0193279B0361E08
+文件大小  = 2.24GB
+发布时间  = 2009-08-29
+下载链接  = ed2k://|file|uk_windows_7_ultimate_x86_dvd_x15-65968.iso|2404720640|9BB34C2F3DEBDFF02A405C4225D2AB58|/

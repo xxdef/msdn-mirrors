@@ -1,0 +1,5 @@
+文件名    = cn_project_server_2010_with_service_pack_1_x64_dvd_759840.iso
+SHA1      = 9CB1283911481C47820F58235A51EAB7D162EBF8
+文件大小  = 89.04MB
+发布时间  = 2011-11-11
+下载链接  = ed2k://|file|cn_project_server_2010_with_service_pack_1_x64_dvd_759840.iso|93366272|6A36FD55F112F440F4FDED9CC802899A|/

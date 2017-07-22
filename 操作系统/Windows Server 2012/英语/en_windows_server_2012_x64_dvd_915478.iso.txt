@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2012_x64_dvd_915478.iso
+SHA1      = D09E752B1EE480BC7E93DFA7D5C3A9B8AAC477BA
+文件大小  = 3.44GB
+发布时间  = 2012-09-04
+下载链接  = ed2k://|file|en_windows_server_2012_x64_dvd_915478.iso|3695179776|23100A132BF5491DBD7F3D25B8765BDD|/

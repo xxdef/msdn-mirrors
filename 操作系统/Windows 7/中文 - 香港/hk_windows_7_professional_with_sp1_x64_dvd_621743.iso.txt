@@ -1,0 +1,5 @@
+文件名    = hk_windows_7_professional_with_sp1_x64_dvd_621743.iso
+SHA1      = CEDAC185542B47DA2EA3CA9568606A23958C389A
+文件大小  = 3.16GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|hk_windows_7_professional_with_sp1_x64_dvd_621743.iso|3390910464|83729D24BC30CEF784129A997FDFCF4B|/

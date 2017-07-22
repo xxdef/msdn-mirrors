@@ -1,0 +1,5 @@
+文件名    = en_visual_c++_2010_sp1_redistributable_package_x64_651767.exe
+SHA1      = 027D0C2749EC5EB21B031F46AEE14C905206F482
+文件大小  = 5.41MB
+发布时间  = 2011-03-08
+下载链接  = ed2k://|file|en_visual_c++_2010_sp1_redistributable_package_x64_651767.exe|5673816|AB4C6D02B86C80A1BF0CF6912F84439E|/

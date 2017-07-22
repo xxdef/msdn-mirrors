@@ -1,0 +1,5 @@
+文件名    = en_vc++_2010_redist_package_x86_x64_ia64_508951.exe
+SHA1      = 372D9C1670343D3FB252209BA210D4DC4D67D358
+文件大小  = 4.84MB
+发布时间  = 2010-04-12
+下载链接  = ed2k://|file|en_vc++_2010_redist_package_x86_x64_ia64_508951.exe|5073240|EAE2B2B2118A5B7CD0B9EB93458AB7BB|/

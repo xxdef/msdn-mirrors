@@ -1,0 +1,5 @@
+文件名    = mu_system_center_data_protection_manager_2010_x64_dvd_522988.iso
+SHA1      = D6A739AF3509715E22A032B29563F2BBE3258DFD
+文件大小  = 2.65GB
+发布时间  = 2010-06-03
+下载链接  = ed2k://|file|mu_system_center_data_protection_manager_2010_x64_dvd_522988.iso|2842103808|4D8E6B8819A4D43867D0DEF4FB41A58B|/

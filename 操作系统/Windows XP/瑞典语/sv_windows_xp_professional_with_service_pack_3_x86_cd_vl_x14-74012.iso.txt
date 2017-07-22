@@ -1,0 +1,5 @@
+文件名    = sv_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74012.iso
+SHA1      = A060AACCFEDC7779FD003DCCDB8FF711CE61EDDE
+文件大小  = 586.06MB
+发布时间  = 2008-05-09
+下载链接  = ed2k://|file|sv_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74012.iso|614531072|C74C1063941E4CD4AE8752048C8BDE36|/

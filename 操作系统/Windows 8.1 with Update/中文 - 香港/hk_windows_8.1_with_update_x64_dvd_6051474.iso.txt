@@ -1,0 +1,5 @@
+文件名    = hk_windows_8.1_with_update_x64_dvd_6051474.iso
+SHA1      = 21BB15886D8D9B7C1CDE63D34AB7BE5CF17B1E99
+文件大小  = 4.18GB
+发布时间  = 2014-12-15
+下载链接  = ed2k://|file|hk_windows_8.1_with_update_x64_dvd_6051474.iso|4490190848|BBB2E444CDE15D29709BDAB39A1252EC|/

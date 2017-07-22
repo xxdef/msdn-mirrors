@@ -1,0 +1,5 @@
+文件名    = sc_vs.net_2003_library_cd1.iso
+SHA1      = 583E5C6A78A0961B20156AA79DC2D15D36DE0A16
+文件大小  = 642.36MB
+发布时间  = 2003-05-07
+下载链接  = ed2k://|file|sc_vs.net_2003_library_cd1.iso|673560576|F36A6E11D0131D8D857B3CA4B0E48BF1|/

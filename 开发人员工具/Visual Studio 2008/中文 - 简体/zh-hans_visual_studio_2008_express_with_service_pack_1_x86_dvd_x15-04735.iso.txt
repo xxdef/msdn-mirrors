@@ -1,0 +1,5 @@
+文件名    = zh-hans_visual_studio_2008_express_with_service_pack_1_x86_dvd_x15-04735.iso
+SHA1      = 6ECCA834A7CF5DEE32951DA39C7971C4EACBD235
+文件大小  = 995.57MB
+发布时间  = 2008-08-10
+下载链接  = ed2k://|file|zh-hans_visual_studio_2008_express_with_service_pack_1_x86_dvd_x15-04735.iso|1043931136|E9A9E4658B76CA626892054AB27B7ECB|/

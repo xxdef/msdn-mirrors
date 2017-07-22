@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_test_professional_2013_x86_dvd_3007683.iso
+SHA1      = 68D102F298405A365BBC9D3777477DDB028D780B
+文件大小  = 171.4MB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|en_visual_studio_test_professional_2013_x86_dvd_3007683.iso|179724288|EB23D1DF3B8C78DE0A317E348C9E0322|/

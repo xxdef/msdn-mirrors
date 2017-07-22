@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2008_datacenter_enterprise_standard_without_hyperv_x86_dvd_X14-27006.iso
+SHA1      = D28929BBEC09CD5A624740B9B2ADB08F165DD473
+文件大小  = 1.75GB
+发布时间  = 2008-02-13
+下载链接  = ed2k://|file|en_windows_server_2008_datacenter_enterprise_standard_without_hyperv_x86_dvd_X14-27006.iso|1881540608|D9F9745DD3A9F96F066CD64AE38FA00C|/

@@ -1,0 +1,5 @@
+文件名    = en_expression_studio_4_web_professional_x86_dvd_537022.iso
+SHA1      = 95ED1496AD7F899CDB1FAD7EE08D984625623A9A
+文件大小  = 161.76MB
+发布时间  = 2010-06-07
+下载链接  = ed2k://|file|en_expression_studio_4_web_professional_x86_dvd_537022.iso|169619456|22204AC9FC74653E4D351389B10497CB|/

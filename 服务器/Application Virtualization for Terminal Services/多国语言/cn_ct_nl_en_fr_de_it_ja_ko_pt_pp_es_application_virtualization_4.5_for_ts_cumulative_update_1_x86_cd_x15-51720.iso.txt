@@ -1,0 +1,5 @@
+文件名    = cn_ct_nl_en_fr_de_it_ja_ko_pt_pp_es_application_virtualization_4.5_for_ts_cumulative_update_1_x86_cd_x15-51720.iso
+SHA1      = CB42F75D0460867222C058BFDAC1B498DB3CECA2
+文件大小  = 128.54MB
+发布时间  = 2009-05-14
+下载链接  = ed2k://|file|cn_ct_nl_en_fr_de_it_ja_ko_pt_pp_es_application_virtualization_4.5_for_ts_cumulative_update_1_x86_cd_x15-51720.iso|134785024|8B2121578AB23B22D22840E1F9A972D7|/

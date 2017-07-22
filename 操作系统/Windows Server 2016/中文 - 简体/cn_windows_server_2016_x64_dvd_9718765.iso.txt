@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2016_x64_dvd_9718765.iso
+SHA1      = 6AE9CE84C9A97CFA55372B2892903A214062D5E5
+文件大小  = 5.75GB
+发布时间  = 2017-01-12
+下载链接  = ed2k://|file|cn_windows_server_2016_x64_dvd_9718765.iso|6176450560|CF1B73D220F1160DE850D9E1979DBD50|/

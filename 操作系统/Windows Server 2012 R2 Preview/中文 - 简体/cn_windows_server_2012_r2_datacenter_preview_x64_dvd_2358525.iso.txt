@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2012_r2_datacenter_preview_x64_dvd_2358525.iso
+SHA1      = A0A1CB15E80C377F36156DD1F8F267AD2929E1A5
+文件大小  = 3.95GB
+发布时间  = 2013-06-25
+下载链接  = ed2k://|file|cn_windows_server_2012_r2_datacenter_preview_x64_dvd_2358525.iso|4239566848|F2E4A8A6DDC8F225F04333F7E0F6110D|/

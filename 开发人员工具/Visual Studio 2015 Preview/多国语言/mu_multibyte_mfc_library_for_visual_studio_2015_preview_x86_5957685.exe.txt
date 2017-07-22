@@ -1,0 +1,5 @@
+文件名    = mu_multibyte_mfc_library_for_visual_studio_2015_preview_x86_5957685.exe
+SHA1      = CD0C297FFCF78B964B4FBB0C888AF5C8E5DA7A85
+文件大小  = 104.36MB
+发布时间  = 2014-11-14
+下载链接  = ed2k://|file|mu_multibyte_mfc_library_for_visual_studio_2015_preview_x86_5957685.exe|109425536|DBBD602E6290402ADF7F09C9037CDC92|/

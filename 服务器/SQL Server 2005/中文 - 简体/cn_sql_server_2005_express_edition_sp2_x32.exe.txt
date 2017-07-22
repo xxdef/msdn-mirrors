@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2005_express_edition_sp2_x32.exe
+SHA1      = 1DB596AAD2E09CB9D3129BED2C4AF9B725278B24
+文件大小  = 40.65MB
+发布时间  = 2007-04-06
+下载链接  = ed2k://|file|cn_sql_server_2005_express_edition_sp2_x32.exe|42620272|B0A979DA50567DB0A1F442ACB7D64AB3|/

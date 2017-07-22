@@ -1,0 +1,5 @@
+文件名    = cn_expression_studio_4_premium_x86_dvd_554553.iso
+SHA1      = D582D0E10912C0F83B4C1738BE8D2A60D1792CCC
+文件大小  = 398.53MB
+发布时间  = 2010-09-08
+下载链接  = ed2k://|file|cn_expression_studio_4_premium_x86_dvd_554553.iso|417892352|C3A2A00E24309FBB875D9A7BF63C7FDB|/

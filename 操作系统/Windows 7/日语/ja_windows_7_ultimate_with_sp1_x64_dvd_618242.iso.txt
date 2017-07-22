@@ -1,0 +1,5 @@
+文件名    = ja_windows_7_ultimate_with_sp1_x64_dvd_618242.iso
+SHA1      = 2832FB01B054C9CA127BABD5BF59B82B2A9BA135
+文件大小  = 3.09GB
+发布时间  = 2011-02-18
+下载链接  = ed2k://|file|ja_windows_7_ultimate_with_sp1_x64_dvd_618242.iso|3321335808|7A72D24CAC2A92BA2616B656304BC8BD|/

@@ -1,0 +1,5 @@
+文件名    = sc_office_2003_publisher.iso
+SHA1      = 5A30D27A7F2F8A0173F6ADFD67D7E298B63F3EBC
+文件大小  = 350.61MB
+发布时间  = 2004-11-03
+下载链接  = ed2k://|file|sc_office_2003_publisher.iso|367640576|A4E4D5EE4D64D7CC73EDD7556BE2AC20|/

@@ -1,0 +1,5 @@
+文件名    = en_sql_server_compact_35_sp1_x86.msi
+SHA1      = DFBD955FAB66FB177DB35C2B8033A98AA32BF288
+文件大小  = 2.25MB
+发布时间  = 2009-05-14
+下载链接  = ed2k://|file|en_sql_server_compact_35_sp1_x86.msi|2361344|917E3A30A4509C491674AC39A7CAE994|/

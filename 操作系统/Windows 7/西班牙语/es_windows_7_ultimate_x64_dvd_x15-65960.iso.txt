@@ -1,0 +1,5 @@
+文件名    = es_windows_7_ultimate_x64_dvd_x15-65960.iso
+SHA1      = E5627CF450FBEDC452FEA3A858A11F075F8F5045
+文件大小  = 2.96GB
+发布时间  = 2009-08-14
+下载链接  = ed2k://|file|es_windows_7_ultimate_x64_dvd_x15-65960.iso|3176308736|16D1C168ABDA701C29DE0CD6526E2DA1|/

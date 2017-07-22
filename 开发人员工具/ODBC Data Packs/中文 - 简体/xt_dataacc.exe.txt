@@ -1,0 +1,5 @@
+文件名    = xt_dataacc.exe
+SHA1      = 8DE83B9451700139736E58CAE898D453C318A5E1
+文件大小  = 4.7MB
+发布时间  = 1998-04-22
+下载链接  = ed2k://|file|xt_dataacc.exe|4929488|077FD2B0A21AAFEC46870B12F6DC6290|/

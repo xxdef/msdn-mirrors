@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_enterprise_core_edition_with_sp1_x86_dvd_1459043.iso
+SHA1      = 885AF5E3BB40AD8B9F802846A94D6BE98BD80BE3
+文件大小  = 3.42GB
+发布时间  = 2013-01-10
+下载链接  = ed2k://|file|cn_sql_server_2012_enterprise_core_edition_with_sp1_x86_dvd_1459043.iso|3672942592|3D18F5A1CB17C3F1C0BDF89DC389F2AD|/

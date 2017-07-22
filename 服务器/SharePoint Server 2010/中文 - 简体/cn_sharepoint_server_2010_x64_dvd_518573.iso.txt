@@ -1,0 +1,5 @@
+文件名    = cn_sharepoint_server_2010_x64_dvd_518573.iso
+SHA1      = 6E7986E19D808E6F02B291784A4D00067E45AD0B
+文件大小  = 819.03MB
+发布时间  = 2010-04-22
+下载链接  = ed2k://|file|cn_sharepoint_server_2010_x64_dvd_518573.iso|858816512|8BC408178A3CF9BE5122594D57047321|/

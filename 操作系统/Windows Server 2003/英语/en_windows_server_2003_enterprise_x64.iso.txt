@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2003_enterprise_x64.iso
+SHA1      = 4666A3591D97030F91A95B90D9D5F097E3AC96D1
+文件大小  = 593.66MB
+发布时间  = 2005-03-29
+下载链接  = ed2k://|file|en_windows_server_2003_enterprise_x64.iso|622501888|3D957925796FC2F58DA12CB949FDE6A9|/

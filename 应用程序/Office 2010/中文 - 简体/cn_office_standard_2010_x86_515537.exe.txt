@@ -1,0 +1,5 @@
+文件名    = cn_office_standard_2010_x86_515537.exe
+SHA1      = 59476B50BEF62B7BFDB1B3D1DDA68E2041E85F20
+文件大小  = 671.39MB
+发布时间  = 2010-05-10
+下载链接  = ed2k://|file|cn_office_standard_2010_x86_515537.exe|704002416|D3759579E166672714CA592849D8389D|/

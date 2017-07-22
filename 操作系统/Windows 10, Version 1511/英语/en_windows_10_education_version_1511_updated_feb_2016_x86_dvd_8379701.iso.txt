@@ -1,0 +1,5 @@
+文件名    = en_windows_10_education_version_1511_updated_feb_2016_x86_dvd_8379701.iso
+SHA1      = 0454C8E71C53AD6D607EEA6FB24651ADA256E1AD
+文件大小  = 2.9GB
+发布时间  = 2016-03-04
+下载链接  = ed2k://|file|en_windows_10_education_version_1511_updated_feb_2016_x86_dvd_8379701.iso|3113857024|6045F5D915B062A0397B7287833AB1C0|/

@@ -1,0 +1,5 @@
+文件名    = en_project_professional_2013_x86_1123807.exe
+SHA1      = 3a44d77f437fac9f59a9afe5d1915a81106b0fa4
+文件大小  = 274.11MB
+发布时间  = 2012-10-24
+下载链接  = ed2k://|file|en_project_professional_2013_x86_1123807.exe|287419968|23D6E32F81C8080479DE9C8C02D222AD|/

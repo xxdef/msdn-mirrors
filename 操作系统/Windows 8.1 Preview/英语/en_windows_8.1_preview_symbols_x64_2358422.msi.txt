@@ -1,0 +1,5 @@
+文件名    = en_windows_8.1_preview_symbols_x64_2358422.msi
+SHA1      = 73DBF446B952EE45C84A3DCB1892457E9A92B11D
+文件大小  = 672.28MB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|en_windows_8.1_preview_symbols_x64_2358422.msi|704937984|429E4C46776F996010B9A4914D49C652|/

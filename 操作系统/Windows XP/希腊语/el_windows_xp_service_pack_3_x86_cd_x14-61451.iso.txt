@@ -1,0 +1,5 @@
+文件名    = el_windows_xp_service_pack_3_x86_cd_x14-61451.iso
+SHA1      = F38815A3EFD44812A8C2677087C14CC0AB176992
+文件大小  = 372.29MB
+发布时间  = 2008-06-30
+下载链接  = ed2k://|file|el_windows_xp_service_pack_3_x86_cd_x14-61451.iso|390377472|4577C7B1DA668B71EFA0BF7A23D3FA91|/

@@ -1,0 +1,5 @@
+文件名    = cn_visio_professional_2013_x86_1138439.exe
+SHA1      = fef23c9033547a3e1aaf619a3bc34efdae037afb
+文件大小  = 416.94MB
+发布时间  = 2012-10-29
+下载链接  = ed2k://|file|cn_visio_professional_2013_x86_1138439.exe|437189872|E30162540C6D20A88D91646D4BBA590A|/

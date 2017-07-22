@@ -1,0 +1,5 @@
+文件名    = cn_en_ja_windows_server_2008_r2_enterprise_hpc_x64_dvd_552741.iso
+SHA1      = 9BA33A4438FD30019A3174A7DC030BECF0FB3100
+文件大小  = 1.34GB
+发布时间  = 2010-07-30
+下载链接  = ed2k://|file|cn_en_ja_windows_server_2008_r2_enterprise_hpc_x64_dvd_552741.iso|1436280832|764D2E072F1C018AC20FDF80B6373541|/

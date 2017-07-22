@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_ultimate_x64_dvd_x15-65909.iso
+SHA1      = 20F561F03E83EB8E01B12DA3822D941F4B2AF47C
+文件大小  = 3.09GB
+发布时间  = 2009-08-21
+下载链接  = ed2k://|file|tw_windows_7_ultimate_x64_dvd_x15-65909.iso|3317223424|E6C906D22060285BE18929FADBA37F48|/

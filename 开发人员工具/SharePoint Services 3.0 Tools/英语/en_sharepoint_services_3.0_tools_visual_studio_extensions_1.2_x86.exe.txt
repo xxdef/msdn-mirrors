@@ -1,0 +1,5 @@
+文件名    = en_sharepoint_services_3.0_tools_visual_studio_extensions_1.2_x86.exe
+SHA1      = 5D086BB6715CAC67CCAEAB542FE6D19B05619787
+文件大小  = 2.76MB
+发布时间  = 2008-08-25
+下载链接  = ed2k://|file|en_sharepoint_services_3.0_tools_visual_studio_extensions_1.2_x86.exe|2890472|BC0600DC58B1D9EFE0169ED408CA5DD6|/

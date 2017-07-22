@@ -1,0 +1,5 @@
+文件名    = en_robotics_developer_studio_2008_r3_x86_x64.exe
+SHA1      = 1727FA0BD01B3732871E25CAB6E1754FD7415C48
+文件大小  = 444.14MB
+发布时间  = 2010-05-25
+下载链接  = ed2k://|file|en_robotics_developer_studio_2008_r3_x86_x64.exe|465716984|80BFE95FC3CD3D7200EA238DAE3B0D6C|/

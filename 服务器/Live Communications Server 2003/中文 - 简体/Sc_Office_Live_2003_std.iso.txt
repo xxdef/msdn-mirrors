@@ -1,0 +1,5 @@
+文件名    = Sc_Office_Live_2003_std.iso
+SHA1      = 443D328CAB6ECBF1253A821C6D04AD6117A4E4A9
+文件大小  = 76.98MB
+发布时间  = 2004-01-28
+下载链接  = ed2k://|file|Sc_Office_Live_2003_std.iso|80719872|5D7D399C26E10ED3ED2CDF6E57492BB5|/

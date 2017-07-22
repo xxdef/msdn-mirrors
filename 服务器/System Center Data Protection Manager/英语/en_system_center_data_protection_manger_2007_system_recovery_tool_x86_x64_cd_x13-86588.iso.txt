@@ -1,0 +1,5 @@
+文件名    = en_system_center_data_protection_manger_2007_system_recovery_tool_x86_x64_cd_x13-86588.iso
+SHA1      = 2EE20F9940267229AC5F96A25E7116DD1C4BEE1B
+文件大小  = 341.32MB
+发布时间  = 2008-05-31
+下载链接  = ed2k://|file|en_system_center_data_protection_manger_2007_system_recovery_tool_x86_x64_cd_x13-86588.iso|357902336|8CC89615A558AE979806AD4537BF0119|/

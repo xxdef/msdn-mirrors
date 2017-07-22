@@ -1,0 +1,5 @@
+文件名    = en_windows_10_enterprise_version_1511_x86_dvd_7224912.iso
+SHA1      = E724AC3B79632BF4F4AE3D978903BAD73B2DD520
+文件大小  = 2.66GB
+发布时间  = 2015-11-12
+下载链接  = ed2k://|file|en_windows_10_enterprise_version_1511_x86_dvd_7224912.iso|2857975808|6070E5C31BC2F57CA0DABFD886B067B2|/

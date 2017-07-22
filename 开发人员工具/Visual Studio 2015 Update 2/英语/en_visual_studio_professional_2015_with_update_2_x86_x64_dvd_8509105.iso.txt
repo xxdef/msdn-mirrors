@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_professional_2015_with_update_2_x86_x64_dvd_8509105.iso
+SHA1      = 68FA2C4406D681FCBB0772D96233540FF194E938
+文件大小  = 7.05GB
+发布时间  = 2016-03-30
+下载链接  = ed2k://|file|en_visual_studio_professional_2015_with_update_2_x86_x64_dvd_8509105.iso|7569250304|B61C623B26E7F1BFE50381A44A58987A|/

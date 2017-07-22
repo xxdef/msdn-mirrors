@@ -1,0 +1,5 @@
+文件名    = en_windows_7_starter_x86_dvd_x15-68956.iso
+SHA1      = 5DC1457BC4B3D94097F499B15DFDB3C21DADCDF5
+文件大小  = 2.33GB
+发布时间  = 2009-08-06
+下载链接  = ed2k://|file|en_windows_7_starter_x86_dvd_x15-68956.iso|2501894144|28533D4E8DF066DE756CDC96D34187D3|/

@@ -1,0 +1,5 @@
+文件名    = ja_windows_vista_with_service_pack_1_global_language_pack_x86_dvd_x14-54831.iso
+SHA1      = 98AB6D8CDA1F3A7DBD5BA41342B94A4F96C4267E
+文件大小  = 210.7MB
+发布时间  = 2008-03-06
+下载链接  = ed2k://|file|ja_windows_vista_with_service_pack_1_global_language_pack_x86_dvd_x14-54831.iso|220932096|D6D1478081937EEE89CB197B373AF510|/

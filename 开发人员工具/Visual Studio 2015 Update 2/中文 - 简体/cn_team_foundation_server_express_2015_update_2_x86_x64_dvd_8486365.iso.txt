@@ -1,0 +1,5 @@
+文件名    = cn_team_foundation_server_express_2015_update_2_x86_x64_dvd_8486365.iso
+SHA1      = 2F116DCB4A7C803B0C457D6866FD47C281CA976A
+文件大小  = 476.68MB
+发布时间  = 2016-03-30
+下载链接  = ed2k://|file|cn_team_foundation_server_express_2015_update_2_x86_x64_dvd_8486365.iso|499834880|0BF572B2E075DD8D9F5CA23EEF4418EF|/

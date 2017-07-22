@@ -1,0 +1,5 @@
+文件名    = en_windows_7_home_basic_with_sp1_x86_dvd_u_676470.iso
+SHA1      = 080EC1DE94B88B0F7E8D000690A4AAAA031E2719
+文件大小  = 2.39GB
+发布时间  = 2011-05-12
+下载链接  = ed2k://|file|en_windows_7_home_basic_with_sp1_x86_dvd_u_676470.iso|2564476928|D81F244E43E2341765653AB0A52AE7B8|/

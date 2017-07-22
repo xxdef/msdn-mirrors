@@ -1,0 +1,5 @@
+文件名    = en_visual_foxpro_9.0_service_pack_2_x86.exe
+SHA1      = C7CF81D119DCDB7CE9504F791B9617FC0FD8B759
+文件大小  = 34.79MB
+发布时间  = 2008-09-13
+下载链接  = ed2k://|file|en_visual_foxpro_9.0_service_pack_2_x86.exe|36476744|31F06EEF0B1B88363C8C36AEE42B2AD2|/

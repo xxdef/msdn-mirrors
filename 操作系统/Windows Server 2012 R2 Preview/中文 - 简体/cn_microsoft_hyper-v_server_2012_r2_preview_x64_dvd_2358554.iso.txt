@@ -1,0 +1,5 @@
+文件名    = cn_microsoft_hyper-v_server_2012_r2_preview_x64_dvd_2358554.iso
+SHA1      = 529CF13348E4F44B25DD0C1AA930CEF4E5F74680
+文件大小  = 1.85GB
+发布时间  = 2013-06-25
+下载链接  = ed2k://|file|cn_microsoft_hyper-v_server_2012_r2_preview_x64_dvd_2358554.iso|1988114432|13480353EB9F6656F159AD9668515097|/

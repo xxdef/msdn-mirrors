@@ -1,0 +1,5 @@
+文件名    = mui_winxp_pro_x64_cd3.iso
+SHA1      = E0FF8E91E1E86F6387617C64E76DD8350ECE5399
+文件大小  = 561.8MB
+发布时间  = 2005-06-16
+下载链接  = ed2k://|file|mui_winxp_pro_x64_cd3.iso|589086720|0F04289761688F0586F87CED4F5193AE|/

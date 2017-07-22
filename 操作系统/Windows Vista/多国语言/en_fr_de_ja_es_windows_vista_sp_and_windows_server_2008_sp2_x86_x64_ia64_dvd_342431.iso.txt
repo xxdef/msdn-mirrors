@@ -1,0 +1,5 @@
+文件名    = en_fr_de_ja_es_windows_vista_sp_and_windows_server_2008_sp2_x86_x64_ia64_dvd_342431.iso
+SHA1      = 0D4C462FA5DA704CE6B7B8E054AA1308DE4F07DF
+文件大小  = 1.34GB
+发布时间  = 2009-04-30
+下载链接  = ed2k://|file|en_fr_de_ja_es_windows_vista_sp_and_windows_server_2008_sp2_x86_x64_ia64_dvd_342431.iso|1443663872|5E96317ECFAC85E25B96F93C773613C4|/

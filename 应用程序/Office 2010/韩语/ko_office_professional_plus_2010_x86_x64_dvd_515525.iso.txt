@@ -1,0 +1,5 @@
+文件名    = ko_office_professional_plus_2010_x86_x64_dvd_515525.iso
+SHA1      = 06968BD1CE0524D98A1A50B8309276040054B1A9
+文件大小  = 1.52GB
+发布时间  = 2010-05-18
+下载链接  = ed2k://|file|ko_office_professional_plus_2010_x86_x64_dvd_515525.iso|1628882944|8EE9130FBBB0F1247975205EB7E0300C|/

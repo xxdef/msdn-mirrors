@@ -1,0 +1,5 @@
+文件名    = cn_system_center_configuration_manager_2007_with_sp2_x86_dvd_470273.iso
+SHA1      = 46FB8E173197A7AF1BC427F8F8C4621B23B40C36
+文件大小  = 1.58GB
+发布时间  = 2009-12-16
+下载链接  = ed2k://|file|cn_system_center_configuration_manager_2007_with_sp2_x86_dvd_470273.iso|1696124928|943324CBFE8FD34546D46AEEBE6668DB|/

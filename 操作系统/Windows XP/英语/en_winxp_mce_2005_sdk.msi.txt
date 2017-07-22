@@ -1,0 +1,5 @@
+文件名    = en_winxp_mce_2005_sdk.msi
+SHA1      = 22C6411B00ACAC1CEDC4A30C2A187404FA0A4B57
+文件大小  = 2.63MB
+发布时间  = 2005-03-21
+下载链接  = ed2k://|file|en_winxp_mce_2005_sdk.msi|2758144|20B9E882EE76784A4CA4C8EC4784AE9E|/

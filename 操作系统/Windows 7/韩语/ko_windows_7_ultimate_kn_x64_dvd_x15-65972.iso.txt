@@ -1,0 +1,5 @@
+文件名    = ko_windows_7_ultimate_kn_x64_dvd_x15-65972.iso
+SHA1      = 2F995058464CBFB419C3A698AEFAB8FB30764739
+文件大小  = 2.64GB
+发布时间  = 2009-08-28
+下载链接  = ed2k://|file|ko_windows_7_ultimate_kn_x64_dvd_x15-65972.iso|2836623360|17E82151C9EDD09CD3F2F2816B80F8BA|/

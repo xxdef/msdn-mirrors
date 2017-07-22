@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_2013_update_2_x86_dvd_4238353.iso
+SHA1      = 1A1C6846F64EDB376A3024C911723647179800AA
+文件大小  = 3.51GB
+发布时间  = 2014-05-12
+下载链接  = ed2k://|file|mu_visual_studio_2013_update_2_x86_dvd_4238353.iso|3764328448|66362AFA807FDE3816FB5706A34B4434|/

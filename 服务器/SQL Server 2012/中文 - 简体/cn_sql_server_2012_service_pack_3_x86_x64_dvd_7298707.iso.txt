@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2012_service_pack_3_x86_x64_dvd_7298707.iso
+SHA1      = 9BF9E6CF63D6E05319D03593472BC9E0ABE7651D
+文件大小  = 1.71GB
+发布时间  = 2015-12-02
+下载链接  = ed2k://|file|cn_sql_server_2012_service_pack_3_x86_x64_dvd_7298707.iso|1841444864|0647ACE395CF4E3CCC7A51DCC34E2737|/

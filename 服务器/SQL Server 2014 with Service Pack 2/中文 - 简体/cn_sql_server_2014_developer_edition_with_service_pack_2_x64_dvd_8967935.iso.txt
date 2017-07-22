@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2014_developer_edition_with_service_pack_2_x64_dvd_8967935.iso
+SHA1      = 4E605491D4FF5C2637666498D0969FEF5E960DDB
+文件大小  = 3.28GB
+发布时间  = 2016-07-14
+下载链接  = ed2k://|file|cn_sql_server_2014_developer_edition_with_service_pack_2_x64_dvd_8967935.iso|3518996480|B7232287C95D107EE4ED07F7C47B250C|/

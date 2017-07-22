@@ -1,0 +1,5 @@
+文件名    = ja_office_2003_Professional.iso
+SHA1      = 6D0153993692364F05660305483016AE2159F7E9
+文件大小  = 515.78MB
+发布时间  = 2003-09-16
+下载链接  = ed2k://|file|ja_office_2003_Professional.iso|540835840|a10f1735d5a264fb2e268d3157a9061d|/

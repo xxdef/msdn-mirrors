@@ -1,0 +1,5 @@
+文件名    = cn_exchange_server_2007_sp3_x86.exe
+SHA1      = 54498E3AC002744E7EBE1561C96F4F7CCC2F4947
+文件大小  = 1.07GB
+发布时间  = 2010-08-31
+下载链接  = ed2k://|file|cn_exchange_server_2007_sp3_x86.exe|1147272976|0766D3997E000E4EE51DE3908A8B9EF2|/

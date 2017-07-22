@@ -1,0 +1,5 @@
+文件名    = en_microsoft_identity_manager_2016_with_service_pack_1_x64_dvd_9270854.iso
+SHA1      = 996A193884379401BCA6D9B952A66F0D0B4EC81E
+文件大小  = 836.69MB
+发布时间  = 2016-09-20
+下载链接  = ed2k://|file|en_microsoft_identity_manager_2016_with_service_pack_1_x64_dvd_9270854.iso|877328384|201AA0737C551161FACA68C6C7655159|/

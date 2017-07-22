@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_starter_with_sp1_x86_dvd_u_678536.iso
+SHA1      = 9522D435348353BAD69047C0161B7A9115A3C2A6
+文件大小  = 2.47GB
+发布时间  = 2011-05-12
+下载链接  = ed2k://|file|cn_windows_7_starter_with_sp1_x86_dvd_u_678536.iso|2653276160|B0A788EA28B2491B4587A561A8CB5B19|/

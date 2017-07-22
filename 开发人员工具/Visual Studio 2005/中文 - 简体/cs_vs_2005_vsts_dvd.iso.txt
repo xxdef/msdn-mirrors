@@ -1,0 +1,5 @@
+文件名    = cs_vs_2005_vsts_dvd.iso
+SHA1      = 189D74F2A8301E0F2C4406A0C966FBF40711CE8F
+文件大小  = 3.68GB
+发布时间  = 2006-01-17
+下载链接  = ed2k://|file|cs_vs_2005_vsts_dvd.iso|3955607552|6F4BD3F2C8E8A1320AA420AC417EA90F|/

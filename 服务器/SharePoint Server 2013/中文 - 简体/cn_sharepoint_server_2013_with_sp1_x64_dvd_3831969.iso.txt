@@ -1,0 +1,5 @@
+文件名    = cn_sharepoint_server_2013_with_sp1_x64_dvd_3831969.iso
+SHA1      = 7B3C254326308728D423A0D4DBBB09C77DA75878
+文件大小  = 2.71GB
+发布时间  = 2014-02-28
+下载链接  = ed2k://|file|cn_sharepoint_server_2013_with_sp1_x64_dvd_3831969.iso|2913843200|BF184FC52F473DDD08944E05D784D118|/

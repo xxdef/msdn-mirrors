@@ -1,0 +1,5 @@
+文件名    = en_commerce_server_2009_r2_enterprise_x64_726156.iso
+SHA1      = 4777CF5EDF85419DD7EECE1D5FC161D8E9DFD255
+文件大小  = 176.65MB
+发布时间  = 2011-08-22
+下载链接  = ed2k://|file|en_commerce_server_2009_r2_enterprise_x64_726156.iso|185235456|DF90CCC8BB84A5725A51EAB79800965B|/

@@ -1,0 +1,5 @@
+文件名    = en_vs_2005_pro_dvd.iso
+SHA1      = 466641A4C156F40B414DCF08B2177F2F0DE1E050
+文件大小  = 2.69GB
+发布时间  = 2005-10-27
+下载链接  = ed2k://|file|en_vs_2005_pro_dvd.iso|2893565952|FBC54207E436783D58CBBC13C1BD1D17|/

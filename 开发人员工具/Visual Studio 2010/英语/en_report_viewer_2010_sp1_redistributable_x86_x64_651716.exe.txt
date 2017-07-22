@@ -1,0 +1,5 @@
+文件名    = en_report_viewer_2010_sp1_redistributable_x86_x64_651716.exe
+SHA1      = 2C6440089220D388C04C2DFDBA0E90DCDDFD9078
+文件大小  = 4.53MB
+发布时间  = 2011-03-08
+下载链接  = ed2k://|file|en_report_viewer_2010_sp1_redistributable_x86_x64_651716.exe|4751192|E5C92F2E434D94C19BCCCCD187625F5D|/
