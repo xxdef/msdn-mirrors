@@ -1,0 +1,5 @@
+文件名    = en_windows_10_s_version_1703_updated_july_2017_x86_dvd_10929774.iso
+SHA1      = 6F7184DF5CE261D62BB15D6C0B02A330C0B652BC
+文件大小  = 3.31GB
+发布时间  = 2017-07-27
+下载链接  = ed2k://|file|en_windows_10_s_version_1703_updated_july_2017_x86_dvd_10929774.iso|3559026688|2B6EDB50B14F3E26F6E4C2140AB3C656|/
