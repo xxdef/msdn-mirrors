@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_enterprise_2017_version_15.3_x86_x64_11100063.exe
+SHA1      = 62EEE28995AA688EB3E073C32E5F10651DAA6823
+文件大小  = 1.02MB
+发布时间  = 2017-08-14
+下载链接  = ed2k://|file|mu_visual_studio_enterprise_2017_version_15.3_x86_x64_11100063.exe|1069960|44E1DEF76E77D932FAC67391B253E355|/

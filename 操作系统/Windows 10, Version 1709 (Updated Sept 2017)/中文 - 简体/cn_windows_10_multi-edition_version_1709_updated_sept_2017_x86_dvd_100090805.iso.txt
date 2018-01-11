@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_multi-edition_version_1709_updated_sept_2017_x86_dvd_100090805.iso
+SHA1      = 00D8D32CBF5D1CA78055ECCFC258691B126BE3D5
+文件大小  = 3.31GB
+发布时间  = 2017-10-18
+下载链接  = ed2k://|file|cn_windows_10_multi-edition_version_1709_updated_sept_2017_x86_dvd_100090805.iso|3551899648|6C24A796B66CDA6D909508A16C74B406|/

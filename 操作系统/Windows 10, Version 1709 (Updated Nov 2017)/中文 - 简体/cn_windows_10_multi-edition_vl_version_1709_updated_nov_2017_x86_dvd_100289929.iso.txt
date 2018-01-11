@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_multi-edition_vl_version_1709_updated_nov_2017_x86_dvd_100289929.iso
+SHA1      = 05ae60524e6ffd90aa788c1f62a49daed46f0e31
+文件大小  = 3.48GB
+发布时间  = 2017-11-28
+下载链接  = ed2k://|file|cn_windows_10_multi-edition_vl_version_1709_updated_nov_2017_x86_dvd_100289929.iso|3741179904|77DAA25A6DFE23DE9A5D3EC75139C35D|/

@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_community_2017_version_15.3_x86_x64_11100062.exe
+SHA1      = EC5E128EDC90FAC0BBADECD6DB32F8F008A4D669
+文件大小  = 1.02MB
+发布时间  = 2017-08-14
+下载链接  = ed2k://|file|mu_visual_studio_community_2017_version_15.3_x86_x64_11100062.exe|1069960|5984B3CD547F9F213DE21EFE5887F08D|/

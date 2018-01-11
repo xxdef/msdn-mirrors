@@ -1,0 +1,5 @@
+文件名    = cn_office_online_server_last_updated_november_2017_x64_dvd_100181918.iso
+SHA1      = ddd6d469607c241d75cddfbf0e1d5ce0fb6e36f3
+文件大小  = 734.58MB
+发布时间  = 2017-11-08
+下载链接  = ed2k://|file|cn_office_online_server_last_updated_november_2017_x64_dvd_100181918.iso|770267136|0660AFCFE1AC9A62E749194874643E98|/

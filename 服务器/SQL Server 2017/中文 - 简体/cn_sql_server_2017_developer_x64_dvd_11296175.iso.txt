@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2017_developer_x64_dvd_11296175.iso
+SHA1      = 6BBF019EDAE11A7307EBBE30260FB991CE025681
+文件大小  = 1.65GB
+发布时间  = 2017-10-02
+下载链接  = ed2k://|file|cn_sql_server_2017_developer_x64_dvd_11296175.iso|1769777152|E21AE7C3576C0BDF1BC0ADC541217FAC|/

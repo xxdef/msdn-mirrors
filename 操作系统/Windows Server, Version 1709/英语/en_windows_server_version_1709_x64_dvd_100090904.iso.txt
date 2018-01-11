@@ -1,0 +1,5 @@
+文件名    = en_windows_server_version_1709_x64_dvd_100090904.iso
+SHA1      = 9B901A2CE6A8E126496EFB0D2440C0187FE614B8
+文件大小  = 2.79GB
+发布时间  = 2017-10-18
+下载链接  = ed2k://|file|en_windows_server_version_1709_x64_dvd_100090904.iso|2995189760|58591930E592612B0A5CBD45BEE5E102|/
