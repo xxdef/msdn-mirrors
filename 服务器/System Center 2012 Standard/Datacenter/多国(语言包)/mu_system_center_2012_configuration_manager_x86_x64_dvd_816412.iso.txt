@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2012_configuration_manager_x86_x64_dvd_816412.iso
+SHA1      = FFE7ADF9EAF5EF124723D082670C985EA1057C87
+文件大小  = 1.67GB
+发布时间  = 2012-04-02
+下载链接  = ed2k://|file|mu_system_center_2012_configuration_manager_x86_x64_dvd_816412.iso|1795393536|2D1D5E959CEBFE4E13401E682FB8FDB9|/

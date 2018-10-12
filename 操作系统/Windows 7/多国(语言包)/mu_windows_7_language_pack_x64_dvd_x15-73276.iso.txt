@@ -1,0 +1,5 @@
+文件名    = mu_windows_7_language_pack_x64_dvd_x15-73276.iso
+SHA1      = 5AB13E8534FA6E17DB2EDEDEAD0D219E9B99A794
+文件大小  = 2.15GB
+发布时间  = 2009-08-06
+下载链接  = ed2k://|file|mu_windows_7_language_pack_x64_dvd_x15-73276.iso|2306793472|21D6652E82D87305525366D5824AAFA2|/

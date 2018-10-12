@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2016_updated_feb_2018_x64_dvd_11636703.iso
+SHA1      = 8d1c867b19c4eae7dd79eb544fdd5dbfbd9812fe
+文件大小  = 5.86GB
+发布时间  = 2018-02-15
+下载链接  = ed2k://|file|cn_windows_server_2016_updated_feb_2018_x64_dvd_11636703.iso|6294265856|4077CEBEBB40AFA5A66017D2EC7A9CD5|/

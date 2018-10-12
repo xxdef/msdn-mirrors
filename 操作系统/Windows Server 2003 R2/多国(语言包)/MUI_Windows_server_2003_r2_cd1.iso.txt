@@ -1,0 +1,5 @@
+文件名    = MUI_Windows_server_2003_r2_cd1.iso
+SHA1      = 717FE1E1FACBF509A4AF296D1A2192DFA9DCA062
+文件大小  = 608.8MB
+发布时间  = 2006-03-28
+下载链接  = ed2k://|file|MUI_Windows_server_2003_r2_cd1.iso|638373888|823A19753C621CFA212ABFFFACB5553E|/

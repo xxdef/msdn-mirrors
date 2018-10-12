@@ -1,0 +1,5 @@
+文件名    = mu_windows_vista_service_pack_1_x86_x64_dvd_x14-47490.iso
+SHA1      = 0BA889C4F6494AE7B233DB70FCCB8844E064598A
+文件大小  = 1.38GB
+发布时间  = 2008-04-14
+下载链接  = ed2k://|file|mu_windows_vista_service_pack_1_x86_x64_dvd_x14-47490.iso|1486954496|25D2B422065B8FBC7C442A136019C791|/

@@ -1,0 +1,5 @@
+文件名    = mu_application_virtualization_for_remote_desktop_services_5.0_service_pack_3_x86_x64_cd_6006325.iso
+SHA1      = 67712B6F49253E790C9F1FC3A21823EA0D8C917F
+文件大小  = 110.25MB
+发布时间  = 2014-12-04
+下载链接  = ed2k://|file|mu_application_virtualization_for_remote_desktop_services_5.0_service_pack_3_x86_x64_cd_6006325.iso|115607552|FF5303EF0655BF04E07E424EA68538F9|/

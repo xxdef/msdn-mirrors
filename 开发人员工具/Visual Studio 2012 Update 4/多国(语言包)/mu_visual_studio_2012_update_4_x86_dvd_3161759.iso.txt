@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_2012_update_4_x86_dvd_3161759.iso
+SHA1      = 0CF5FCA2347387C8766B2A2717CC26FB03C722E8
+文件大小  = 2.34GB
+发布时间  = 2013-11-13
+下载链接  = ed2k://|file|mu_visual_studio_2012_update_4_x86_dvd_3161759.iso|2509815808|B94434AE9E3B26AE9F9D56F52DA43B92|/

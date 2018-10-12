@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_professional_2017_version_15.1_x86_x64_10254675.exe
+SHA1      = C4701E6333F3D26E09ED88702F5F447AEC81CD94
+文件大小  = 1,012.83KB
+发布时间  = 2017-04-05
+下载链接  = ed2k://|file|mu_visual_studio_professional_2017_version_15.1_x86_x64_10254675.exe|1037136|59A51C540A42BE9832D75B77EDB6CD98|/

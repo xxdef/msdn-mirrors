@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2016_service_manager_x86_x64_dvd_9216786.iso
+SHA1      = 2D60204C831C0C50521A384AD8DEAC5FB893D356
+文件大小  = 300.39MB
+发布时间  = 2016-10-12
+下载链接  = ed2k://|file|mu_system_center_2016_service_manager_x86_x64_dvd_9216786.iso|314986496|87A28627C9A69CFF08A843C6C74837E9|/

@@ -1,0 +1,5 @@
+文件名    = mu_exchange_server_2010_x64_dvd_x15-82068.iso
+SHA1      = BBD6224FD72283142F9A8EC13615E11391C02BAB
+文件大小  = 1.04GB
+发布时间  = 2009-11-09
+下载链接  = ed2k://|file|mu_exchange_server_2010_x64_dvd_x15-82068.iso|1119375360|FED3803A08E024F26EB28164D9BC94C3|/

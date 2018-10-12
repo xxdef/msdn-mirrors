@@ -1,0 +1,5 @@
+文件名    = mu_windows_server_version_1709_language_pack_x64_dvd_100090895.iso
+SHA1      = 0a73ec6086c511efae88730af36d475350dcdd26
+文件大小  = 2.84GB
+发布时间  = 2018-01-10
+下载链接  = ed2k://|file|mu_windows_server_version_1709_language_pack_x64_dvd_100090895.iso|3048288256|18EF20B6DF5F948074BA4B406A64D256|/

@@ -1,0 +1,5 @@
+文件名    = hk_cn_ko_pt_windows_server_2008_global_language_pack_with_sp2_x86_dvd_x15-51196.iso
+SHA1      = 0DDB664CA8BCA469EA58C136D898AA1F9C2AF399
+文件大小  = 313.04MB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|hk_cn_ko_pt_windows_server_2008_global_language_pack_with_sp2_x86_dvd_x15-51196.iso|328245248|3A273483B78346B525FE89F786F08352|/

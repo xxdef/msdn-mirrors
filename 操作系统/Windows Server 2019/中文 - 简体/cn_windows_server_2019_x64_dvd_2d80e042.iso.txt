@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2019_x64_dvd_2d80e042.iso
+SHA1      = cfbc1f9bfa00a08e601548a056c67ab732cf32f7
+文件大小  = 4.47GB
+发布时间  = 2018-10-03
+下载链接  = ed2k://|file|cn_windows_server_2019_x64_dvd_2d80e042.iso|4799084544|7A6915C3A22D2883A23435FEC4A57C8C|/

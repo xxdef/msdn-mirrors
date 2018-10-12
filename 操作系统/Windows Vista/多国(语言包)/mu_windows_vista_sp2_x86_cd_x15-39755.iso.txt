@@ -1,0 +1,5 @@
+文件名    = mu_windows_vista_sp2_x86_cd_x15-39755.iso
+SHA1      = 91FB7F33B838D0378647F49E35850622BABED4BF
+文件大小  = 476.2MB
+发布时间  = 2009-05-22
+下载链接  = ed2k://|file|mu_windows_vista_sp2_x86_cd_x15-39755.iso|499329024|EF3439826F02B84E26AE34405C5A8969|/

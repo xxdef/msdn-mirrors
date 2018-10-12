@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2016_vl_x64_dvd_11636695.iso
+SHA1      = ddedf3ace182587baa268ab8ae0d9ea395a6da22
+文件大小  = 5.87GB
+发布时间  = 2018-03-08
+下载链接  = ed2k://|file|cn_windows_server_2016_vl_x64_dvd_11636695.iso|6302720000|44742A3D464B9765203E2A4DB73FF704|/

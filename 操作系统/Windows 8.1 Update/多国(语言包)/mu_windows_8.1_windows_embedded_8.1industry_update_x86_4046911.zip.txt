@@ -1,0 +1,5 @@
+文件名    = mu_windows_8.1_windows_embedded_8.1industry_update_x86_4046911.zip
+SHA1      = A4A07FEE78097C16E969FC55C8A82A27297BA8DA
+文件大小  = 360.26MB
+发布时间  = 2014-04-02
+下载链接  = ed2k://|file|mu_windows_8.1_windows_embedded_8.1industry_update_x86_4046911.zip|377758442|E000C0CF24CF89E15A5DC9210F2705C7|/

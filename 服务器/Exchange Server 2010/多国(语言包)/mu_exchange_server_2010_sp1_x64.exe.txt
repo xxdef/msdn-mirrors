@@ -1,0 +1,5 @@
+文件名    = mu_exchange_server_2010_sp1_x64.exe
+SHA1      = 3E1CCC1D4CD7E4DA02F72D00C214F17AC3BBB88E
+文件大小  = 522.16MB
+发布时间  = 2010-09-14
+下载链接  = ed2k://|file|mu_exchange_server_2010_sp1_x64.exe|547526952|3D7B713EF8AB49107BE72E86B007F841|/

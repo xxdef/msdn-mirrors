@@ -1,0 +1,5 @@
+文件名    = mu_system_center_configuration_manager_endpoint_protection_version_1606_x86_x64_dvd_9678361.iso
+SHA1      = 516FE93E4FDBF79B001E1DA07A6A491F633CB785
+文件大小  = 1.21GB
+发布时间  = 2016-12-15
+下载链接  = ed2k://|file|mu_system_center_configuration_manager_endpoint_protection_version_1606_x86_x64_dvd_9678361.iso|1297797120|79EA16D84011C0B23BF12118F5DD27E0|/

@@ -1,0 +1,5 @@
+文件名    = mu_forefront_protection_2010_for_sharepoint_x64_cd_518037.iso
+SHA1      = 1E0604820B8B8B6010AF13BE3D0B886D2EA59FD6
+文件大小  = 229.97MB
+发布时间  = 2010-05-10
+下载链接  = ed2k://|file|mu_forefront_protection_2010_for_sharepoint_x64_cd_518037.iso|241137664|85DDC0DD659AA93396EB73419143A487|/

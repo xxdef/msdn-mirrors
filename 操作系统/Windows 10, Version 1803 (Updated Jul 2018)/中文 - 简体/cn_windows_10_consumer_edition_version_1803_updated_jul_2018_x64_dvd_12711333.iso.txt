@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_consumer_edition_version_1803_updated_jul_2018_x64_dvd_12711333.iso
+SHA1      = c5bfbead557529f523443cf22a986717a97989b3
+文件大小  = 4.78GB
+发布时间  = 2018-07-10
+下载链接  = ed2k://|file|cn_windows_10_consumer_edition_version_1803_updated_jul_2018_x64_dvd_12711333.iso|5131444224|2801D74DABE5308DB3870D06AB976BEA|/

@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2012_r2_app_controller_x86_and_x64_dvd_2920173.iso
+SHA1      = 556AE2947997D241F9FAD8AE6BF897634AA8622B
+文件大小  = 37.5MB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|mu_system_center_2012_r2_app_controller_x86_and_x64_dvd_2920173.iso|39317504|8D55508F4D9D2D9E71426D3B8F0C18AB|/

@@ -1,0 +1,5 @@
+文件名    = mu_windows_8.1_windows_server_2012r2_windows_embedded_8.1industry_update_x64_4046913.zip
+SHA1      = 6A5CBC6FD6C1366F1041E03820FD8508FC95A4AC
+文件大小  = 770.43MB
+发布时间  = 2014-04-02
+下载链接  = ed2k://|file|mu_windows_8.1_windows_server_2012r2_windows_embedded_8.1industry_update_x64_4046913.zip|807854846|A1B50E1C33241FC8840EEB36FCDC96A6|/

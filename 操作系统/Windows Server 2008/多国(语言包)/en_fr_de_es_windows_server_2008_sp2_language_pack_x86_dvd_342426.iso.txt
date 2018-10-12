@@ -1,0 +1,5 @@
+文件名    = en_fr_de_es_windows_server_2008_sp2_language_pack_x86_dvd_342426.iso
+SHA1      = 73D356DD98BFA95A74E9BA897848FD52BF1FD2B8
+文件大小  = 356.48MB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|en_fr_de_es_windows_server_2008_sp2_language_pack_x86_dvd_342426.iso|373798912|ABF69B56A2AEAB5F5C7CF3F974D876BA|/

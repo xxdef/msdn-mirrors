@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2019_x64_dvd_3c2cf1202.iso
+SHA1      = 24f7c459f3612df82205a45fdb68ca9f96bc5d80
+文件大小  = 4.25GB
+发布时间  = 2018-10-03
+下载链接  = ed2k://|file|en_windows_server_2019_x64_dvd_3c2cf1202.iso|4560922624|F5879136198AC1546F0445641A32AE92|/

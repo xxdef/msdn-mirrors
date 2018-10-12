@@ -1,0 +1,5 @@
+文件名    = mu_windows_10_language_pack_x64_dvd_6846438.iso
+SHA1      = 8FFC07D8C6069746C8222DD6F65BAD2F779F735C
+文件大小  = 1.28GB
+发布时间  = 2015-07-29
+下载链接  = ed2k://|file|mu_windows_10_language_pack_x64_dvd_6846438.iso|1370247168|ED038183115D03F8627F22593425F246|/

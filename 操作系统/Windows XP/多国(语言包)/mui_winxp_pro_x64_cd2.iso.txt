@@ -1,0 +1,5 @@
+文件名    = mui_winxp_pro_x64_cd2.iso
+SHA1      = E18A4D4EABC9E1852C3DEE9448BCB285D694028E
+文件大小  = 554.07MB
+发布时间  = 2005-05-24
+下载链接  = ed2k://|file|mui_winxp_pro_x64_cd2.iso|580986880|A2C0552CD79C70D5BE9E49FCA972A5FA|/

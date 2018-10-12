@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_2015_update_2_x86_x64_dvd_8508603.iso
+SHA1      = 269FA5FE823263718DA056D465BF8EB19C87ECD8
+文件大小  = 5.75GB
+发布时间  = 2016-03-30
+下载链接  = ed2k://|file|mu_visual_studio_2015_update_2_x86_x64_dvd_8508603.iso|6177492992|CCA3280286802875B779BDEE3184E2BC|/

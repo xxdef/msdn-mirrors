@@ -1,0 +1,5 @@
+文件名    = cs_hu_pl_tr_windows_server_2008_multilingual_user_interface_language_pack_x64_dvd_x14-18612.iso
+SHA1      = B8E52D9453B0ECD74B75CE1039DC1B40F6088C59
+文件大小  = 257.76MB
+发布时间  = 2008-04-04
+下载链接  = ed2k://|file|cs_hu_pl_tr_windows_server_2008_multilingual_user_interface_language_pack_x64_dvd_x14-18612.iso|270284800|14F956B3B8BA93956482B3D32064D28B|/

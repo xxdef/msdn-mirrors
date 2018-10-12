@@ -1,0 +1,5 @@
+文件名    = mu_windows_server_2019_language_pack_x64_dvd_679192ff.iso
+SHA1      = 21e3695d86d67f49c7237f2cbdb8b2b42b24d06d
+文件大小  = 2.64GB
+发布时间  = 2018-10-03
+下载链接  = ed2k://|file|mu_windows_server_2019_language_pack_x64_dvd_679192ff.iso|2831929344|E76103FC6FDC26D5CD2370A818A7BDC5|/

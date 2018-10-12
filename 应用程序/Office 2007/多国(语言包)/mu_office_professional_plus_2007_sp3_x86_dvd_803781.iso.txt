@@ -1,0 +1,5 @@
+文件名    = mu_office_professional_plus_2007_sp3_x86_dvd_803781.iso
+SHA1      = DFED9C0C9BA10825B4095E22BDA15CEF179ED415
+文件大小  = 2.38GB
+发布时间  = 2012-04-24
+下载链接  = ed2k://|file|mu_office_professional_plus_2007_sp3_x86_dvd_803781.iso|2553942016|BEAF219A0E98C96D7756CC0E208EE41F|/

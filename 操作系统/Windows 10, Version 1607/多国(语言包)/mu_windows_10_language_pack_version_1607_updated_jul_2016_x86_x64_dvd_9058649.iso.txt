@@ -1,0 +1,5 @@
+文件名    = mu_windows_10_language_pack_version_1607_updated_jul_2016_x86_x64_dvd_9058649.iso
+SHA1      = B40F2D5F3B381E00DFD3A25228BC046BD1FBD6B7
+文件大小  = 3.87GB
+发布时间  = 2016-08-02
+下载链接  = ed2k://|file|mu_windows_10_language_pack_version_1607_updated_jul_2016_x86_x64_dvd_9058649.iso|4155375616|BA974F886DA8A1686ACD2E2A50263B2A|/

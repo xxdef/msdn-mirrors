@@ -1,0 +1,5 @@
+文件名    = bg_hr_ro_sr_sk_sl_th_disc_6_office_professional_2003_MUI_x86_cd.iso
+SHA1      = E003EDEBA2600C3949A72DE0E1D1A817138DEC6C
+文件大小  = 395.09MB
+发布时间  = 2004-03-24
+下载链接  = ed2k://|file|bg_hr_ro_sr_sk_sl_th_disc_6_office_professional_2003_MUI_x86_cd.iso|414285824|2E5227C93AF8C37F50F236D14D263456|/

@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_version_1803_x64_dvd_12063487.iso
+SHA1      = 1791ebc74ce3bcbd5e63ecfc197bb9673f234156
+文件大小  = 3.03GB
+发布时间  = 2018-05-07
+下载链接  = ed2k://|file|cn_windows_server_version_1803_x64_dvd_12063487.iso|3255996416|477BB70C0A194E99C7279830DBA0F143|/

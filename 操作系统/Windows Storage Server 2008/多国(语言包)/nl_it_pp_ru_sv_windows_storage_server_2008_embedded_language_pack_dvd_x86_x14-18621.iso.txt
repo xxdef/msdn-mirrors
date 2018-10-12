@@ -1,0 +1,5 @@
+文件名    = nl_it_pp_ru_sv_windows_storage_server_2008_embedded_language_pack_dvd_x86_x14-18621.iso
+SHA1      = 02FECADDE8E276AA295FB1D4BF52E12EAB9CE551
+文件大小  = 280.63MB
+发布时间  = 2009-05-06
+下载链接  = ed2k://|file|nl_it_pp_ru_sv_windows_storage_server_2008_embedded_language_pack_dvd_x86_x14-18621.iso|294262784|62F3D2955DA305495EAAF5E201AEB365|/

@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_2013_update_3_x86_dvd_4834754.iso
+SHA1      = 35990F95BF559E24CDC614FDB1CB7D9AA7072108
+文件大小  = 3.98GB
+发布时间  = 2014-08-04
+下载链接  = ed2k://|file|mu_visual_studio_2013_update_3_x86_dvd_4834754.iso|4278736896|BAE538BA7494A00C54C278AB680629FF|/

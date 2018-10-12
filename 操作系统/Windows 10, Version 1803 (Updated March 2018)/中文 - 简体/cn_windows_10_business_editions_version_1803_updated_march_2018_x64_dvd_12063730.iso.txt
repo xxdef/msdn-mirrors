@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_business_editions_version_1803_updated_march_2018_x64_dvd_12063730.iso
+SHA1      = e39b9347fc5be4a0548fb15e666fb92e0a965c6e
+文件大小  = 4.32GB
+发布时间  = 2018-04-30
+下载链接  = ed2k://|file|cn_windows_10_business_editions_version_1803_updated_march_2018_x64_dvd_12063730.iso|4634574848|5674B3586C866EB2F47D7736A1FDE27A|/

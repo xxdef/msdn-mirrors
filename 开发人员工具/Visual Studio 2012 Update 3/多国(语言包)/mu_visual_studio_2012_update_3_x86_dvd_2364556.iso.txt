@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_2012_update_3_x86_dvd_2364556.iso
+SHA1      = 89D4AC51AB2444134D61B668AAA8C4A655B84510
+文件大小  = 2.08GB
+发布时间  = 2013-06-26
+下载链接  = ed2k://|file|mu_visual_studio_2012_update_3_x86_dvd_2364556.iso|2237786112|BB41D86FE18C53A6D9ED0E57ED0C2DAF|/

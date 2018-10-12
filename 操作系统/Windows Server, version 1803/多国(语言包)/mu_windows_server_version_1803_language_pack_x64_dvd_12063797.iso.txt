@@ -1,0 +1,5 @@
+文件名    = mu_windows_server_version_1803_language_pack_x64_dvd_12063797.iso
+SHA1      = 87fe8a74d955deae5dfd1796736fb60d55a61de6
+文件大小  = 2.85GB
+发布时间  = 2018-05-07
+下载链接  = ed2k://|file|mu_windows_server_version_1803_language_pack_x64_dvd_12063797.iso|3060492288|2F950E4C3F1029EBEE9237AED039669B|/

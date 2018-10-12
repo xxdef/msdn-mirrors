@@ -1,0 +1,5 @@
+文件名    = mu_windows_server_2012_r2_language_pack_x64_dvd_2710896.iso
+SHA1      = E0BD3827BD885E5E4E559158A64D650BCACA991E
+文件大小  = 1.53GB
+发布时间  = 2013-09-09
+下载链接  = ed2k://|file|mu_windows_server_2012_r2_language_pack_x64_dvd_2710896.iso|1637578752|752D3DEBFB442910FF74D1731614F25E|/

@@ -1,0 +1,5 @@
+文件名    = mu_office_multi-language_pack_2007_x64_x86_dvd_x12-36006.iso
+SHA1      = BB2A9AA958CAF71EB7A56669A722342F8712E248
+文件大小  = 5.61GB
+发布时间  = 2009-04-15
+下载链接  = ed2k://|file|mu_office_multi-language_pack_2007_x64_x86_dvd_x12-36006.iso|6023909376|9C88F63B8C46A4077A86F88AEE43E9E2|/

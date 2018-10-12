@@ -1,0 +1,5 @@
+文件名    = mu_system_center_virtual_machine_manager_2008_r2_workgroup_with_service_pack_1_x64_dvd_666174.iso
+SHA1      = D64F340AF6093D1F1FC72196A0AE17E7AA7207EE
+文件大小  = 3.31GB
+发布时间  = 2011-03-24
+下载链接  = ed2k://|file|mu_system_center_virtual_machine_manager_2008_r2_workgroup_with_service_pack_1_x64_dvd_666174.iso|3558746112|D6E670416292001C40613E3991267775|/

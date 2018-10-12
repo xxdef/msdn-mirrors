@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_version_1709_updated_jan_2018_x64_dvd_100498132.iso
+SHA1      = da13d6021b44f03fc0fd85c2be9fba2d500f1193
+文件大小  = 3.19GB
+发布时间  = 2018-01-18
+下载链接  = ed2k://|file|cn_windows_server_version_1709_updated_jan_2018_x64_dvd_100498132.iso|3422365696|BE37A87AC47486D0FC7160B2A1525106|/

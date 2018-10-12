@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_professional_2017_version_15.3_x86_x64_11100064.exe
+SHA1      = 2366115BA402737C474EE8001F326787F16BA676
+文件大小  = 1.02MB
+发布时间  = 2017-08-14
+下载链接  = ed2k://|file|mu_visual_studio_professional_2017_version_15.3_x86_x64_11100064.exe|1069960|900673A59F0798822207F72FAA0DA6A9|/

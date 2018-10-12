@@ -1,0 +1,5 @@
+文件名    = mui_winxp_mce_2005_update2_symbols.iso
+SHA1      = 6389AA7334FF226AABA6FF11889B2D7FE01E3DB1
+文件大小  = 61.08MB
+发布时间  = 2005-10-13
+下载链接  = ed2k://|file|mui_winxp_mce_2005_update2_symbols.iso|64045056|BD8FB763B5B4899C57F34223F0CE2DA7|/

@@ -1,0 +1,5 @@
+文件名    = MUI_Office_Communicator.msi
+SHA1      = AE5D9D14944DC2159F0CE96BD1814280A031B69B
+文件大小  = 3.22MB
+发布时间  = 2005-10-11
+下载链接  = ed2k://|file|MUI_Office_Communicator.msi|3373056|B9FD76D72E85A98139E4C980F9265328|/

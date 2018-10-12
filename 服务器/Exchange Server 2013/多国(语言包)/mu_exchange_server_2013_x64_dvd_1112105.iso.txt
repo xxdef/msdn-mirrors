@@ -1,0 +1,5 @@
+文件名    = mu_exchange_server_2013_x64_dvd_1112105.iso
+SHA1      = E9DDE6F776876B281215BEEDD7E2DB3AD525281F
+文件大小  = 3.37GB
+发布时间  = 2012-10-24
+下载链接  = ed2k://|file|mu_exchange_server_2013_x64_dvd_1112105.iso|3618824192|CFB290AC2B01016E67394A3F0969B00E|/

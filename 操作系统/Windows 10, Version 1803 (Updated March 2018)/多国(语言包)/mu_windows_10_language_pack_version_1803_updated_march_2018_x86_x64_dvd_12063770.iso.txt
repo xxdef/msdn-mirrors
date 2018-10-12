@@ -1,0 +1,5 @@
+文件名    = mu_windows_10_language_pack_version_1803_updated_march_2018_x86_x64_dvd_12063770.iso
+SHA1      = cf2ff122bce880d125b61676010ced22ca3071ce
+文件大小  = 6.99GB
+发布时间  = 2018-04-30
+下载链接  = ed2k://|file|mu_windows_10_language_pack_version_1803_updated_march_2018_x86_x64_dvd_12063770.iso|7504347136|3CD7F8B41F03F2B22AE6B741F57E7FC2|/

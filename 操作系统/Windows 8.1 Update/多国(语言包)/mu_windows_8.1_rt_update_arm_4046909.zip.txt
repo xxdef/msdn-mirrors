@@ -1,0 +1,5 @@
+文件名    = mu_windows_8.1_rt_update_arm_4046909.zip
+SHA1      = C6A767AE5C8FF8AE920CF45DB43680E1D46853B6
+文件大小  = 314.17MB
+发布时间  = 2014-04-02
+下载链接  = ed2k://|file|mu_windows_8.1_rt_update_arm_4046909.zip|329431615|32B5D21573BA19A4563C4BE9ED023BA6|/

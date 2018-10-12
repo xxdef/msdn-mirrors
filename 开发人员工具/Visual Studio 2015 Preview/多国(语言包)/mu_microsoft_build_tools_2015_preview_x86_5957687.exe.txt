@@ -1,0 +1,5 @@
+文件名    = mu_microsoft_build_tools_2015_preview_x86_5957687.exe
+SHA1      = 416D8ED2427FC4882328B235CFD67791C46F2BDD
+文件大小  = 22.06MB
+发布时间  = 2014-11-14
+下载链接  = ed2k://|file|mu_microsoft_build_tools_2015_preview_x86_5957687.exe|23132888|B5D8A8DF6B74F6490CAAAEB1D134E35C|/

@@ -1,0 +1,5 @@
+文件名    = ca_ct_pt_pp_es_sv_disc_3_office_professional_2003_MUI_x86_cd.iso
+SHA1      = 67B212937D78F3D469B251CCE50BEA68C90113DF
+文件大小  = 552.18MB
+发布时间  = 2003-12-10
+下载链接  = ed2k://|file|ca_ct_pt_pp_es_sv_disc_3_office_professional_2003_MUI_x86_cd.iso|579006464|05F417B91786EAB5ADDD2469113F2EA2|/

@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2012_r2_data_protection_manager_x86_and_x64_dvd_2945939.iso
+SHA1      = 26288838FBEF0C0F99157F7E98DB3E7B8DB8EF86
+文件大小  = 3.54GB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|mu_system_center_2012_r2_data_protection_manager_x86_and_x64_dvd_2945939.iso|3804438528|0ACF15363B34884E2E87066F54A3ABEB|/

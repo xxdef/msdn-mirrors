@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_2005_service_pack_1_dvd_X13-40126.iso
+SHA1      = BCC2A795DF3FFC32AD2D1CE84B06BBD8B2F664AD
+文件大小  = 4.35GB
+发布时间  = 2007-03-28
+下载链接  = ed2k://|file|mu_visual_studio_2005_service_pack_1_dvd_X13-40126.iso|4670547968|2079115D2F22AD7FA3B8839020143BE4|/

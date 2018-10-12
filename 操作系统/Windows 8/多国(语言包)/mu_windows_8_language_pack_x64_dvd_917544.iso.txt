@@ -1,0 +1,5 @@
+文件名    = mu_windows_8_language_pack_x64_dvd_917544.iso
+SHA1      = 5A79DC188F8368D8A285D75075E194D15B126929
+文件大小  = 2.04GB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|mu_windows_8_language_pack_x64_dvd_917544.iso|2191032320|5496E48D0C275CE775853BB50320DE87|/

@@ -1,0 +1,5 @@
+文件名    = mu_windows_7_sp1_language_pack_x86_dvd_619716.iso
+SHA1      = E9261433FF5CCACA818328A9BDBBED3F21A6405E
+文件大小  = 2.1GB
+发布时间  = 2011-02-16
+下载链接  = ed2k://|file|mu_windows_7_sp1_language_pack_x86_dvd_619716.iso|2256947200|C2E9A2E2A1A46237B18F6D55CA02458E|/

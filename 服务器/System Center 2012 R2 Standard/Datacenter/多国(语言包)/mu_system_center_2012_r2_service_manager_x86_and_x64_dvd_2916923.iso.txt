@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2012_r2_service_manager_x86_and_x64_dvd_2916923.iso
+SHA1      = 08CD4A28413E2FE1D7E2475C1D5E9AEB689AC657
+文件大小  = 186.61MB
+发布时间  = 2013-10-17
+下载链接  = ed2k://|file|mu_system_center_2012_r2_service_manager_x86_and_x64_dvd_2916923.iso|195672064|27B65419E8DBB68A80E9A8B6FE31A460|/

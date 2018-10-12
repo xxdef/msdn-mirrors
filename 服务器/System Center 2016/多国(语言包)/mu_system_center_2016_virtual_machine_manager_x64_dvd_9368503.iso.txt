@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2016_virtual_machine_manager_x64_dvd_9368503.iso
+SHA1      = 0A2B8EB66FE20E3136F113850A680CD08751553C
+文件大小  = 1GB
+发布时间  = 2016-10-12
+下载链接  = ed2k://|file|mu_system_center_2016_virtual_machine_manager_x64_dvd_9368503.iso|1077884928|1653A57AE609B522907B12D4A686A7C2|/

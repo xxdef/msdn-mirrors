@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2016_orchestrator_x64_dvd_9216539.iso
+SHA1      = B3D57E5DD5E761A3DFF3A619CA87B96C427E010C
+文件大小  = 228.02MB
+发布时间  = 2016-10-12
+下载链接  = ed2k://|file|mu_system_center_2016_orchestrator_x64_dvd_9216539.iso|239091712|6B88077F5B481214D05CDEC20575D592|/

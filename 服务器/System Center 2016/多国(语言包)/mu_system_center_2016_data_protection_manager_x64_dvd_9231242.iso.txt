@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2016_data_protection_manager_x64_dvd_9231242.iso
+SHA1      = 889CD19289EA46609FF7933E09835EB0815EE29E
+文件大小  = 1.07GB
+发布时间  = 2016-10-12
+下载链接  = ed2k://|file|mu_system_center_2016_data_protection_manager_x64_dvd_9231242.iso|1148680192|A07FF9A48095A351044C3BEDF2174252|/

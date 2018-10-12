@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_consumer_edition_version_1803_updated_sep_2018_x64_dvd_a3fcbed0.iso
+SHA1      = 6a1ea61d8bea5837a0b6be0fdcbba7ebd88712aa
+文件大小  = 4.93GB
+发布时间  = 2018-09-19
+下载链接  = ed2k://|file|cn_windows_10_consumer_edition_version_1803_updated_sep_2018_x64_dvd_a3fcbed0.iso|5293404160|0567CA96373A7B3475DD29371371A1A3|/

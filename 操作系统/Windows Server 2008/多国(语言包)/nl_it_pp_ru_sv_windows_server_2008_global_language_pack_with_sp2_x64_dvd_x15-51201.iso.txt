@@ -1,0 +1,5 @@
+文件名    = nl_it_pp_ru_sv_windows_server_2008_global_language_pack_with_sp2_x64_dvd_x15-51201.iso
+SHA1      = E44E446D79E592757EE11837BC5E81E9FDC154CE
+文件大小  = 359.46MB
+发布时间  = 2009-06-16
+下载链接  = ed2k://|file|nl_it_pp_ru_sv_windows_server_2008_global_language_pack_with_sp2_x64_dvd_x15-51201.iso|376926208|2629851637D767E07B6398450806C95A|/

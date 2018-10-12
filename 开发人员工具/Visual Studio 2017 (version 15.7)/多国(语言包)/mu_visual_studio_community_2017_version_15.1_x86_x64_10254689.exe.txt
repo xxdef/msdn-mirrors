@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_community_2017_version_15.1_x86_x64_10254689.exe
+SHA1      = F5C7C769717940205B4140D7FAC4DB21C27DB90B
+文件大小  = 1,012.84KB
+发布时间  = 2017-04-05
+下载链接  = ed2k://|file|mu_visual_studio_community_2017_version_15.1_x86_x64_10254689.exe|1037144|12F5C162EAE5AFD0F69FD9182E3418CD|/

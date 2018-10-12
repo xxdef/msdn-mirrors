@@ -1,0 +1,5 @@
+文件名    = cs_hu_ko_no_pl_tr_disc_4_office_professional_2003_MUI_x86_cd.iso
+SHA1      = C3AB2284B83275335EE98100A1C6396F319D1C5B
+文件大小  = 557.3MB
+发布时间  = 2003-12-10
+下载链接  = ed2k://|file|cs_hu_ko_no_pl_tr_disc_4_office_professional_2003_MUI_x86_cd.iso|584374272|5D3B712574A08582B662ABE89482224F|/

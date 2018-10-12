@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_enterprise_15_preview_5_x86_x64_9409219.exe
+SHA1      = EF62172B0B8394BE9F1B52DB9986EF982209BBF1
+文件大小  = 994.03KB
+发布时间  = 2016-10-05
+下载链接  = ed2k://|file|mu_visual_studio_enterprise_15_preview_5_x86_x64_9409219.exe|1017888|80DDEBE8914561A1F420532A486EDB3C|/

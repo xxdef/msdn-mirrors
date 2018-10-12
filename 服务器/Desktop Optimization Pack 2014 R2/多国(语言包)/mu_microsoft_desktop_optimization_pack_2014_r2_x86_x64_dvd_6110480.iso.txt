@@ -1,0 +1,5 @@
+文件名    = mu_microsoft_desktop_optimization_pack_2014_r2_x86_x64_dvd_6110480.iso
+SHA1      = E0756A60610B128550DD1F4729A6FFA130E57C5D
+文件大小  = 2.13GB
+发布时间  = 2014-12-18
+下载链接  = ed2k://|file|mu_microsoft_desktop_optimization_pack_2014_r2_x86_x64_dvd_6110480.iso|2286940160|6BA3CEE42D7FBF85A2F8C3250F4A6AC7|/

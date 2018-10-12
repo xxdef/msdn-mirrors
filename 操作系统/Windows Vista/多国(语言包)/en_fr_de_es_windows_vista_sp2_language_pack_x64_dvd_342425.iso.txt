@@ -1,0 +1,5 @@
+文件名    = en_fr_de_es_windows_vista_sp2_language_pack_x64_dvd_342425.iso
+SHA1      = C9790D4EDD355B964D6EC140CB83E914549ABF16
+文件大小  = 1.12GB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|en_fr_de_es_windows_vista_sp2_language_pack_x64_dvd_342425.iso|1203122176|4E9411F3052B272A4B5D330AF30E4734|/

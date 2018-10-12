@@ -1,0 +1,5 @@
+文件名    = mu_team_foundation_server_2010_sp1_x86_x64_651711.exe
+SHA1      = 6132F7D2F0511632EF53ED9F0E96A614D8E2D095
+文件大小  = 476.85MB
+发布时间  = 2011-03-08
+下载链接  = ed2k://|file|mu_team_foundation_server_2010_sp1_x86_x64_651711.exe|500010856|7E4E0DB83BDD4C51B36A42AE66D42B40|/

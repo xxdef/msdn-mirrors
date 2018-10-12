@@ -1,0 +1,5 @@
+文件名    = mu_windows_7_and_windows_server_2008_r2_sp1_x86_x64_dvd_619642.iso
+SHA1      = F2ABA1102E18EAD08C78527AB422C09AB7D1F54C
+文件大小  = 1.91GB
+发布时间  = 2011-02-16
+下载链接  = ed2k://|file|mu_windows_7_and_windows_server_2008_r2_sp1_x86_x64_dvd_619642.iso|2048196608|D1D032D20568F9ED16F072075F4E9961|/

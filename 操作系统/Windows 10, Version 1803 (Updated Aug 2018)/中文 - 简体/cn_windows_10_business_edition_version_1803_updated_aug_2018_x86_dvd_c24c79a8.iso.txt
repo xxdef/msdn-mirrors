@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_business_edition_version_1803_updated_aug_2018_x86_dvd_c24c79a8.iso
+SHA1      = 809bbd9645c64757ae50da9d866315f03a4e8126
+文件大小  = 3.81GB
+发布时间  = 2018-08-22
+下载链接  = ed2k://|file|cn_windows_10_business_edition_version_1803_updated_aug_2018_x86_dvd_c24c79a8.iso|4087076864|558383556EB228A61222DAEDC150E054|/

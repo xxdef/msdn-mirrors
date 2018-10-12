@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2012_service_manager_with_sp1_x64_dvd_1348926.iso
+SHA1      = 05A9EFCCB3E9A369A219DD54646A0167FC576DD8
+文件大小  = 403.94MB
+发布时间  = 2012-12-10
+下载链接  = ed2k://|file|mu_system_center_2012_service_manager_with_sp1_x64_dvd_1348926.iso|423559168|9EBD988808AC468D012B0FEAB76DA991|/

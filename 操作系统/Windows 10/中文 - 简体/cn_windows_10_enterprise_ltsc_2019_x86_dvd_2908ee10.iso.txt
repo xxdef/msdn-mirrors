@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_enterprise_ltsc_2019_x86_dvd_2908ee10.iso
+SHA1      = 37cd47e5b0e28ace85672dc6731b58fe7539f84b
+文件大小  = 2.76GB
+发布时间  = 2018-10-03
+下载链接  = ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x86_dvd_2908ee10.iso|2958997504|1B7EA35E2D14D4A05DFCAA861634494C|/

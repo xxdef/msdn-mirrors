@@ -1,0 +1,5 @@
+文件名    = mu_system_center_2012_configuration_manager_and_endpoint_protection_with_sp1_x86_x64_dvd_1565907.iso
+SHA1      = AB930F8FC127D00C510A5FD73038CF16DCFD2290
+文件大小  = 904.38MB
+发布时间  = 2013-01-25
+下载链接  = ed2k://|file|mu_system_center_2012_configuration_manager_and_endpoint_protection_with_sp1_x86_x64_dvd_1565907.iso|948314112|82DC53B23EA2D1416BF58A1AC25D5C62|/

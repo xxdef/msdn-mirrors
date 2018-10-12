@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_enterprise_2017_version_15.1_x86_x64_10254674.exe
+SHA1      = 9B4D2553405F1E0830A64CCF05057AD753CEC457
+文件大小  = 1,012.82KB
+发布时间  = 2017-04-05
+下载链接  = ed2k://|file|mu_visual_studio_enterprise_2017_version_15.1_x86_x64_10254674.exe|1037128|DFAA6F079E844194B68DC9D5C345467B|/

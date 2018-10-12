@@ -1,0 +1,5 @@
+文件名    = en_windows_10_consumer_editions_version_1803_updated_march_2018_x64_dvd_12063379.iso
+SHA1      = 08fbb24627fa768f869c09f44c5d6c1e53a57a6f
+文件大小  = 4.37GB
+发布时间  = 2018-04-30
+下载链接  = ed2k://|file|en_windows_10_consumer_editions_version_1803_updated_march_2018_x64_dvd_12063379.iso|4692365312|E991C13EC003F6C98C8A6BD4364F806F|/

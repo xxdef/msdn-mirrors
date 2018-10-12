@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2016_developer_with_service_pack_2_x64_dvd_12195013.iso
+SHA1      = 1e85094cb131af738f882c7c6476e44e73ca7d90
+文件大小  = 3GB
+发布时间  = 2018-05-22
+下载链接  = ed2k://|file|cn_sql_server_2016_developer_with_service_pack_2_x64_dvd_12195013.iso|3217154048|AC379F2A852760E54316A2CDAEFCB42C|/

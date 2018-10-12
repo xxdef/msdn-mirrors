@@ -1,0 +1,5 @@
+文件名    = mu_windows_10_language_pack_version_1703_update_march_2017_x86_x64_dvd_10204769.iso
+SHA1      = 38D6C794CCCA5AF1D88B18F66EAEC22AF5211101
+文件大小  = 4.24GB
+发布时间  = 2017-04-05
+下载链接  = ed2k://|file|mu_windows_10_language_pack_version_1703_update_march_2017_x86_x64_dvd_10204769.iso|4557178880|457A0C689AF6E96D95F45FF939461CA4|/

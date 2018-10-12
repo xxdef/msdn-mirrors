@@ -1,0 +1,5 @@
+文件名    = mu_visual_cpp_redistributable_for_visual_studio_2015_update_1_x64_7277229.exe
+SHA1      = 9A19A51D1F40CD5CD5ECB6E4E4F978F18DA8212A
+文件大小  = 14.09MB
+发布时间  = 2015-11-30
+下载链接  = ed2k://|file|mu_visual_cpp_redistributable_for_visual_studio_2015_update_1_x64_7277229.exe|14773216|0A0E88269FD8D3D08DD8345B6B83040C|/
