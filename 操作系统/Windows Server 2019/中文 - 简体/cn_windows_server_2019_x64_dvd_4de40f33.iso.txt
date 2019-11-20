@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2019_x64_dvd_4de40f33.iso
+SHA1      = cfa339cdbb4a1a4162bed38218b88ee376867b4f
+文件大小  = 4.74GB
+发布时间  = 2018-11-16
+下载链接  = ed2k://|file|cn_windows_server_2019_x64_dvd_4de40f33.iso|5086887936|7DCDDD6B0C60A0D019B6A93D8F2B6D31|/

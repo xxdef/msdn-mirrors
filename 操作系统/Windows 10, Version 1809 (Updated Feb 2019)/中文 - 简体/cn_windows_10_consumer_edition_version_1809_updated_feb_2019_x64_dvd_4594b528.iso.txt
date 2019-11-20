@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_consumer_edition_version_1809_updated_feb_2019_x64_dvd_4594b528.iso
+SHA1      = 610acc8c8f9a355b8623d151be23b44e313551c1
+文件大小  = 4.95GB
+发布时间  = 2019-02-20
+下载链接  = ed2k://|file|cn_windows_10_consumer_edition_version_1809_updated_feb_2019_x64_dvd_4594b528.iso|5314138112|00759ED30EC13683204933C5925E16A0|/

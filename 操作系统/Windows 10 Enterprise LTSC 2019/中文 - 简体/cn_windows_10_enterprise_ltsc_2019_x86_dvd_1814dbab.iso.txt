@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.iso
+SHA1      = ba2169edd94f123211cd4aaca68352f1ab6195d9
+文件大小  = 2.98GB
+发布时间  = 2019-03-15
+下载链接  = ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.iso|3196803072|2D39C54A2E99BAC308191C74A15B3237|/

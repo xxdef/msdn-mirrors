@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_business_editions_version_1809_updated_dec_2018_x64_dvd_f5563b4e.iso
+SHA1      = e67d8aaeb8e64c611e66e12c030039d4a37fd347
+文件大小  = 4.9GB
+发布时间  = 2018-12-19
+下载链接  = ed2k://|file|cn_windows_10_business_editions_version_1809_updated_dec_2018_x64_dvd_f5563b4e.iso|5260294144|26EBE9B49E3900EFABD5752FF63A17FC|/

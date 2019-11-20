@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_consumer_edition_version_1809_updated_sept_2018_x64_dvd_f7b9c8a9.iso
+SHA1      = 81766e9fe5793e8781c5336e513ebceedd2f7b90
+文件大小  = 4.74GB
+发布时间  = 2018-11-16
+下载链接  = ed2k://|file|cn_windows_10_consumer_edition_version_1809_updated_sept_2018_x64_dvd_f7b9c8a9.iso|5085956096|226AB51B290C3C0393A6A17096CB7497|/

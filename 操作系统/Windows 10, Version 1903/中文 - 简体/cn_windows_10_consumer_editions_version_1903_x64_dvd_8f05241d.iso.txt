@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_consumer_editions_version_1903_x64_dvd_8f05241d.iso
+SHA1      = cf1e64128585b6ddf7cc53d91758d7b0f836b863
+文件大小  = 4.57GB
+发布时间  = 2019-04-19
+下载链接  = ed2k://|file|cn_windows_10_consumer_editions_version_1903_x64_dvd_8f05241d.iso|4905476096|F28FDC23DA34D55BA466BFD6E91DD311|/

@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_business_edition_version_1809_updated_april_2019_x64_dvd_1194d215.iso
+SHA1      = b9cb2e0818bea06334acc7764ccae158dc3c9d94
+文件大小  = 4.94GB
+发布时间  = 2019-04-17
+下载链接  = ed2k://|file|cn_windows_10_business_edition_version_1809_updated_april_2019_x64_dvd_1194d215.iso|5302775808|88197D530DCA8AA1E1892AC394E88285|/

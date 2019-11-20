@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_consumer_editions_version_1903_updated_july_2019_x86_dvd_3995e09a.iso
+SHA1      = cb13fa78fc8a3036245e3d84a427885e52237a98
+文件大小  = 3.52GB
+发布时间  = 2019-07-16
+下载链接  = ed2k://|file|cn_windows_10_consumer_editions_version_1903_updated_july_2019_x86_dvd_3995e09a.iso|3781146624|F48A0E973223A3DFA99A1F9A83C3394F|/

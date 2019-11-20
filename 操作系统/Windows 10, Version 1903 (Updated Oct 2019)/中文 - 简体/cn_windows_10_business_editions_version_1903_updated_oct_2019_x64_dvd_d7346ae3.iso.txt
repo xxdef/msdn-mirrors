@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_business_editions_version_1903_updated_oct_2019_x64_dvd_d7346ae3.iso
+SHA1      = 172ac08743a6f18f1bbe2350cef5fbf836324338
+文件大小  = 4.91GB
+发布时间  = 2019-10-21
+下载链接  = ed2k://|file|cn_windows_10_business_editions_version_1903_updated_oct_2019_x64_dvd_d7346ae3.iso|5275852800|6F12F5EA9E3B7BD1C5412121CDB8BCDC|/

@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_business_edition_version_1803_updated_march_2019_x86_dvd_fc8b74ee.iso
+SHA1      = 5e5f495d74a12cfac48a421d87bce6cd9b03ceff
+文件大小  = 3.88GB
+发布时间  = 2019-03-20
+下载链接  = ed2k://|file|cn_windows_10_business_edition_version_1803_updated_march_2019_x86_dvd_fc8b74ee.iso|4165126144|9AB1E772B95939A78F1D275058402A3D|/

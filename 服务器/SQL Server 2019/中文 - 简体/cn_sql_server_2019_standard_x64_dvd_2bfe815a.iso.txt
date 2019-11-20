@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2019_standard_x64_dvd_2bfe815a.iso
+SHA1      = b829950c88a12a7382a170a73895869593558039
+文件大小  = 1.52GB
+发布时间  = 2019-11-04
+下载链接  = ed2k://|file|cn_sql_server_2019_standard_x64_dvd_2bfe815a.iso|1632086016|893DBEF7DDA20592405163E69E12DF40|/

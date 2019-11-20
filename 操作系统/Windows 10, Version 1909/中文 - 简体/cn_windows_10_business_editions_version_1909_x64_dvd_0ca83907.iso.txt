@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_business_editions_version_1909_x64_dvd_0ca83907.iso
+SHA1      = a153526cdd406a249a93f30b447b259fed560c1d
+文件大小  = 4.91GB
+发布时间  = 2019-10-16
+下载链接  = ed2k://|file|cn_windows_10_business_editions_version_1909_x64_dvd_0ca83907.iso|5275090944|9BCD5FA6C8009E4D0260E4B23008BD47|/

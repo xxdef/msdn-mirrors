@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2019_essentials_x64_dvd_5b386b0b.iso
+SHA1      = 22e925c2abd130bdf79204e8d095a23579697a71
+文件大小  = 4.5GB
+发布时间  = 2018-11-16
+下载链接  = ed2k://|file|cn_windows_server_2019_essentials_x64_dvd_5b386b0b.iso|4836911104|CBA4E3F0C66107AD6B64E4DA077D004F|/

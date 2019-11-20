@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_consumer_edition_version_1809_updated_may_2019_x64_dvd_41feed2f.iso
+SHA1      = 3471fbd6eb03cc63e438006823c83743811693b2
+文件大小  = 5.07GB
+发布时间  = 2019-05-27
+下载链接  = ed2k://|file|cn_windows_10_consumer_edition_version_1809_updated_may_2019_x64_dvd_41feed2f.iso|5449197568|69EA84CB1B86F67A7CA83C4C5E323247|/

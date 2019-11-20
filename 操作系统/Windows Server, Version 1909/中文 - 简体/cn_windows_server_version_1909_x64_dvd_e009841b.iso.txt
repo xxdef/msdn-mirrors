@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_version_1909_x64_dvd_e009841b.iso
+SHA1      = 7cd44a8d1714a04a8600e2c8da94b0d54e3e187f
+文件大小  = 3.42GB
+发布时间  = 2019-10-16
+下载链接  = ed2k://|file|cn_windows_server_version_1909_x64_dvd_e009841b.iso|3672758272|B8F46D309F267F03B266EFB17E89779F|/

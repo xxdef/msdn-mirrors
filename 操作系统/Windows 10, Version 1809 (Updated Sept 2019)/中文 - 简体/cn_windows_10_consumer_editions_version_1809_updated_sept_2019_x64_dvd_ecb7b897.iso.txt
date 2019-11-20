@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_consumer_editions_version_1809_updated_sept_2019_x64_dvd_ecb7b897.iso
+SHA1      = 86bb431c68f38aeecaf925c8c42d130f5e747c02
+文件大小  = 5.19GB
+发布时间  = 2019-09-17
+下载链接  = ed2k://|file|cn_windows_10_consumer_editions_version_1809_updated_sept_2019_x64_dvd_ecb7b897.iso|5571874816|915CADD0234B759920255AA8CC5984FB|/

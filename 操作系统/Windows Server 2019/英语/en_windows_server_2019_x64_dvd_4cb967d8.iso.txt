@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2019_x64_dvd_4cb967d8.iso
+SHA1      = 2047f4e9fe2894f138395f3fac037c007dd1493e
+文件大小  = 4.51GB
+发布时间  = 2018-11-16
+下载链接  = ed2k://|file|en_windows_server_2019_x64_dvd_4cb967d8.iso|4843268096|91EF33D18517C2711517A84F14463072|/

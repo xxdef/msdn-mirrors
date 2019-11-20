@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_consumer_edition_version_1809_updated_june_2019_x64_dvd_f602d2bf.iso
+SHA1      = aae1ecc9047ee5d1f0cac6450ff35b0db9f8c8c3
+文件大小  = 5.09GB
+发布时间  = 2019-06-19
+下载链接  = ed2k://|file|cn_windows_10_consumer_edition_version_1809_updated_june_2019_x64_dvd_f602d2bf.iso|5464420352|6361056E595732B7647B52CAA4C4547A|/

@@ -1,0 +1,5 @@
+文件名    = cn_sql_server_2019_developer_x64_dvd_c21035cc.iso
+SHA1      = f7ebfc90363c5df9b7cbbac53f83ce408e3d3e87
+文件大小  = 1.52GB
+发布时间  = 2019-11-04
+下载链接  = ed2k://|file|cn_sql_server_2019_developer_x64_dvd_c21035cc.iso|1632086016|7AFACB434CF9716CA7818F39F06BE0F5|/

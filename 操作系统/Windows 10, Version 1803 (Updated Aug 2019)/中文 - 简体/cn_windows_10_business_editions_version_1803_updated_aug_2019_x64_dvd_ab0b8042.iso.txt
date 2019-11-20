@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_business_editions_version_1803_updated_aug_2019_x64_dvd_ab0b8042.iso
+SHA1      = 5510bf382dfca3e51f92070aab8e3931a0b624f3
+文件大小  = 4.98GB
+发布时间  = 2019-08-21
+下载链接  = ed2k://|file|cn_windows_10_business_editions_version_1803_updated_aug_2019_x64_dvd_ab0b8042.iso|5344022528|11388C78F25F84AE7F309E9B001BA538|/

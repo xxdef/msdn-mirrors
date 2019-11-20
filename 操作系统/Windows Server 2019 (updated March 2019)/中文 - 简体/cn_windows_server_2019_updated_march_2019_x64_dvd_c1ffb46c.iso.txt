@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2019_updated_march_2019_x64_dvd_c1ffb46c.iso
+SHA1      = 1198eccdd944e49a8b981fb2c436c36a5b3ed301
+文件大小  = 4.98GB
+发布时间  = 2019-03-29
+下载链接  = ed2k://|file|cn_windows_server_2019_updated_march_2019_x64_dvd_c1ffb46c.iso|5347280896|49FCF8C558517608537E0396854560D6|/

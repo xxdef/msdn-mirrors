@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_business_edition_version_1809_updated_sept_2018_arm64_dvd_104983b1.iso
+SHA1      = 0406d5e05d6438cc2a532378d0c93cb54e32beed
+文件大小  = 4GB
+发布时间  = 2018-11-16
+下载链接  = ed2k://|file|cn_windows_10_business_edition_version_1809_updated_sept_2018_arm64_dvd_104983b1.iso|4298262528|FE2D82693ECB2DC2804299A13DC570D5|/
