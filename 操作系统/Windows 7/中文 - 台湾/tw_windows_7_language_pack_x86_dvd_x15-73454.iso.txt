@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_language_pack_x86_dvd_x15-73454.iso
+SHA1      = 4A9F997BDC5DDBDF0CFF95AA1612133BF2EDBD16
+文件大小  = 106.76MB
+发布时间  = 2009-08-06
+下载链接  = ed2k://|file|tw_windows_7_language_pack_x86_dvd_x15-73454.iso|111949824|CA50E73DC8D82DF7F4A45394328D2E7D|/

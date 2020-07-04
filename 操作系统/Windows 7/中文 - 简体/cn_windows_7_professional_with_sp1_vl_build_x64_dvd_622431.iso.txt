@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_professional_with_sp1_vl_build_x64_dvd_622431.iso
+SHA1      = C2BEAC6955851BB4BBC0DEAE32C2C85763369E0D
+文件大小  = 3.04GB
+发布时间  = 2011-02-21
+下载链接  = ed2k://|file|cn_windows_7_professional_with_sp1_vl_build_x64_dvd_622431.iso|3264618496|B4BBA4C9AAB04524A542298DDEDB81E9|/

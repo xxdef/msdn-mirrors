@@ -1,0 +1,5 @@
+文件名    = en_windows_7_ultimate_with_sp1_x64_dvd_618240.iso
+SHA1      = 1693B6CB50B90D96FC3C04E4329604FEBA88CD51
+文件大小  = 3.09GB
+发布时间  = 2011-02-16
+下载链接  = ed2k://|file|en_windows_7_ultimate_with_sp1_x64_dvd_618240.iso|3319478272|004498E6851D90B5E025049604942C86|/

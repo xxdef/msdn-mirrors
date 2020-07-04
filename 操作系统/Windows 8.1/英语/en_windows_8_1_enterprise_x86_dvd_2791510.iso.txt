@@ -1,0 +1,5 @@
+文件名    = en_windows_8_1_enterprise_x86_dvd_2791510.iso
+SHA1      = 87DBCDB8491DBEF1BBC14BE8AB599086789E143C
+文件大小  = 2.63GB
+发布时间  = 2013-09-18
+下载链接  = ed2k://|file|en_windows_8_1_enterprise_x86_dvd_2791510.iso|2828421120|1FC2F013BE4BD21833625003344480CF|/

@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_professional_with_sp1_x64_dvd_621744.iso
+SHA1      = BD12A9DF4EF2960B1919AD0048B81380B679194E
+文件大小  = 3.18GB
+发布时间  = 2011-02-21
+下载链接  = ed2k://|file|cn_windows_7_professional_with_sp1_x64_dvd_621744.iso|3419052032|A14DCBDA295966DC95B74250595961AB|/

@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_version_1909_updated_jan_2020_x64_dvd_cd782fbe.iso
+SHA1      = 9fda0246532bab27ac94fe2cc5f93bf36a6c08b0
+文件大小  = 3.46GB
+发布时间  = 2020-01-21
+下载链接  = ed2k://|file|cn_windows_server_version_1909_updated_jan_2020_x64_dvd_cd782fbe.iso|3717591040|E2D65C84F4B3ECF04FAC470F522C278D|/

@@ -1,0 +1,5 @@
+文件名    = mu_.net_framework_4.5_x86_x64_921021.exe
+SHA1      = CD57380514DC157DF75A09D3E54C96D1DF3DF51A
+文件大小  = 48.02MB
+发布时间  = 2012-08-15
+下载链接  = ed2k://|file|mu_.net_framework_4.5_x86_x64_921021.exe|50349920|8901EC90D8123EDAA17E2CD747EBC668|/

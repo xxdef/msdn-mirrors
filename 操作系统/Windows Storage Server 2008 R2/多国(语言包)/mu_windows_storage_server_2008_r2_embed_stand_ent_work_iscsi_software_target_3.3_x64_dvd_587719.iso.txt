@@ -1,0 +1,5 @@
+文件名    = mu_windows_storage_server_2008_r2_embed_stand_ent_work_iscsi_software_target_3.3_x64_dvd_587719.iso
+SHA1      = CAC10773B6DD63FD397F5F00252B252CAF70EE40
+文件大小  = 946.91MB
+发布时间  = 2010-09-27
+下载链接  = ed2k://|file|mu_windows_storage_server_2008_r2_embed_stand_ent_work_iscsi_software_target_3.3_x64_dvd_587719.iso|992907264|61BF7398D44D7524E154261874CD81EC|/

@@ -1,0 +1,5 @@
+文件名    = cn_office_standard_2010_with_sp1_x86_x64_dvd_731077.iso
+SHA1      = A23CCCBB74C02E44239C0EF6FDFFB3F9E76E2A73
+文件大小  = 2.45GB
+发布时间  = 2011-09-20
+下载链接  = ed2k://|file|cn_office_standard_2010_with_sp1_x86_x64_dvd_731077.iso|2628749312|38672C85E63F1DE8D00B5867CBE97CB9|/

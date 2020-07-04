@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_professional_with_sp1_x86_dvd_622569.iso
+SHA1      = AC125D0D1B3BCECE24BB7711F09DE89D1D5F4494
+文件大小  = 2.47GB
+发布时间  = 2011-02-21
+下载链接  = ed2k://|file|cn_windows_7_professional_with_sp1_x86_dvd_622569.iso|2651877376|56C4B513A6109715CD2BEBFBA80370A0|/

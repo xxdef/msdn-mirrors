@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_enterprise_with_sp1_x64_dvd_620654.iso
+SHA1      = 37AA1CA36E6F6FC317E7B278A391A942594DCB5A
+文件大小  = 3.04GB
+发布时间  = 2011-02-21
+下载链接  = ed2k://|file|cn_windows_7_enterprise_with_sp1_x64_dvd_620654.iso|3264206848|FAEF3BD4D9AF6C529533CA6468E1911E|/

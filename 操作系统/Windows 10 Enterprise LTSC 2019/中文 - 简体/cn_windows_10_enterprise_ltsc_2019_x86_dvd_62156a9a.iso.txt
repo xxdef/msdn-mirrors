@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_enterprise_ltsc_2019_x86_dvd_62156a9a.iso
+SHA1      = fbfeabde20b6f49aa0c7f8fd62a5ba029505f36f
+文件大小  = 2.88GB
+发布时间  = 2018-11-16
+下载链接  = ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x86_dvd_62156a9a.iso|3095267328|8C81DB85E8D1B0E431CFEB12CDBBF745|/

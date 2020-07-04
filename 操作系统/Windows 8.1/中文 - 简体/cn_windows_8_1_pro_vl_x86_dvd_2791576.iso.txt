@@ -1,0 +1,5 @@
+文件名    = cn_windows_8_1_pro_vl_x86_dvd_2791576.iso
+SHA1      = 980CF431FF34A8A7C69DDEFE112FAE87F1CC1BA4
+文件大小  = 2.76GB
+发布时间  = 2013-09-18
+下载链接  = ed2k://|file|cn_windows_8_1_pro_vl_x86_dvd_2791576.iso|2966419456|18A14F373C8D9C7710D348F9F6BE8687|/

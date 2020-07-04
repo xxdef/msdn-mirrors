@@ -1,0 +1,5 @@
+文件名    = en_windows_8.1_with_update_x86_dvd_4065105.iso
+SHA1      = 54B8572556B316A6BECE54C5033564E3296F5951
+文件大小  = 2.86GB
+发布时间  = 2014-04-02
+下载链接  = ed2k://|file|en_windows_8.1_with_update_x86_dvd_4065105.iso|3076220928|A5BF500F7739E8052E75D2365119DC11|/

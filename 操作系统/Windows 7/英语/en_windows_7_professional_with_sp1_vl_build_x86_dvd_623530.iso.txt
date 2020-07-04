@@ -1,0 +1,5 @@
+文件名    = en_windows_7_professional_with_sp1_vl_build_x86_dvd_623530.iso
+SHA1      = 85E9767CD50C6083160393F85CB2C4156CD9348D
+文件大小  = 2.27GB
+发布时间  = 2011-02-16
+下载链接  = ed2k://|file|en_windows_7_professional_with_sp1_vl_build_x86_dvd_623530.iso|2433216512|48B7948A7BCA2CB56795F03332811FCD|/

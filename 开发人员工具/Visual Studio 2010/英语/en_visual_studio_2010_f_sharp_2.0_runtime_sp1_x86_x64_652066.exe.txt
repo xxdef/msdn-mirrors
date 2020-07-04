@@ -1,0 +1,5 @@
+文件名    = en_visual_studio_2010_f_sharp_2.0_runtime_sp1_x86_x64_652066.exe
+SHA1      = 5397A730C8E35BE2C20EB327AE624760378D6525
+文件大小  = 1.16MB
+发布时间  = 2011-03-08
+下载链接  = ed2k://|file|en_visual_studio_2010_f_sharp_2.0_runtime_sp1_x86_x64_652066.exe|1214808|D2928FFA8A020F6896D0297D7E919BB3|/

@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2016_x64_dvd_9327743.iso
+SHA1      = 0F501D89DFCE75C63D24A3820DC19D5AC0040F80
+文件大小  = 5.61GB
+发布时间  = 2016-10-12
+下载链接  = ed2k://|file|cn_windows_server_2016_x64_dvd_9327743.iso|6020876288|58F585A340248EF7603A48F832F08B6D|/

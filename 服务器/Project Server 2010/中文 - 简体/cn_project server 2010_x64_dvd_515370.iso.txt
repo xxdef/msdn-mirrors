@@ -1,0 +1,5 @@
+文件名    = cn_project server 2010_x64_dvd_515370.iso
+SHA1      = 4296BAAFB49B52BE7D7D73BD2BE794BDBF3B23AC
+文件大小  = 64.53MB
+发布时间  = 2010-05-03
+下载链接  = ed2k://|file|cn_project server 2010_x64_dvd_515370.iso|67661824|C3D9B15FE674699C565F38B732819ADA|/

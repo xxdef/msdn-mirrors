@@ -1,0 +1,5 @@
+文件名    = cn_windows_server_2012_r2_with_update_x64_dvd_4048415.iso
+SHA1      = 8F10E6560122ABD08CA74B9D64242D3390D7602A
+文件大小  = 4.36GB
+发布时间  = 2014-04-08
+下载链接  = ed2k://|file|cn_windows_server_2012_r2_with_update_x64_dvd_4048415.iso|4684855296|338AA51AF8EF1B9895F17B5FE7636DE6|/

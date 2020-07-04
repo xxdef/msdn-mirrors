@@ -1,0 +1,5 @@
+文件名    = en_windows_vista_sp2_x86_dvd_342266.iso
+SHA1      = 25AD9A776503E6A583BEC07879DBCC5DFD20CD6E
+文件大小  = 3.02GB
+发布时间  = 2009-05-11
+下载链接  = ed2k://|file|en_windows_vista_sp2_x86_dvd_342266.iso|3243413504|3F8BA2A08B9AF5E49B361294348E90FA|/

@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_enterprise_2017_rc_x86_x64_9684243.exe
+SHA1      = 3D9753C47A6811817E17B8990F8C796A70AFB631
+文件大小  = 842.29KB
+发布时间  = 2016-12-12
+下载链接  = ed2k://|file|mu_visual_studio_enterprise_2017_rc_x86_x64_9684243.exe|862504|EF139B0E56849E37F460938F8548BA99|/

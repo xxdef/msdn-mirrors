@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_enterprise_2015_with_update_1_x86_x64_dvd_7288424.iso
+SHA1      = 5E56E9F562C8D2D837475FB922C2AD0BD7B9297B
+文件大小  = 5.93GB
+发布时间  = 2015-11-30
+下载链接  = ed2k://|file|cn_visual_studio_enterprise_2015_with_update_1_x86_x64_dvd_7288424.iso|6366318592|7103E61324B2ECB3D95F442250D85FFF|/

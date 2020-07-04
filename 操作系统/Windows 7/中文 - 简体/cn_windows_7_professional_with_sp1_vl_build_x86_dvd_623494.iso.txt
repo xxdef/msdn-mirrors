@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_professional_with_sp1_vl_build_x86_dvd_623494.iso
+SHA1      = 2D5127FB53B21DC35F4455E87FF1BE52D48B6D57
+文件大小  = 2.33GB
+发布时间  = 2011-02-21
+下载链接  = ed2k://|file|cn_windows_7_professional_with_sp1_vl_build_x86_dvd_623494.iso|2501564416|59D4D471E0A3A5AA786FC55B26FFF0D7|/

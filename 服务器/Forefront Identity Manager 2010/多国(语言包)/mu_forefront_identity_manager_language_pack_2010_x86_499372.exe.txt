@@ -1,0 +1,5 @@
+文件名    = mu_forefront_identity_manager_language_pack_2010_x86_499372.exe
+SHA1      = 0E2CE00A49C69A4B2C0A48B8D1992DF9705FBBFB
+文件大小  = 51.97MB
+发布时间  = 2010-03-03
+下载链接  = ed2k://|file|mu_forefront_identity_manager_language_pack_2010_x86_499372.exe|54498712|FDF2D2E3FD44ABB48AB5F18DA2236BC7|/

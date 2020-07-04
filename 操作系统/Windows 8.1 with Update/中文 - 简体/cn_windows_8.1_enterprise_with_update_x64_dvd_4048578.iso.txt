@@ -1,0 +1,5 @@
+文件名    = cn_windows_8.1_enterprise_with_update_x64_dvd_4048578.iso
+SHA1      = 2D9BFE965AE0206860EFFA23C2E6C7FAE1241303
+文件大小  = 3.86GB
+发布时间  = 2014-04-08
+下载链接  = ed2k://|file|cn_windows_8.1_enterprise_with_update_x64_dvd_4048578.iso|4140781568|8A3E13590D8A6EDF259574CB797FC75E|/

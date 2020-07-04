@@ -1,0 +1,5 @@
+文件名    = en_asp_net _mvc_2_x86_x64.exe
+SHA1      = 408867C14701C5AEEDFB916D5B8A71EC9A1D42AD
+文件大小  = 2.49MB
+发布时间  = 2013-03-01
+下载链接  = ed2k://|file|en_asp_net _mvc_2_x86_x64.exe|2614096|B3F9D801649BCBD479E45C676FC15A92|/

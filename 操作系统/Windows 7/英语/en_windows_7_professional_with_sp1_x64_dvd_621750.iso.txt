@@ -1,0 +1,5 @@
+文件名    = en_windows_7_professional_with_sp1_x64_dvd_621750.iso
+SHA1      = 5ED2584110E03F498DB4458BA9FAFD5A7EF602ED
+文件大小  = 3.09GB
+发布时间  = 2011-02-16
+下载链接  = ed2k://|file|en_windows_7_professional_with_sp1_x64_dvd_621750.iso|3319478272|B84DB34D00211AF704F1EB09A8CF6921|/

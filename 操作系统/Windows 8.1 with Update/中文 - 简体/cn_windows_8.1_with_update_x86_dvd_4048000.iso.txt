@@ -1,0 +1,5 @@
+文件名    = cn_windows_8.1_with_update_x86_dvd_4048000.iso
+SHA1      = 1AE3D04309885ED258981310CE90E3DA67B7D9B1
+文件大小  = 2.99GB
+发布时间  = 2014-04-08
+下载链接  = ed2k://|file|cn_windows_8.1_with_update_x86_dvd_4048000.iso|3215685632|C5F005E4F2D52AEB6CB9E0037454E03E|/

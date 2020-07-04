@@ -1,0 +1,5 @@
+文件名    = ct_visual_studio_2010_f#_2.0_runtime_sp1_x86_x64_langpack_652089.exe
+SHA1      = 9E79CBA74C971D6111C6CD603E7EC2D7CFDCE097
+文件大小  = 365.84KB
+发布时间  = 2011-03-08
+下载链接  = ed2k://|file|ct_visual_studio_2010_f#_2.0_runtime_sp1_x86_x64_langpack_652089.exe|374624|800636ED490A283C163EDC2F7440C20D|/

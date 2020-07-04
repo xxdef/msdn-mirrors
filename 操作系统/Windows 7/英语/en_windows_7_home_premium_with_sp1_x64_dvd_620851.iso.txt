@@ -1,0 +1,5 @@
+文件名    = en_windows_7_home_premium_with_sp1_x64_dvd_620851.iso
+SHA1      = B4821F46A171708F5F8F8A0EF48FC16529437961
+文件大小  = 3.09GB
+发布时间  = 2011-02-16
+下载链接  = ed2k://|file|en_windows_7_home_premium_with_sp1_x64_dvd_620851.iso|3319478272|A6C07AFAC9205B36E6ED99538211C5B2|/

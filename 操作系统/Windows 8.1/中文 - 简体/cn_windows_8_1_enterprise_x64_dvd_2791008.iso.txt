@@ -1,0 +1,5 @@
+文件名    = cn_windows_8_1_enterprise_x64_dvd_2791008.iso
+SHA1      = 665F4830BB7D377EBF7DE5C8C411A769350ED454
+文件大小  = 3.7GB
+发布时间  = 2013-09-18
+下载链接  = ed2k://|file|cn_windows_8_1_enterprise_x64_dvd_2791008.iso|3973625856|E5733D22528927D21F308D9ACE39F484|/

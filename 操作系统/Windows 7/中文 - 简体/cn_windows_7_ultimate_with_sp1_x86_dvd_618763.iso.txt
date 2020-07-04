@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_ultimate_with_sp1_x86_dvd_618763.iso
+SHA1      = A94623A6B572541157B63FFD9C0495ED47BE792A
+文件大小  = 2.47GB
+发布时间  = 2011-02-21
+下载链接  = ed2k://|file|cn_windows_7_ultimate_with_sp1_x86_dvd_618763.iso|2651877376|D6A0D9FDB8C67A65B92B4C1AC197109C|/

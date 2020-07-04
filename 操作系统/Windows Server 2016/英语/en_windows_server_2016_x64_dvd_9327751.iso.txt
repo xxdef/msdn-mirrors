@@ -1,0 +1,5 @@
+文件名    = en_windows_server_2016_x64_dvd_9327751.iso
+SHA1      = 7E33DF150CB4D1FE3503E23433A1867DDD79A6EE
+文件大小  = 5.27GB
+发布时间  = 2016-10-12
+下载链接  = ed2k://|file|en_windows_server_2016_x64_dvd_9327751.iso|5653628928|42577560D68291A165EE005FFB428CEB|/

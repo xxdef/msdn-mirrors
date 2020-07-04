@@ -1,0 +1,5 @@
+文件名    = cn_windows_8.1_with_update_x64_dvd_4048046.iso
+SHA1      = F44B2BBD1F6F243DAAE172FA8C1DB342CB98EDAA
+文件大小  = 4GB
+发布时间  = 2014-04-08
+下载链接  = ed2k://|file|cn_windows_8.1_with_update_x64_dvd_4048046.iso|4298139648|541A9F2BAF8CD7AA0DBCEACD378320B5|/

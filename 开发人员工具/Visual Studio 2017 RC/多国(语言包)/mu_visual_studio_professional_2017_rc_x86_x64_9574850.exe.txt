@@ -1,0 +1,5 @@
+文件名    = mu_visual_studio_professional_2017_rc_x86_x64_9574850.exe
+SHA1      = 73763A7C1D6DF4E75C1C42A81409DA26F4184E87
+文件大小  = 837.54KB
+发布时间  = 2016-11-16
+下载链接  = ed2k://|file|mu_visual_studio_professional_2017_rc_x86_x64_9574850.exe|857640|B4018433BC22E356799C274D07836C4C|/

@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_starter_with_sp1_x86_dvd_624050.iso
+SHA1      = 6F5556ABBEFD828C22AEBBF9FBC15E2E3773F999
+文件大小  = 2.47GB
+发布时间  = 2011-02-21
+下载链接  = ed2k://|file|cn_windows_7_starter_with_sp1_x86_dvd_624050.iso|2651877376|47588C006F1FC712080A6185044AB156|/

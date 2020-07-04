@@ -1,0 +1,5 @@
+文件名    = tw_windows_7_ultimate_with_sp1_x64_dvd_618550.iso
+SHA1      = B020534C13B7BC7DB849FDABEC1BDB82C75514A1
+文件大小  = 3.16GB
+发布时间  = 2011-02-22
+下载链接  = ed2k://|file|tw_windows_7_ultimate_with_sp1_x64_dvd_618550.iso|3394678784|27E8BF66767E60C10D831B053D93649F|/

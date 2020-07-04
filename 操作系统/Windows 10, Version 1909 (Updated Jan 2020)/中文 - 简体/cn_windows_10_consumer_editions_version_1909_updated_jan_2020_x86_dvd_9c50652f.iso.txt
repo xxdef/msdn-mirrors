@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_consumer_editions_version_1909_updated_jan_2020_x86_dvd_9c50652f.iso
+SHA1      = a9c69b69091f232cf789968bb2363874aa56265b
+文件大小  = 3.62GB
+发布时间  = 2020-01-21
+下载链接  = ed2k://|file|cn_windows_10_consumer_editions_version_1909_updated_jan_2020_x86_dvd_9c50652f.iso|3884539904|0F2E887F2845BCD5C61E99E74D717287|/

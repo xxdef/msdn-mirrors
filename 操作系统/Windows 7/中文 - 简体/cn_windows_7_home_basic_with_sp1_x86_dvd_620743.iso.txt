@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_home_basic_with_sp1_x86_dvd_620743.iso
+SHA1      = A5E7B9238FE12DFD7DC6159E2AA92A690C366B12
+文件大小  = 2.47GB
+发布时间  = 2011-02-21
+下载链接  = ed2k://|file|cn_windows_7_home_basic_with_sp1_x86_dvd_620743.iso|2651877376|FA334A8DA440C880A34553F2E7CCF9B1|/

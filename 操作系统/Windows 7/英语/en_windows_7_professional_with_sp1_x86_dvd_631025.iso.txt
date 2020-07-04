@@ -1,0 +1,5 @@
+文件名    = en_windows_7_professional_with_sp1_x86_dvd_631025.iso
+SHA1      = 917A542B0541054BB9C2A06A11A46AED6943856B
+文件大小  = 2.39GB
+发布时间  = 2011-02-16
+下载链接  = ed2k://|file|en_windows_7_professional_with_sp1_x86_dvd_631025.iso|2563039232|70DB0BC59EB7B6763DD352535015A618|/

@@ -1,0 +1,5 @@
+文件名    = en_windows_8.1_with_update_x64_dvd_4065090.iso
+SHA1      = 4652DC6EBFEBE02C6A63E167C36E3FAEDFB93999
+文件大小  = 3.83GB
+发布时间  = 2014-04-02
+下载链接  = ed2k://|file|en_windows_8.1_with_update_x64_dvd_4065090.iso|4115013632|8ED6272AAE321628AF6A16AA12CE63C8|/

@@ -1,0 +1,5 @@
+文件名    = cn_visual_studio_2010_f_sharp_2.0_runtime_sp1_x86_x64_langpack_652084.exe
+SHA1      = D5B5744B076A5B8F6D29BEFEF7B7B0C312440CBD
+文件大小  = 364.84KB
+发布时间  = 2011-03-08
+下载链接  = ed2k://|file|cn_visual_studio_2010_f_sharp_2.0_runtime_sp1_x86_x64_langpack_652084.exe|373600|5BAEC413F16F2EAA7F7B1799F79196DF|/

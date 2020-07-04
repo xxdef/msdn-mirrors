@@ -1,0 +1,5 @@
+文件名    = cn_windows_7_home_premium_with_sp1_x86_dvd_620856.iso
+SHA1      = 56903FDA27100BF8AC196D2C829315884EF47E43
+文件大小  = 2.47GB
+发布时间  = 2011-02-21
+下载链接  = ed2k://|file|cn_windows_7_home_premium_with_sp1_x86_dvd_620856.iso|2651877376|F0DCDB42A6A3F16C68898A6834521E47|/

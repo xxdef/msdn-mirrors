@@ -1,0 +1,5 @@
+文件名    = mu_windows_vista_with_service_pack_1_global_language_pack_x86_dvd_x14-55142.iso
+SHA1      = CBF3340315A71A26BA2D26478B418908A0DF4677
+文件大小  = 1.58GB
+发布时间  = 2008-06-10
+下载链接  = ed2k://|file|mu_windows_vista_with_service_pack_1_global_language_pack_x86_dvd_x14-55142.iso|1694156800|9A3F5CA316BF9F30E5FE2CFDA83518DF|/

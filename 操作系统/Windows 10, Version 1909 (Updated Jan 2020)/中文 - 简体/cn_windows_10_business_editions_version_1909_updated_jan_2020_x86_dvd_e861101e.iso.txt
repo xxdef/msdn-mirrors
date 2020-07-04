@@ -1,0 +1,5 @@
+文件名    = cn_windows_10_business_editions_version_1909_updated_jan_2020_x86_dvd_e861101e.iso
+SHA1      = 0bc78eb8b9b114ecbbf2552ee0b0701d7178bae4
+文件大小  = 3.54GB
+发布时间  = 2020-01-21
+下载链接  = ed2k://|file|cn_windows_10_business_editions_version_1909_updated_jan_2020_x86_dvd_e861101e.iso|3802454016|5B909C955D8A65CA2002D8594D137A63|/
